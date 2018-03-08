@@ -1,0 +1,44 @@
+[2/14/18 11:39PM]	Login from host 208.103.66.75	
+[2/14/18 11:39PM]	Tu Tu used command ::[FRI]Daking | Player rights = PLAYER	
+[2/14/18 11:40PM]	Tu Tu used command ::train | Player rights = PLAYER	
+[2/14/18 11:42PM]	Tu Tu used command ::train | Player rights = PLAYER	
+[2/14/18 11:43PM]	Tu Tu used command ::train | Player rights = PLAYER	
+[2/14/18 11:45PM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[2/14/18 11:45PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[2/14/18 11:46PM]	Tu Tu used command ::drag 15 | Player rights = PLAYER	
+[2/14/18 11:47PM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[2/14/18 11:48PM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[2/14/18 11:48PM]	Player picking up item: [ItemDefinition(12163)] - Name: Blue charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[2/14/18 11:49PM]	Tu Tu used command ::Shops | Player rights = PLAYER	
+[2/14/18 11:49PM]	Tu Tu used command ::shops | Player rights = PLAYER	
+[2/14/18 11:49PM]	Tu Tu used command ::home | Player rights = PLAYER	
+[2/14/18 11:50PM]	Player bought 4587 x 1 from shop	
+[2/14/18 11:50PM]	Player bought 6524 x 1 from shop	
+[2/14/18 11:50PM]	Player bought 10828 x 1 from shop	
+[2/14/18 11:50PM]	Player bought 1704 x 1 from shop	
+[2/14/18 11:50PM]	Player bought 1079 x 1 from shop	
+[2/14/18 11:50PM]	Player bought 1127 x 1 from shop	
+[2/14/18 11:50PM]	Player bought 4131 x 1 from shop	
+[2/14/18 11:51PM]	Tu Tu used command ::[FRI]Ace | Player rights = PLAYER	
+[2/14/18 11:51PM]	Tu Tu used command ::Train | Player rights = PLAYER	
+[2/14/18 11:55PM]	Player picking up item: [ItemDefinition(405)] - Name: Casket; equipment slot: 3; value: 909; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/14/18 11:56PM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[2/14/18 11:58PM]	Tu Tu used command ::train | Player rights = PLAYER	
+[2/14/18 11:58PM]	Player picking up item: [ItemDefinition(12927)] - Name: Magma Toxic Blowpipe; equipment slot: 3; value: 10000000; stackable ? false; noted ? false; 2h ? true amount: 1	
+[2/14/18 11:59PM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[2/15/18 12:00AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[2/15/18 12:01AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[2/15/18 12:01AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[2/15/18 12:02AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[2/15/18 12:03AM]	Player picking up item: [ItemDefinition(5295)] - Name: Ranarr seed; equipment slot: 3; value: 6540; stackable ? true; noted ? false; 2h ? false amount: 1	
+[2/15/18 12:03AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[2/15/18 12:04AM]	Login from host 208.103.66.75	
+[2/15/18 12:06AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[2/15/18 12:07AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[2/15/18 12:07AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[2/15/18 12:07AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[2/15/18 12:08AM]	Player picking up item: [ItemDefinition(12163)] - Name: Blue charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[2/15/18 12:08AM]	Player picking up item: [ItemDefinition(12160)] - Name: Crimson charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[2/15/18 12:08AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[2/15/18 12:09AM]	Tu Tu used command ::home | Player rights = PLAYER	
+[2/15/18 12:13AM]	Gave item in trade to Ace. Id: 12927, amount: 1	

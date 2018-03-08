@@ -1,0 +1,316 @@
+[2/11/18 08:59PM]	Login from host 8.42.187.8	
+[2/11/18 09:01PM]	Login from host 8.42.187.8	
+[2/11/18 09:01PM]	Login from host 8.42.187.8	
+[2/11/18 09:03PM]	Icehaze used command ::bank | Player rights = RUBY_MEMBER	
+[2/11/18 09:04PM]	Icehaze used command ::bank | Player rights = RUBY_MEMBER	
+[2/11/18 09:04PM]	Player picking up item: [ItemDefinition(407)] - Name: Oyster; equipment slot: 3; value: 114; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 09:04PM]	Player dropping item: 409, amount: 1	
+[2/11/18 09:05PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 100000	
+[2/11/18 09:06PM]	Player picking up item: [ItemDefinition(5295)] - Name: Ranarr seed; equipment slot: 3; value: 6540; stackable ? true; noted ? false; 2h ? false amount: 1	
+[2/11/18 09:06PM]	Player picking up item: [ItemDefinition(882)] - Name: Bronze arrow; equipment slot: 13; value: 17; stackable ? true; noted ? false; 2h ? false amount: 12	
+[2/11/18 09:07PM]	Icehaze used command ::dboss | Player rights = RUBY_MEMBER	
+[2/11/18 09:07PM]	Icehaze used command ::dboss | Player rights = RUBY_MEMBER	
+[2/11/18 09:07PM]	Icehaze used command ::gamble | Player rights = RUBY_MEMBER	
+[2/11/18 09:07PM]	Player gambled 100000Coins	
+[2/11/18 09:07PM]	Player gambled 100000Coins	
+[2/11/18 09:07PM]	Player gambled 100000Coins	
+[2/11/18 09:07PM]	Player gambled 100000Coins	
+[2/11/18 09:07PM]	Player gambled 100000Coins	
+[2/11/18 09:07PM]	Player gambled 100000Coins	
+[2/11/18 09:07PM]	Player gambled 100000Coins	
+[2/11/18 09:07PM]	Player gambled 100000Coins	
+[2/11/18 09:07PM]	Player gambled 100000Coins	
+[2/11/18 09:07PM]	Icehaze used command ::Home | Player rights = RUBY_MEMBER	
+[2/11/18 09:10PM]	Icehaze used command ::bank | Player rights = RUBY_MEMBER	
+[2/11/18 09:19PM]	Icehaze used command ::bank | Player rights = RUBY_MEMBER	
+[2/11/18 09:19PM]	Receiving item from trade. Id: 13893, amount: 1 from: Lootz	
+[2/11/18 09:19PM]	Receiving item from trade. Id: 11732, amount: 1 from: Lootz	
+[2/11/18 09:19PM]	Receiving item from trade. Id: 6585, amount: 1 from: Lootz	
+[2/11/18 09:19PM]	Receiving item from trade. Id: 11613, amount: 1 from: Lootz	
+[2/11/18 09:19PM]	Receiving item from trade. Id: 13887, amount: 1 from: Lootz	
+[2/11/18 09:19PM]	Receiving item from trade. Id: 17291, amount: 1 from: Lootz	
+[2/11/18 09:20PM]	Icehaze used command ::bank | Player rights = RUBY_MEMBER	
+[2/11/18 09:20PM]	Icehaze used command ::bank | Player rights = RUBY_MEMBER	
+[2/11/18 09:20PM]	Icehaze used command ::hom | Player rights = RUBY_MEMBER	
+[2/11/18 09:20PM]	Icehaze used command ::home | Player rights = RUBY_MEMBER	
+[2/11/18 10:43PM]	Login from host 130.18.104.61	
+[2/11/18 10:45PM]	Icehaze used command ::::answer 138 | Player rights = RUBY_MEMBER	
+[2/11/18 10:45PM]	Icehaze used command ::answer 137 | Player rights = RUBY_MEMBER	
+[2/11/18 10:46PM]	Icehaze used command ::answer 138 | Player rights = RUBY_MEMBER	
+[2/11/18 10:47PM]	Icehaze used command ::home | Player rights = RUBY_MEMBER	
+[2/11/18 10:47PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 10:47PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 10:47PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 10:47PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 10:47PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 10:47PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 10:47PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 10:47PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 10:47PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 10:47PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 10:47PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 10:47PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 10:47PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 10:47PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 10:47PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 10:47PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 10:47PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 10:47PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 10:47PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 10:47PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 10:47PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 10:47PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 10:47PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 10:47PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 10:47PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 10:47PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 10:47PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 10:47PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 10:47PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 10:47PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 10:52PM]	Player dropping item: 1095, amount: 1	
+[2/11/18 10:52PM]	Player dropping item: 1129, amount: 1	
+[2/11/18 10:52PM]	Player dropping item: 1478, amount: 1	
+[2/11/18 10:52PM]	Player dropping item: 577, amount: 1	
+[2/11/18 10:52PM]	Player dropping item: 1011, amount: 1	
+[2/11/18 10:52PM]	Player dropping item: 579, amount: 1	
+[2/11/18 10:52PM]	Receiving item from trade. Id: 13899, amount: 1 from: Pickleriick	
+[2/11/18 10:53PM]	Player bought 9075 x 500 from shop	
+[2/11/18 10:54PM]	Player bought 560 x 500 from shop	
+[2/11/18 10:54PM]	Player bought 557 x 500 from shop	
+[2/11/18 10:54PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 10:54PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 10:54PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 10:54PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 10:54PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 10:54PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 10:54PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 10:54PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 10:54PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 10:54PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 10:56PM]	Player bought 10828 x 1 from shop	
+[2/11/18 10:58PM]	Player bought 2550 x 1 from shop	
+[2/11/18 10:58PM]	Icehaze used command ::bank | Player rights = RUBY_MEMBER	
+[2/11/18 10:58PM]	Player bought 2550 x 1 from shop	
+[2/11/18 10:58PM]	Icehaze used command ::bank | Player rights = RUBY_MEMBER	
+[2/11/18 11:05PM]	Icehaze used command ::home | Player rights = RUBY_MEMBER	
+[2/11/18 11:05PM]	Player bought 2434 x 5 from shop	
+[2/11/18 11:07PM]	Receiving item from trade. Id: 13887, amount: 1 from: Lootz	
+[2/11/18 11:08PM]	Player picking up item: [ItemDefinition(12601)] - Name: Ring of the gods; equipment slot: 12; value: 635111; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 11:08PM]	Player dropping item: 12601, amount: 1	
+[2/11/18 11:08PM]	Player picking up item: [ItemDefinition(12601)] - Name: Ring of the gods; equipment slot: 12; value: 635111; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 11:08PM]	Receiving item from trade. Id: 13899, amount: 1 from: Lootz	
+[2/11/18 11:08PM]	Receiving item from trade. Id: 13893, amount: 1 from: Lootz	
+[2/11/18 11:08PM]	Receiving item from trade. Id: 10828, amount: 1 from: Lootz	
+[2/11/18 11:08PM]	Receiving item from trade. Id: 14890, amount: 1 from: Lootz	
+[2/11/18 11:08PM]	Receiving item from trade. Id: 995, amount: 1335947 from: Lootz	
+[2/11/18 11:08PM]	Receiving item from trade. Id: 2550, amount: 1 from: Lootz	
+[2/11/18 11:08PM]	Player picking up item: [ItemDefinition(2434)] - Name: Prayer potion (4); equipment slot: 3; value: 9277; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 11:08PM]	Player picking up item: [ItemDefinition(391)] - Name: Manta ray; equipment slot: 3; value: 998; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 11:08PM]	Player picking up item: [ItemDefinition(157)] - Name: Super strength (3); equipment slot: 3; value: 2831; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 11:08PM]	Player picking up item: [ItemDefinition(2436)] - Name: Super attack (4); equipment slot: 3; value: 2813; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 11:08PM]	Player picking up item: [ItemDefinition(163)] - Name: Super defence (3); equipment slot: 3; value: 2624; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 11:08PM]	Player picking up item: [ItemDefinition(4391)] - Name: Team-39 cape; equipment slot: 1; value: 295; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 11:09PM]	Receiving item from trade. Id: 560, amount: 496 from: Lootz	
+[2/11/18 11:09PM]	Receiving item from trade. Id: 557, amount: 480 from: Lootz	
+[2/11/18 11:09PM]	Receiving item from trade. Id: 9075, amount: 492 from: Lootz	
+[2/11/18 11:14PM]	Receiving item from trade. Id: 13887, amount: 1 from: Lootz	
+[2/11/18 11:14PM]	Receiving item from trade. Id: 10828, amount: 1 from: Lootz	
+[2/11/18 11:14PM]	Receiving item from trade. Id: 13893, amount: 1 from: Lootz	
+[2/11/18 11:14PM]	Receiving item from trade. Id: 13899, amount: 1 from: Lootz	
+[2/11/18 11:14PM]	Receiving item from trade. Id: 1231, amount: 1 from: Lootz	
+[2/11/18 11:14PM]	Receiving item from trade. Id: 14886, amount: 1 from: Lootz	
+[2/11/18 11:14PM]	Player picking up item: [ItemDefinition(391)] - Name: Manta ray; equipment slot: 3; value: 998; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 11:14PM]	Player picking up item: [ItemDefinition(12601)] - Name: Ring of the gods; equipment slot: 12; value: 635111; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 11:15PM]	Player picking up item: [ItemDefinition(145)] - Name: Super attack (3); equipment slot: 3; value: 2011; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 11:15PM]	Player picking up item: [ItemDefinition(159)] - Name: Super strength (2); equipment slot: 3; value: 2000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 11:15PM]	Player picking up item: [ItemDefinition(165)] - Name: Super defence (2); equipment slot: 3; value: 1015; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 11:15PM]	Player picking up item: [ItemDefinition(560)] - Name: Death rune; equipment slot: 3; value: 229; stackable ? true; noted ? false; 2h ? false amount: 496	
+[2/11/18 11:15PM]	Player picking up item: [ItemDefinition(4391)] - Name: Team-39 cape; equipment slot: 1; value: 295; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 11:15PM]	Player picking up item: [ItemDefinition(557)] - Name: Earth rune; equipment slot: 3; value: 120; stackable ? true; noted ? false; 2h ? false amount: 480	
+[2/11/18 11:15PM]	Player picking up item: [ItemDefinition(9075)] - Name: Astral rune; equipment slot: 3; value: 391; stackable ? true; noted ? false; 2h ? false amount: 492	
+[2/11/18 11:15PM]	Player dropping item: 14886, amount: 1	
+[2/11/18 11:15PM]	Player picking up item: [ItemDefinition(3024)] - Name: Super restore (4); equipment slot: 3; value: 11800; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 11:15PM]	Player picking up item: [ItemDefinition(13239)] - Name: Primordial Boots; equipment slot: 10; value: 10000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 11:15PM]	Gave item in trade to Pickleriick. Id: 13239, amount: 1	
+[2/11/18 11:15PM]	Player picking up item: [ItemDefinition(14886)] - Name: Saradomin carving; equipment slot: 3; value: 150000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 11:15PM]	Player dropping item: 14886, amount: 1	
+[2/11/18 11:17PM]	Receiving item from trade. Id: 14014, amount: 1 from: Pickleriick	
+[2/11/18 11:17PM]	Receiving item from trade. Id: 14015, amount: 1 from: Pickleriick	
+[2/11/18 11:17PM]	Receiving item from trade. Id: 14016, amount: 1 from: Pickleriick	
+[2/11/18 11:17PM]	Receiving item from trade. Id: 19780, amount: 1 from: Pickleriick	
+[2/11/18 11:17PM]	Receiving item from trade. Id: 11283, amount: 1 from: Pickleriick	
+[2/11/18 11:18PM]	Player picking up item: [ItemDefinition(14889)] - Name: Ancient psaltery bridge; equipment slot: 3; value: 45000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 11:18PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 10375198	
+[2/11/18 11:18PM]	Player picking up item: [ItemDefinition(2434)] - Name: Prayer potion (4); equipment slot: 3; value: 9277; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 11:19PM]	Receiving item from trade. Id: 12926, amount: 1 from: Lootz	
+[2/11/18 11:20PM]	Player bought 811 x 5000 from shop	
+[2/11/18 11:20PM]	Player bought 811 x 5000 from shop	
+[2/11/18 11:22PM]	Receiving item from trade. Id: 12278, amount: 1 from: Lootz	
+[2/11/18 11:23PM]	Receiving item from trade. Id: 14012, amount: 1 from: Lootz	
+[2/11/18 11:23PM]	Receiving item from trade. Id: 14011, amount: 1 from: Lootz	
+[2/11/18 11:23PM]	Receiving item from trade. Id: 13742, amount: 1 from: Lootz	
+[2/11/18 11:23PM]	Receiving item from trade. Id: 14013, amount: 1 from: Lootz	
+[2/11/18 11:23PM]	Receiving item from trade. Id: 13235, amount: 1 from: Lootz	
+[2/11/18 11:23PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:23PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:23PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:23PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:23PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:23PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:23PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:23PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:23PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:23PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:23PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:23PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:23PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:23PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:23PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:23PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:23PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:23PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:23PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:23PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:23PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:23PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:23PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:23PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:23PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:23PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:23PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:23PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:24PM]	Icehaze used command ::::::bank | Player rights = RUBY_MEMBER	
+[2/11/18 11:24PM]	Icehaze used command ::bank | Player rights = RUBY_MEMBER	
+[2/11/18 11:24PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:24PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:24PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:24PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:24PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:24PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:24PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:24PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:24PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:24PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:24PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:24PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:24PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:24PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:24PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:24PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:24PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:24PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:24PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:24PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:24PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:24PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:24PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:24PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:24PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:24PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:24PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:24PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/11/18 11:24PM]	Icehaze used command ::bank | Player rights = RUBY_MEMBER	
+[2/11/18 11:24PM]	Receiving item from trade. Id: 14019, amount: 1 from: Lootz	
+[2/11/18 11:32PM]	Login from host 130.18.104.61	
+[2/12/18 06:45PM]	Login from host 130.18.104.61	
+[2/12/18 08:05PM]	Login from host 130.18.104.61	
+[2/12/18 08:06PM]	Gave item in trade to Lootz. Id: 12278, amount: 1	
+[2/12/18 08:16PM]	Player bought 7462 x 5 from shop	
+[2/12/18 08:20PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:20PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:20PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:20PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:20PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:20PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:20PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:20PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:20PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:20PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:20PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:20PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:20PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:20PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:20PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:20PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:20PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:20PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:20PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:20PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:21PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:21PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:21PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:21PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:21PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:21PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:21PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:21PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:21PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:21PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:21PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:21PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:22PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:22PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:22PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:22PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:22PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:22PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:22PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:22PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:22PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:22PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:22PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:24PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:24PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:24PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:24PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:24PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:24PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:24PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:24PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:24PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:24PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:26PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:26PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:26PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:26PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:26PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:26PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:26PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:26PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:26PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:26PM]	Receiving item from trade. Id: 18782, amount: 1 from: Lootz	
+[2/12/18 08:30PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 100000	
+[2/12/18 08:30PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/12/18 08:30PM]	Player picking up item: [ItemDefinition(452)] - Name: Runite ore; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 12	
+[2/12/18 08:32PM]	Player picking up item: [ItemDefinition(2362)] - Name: Adamant bar; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 16	
+[2/12/18 08:32PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 125000	
+[2/12/18 11:52PM]	Login from host 130.18.104.61	
+[2/17/18 10:53AM]	Login from host 130.18.104.61	
+[2/17/18 11:53AM]	Login from host 130.18.104.61	
+[2/17/18 04:25PM]	Login from host 130.18.104.61	
+[2/17/18 04:26PM]	Icehaze used command ::gamblw | Player rights = GOLD_MEMBER	
+[2/17/18 04:26PM]	Icehaze used command ::gamble | Player rights = GOLD_MEMBER	
+[2/17/18 04:26PM]	Player gambled 50000000Coins	
+[2/17/18 04:26PM]	Icehaze used command ::bank | Player rights = GOLD_MEMBER	
+[2/17/18 04:26PM]	Player gambled 50000000Coins	
+[2/17/18 04:27PM]	Player gambled 17000000Coins	
+[2/17/18 04:27PM]	Player gambled 17000000Coins	
+[2/17/18 04:27PM]	Player gambled 17000000Coins	
+[2/17/18 04:27PM]	Player gambled 17000000Coins	
+[2/17/18 04:27PM]	Player gambled 17000000Coins	
+[2/17/18 04:27PM]	Player gambled 17000000Coins	
+[2/17/18 04:27PM]	Player gambled 17000000Coins	
+[2/17/18 04:27PM]	Player gambled 17000000Coins	
+[2/17/18 04:27PM]	Player gambled 17000000Coins	
+[2/17/18 04:27PM]	Player gambled 68000000Coins	
+[2/17/18 04:28PM]	Player gambled 36000000Coins	
+[2/17/18 04:28PM]	Player gambled 50000000Coins	
+[2/17/18 04:28PM]	Player gambled 17000000Coins	
+[2/17/18 04:28PM]	Player gambled 17000000Coins	
+[2/17/18 04:28PM]	Player gambled 17000000Coins	
+[2/17/18 04:28PM]	Player gambled 17000000Coins	
+[2/17/18 04:29PM]	Player gambled 100000000Coins	
+[2/17/18 04:29PM]	Player gambled 34000000Coins	
+[2/17/18 04:29PM]	Player gambled 50000000Coins	
+[2/18/18 02:28PM]	Login from host 130.18.104.61	

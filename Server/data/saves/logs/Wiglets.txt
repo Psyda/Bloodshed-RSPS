@@ -1,0 +1,259 @@
+[2/10/18 03:20PM]	Login from host 96.36.148.156	
+[2/10/18 03:21PM]	Wiglets used command ::players | Player rights = PLAYER	
+[2/10/18 03:21PM]	Wiglets used command ::item 1054 | Player rights = PLAYER	
+[2/10/18 06:06PM]	Login from host 96.36.148.156	
+[2/10/18 06:07PM]	Wiglets used command ::[FRI]Ace | Player rights = PLAYER	
+[2/10/18 06:07PM]	Wiglets used command ::[DFR]Ace | Player rights = PLAYER	
+[2/10/18 06:11PM]	Login from host 96.36.148.156	
+[2/10/18 06:11PM]	Wiglets used command ::changepassword June99 | Player rights = GOLD_MEMBER	
+[2/10/18 06:13PM]	Login from host 96.36.148.156	
+[2/10/18 06:18PM]	Receiving item from trade. Id: 19476, amount: 1 from: Lootz	
+[2/10/18 06:18PM]	Receiving item from trade. Id: 14010, amount: 1 from: Lootz	
+[2/10/18 06:18PM]	Receiving item from trade. Id: 19477, amount: 1 from: Lootz	
+[2/10/18 06:18PM]	Receiving item from trade. Id: 12927, amount: 1 from: Lootz	
+[2/10/18 06:21PM]	Receiving item from trade. Id: 16955, amount: 1 from: Lootz	
+[2/10/18 06:34PM]	Receiving item from trade. Id: 554, amount: 10000 from: Lootz	
+[2/10/18 06:34PM]	Receiving item from trade. Id: 555, amount: 10000 from: Lootz	
+[2/10/18 06:34PM]	Receiving item from trade. Id: 556, amount: 10000 from: Lootz	
+[2/10/18 06:34PM]	Receiving item from trade. Id: 557, amount: 10000 from: Lootz	
+[2/10/18 06:34PM]	Receiving item from trade. Id: 558, amount: 10000 from: Lootz	
+[2/10/18 06:34PM]	Receiving item from trade. Id: 560, amount: 10000 from: Lootz	
+[2/10/18 06:34PM]	Receiving item from trade. Id: 565, amount: 10000 from: Lootz	
+[2/10/18 06:34PM]	Receiving item from trade. Id: 561, amount: 10000 from: Lootz	
+[2/10/18 06:34PM]	Receiving item from trade. Id: 562, amount: 10000 from: Lootz	
+[2/10/18 06:34PM]	Receiving item from trade. Id: 563, amount: 10000 from: Lootz	
+[2/10/18 06:34PM]	Receiving item from trade. Id: 9075, amount: 10000 from: Lootz	
+[2/10/18 06:34PM]	Receiving item from trade. Id: 12632, amount: 27 from: Lootz	
+[2/10/18 06:34PM]	Receiving item from trade. Id: 995, amount: 47483646 from: Lootz	
+[2/10/18 06:35PM]	Wiglets used command ::Empty | Player rights = GOLD_MEMBER	
+[2/10/18 06:36PM]	Receiving item from trade. Id: 13888, amount: 1 from: Lootz	
+[2/10/18 06:36PM]	Receiving item from trade. Id: 13894, amount: 1 from: Lootz	
+[2/10/18 06:36PM]	Receiving item from trade. Id: 6921, amount: 1 from: Lootz	
+[2/10/18 06:37PM]	Wiglets used command ::Di | Player rights = GOLD_MEMBER	
+[2/10/18 06:37PM]	Wiglets used command ::hom | Player rights = GOLD_MEMBER	
+[2/10/18 06:37PM]	Wiglets used command ::home | Player rights = GOLD_MEMBER	
+[2/10/18 06:37PM]	Receiving item from trade. Id: 11847, amount: 1 from: Lootz	
+[2/10/18 06:37PM]	Receiving item from trade. Id: 11855, amount: 1 from: Lootz	
+[2/10/18 06:37PM]	Receiving item from trade. Id: 11853, amount: 1 from: Lootz	
+[2/10/18 06:37PM]	Receiving item from trade. Id: 11851, amount: 1 from: Lootz	
+[2/10/18 06:37PM]	Receiving item from trade. Id: 11849, amount: 1 from: Lootz	
+[2/10/18 06:37PM]	Receiving item from trade. Id: 11857, amount: 1 from: Lootz	
+[2/10/18 06:44PM]	Player bought 10828 x 10 from shop	
+[2/10/18 06:44PM]	Player bought 1704 x 10 from shop	
+[2/10/18 06:45PM]	Player bought 5680 x 10 from shop	
+[2/10/18 06:45PM]	Player bought 4153 x 10 from shop	
+[2/10/18 06:46PM]	Receiving item from trade. Id: 11230, amount: 10000 from: Lootz	
+[2/10/18 06:48PM]	Receiving item from trade. Id: 17291, amount: 1 from: Lootz	
+[2/10/18 06:48PM]	Receiving item from trade. Id: 12601, amount: 1 from: Lootz	
+[2/10/18 06:48PM]	Receiving item from trade. Id: 13239, amount: 1 from: Lootz	
+[2/10/18 06:48PM]	Receiving item from trade. Id: 13740, amount: 1 from: Lootz	
+[2/10/18 06:48PM]	Receiving item from trade. Id: 11230, amount: 10000 from: Lootz	
+[2/10/18 06:50PM]	Player bought 6686 x 1000 from shop	
+[2/10/18 06:50PM]	Player bought 3025 x 1000 from shop	
+[2/10/18 06:50PM]	Wiglets used command ::Di | Player rights = GOLD_MEMBER	
+[2/10/18 06:50PM]	Player bought 15333 x 1000 from shop	
+[2/10/18 06:50PM]	Player bought 15333 x 10 from shop	
+[2/10/18 06:50PM]	Player bought 15333 x 1000 from shop	
+[2/10/18 06:51PM]	Player bought 15333 x 1000 from shop	
+[2/10/18 06:51PM]	Player bought 15333 x 1000 from shop	
+[2/10/18 06:51PM]	Player bought 15333 x 1000 from shop	
+[2/10/18 06:51PM]	Wiglets used command ::decant | Player rights = GOLD_MEMBER	
+[2/10/18 06:51PM]	Wiglets used command ::decnt | Player rights = GOLD_MEMBER	
+[2/10/18 06:51PM]	Wiglets used command ::Decant | Player rights = GOLD_MEMBER	
+[2/10/18 06:53PM]	Wiglets used command ::decant | Player rights = GOLD_MEMBER	
+[2/10/18 06:53PM]	Wiglets used command ::decant | Player rights = GOLD_MEMBER	
+[2/10/18 06:53PM]	Wiglets used command ::Decant | Player rights = GOLD_MEMBER	
+[2/10/18 06:53PM]	Player dropping item: 230, amount: 32	
+[2/10/18 06:54PM]	Wiglets used command ::home | Player rights = GOLD_MEMBER	
+[2/10/18 06:54PM]	Wiglets used command ::title | Player rights = GOLD_MEMBER	
+[2/10/18 06:55PM]	Wiglets used command ::title | Player rights = GOLD_MEMBER	
+[2/10/18 06:55PM]	Wiglets used command ::title | Player rights = GOLD_MEMBER	
+[2/10/18 06:55PM]	Receiving item from trade. Id: 15273, amount: 10000 from: Lootz	
+[2/10/18 06:56PM]	Player dropping item: 2442, amount: 1	
+[2/10/18 06:56PM]	Player dropping item: 2442, amount: 1	
+[2/10/18 06:56PM]	Player dropping item: 2442, amount: 1	
+[2/10/18 06:56PM]	Player dropping item: 2442, amount: 1	
+[2/10/18 06:56PM]	Player dropping item: 2442, amount: 1	
+[2/10/18 06:56PM]	Player dropping item: 2442, amount: 1	
+[2/10/18 06:56PM]	Player dropping item: 2442, amount: 1	
+[2/10/18 06:56PM]	Player dropping item: 2442, amount: 1	
+[2/10/18 06:56PM]	Player dropping item: 2442, amount: 1	
+[2/10/18 06:56PM]	Player dropping item: 2442, amount: 1	
+[2/10/18 06:58PM]	Player dropping item: 229, amount: 1	
+[2/10/18 06:59PM]	Player dropping item: 229, amount: 1	
+[2/10/18 07:00PM]	Player bought 7462 x 10 from shop	
+[2/10/18 07:00PM]	Player dropping item: 229, amount: 1	
+[2/10/18 07:01PM]	Receiving item from trade. Id: 20998, amount: 1 from: Lootz	
+[2/10/18 07:01PM]	Gave item in trade to Lootz. Id: 995, amount: 134183	
+[2/10/18 07:01PM]	Receiving item from trade. Id: 11212, amount: 10000 from: Lootz	
+[2/10/18 07:02PM]	Player dropping item: 3481, amount: 1	
+[2/10/18 07:02PM]	Wiglets used command ::wildboss | Player rights = GOLD_MEMBER	
+[2/10/18 07:02PM]	Wiglets used command ::dboss | Player rights = GOLD_MEMBER	
+[2/10/18 07:02PM]	Wiglets used command ::Di | Player rights = GOLD_MEMBER	
+[2/10/18 07:03PM]	Wiglets used command ::home | Player rights = GOLD_MEMBER	
+[2/10/18 07:04PM]	Wiglets used command ::unban986 daking | Player rights = GOLD_MEMBER	
+[2/10/18 07:05PM]	Receiving item from trade. Id: 12632, amount: 80 from: Lootz	
+[2/10/18 07:06PM]	Receiving item from trade. Id: 14021, amount: 1 from: Lootz	
+[2/10/18 07:17PM]	Wiglets used command ::Save | Player rights = GOLD_MEMBER	
+[2/10/18 07:43PM]	Login from host 96.36.148.156	
+[2/10/18 08:14PM]	Player bought 2444 x 1 from shop	
+[2/10/18 08:21PM]	Player dropping item: 229, amount: 1	
+[2/10/18 08:21PM]	Player dropping item: 229, amount: 1	
+[2/10/18 08:24PM]	Player picking up item: [ItemDefinition(2504)] - Name: Black d'hide body; equipment slot: 4; value: 1; stackable ? true; noted ? true; 2h ? false amount: 360	
+[2/10/18 08:24PM]	Player picking up item: [ItemDefinition(1334)] - Name: Rune scimitar; equipment slot: 3; value: 31200; stackable ? true; noted ? true; 2h ? false amount: 347	
+[2/10/18 08:24PM]	Player picking up item: [ItemDefinition(242)] - Name: Dragon scale dust; equipment slot: 3; value: 30042; stackable ? true; noted ? true; 2h ? false amount: 271	
+[2/10/18 08:24PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/10/18 08:24PM]	Player picking up item: [ItemDefinition(2687)] - Name: Clue scroll (easy); equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/10/18 08:24PM]	Player dropping item: 2687, amount: 1	
+[2/10/18 08:24PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 14326982	
+[2/10/18 08:24PM]	Player picking up item: [ItemDefinition(11212)] - Name: Dragon arrow; equipment slot: 13; value: 5000; stackable ? true; noted ? false; 2h ? false amount: 4	
+[2/10/18 08:25PM]	Player dropping item: 229, amount: 1	
+[2/10/18 08:25PM]	Player dropping item: 566, amount: 499	
+[2/10/18 08:30PM]	Wiglets used command ::[FRI]Daking | Player rights = GOLD_MEMBER	
+[2/11/18 05:57AM]	Login from host 96.36.148.156	
+[2/11/18 06:07AM]	Wiglets used command :::Vote | Player rights = GOLD_MEMBER	
+[2/11/18 06:07AM]	Wiglets used command ::Vote | Player rights = GOLD_MEMBER	
+[2/11/18 06:14AM]	Login from host 96.36.148.156	
+[2/11/18 06:14AM]	Player picking up item: [ItemDefinition(20998)] - Name: Twisted Bow; equipment slot: 3; value: 100000000; stackable ? false; noted ? false; 2h ? true amount: 1	
+[2/11/18 06:15AM]	Wiglets used command ::Home | Player rights = GOLD_MEMBER	
+[2/11/18 06:15AM]	Wiglets used command ::Home | Player rights = GOLD_MEMBER	
+[2/11/18 10:52AM]	Login from host 96.36.148.156	
+[2/11/18 10:52AM]	Wiglets used command ::players | Player rights = GOLD_MEMBER	
+[2/11/18 10:52AM]	Wiglets used command ::[FRI]Secret | Player rights = GOLD_MEMBER	
+[2/11/18 10:52AM]	Wiglets used command ::[FRI]Lootz | Player rights = GOLD_MEMBER	
+[2/11/18 12:41PM]	Login from host 96.36.148.156	
+[2/11/18 12:41PM]	Wiglets used command ::home | Player rights = GOLD_MEMBER	
+[2/11/18 12:46PM]	Wiglets used command ::bank | Player rights = GOLD_MEMBER	
+[2/11/18 12:46PM]	Wiglets used command ::Home | Player rights = GOLD_MEMBER	
+[2/11/18 12:46PM]	Player dropping item: 6689, amount: 1	
+[2/11/18 12:48PM]	Player dropping item: 229, amount: 1	
+[2/11/18 12:48PM]	Player picking up item: [ItemDefinition(18689)] - Name: Ragged elemental key; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 12:50PM]	Player picking up item: [ItemDefinition(14678)] - Name: H.a.m. prison key; equipment slot: 3; value: 4678; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 12:50PM]	Player dropping item: 229, amount: 1	
+[2/11/18 12:51PM]	Player dropping item: 229, amount: 1	
+[2/11/18 12:52PM]	Player picking up item: [ItemDefinition(13158)] - Name: Columbarium key; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 12:52PM]	Player dropping item: 3030, amount: 1	
+[2/11/18 12:53PM]	Player dropping item: 229, amount: 1	
+[2/11/18 12:54PM]	Player dropping item: 6691, amount: 1	
+[2/11/18 12:54PM]	Player dropping item: 229, amount: 1	
+[2/11/18 12:54PM]	Player picking up item: [ItemDefinition(13758)] - Name: Grubby key; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 12:54PM]	Player dropping item: 2362, amount: 13	
+[2/11/18 12:54PM]	Player dropping item: 9144, amount: 450	
+[2/11/18 01:10PM]	Player dropping item: 229, amount: 1	
+[2/11/18 01:11PM]	Player dropping item: 229, amount: 1	
+[2/11/18 01:12PM]	Gave item in trade to Sam. Id: 995, amount: 4000000	
+[2/11/18 01:14PM]	Player dropping item: 229, amount: 1	
+[2/11/18 01:17PM]	Player dropping item: 229, amount: 1	
+[2/11/18 01:21PM]	Player dropping item: 7462, amount: 1	
+[2/11/18 01:21PM]	Login from host 96.36.148.156	
+[2/11/18 01:21PM]	Player picking up item: [ItemDefinition(7462)] - Name: Culinaromancer's gloves 10; equipment slot: 9; value: 100000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 01:23PM]	Wiglets used command ::bank | Player rights = GOLD_MEMBER	
+[2/11/18 01:23PM]	Wiglets used command ::home | Player rights = GOLD_MEMBER	
+[2/11/18 01:25PM]	Player dropping item: 15272, amount: 1	
+[2/11/18 01:26PM]	Player dropping item: 995, amount: 100000000	
+[2/11/18 01:26PM]	Login from host 96.36.148.156	
+[2/11/18 01:26PM]	Player picking up item: [ItemDefinition(15272)] - Name: Rocktail; equipment slot: 3; value: 15000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 01:26PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 100000000	
+[2/11/18 01:27PM]	Wiglets used command ::gamble | Player rights = GOLD_MEMBER	
+[2/11/18 01:33PM]	Player bought 18831 x 10 from shop	
+[2/11/18 01:36PM]	Gave item in trade to 666. Id: 18831, amount: 8	
+[2/11/18 01:38PM]	Receiving item from trade. Id: 20998, amount: 1 from: Lootz	
+[2/11/18 01:45PM]	Wiglets used command ::[FRI]Sam | Player rights = GOLD_MEMBER	
+[2/11/18 01:46PM]	Wiglets used command ::Di | Player rights = GOLD_MEMBER	
+[2/11/18 01:51PM]	Player dropping item: 229, amount: 1	
+[2/11/18 01:51PM]	Gave item in trade to 666. Id: 20998, amount: 1	
+[2/11/18 01:51PM]	Gave item in trade to 666. Id: 11212, amount: 9821	
+[2/11/18 01:51PM]	Receiving item from trade. Id: 12927, amount: 1 from: 666	
+[2/11/18 01:58PM]	Player picking up item: [ItemDefinition(1150)] - Name: Dragon med helm; equipment slot: 0; value: 32320; stackable ? true; noted ? true; 2h ? false amount: 8	
+[2/11/18 01:59PM]	Wiglets received Dragon Claws from a Tormented Demon	
+[2/11/18 01:59PM]	Player picking up item: [ItemDefinition(14484)] - Name: Dragon claws; equipment slot: 3; value: 100000000; stackable ? false; noted ? false; 2h ? true amount: 1	
+[2/11/18 01:59PM]	Wiglets used command ::Save | Player rights = GOLD_MEMBER	
+[2/11/18 02:00PM]	Wiglets used command ::Di | Player rights = GOLD_MEMBER	
+[2/11/18 02:00PM]	Player bought 13663 x 1 from shop	
+[2/11/18 02:01PM]	Gave item in trade to 666. Id: 13663, amount: 1	
+[2/11/18 02:01PM]	Gave item in trade to 666. Id: 1150, amount: 8	
+[2/11/18 02:01PM]	Receiving item from trade. Id: 391, amount: 1 from: 666	
+[2/11/18 02:01PM]	Receiving item from trade. Id: 391, amount: 1 from: 666	
+[2/11/18 02:01PM]	Receiving item from trade. Id: 3024, amount: 1 from: 666	
+[2/11/18 02:02PM]	Gave item in trade to 666. Id: 14484, amount: 1	
+[2/11/18 02:04PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:04PM]	Player dropping item: 1620, amount: 66	
+[2/11/18 02:08PM]	Player dropping item: 229, amount: 1	
+[2/11/18 02:09PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:09PM]	Player dropping item: 536, amount: 1	
+[2/11/18 02:15PM]	Player dropping item: 229, amount: 1	
+[2/11/18 02:25PM]	Wiglets used command ::Drop | Player rights = GOLD_MEMBER	
+[2/11/18 02:26PM]	Player dropping item: 229, amount: 1	
+[2/11/18 02:26PM]	Wiglets used command ::Di | Player rights = GOLD_MEMBER	
+[2/11/18 02:30PM]	Player dropping item: 229, amount: 1	
+[2/11/18 02:31PM]	Player picking up item: [ItemDefinition(1149)] - Name: Dragon med helm; equipment slot: 0; value: 72320; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:36PM]	Player dropping item: 3030, amount: 1	
+[2/11/18 02:42PM]	Player dropping item: 229, amount: 1	
+[2/11/18 02:42PM]	Wiglets used command ::Save | Player rights = GOLD_MEMBER	
+[2/11/18 02:43PM]	Login from host 96.36.148.156	
+[2/11/18 02:44PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 1500000	
+[2/11/18 02:44PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 1500000	
+[2/11/18 02:45PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 1500000	
+[2/11/18 02:46PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 1500000	
+[2/11/18 02:46PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 1500000	
+[2/11/18 02:48PM]	Player picking up item: [ItemDefinition(4087)] - Name: Dragon platelegs; equipment slot: 7; value: 87000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:50PM]	Player dropping item: 229, amount: 1	
+[2/11/18 02:51PM]	Gave item in trade to 666. Id: 12927, amount: 1	
+[2/11/18 02:51PM]	Gave item in trade to 666. Id: 1149, amount: 1	
+[2/11/18 02:51PM]	Gave item in trade to 666. Id: 4087, amount: 1	
+[2/11/18 03:00PM]	Player dropping item: 229, amount: 1	
+[2/11/18 03:00PM]	Player dropping item: 229, amount: 1	
+[2/11/18 03:03PM]	Player dropping item: 229, amount: 1	
+[2/11/18 03:08PM]	Wiglets used command ::Home2 | Player rights = GOLD_MEMBER	
+[2/11/18 03:09PM]	Wiglets used command ::di2 | Player rights = GOLD_MEMBER	
+[2/12/18 01:57PM]	Login from host 96.36.148.156	
+[2/12/18 01:57PM]	Wiglets used command ::players | Player rights = GOLD_MEMBER	
+[2/12/18 01:58PM]	Wiglets used command ::[FRI]Ace | Player rights = GOLD_MEMBER	
+[2/12/18 01:59PM]	Player dropping item: 229, amount: 1	
+[2/12/18 02:07PM]	Player dropping item: 229, amount: 1	
+[2/12/18 02:14PM]	Player dropping item: 229, amount: 1	
+[2/12/18 02:15PM]	Player dropping item: 229, amount: 1	
+[2/12/18 02:22PM]	Player dropping item: 229, amount: 1	
+[2/12/18 02:22PM]	Player dropping item: 229, amount: 1	
+[2/12/18 02:29PM]	Player dropping item: 229, amount: 1	
+[2/14/18 03:50AM]	Login from host 96.36.148.156	
+[2/14/18 03:50AM]	Wiglets used command ::Home | Player rights = GOLD_MEMBER	
+[2/14/18 03:57AM]	Player bought 10828 x 1 from shop	
+[2/14/18 01:22PM]	Login from host 96.36.148.156	
+[2/14/18 01:24PM]	Wiglets used command ::home | Player rights = GOLD_MEMBER	
+[2/14/18 05:22PM]	Login from host 96.36.148.156	
+[2/14/18 05:30PM]	Player dropping item: 13239, amount: 1	
+[2/14/18 05:30PM]	Player dropping item: 14010, amount: 1	
+[2/14/18 05:30PM]	Player dropping item: 13740, amount: 1	
+[2/14/18 05:30PM]	Player dropping item: 14008, amount: 1	
+[2/14/18 05:30PM]	Player dropping item: 12601, amount: 1	
+[2/14/18 05:30PM]	Player dropping item: 14009, amount: 1	
+[2/14/18 05:31PM]	Player picking up item: [ItemDefinition(12601)] - Name: Ring of the gods; equipment slot: 12; value: 635111; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/14/18 05:31PM]	Player picking up item: [ItemDefinition(14010)] - Name: Torva platelegs; equipment slot: 7; value: 10000003; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/14/18 05:31PM]	Player picking up item: [ItemDefinition(14008)] - Name: Torva full helm; equipment slot: 0; value: 10000003; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/14/18 05:31PM]	Player picking up item: [ItemDefinition(14009)] - Name: Torva platebody; equipment slot: 4; value: 10000003; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/14/18 05:31PM]	Player picking up item: [ItemDefinition(13740)] - Name: Divine spirit shield; equipment slot: 5; value: 40000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/14/18 05:31PM]	Player picking up item: [ItemDefinition(13239)] - Name: Primordial Boots; equipment slot: 10; value: 10000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/14/18 05:33PM]	Wiglets used command ::Answer hunter | Player rights = GOLD_MEMBER	
+[2/15/18 04:39AM]	Login from host 96.36.148.156	
+[2/15/18 04:40AM]	Login from host 96.36.148.156	
+[2/17/18 12:50PM]	Login from host 96.36.148.156	
+[2/20/18 03:01PM]	Login from host 96.36.148.156	
+[2/20/18 03:02PM]	Wiglets used command ::Di | Player rights = GOLD_MEMBER	
+[2/20/18 03:02PM]	Wiglets used command ::Di | Player rights = GOLD_MEMBER	
+[2/20/18 03:03PM]	Player bought 11848 x 5 from shop	
+[2/20/18 03:17PM]	Wiglets used command ::players | Player rights = GOLD_MEMBER	
+[2/20/18 03:23PM]	Login from host 96.36.148.156	
+[2/20/18 03:25PM]	Player bought 3105 x 5 from shop	
+[2/22/18 06:24AM]	Login from host 96.36.148.156	
+[2/22/18 06:29AM]	Wiglets used command ::title | Player rights = GOLD_MEMBER	
+[2/22/18 06:29AM]	Wiglets used command ::title | Player rights = GOLD_MEMBER	
+[2/22/18 06:29AM]	Wiglets used command ::title | Player rights = GOLD_MEMBER	
+[2/25/18 07:38AM]	Login from host 96.36.148.156	
+[2/25/18 07:38AM]	Wiglets used command ::players | Player rights = GOLD_MEMBER	
+[2/25/18 07:39AM]	Wiglets used command ::title | Player rights = GOLD_MEMBER	
+[3/4/18 11:43AM]	Login from host 96.36.148.156	
+[3/4/18 11:43AM]	Wiglets used command ::title | Player rights = GOLD_MEMBER	
+[3/4/18 11:43AM]	Wiglets used command ::title | Player rights = GOLD_MEMBER	
+[3/4/18 11:43AM]	Wiglets used command ::title | Player rights = GOLD_MEMBER	
+[3/4/18 11:44AM]	Wiglets used command ::players | Player rights = GOLD_MEMBER	

@@ -1,0 +1,266 @@
+[2/20/18 11:36AM]	Login from host 65.79.153.90	
+[2/20/18 11:37AM]	Aelikron used command ::empty | Player rights = PLAYER	
+[2/20/18 11:48AM]	Player bought 7945 x 10 from shop	
+[2/20/18 11:55AM]	Player bought 18746 x 10 from shop	
+[2/20/18 11:56AM]	Aelikron used command ::home | Player rights = PLAYER	
+[2/20/18 11:59AM]	Aelikron used command ::Edge | Player rights = PLAYER	
+[2/20/18 11:59AM]	Aelikron used command ::home | Player rights = PLAYER	
+[2/20/18 12:43PM]	Login from host 65.79.153.90	
+[2/20/18 12:43PM]	Player bought 640 x 1 from shop	
+[2/20/18 12:43PM]	Player bought 650 x 1 from shop	
+[2/20/18 12:44PM]	Player bought 640 x 1 from shop	
+[2/20/18 12:44PM]	Player bought 640 x 1 from shop	
+[2/20/18 12:44PM]	Player bought 640 x 1 from shop	
+[2/20/18 12:45PM]	Player bought 4587 x 1 from shop	
+[2/20/18 12:46PM]	Player bought 4587 x 5 from shop	
+[2/20/18 12:46PM]	Player bought 4587 x 1 from shop	
+[2/20/18 12:46PM]	Player bought 4587 x 1 from shop	
+[2/20/18 12:46PM]	Player bought 4587 x 1 from shop	
+[2/20/18 12:46PM]	Player bought 4587 x 1 from shop	
+[2/20/18 12:46PM]	Player bought 4587 x 5 from shop	
+[2/20/18 12:46PM]	Player bought 4587 x 5 from shop	
+[2/20/18 12:46PM]	Player bought 4587 x 5 from shop	
+[2/20/18 12:46PM]	Player bought 4587 x 5 from shop	
+[2/20/18 12:46PM]	Player bought 4587 x 5 from shop	
+[2/20/18 12:46PM]	Player bought 4587 x 5 from shop	
+[2/20/18 12:46PM]	Player bought 4587 x 5 from shop	
+[2/20/18 12:46PM]	Player bought 4587 x 5 from shop	
+[2/20/18 12:52PM]	Login from host 65.79.153.90	
+[2/20/18 12:56PM]	Login from host 65.79.153.90	
+[2/20/18 12:57PM]	Aelikron used command ::kick z | Player rights = DEVELOPER	
+[2/20/18 12:57PM]	Aelikron just kicked Z!	
+[2/20/18 12:57PM]	Aelikron just kicked Z!	
+[2/20/18 12:57PM]	Aelikron used command ::teleto z | Player rights = DEVELOPER	
+[2/20/18 12:59PM]	Aelikron used command ::home | Player rights = DEVELOPER	
+[2/20/18 12:59PM]	Login from host 65.79.153.90	
+[2/20/18 12:59PM]	Aelikron used command ::master | Player rights = DEVELOPER	
+[2/20/18 01:00PM]	Login from host 65.79.153.90	
+[2/20/18 01:00PM]	Player bought 20998 x 1 from shop	
+[2/20/18 01:01PM]	Player bought 17291 x 1 from shop	
+[2/20/18 01:01PM]	Player bought 12601 x 1 from shop	
+[2/20/18 01:01PM]	Player bought 12708 x 1 from shop	
+[2/20/18 01:01PM]	Player bought 14013 x 1 from shop	
+[2/20/18 01:01PM]	Player bought 14012 x 1 from shop	
+[2/20/18 01:01PM]	Player bought 14011 x 1 from shop	
+[2/20/18 01:01PM]	Aelikron used command ::find gloves | Player rights = DEVELOPER	
+[2/20/18 01:01PM]	Aelikron used command ::shard | Player rights = DEVELOPER	
+[2/20/18 01:01PM]	Aelikron used command ::find shard | Player rights = DEVELOPER	
+[2/20/18 01:01PM]	Aelikron used command ::item 6466 2 | Player rights = DEVELOPER	
+[2/20/18 01:02PM]	Aelikron used command ::item 1111 1 | Player rights = DEVELOPER	
+[2/20/18 01:02PM]	Aelikron used command ::spawn 1 1 | Player rights = DEVELOPER	
+[2/20/18 01:02PM]	Aelikron used command ::item 604 1 | Player rights = DEVELOPER	
+[2/20/18 01:02PM]	Aelikron used command ::item 6189 1 | Player rights = DEVELOPER	
+[2/20/18 01:02PM]	Aelikron used command ::giveitem 6189 1 aelikron | Player rights = DEVELOPER	
+[2/20/18 01:03PM]	Aelikron used command ::item 7482 1 | Player rights = DEVELOPER	
+[2/20/18 01:04PM]	Player bought 10943 x 5 from shop	
+[2/20/18 01:05PM]	Player bought 6199 x 10 from shop	
+[2/20/18 01:05PM]	Aelikron used command ::empty | Player rights = DEVELOPER	
+[2/20/18 01:06PM]	Aelikron used command ::giveitem 7462 1 aelikron | Player rights = DEVELOPER	
+[2/20/18 01:07PM]	Player bought 892 x 1000 from shop	
+[2/20/18 01:07PM]	Aelikron used command ::teleto grillem | Player rights = DEVELOPER	
+[2/20/18 01:08PM]	Aelikron used command ::setlevel 2 15000 | Player rights = DEVELOPER	
+[2/20/18 01:08PM]	Aelikron used command ::Setlevel 1 15000 | Player rights = DEVELOPER	
+[2/20/18 01:08PM]	Aelikron used command ::setlevel 4 15001 1 | Player rights = DEVELOPER	
+[2/20/18 01:08PM]	Aelikron used command ::setlevel 4 15000 | Player rights = DEVELOPER	
+[2/20/18 01:08PM]	Aelikron used command ::setlevel 3 15000 | Player rights = DEVELOPER	
+[2/20/18 01:08PM]	Player picking up item: [ItemDefinition(4094)] - Name: Mystic robe bottom; equipment slot: 7; value: 8000; stackable ? true; noted ? true; 2h ? false amount: 346	
+[2/20/18 01:08PM]	Player picking up item: [ItemDefinition(1620)] - Name: Uncut ruby; equipment slot: 3; value: 950; stackable ? true; noted ? true; 2h ? false amount: 293	
+[2/20/18 01:08PM]	Player picking up item: [ItemDefinition(1726)] - Name: Amulet of strength; equipment slot: 2; value: 1154; stackable ? true; noted ? true; 2h ? false amount: 317	
+[2/20/18 01:08PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 18149586	
+[2/20/18 01:08PM]	Player picking up item: [ItemDefinition(892)] - Name: Rune arrow; equipment slot: 13; value: 1100; stackable ? true; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:09PM]	Aelikron used command ::movehome aelikron | Player rights = DEVELOPER	
+[2/20/18 01:11PM]	Aelikron used command ::movehome aelikron | Player rights = DEVELOPER	
+[2/20/18 01:13PM]	Aelikron used command ::item 995 2147000000 | Player rights = DEVELOPER	
+[2/20/18 01:14PM]	Aelikron used command ::giveitem 995 2147000000 aelikron | Player rights = DEVELOPER	
+[2/20/18 01:15PM]	Aelikron used command ::[FRI]Conor | Player rights = DEVELOPER	
+[2/20/18 04:47PM]	Login from host 65.79.153.90	
+[2/20/18 05:19PM]	Aelikron used command ::forums | Player rights = DEVELOPER	
+[2/20/18 05:42PM]	Login from host 65.79.153.90	
+[2/20/18 06:03PM]	Login from host 65.79.153.90	
+[2/20/18 06:25PM]	Aelikron used command ::[FRI]D | Player rights = DEVELOPER	
+[2/20/18 08:08PM]	Aelikron used command ::home | Player rights = DEVELOPER	
+[2/20/18 08:16PM]	Aelikron used command ::find elder | Player rights = DEVELOPER	
+[2/20/18 08:16PM]	Aelikron used command ::giveitem 15673 1 aelikron | Player rights = DEVELOPER	
+[2/28/18 06:50PM]	Login from host 65.79.153.90	
+[2/28/18 06:52PM]	Aelikron used command ::teleto d | Player rights = DEVELOPER	
+[2/28/18 06:56PM]	Aelikron used command ::kill d | Player rights = DEVELOPER	
+[2/28/18 06:56PM]	Aelikron just ::killed D!	
+[2/28/18 07:25PM]	Login from host 65.79.153.90	
+[3/1/18 12:31PM]	Login from host 65.79.153.90	
+[3/1/18 12:45PM]	Login from host 49.197.247.227	
+[3/1/18 12:45PM]	Aelikron used command ::empty | Player rights = PLAYER	
+[3/1/18 12:46PM]	Aelikron used command ::empty | Player rights = PLAYER	
+[3/1/18 12:46PM]	Aelikron used command ::master | Player rights = PLAYER	
+[3/1/18 12:47PM]	Aelikron used command ::master | Player rights = ADMINISTRATOR	
+[3/1/18 12:48PM]	Login from host 49.197.247.227	
+[3/2/18 05:38AM]	Login from host 65.79.153.90	
+[3/2/18 06:09AM]	Login from host 65.79.153.90	
+[3/2/18 06:10AM]	Aelikron used command ::empty | Player rights = PLAYER	
+[3/2/18 06:23AM]	Login from host 65.79.153.90	
+[3/2/18 06:37AM]	Aelikron used command ::forums | Player rights = PLAYER	
+[3/2/18 06:45AM]	Aelikron used command ::forums | Player rights = PLAYER	
+[3/2/18 06:47AM]	Aelikron used command ::forums | Player rights = PLAYER	
+[3/2/18 06:49AM]	Login from host 65.79.153.90	
+[3/2/18 07:06AM]	Login from host 65.79.153.90	
+[3/2/18 07:41AM]	Login from host 65.79.153.90	
+[3/2/18 08:37AM]	Login from host 65.79.153.90	
+[3/2/18 08:38AM]	Aelikron used command ::master | Player rights = DEVELOPER	
+[3/2/18 08:41AM]	Aelikron used command ::find elder | Player rights = DEVELOPER	
+[3/2/18 08:41AM]	Aelikron used command ::itm 15670 1 | Player rights = DEVELOPER	
+[3/2/18 08:42AM]	Player bought 1115 x 1 from shop	
+[3/2/18 08:43AM]	Aelikron used command ::home | Player rights = DEVELOPER	
+[3/2/18 08:44AM]	Aelikron used command ::invis | Player rights = DEVELOPER	
+[3/2/18 08:44AM]	Aelikron used command ::invisable | Player rights = DEVELOPER	
+[3/2/18 08:44AM]	Login from host 65.79.153.90	
+[3/2/18 08:45AM]	Aelikron used command ::toggleinvis | Player rights = DEVELOPER	
+[3/2/18 08:45AM]	Aelikron used command ::yell you legit ruined the screenshot | Player rights = DEVELOPER	
+[3/2/18 08:51AM]	Aelikron used command ::teletome ace | Player rights = DEVELOPER	
+[3/2/18 08:54AM]	Aelikron used command ::find firecape | Player rights = DEVELOPER	
+[3/2/18 08:54AM]	Aelikron used command ::find fite | Player rights = DEVELOPER	
+[3/2/18 08:54AM]	Aelikron used command ::find fire | Player rights = DEVELOPER	
+[3/2/18 08:55AM]	Aelikron used command ::item 6570 10 | Player rights = DEVELOPER	
+[3/2/18 08:55AM]	Aelikron used command ::giveitem 6570 aelikron 10 | Player rights = DEVELOPER	
+[3/2/18 08:55AM]	Aelikron used command ::giveitme 6570 10 aelikron | Player rights = DEVELOPER	
+[3/2/18 08:55AM]	Aelikron used command ::giveitem 1 1 aelikron | Player rights = DEVELOPER	
+[3/2/18 08:55AM]	Aelikron used command ::giveitem 6570 10 aelikron | Player rights = DEVELOPER	
+[3/2/18 08:55AM]	Player dropping item: 1, amount: 1	
+[3/2/18 08:56AM]	Aelikron used command ::setlevel 3 15000 | Player rights = DEVELOPER	
+[3/2/18 08:59AM]	Aelikron used command ::setlevel 3 15000 | Player rights = DEVELOPER	
+[3/2/18 09:00AM]	Aelikron used command ::setlevel 3 15000 | Player rights = DEVELOPER	
+[3/2/18 09:00AM]	Aelikron used command ::setlevel 1 15000 | Player rights = DEVELOPER	
+[3/2/18 09:00AM]	Aelikron used command ::kill | Player rights = DEVELOPER	
+[3/2/18 09:00AM]	Aelikron used command ::kill tzkal-zuk | Player rights = DEVELOPER	
+[3/2/18 09:01AM]	Aelikron used command ::home | Player rights = DEVELOPER	
+[3/2/18 09:05AM]	Aelikron used command ::toggleinvis | Player rights = DEVELOPER	
+[3/2/18 09:06AM]	Aelikron used command ::bank | Player rights = DEVELOPER	
+[3/2/18 09:06AM]	Aelikron used command ::teletome coner | Player rights = DEVELOPER	
+[3/2/18 09:06AM]	Aelikron used command ::find legend | Player rights = DEVELOPER	
+[3/2/18 09:06AM]	Aelikron used command ::item 15501 1000 | Player rights = DEVELOPER	
+[3/2/18 09:06AM]	Aelikron used command ::giveitem 19008 1 aelikron | Player rights = DEVELOPER	
+[3/2/18 09:06AM]	Player dropping item: 19008, amount: 1	
+[3/2/18 09:07AM]	Aelikron used command ::item 19008 1 aelikron | Player rights = DEVELOPER	
+[3/2/18 09:07AM]	Aelikron used command ::giveitem 19008 1 aelikron | Player rights = DEVELOPER	
+[3/2/18 09:07AM]	Player dropping item: 19008, amount: 1	
+[3/2/18 09:07AM]	Player picking up item: [ItemDefinition(19008)] - Name: Legendary blade; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/2/18 09:07AM]	Player picking up item: [ItemDefinition(19008)] - Name: Legendary blade; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/2/18 09:07AM]	Player dropping item: 19008, amount: 1	
+[3/2/18 09:07AM]	Player picking up item: [ItemDefinition(19008)] - Name: Legendary blade; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/2/18 09:07AM]	Aelikron used command ::empty | Player rights = DEVELOPER	
+[3/2/18 09:07AM]	Aelikron used command ::giveitem 15501 1000 aelikron | Player rights = DEVELOPER	
+[3/2/18 09:09AM]	Aelikron used command ::empty | Player rights = DEVELOPER	
+[3/2/18 09:09AM]	Aelikron used command ::find balista | Player rights = DEVELOPER	
+[3/2/18 09:09AM]	Aelikron used command ::find heavy | Player rights = DEVELOPER	
+[3/2/18 09:10AM]	Aelikron used command ::giveitem 15675 1 aelikron | Player rights = DEVELOPER	
+[3/2/18 09:12AM]	Aelikron used command ::find light | Player rights = DEVELOPER	
+[3/2/18 09:12AM]	Aelikron used command ::giveitem 18892 1 aelikron | Player rights = DEVELOPER	
+[3/2/18 09:12AM]	Player dropping item: 18892, amount: 1	
+[3/2/18 09:13AM]	Aelikron used command ::find light b | Player rights = DEVELOPER	
+[3/2/18 09:13AM]	Aelikron used command ::item 15676 1 | Player rights = DEVELOPER	
+[3/2/18 09:13AM]	Aelikron used command ::giveitem 15676 1 aelikron | Player rights = DEVELOPER	
+[3/2/18 09:14AM]	Aelikron used command ::find twist | Player rights = DEVELOPER	
+[3/2/18 09:15AM]	Aelikron used command ::item 20998 1 | Player rights = DEVELOPER	
+[3/2/18 09:16AM]	Aelikron used command ::giveitem 20998 1 aelikron | Player rights = DEVELOPER	
+[3/2/18 09:16AM]	Aelikron used command ::find dragon warhammer | Player rights = DEVELOPER	
+[3/2/18 09:16AM]	Aelikron used command ::giveitem 20555 1 | Player rights = DEVELOPER	
+[3/2/18 09:16AM]	Aelikron used command ::giveitem 20555 1 aelikron | Player rights = DEVELOPER	
+[3/2/18 09:17AM]	Aelikron used command ::find boots | Player rights = DEVELOPER	
+[3/2/18 09:17AM]	Aelikron used command ::find prim | Player rights = DEVELOPER	
+[3/2/18 09:17AM]	Aelikron used command ::find primor | Player rights = DEVELOPER	
+[3/2/18 09:17AM]	Aelikron used command ::item 13239 1 | Player rights = DEVELOPER	
+[3/2/18 09:18AM]	Aelikron used command ::giveitem 13239 1 aelikron | Player rights = DEVELOPER	
+[3/2/18 09:18AM]	Aelikron used command ::forums | Player rights = DEVELOPER	
+[3/2/18 09:18AM]	Aelikron used command ::vote | Player rights = DEVELOPER	
+[3/2/18 09:19AM]	Aelikron used command ::find pagasian | Player rights = DEVELOPER	
+[3/2/18 09:19AM]	Aelikron used command ::find pag | Player rights = DEVELOPER	
+[3/2/18 09:19AM]	Aelikron used command ::find peg | Player rights = DEVELOPER	
+[3/2/18 09:20AM]	Aelikron used command ::giveitem 12708 1 aelikron 1 | Player rights = DEVELOPER	
+[3/2/18 09:20AM]	Aelikron used command ::giveitem 12708 1  aelikron | Player rights = DEVELOPER	
+[3/2/18 09:20AM]	Aelikron used command ::home | Player rights = DEVELOPER	
+[3/2/18 09:21AM]	Aelikron used command ::giveitem 12284 1 aelikron | Player rights = DEVELOPER	
+[3/2/18 09:21AM]	Aelikron used command ::giveitem 12284 1 aelikron | Player rights = DEVELOPER	
+[3/2/18 09:21AM]	Player bought 12282 x 1 from shop	
+[3/2/18 09:21AM]	Aelikron used command ::giveitem 12282 1 aelikron | Player rights = DEVELOPER	
+[3/2/18 09:22AM]	Aelikron used command ::giveitem 12708 1 aelikron | Player rights = DEVELOPER	
+[3/2/18 09:22AM]	Aelikron used command ::giveitem 13235 1 aelikron | Player rights = DEVELOPER	
+[3/2/18 09:22AM]	Aelikron used command ::giveitem 12601 1 aelikron | Player rights = DEVELOPER	
+[3/2/18 09:23AM]	Aelikron used command ::giveitem 12926 1 aelikron | Player rights = DEVELOPER	
+[3/2/18 09:23AM]	Receiving item from Conor. ItemName: Kodai Wand, itemId: 15674 amount: 1	
+[3/2/18 09:23AM]	Receiving item from Conor. ItemName: Ancestral hat, itemId: 15677 amount: 1	
+[3/2/18 09:23AM]	Receiving item from Conor. ItemName: Ancestral robe top, itemId: 15678 amount: 1	
+[3/2/18 09:23AM]	Receiving item from Conor. ItemName: Ancestral robe bottom, itemId: 15679 amount: 1	
+[3/2/18 09:23AM]	Receiving item from Conor. ItemName: Elder chaos robe, itemId: 15672 amount: 1	
+[3/2/18 09:23AM]	Receiving item from Conor. ItemName: Elder chaos top, itemId: 15671 amount: 1	
+[3/2/18 09:23AM]	Receiving item from Conor. ItemName: Elder chaos hood, itemId: 15670 amount: 1	
+[3/2/18 09:23AM]	Receiving item from Conor. ItemName: None, itemId: 15673 amount: 1	
+[3/2/18 09:27AM]	Receiving item from Conor. ItemName: Tyrannical ring, itemId: 12603 amount: 1	
+[3/2/18 09:27AM]	Receiving item from Conor. ItemName: Treasonous ring, itemId: 12605 amount: 1	
+[3/2/18 09:27AM]	Receiving item from Conor. ItemName: Odium Ward, itemId: 11926 amount: 1	
+[3/2/18 09:27AM]	Receiving item from Conor. ItemName: Malediction Ward, itemId: 11924 amount: 1	
+[3/2/18 09:28AM]	Receiving item from Conor. ItemName: Tanzanite Helmet, itemId: 12278 amount: 1	
+[3/2/18 09:28AM]	Receiving item from Conor. ItemName: Magma Helmet, itemId: 12279 amount: 1	
+[3/2/18 09:30AM]	Aelikron used command ::item 13051 1 | Player rights = DEVELOPER	
+[3/2/18 09:30AM]	Aelikron used command ::giveitem 13051 1 aelikron | Player rights = DEVELOPER	
+[3/2/18 09:30AM]	Receiving item from Conor. ItemName: black slayer helmet, itemId: 8469 amount: 1	
+[3/2/18 09:31AM]	Aelikron used command ::giveitem 11554 1 aelikron | Player rights = DEVELOPER	
+[3/2/18 09:35AM]	Aelikron used command ::find gloves | Player rights = DEVELOPER	
+[3/2/18 09:35AM]	Aelikron used command ::giveitem 7462 10 aelikron | Player rights = DEVELOPER	
+[3/2/18 09:35AM]	Player bought 2413 x 1 from shop	
+[3/2/18 09:36AM]	Aelikron used command ::giveitem 995 2000000000 aelikron | Player rights = DEVELOPER	
+[3/2/18 09:36AM]	Player bought 2413 x 1 from shop	
+[3/2/18 09:36AM]	Aelikron used command ::find occ | Player rights = DEVELOPER	
+[3/2/18 09:38AM]	Aelikron used command ::giveitem 13738 1 aelikron | Player rights = DEVELOPER	
+[3/2/18 09:38AM]	Aelikron used command ::home | Player rights = DEVELOPER	
+[3/2/18 09:38AM]	Aelikron used command ::find fury | Player rights = DEVELOPER	
+[3/2/18 09:38AM]	Aelikron used command ::giveitem 19335 1 aelikron | Player rights = DEVELOPER	
+[3/2/18 09:40AM]	Aelikron used command ::giveitem 560 200000000 aelikron | Player rights = DEVELOPER	
+[3/2/18 09:40AM]	Aelikron used command ::giveitem 565 200000000 aelikron | Player rights = DEVELOPER	
+[3/2/18 09:40AM]	Aelikron used command ::giveitem 566 200000000 aelikron | Player rights = DEVELOPER	
+[3/2/18 09:41AM]	Aelikron used command ::di | Player rights = DEVELOPER	
+[3/2/18 09:41AM]	Aelikron used command ::find overload | Player rights = DEVELOPER	
+[3/2/18 09:41AM]	Aelikron used command ::item 15332 20 | Player rights = DEVELOPER	
+[3/2/18 09:41AM]	Aelikron used command ::giveitem 15332 20 aelikron | Player rights = DEVELOPER	
+[3/2/18 09:45AM]	Aelikron used command ::tele 2398 5020 | Player rights = DEVELOPER	
+[3/2/18 09:47AM]	Aelikron used command ::tele 2397 5009 | Player rights = DEVELOPER	
+[3/2/18 09:47AM]	Aelikron used command ::coords | Player rights = DEVELOPER	
+[3/2/18 09:47AM]	Aelikron used command ::Coords | Player rights = DEVELOPER	
+[3/2/18 09:47AM]	Aelikron used command ::coords | Player rights = DEVELOPER	
+[3/2/18 09:48AM]	Aelikron used command ::teleto conor | Player rights = DEVELOPER	
+[3/2/18 09:52AM]	Aelikron used command ::teleto lolpvm | Player rights = DEVELOPER	
+[3/2/18 09:52AM]	Aelikron used command ::teleto lolpvm | Player rights = DEVELOPER	
+[3/2/18 09:52AM]	Aelikron used command ::home | Player rights = DEVELOPER	
+[3/2/18 10:41AM]	Aelikron used command ::teleto lolpvm | Player rights = DEVELOPER	
+[3/2/18 11:29AM]	Login from host 65.79.153.90	
+[3/2/18 11:30AM]	Aelikron used command ::forums | Player rights = DEVELOPER	
+[3/2/18 02:53PM]	Login from host 65.79.153.90	
+[3/2/18 02:55PM]	Login from host 65.79.153.90	
+[3/2/18 03:37PM]	Login from host 65.79.153.90	
+[3/2/18 07:11PM]	Login from host 65.79.153.90	
+[3/2/18 07:12PM]	Aelikron used command ::teleto tyco | Player rights = DEVELOPER	
+[3/2/18 07:12PM]	Login from host 65.79.153.90	
+[3/6/18 06:53PM]	Login from host 65.79.153.90	
+[3/6/18 06:53PM]	Aelikron used command ::teleto conor | Player rights = DEVELOPER	
+[3/6/18 08:02PM]	Login from host 65.79.153.90	
+[3/6/18 08:02PM]	Aelikron used command ::item 15300 1 | Player rights = DEVELOPER	
+[3/6/18 08:02PM]	Aelikron used command ::giveitem 15300 aelikron 1 | Player rights = DEVELOPER	
+[3/6/18 08:02PM]	Aelikron used command ::giveitem 15300 1 aelikron | Player rights = DEVELOPER	
+[3/6/18 08:11PM]	Aelikron used command ::bank | Player rights = DEVELOPER	
+[3/6/18 08:12PM]	Aelikron used command ::bank | Player rights = DEVELOPER	
+[3/6/18 08:21PM]	Aelikron used command ::bank | Player rights = DEVELOPER	
+[3/6/18 08:21PM]	Aelikron used command ::bank | Player rights = DEVELOPER	
+[3/6/18 09:10PM]	Login from host 65.79.153.90	
+[3/6/18 09:11PM]	Aelikron used command ::find staff | Player rights = DEVELOPER	
+[3/6/18 09:12PM]	Aelikron used command ::find mage | Player rights = DEVELOPER	
+[3/6/18 09:12PM]	Aelikron used command ::find mage's | Player rights = DEVELOPER	
+[3/6/18 09:13PM]	Aelikron used command ::find master | Player rights = DEVELOPER	
+[3/6/18 09:13PM]	Aelikron used command ::find infinity | Player rights = DEVELOPER	
+[3/6/18 09:18PM]	Aelikron used command ::[FRI]Lootz | Player rights = DEVELOPER	
+[3/6/18 09:18PM]	Aelikron used command ::[FRI]Skillful | Player rights = DEVELOPER	
+[3/6/18 09:18PM]	Aelikron used command ::[FRI]Conor | Player rights = DEVELOPER	
+[3/6/18 09:18PM]	Aelikron used command ::[FRI]Daking | Player rights = DEVELOPER	
+[3/6/18 09:18PM]	Aelikron used command ::[FRI]D | Player rights = DEVELOPER	
+[3/6/18 09:18PM]	Aelikron used command ::[FRI]S | Player rights = DEVELOPER	
+[3/6/18 09:18PM]	Aelikron used command ::[FRI]Z | Player rights = DEVELOPER	
+[3/6/18 10:52PM]	Login from host 65.79.153.90	
+[3/7/18 10:22AM]	Login from host 65.79.153.90	
+[3/7/18 11:18AM]	Login from host 65.79.153.90	
+[3/7/18 10:00PM]	Login from host 65.79.153.90	

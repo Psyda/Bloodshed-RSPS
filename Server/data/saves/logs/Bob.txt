@@ -1,0 +1,656 @@
+[1/19/18 08:43PM]	Login from host 162.212.255.243	
+[1/19/18 08:46PM]	Login from host 85.255.235.100	
+[1/19/18 08:51PM]	Bob used command ::update 10 | Player rights = DEVELOPER	
+[1/19/18 09:12PM]	Bob used command ::update 10 | Player rights = DEVELOPER	
+[1/19/18 09:17PM]	Bob used command ::update 10 | Player rights = DEVELOPER	
+[1/19/18 10:28PM]	Bob used command ::verify ben | Player rights = DEVELOPER	
+[1/19/18 10:28PM]	Bob used command ::verify bob | Player rights = DEVELOPER	
+[1/19/18 10:28PM]	Bob used command ::givemanager5 ben | Player rights = DEVELOPER	
+[1/19/18 10:29PM]	Bob used command ::givedpoints 1000 ben | Player rights = DEVELOPER	
+[1/19/18 10:29PM]	Bob used command ::givedpoints 1000 bob | Player rights = DEVELOPER	
+[1/19/18 10:40PM]	Bob used command ::item 6570 1 | Player rights = DEVELOPER	
+[1/19/18 10:42PM]	Bob used command ::item 20998 1 | Player rights = DEVELOPER	
+[1/19/18 10:42PM]	Bob used command ::item 11212 100000 | Player rights = DEVELOPER	
+[1/19/18 10:42PM]	Bob used command ::setlevel 4 15000 | Player rights = DEVELOPER	
+[1/19/18 10:43PM]	Bob used command ::hp | Player rights = DEVELOPER	
+[1/19/18 10:48PM]	Bob used command ::setlevel 4 99 | Player rights = DEVELOPER	
+[1/19/18 10:50PM]	Bob used command ::setlevel 4 15000 | Player rights = DEVELOPER	
+[1/19/18 10:50PM]	Player picking up item: [ItemDefinition(452)] - Name: Runite ore; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 12	
+[1/19/18 10:50PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 100000	
+[1/19/18 10:50PM]	Bob used command ::drops | Player rights = DEVELOPER	
+[1/19/18 10:53PM]	Bob used command ::giveitem 19112 1 ben | Player rights = DEVELOPER	
+[1/20/18 12:07AM]	Player bought 12601 x 1 from shop	
+[1/20/18 12:10AM]	Receiving item from trade. Id: 86, amount: 1 from: Ben	
+[1/20/18 12:10AM]	Receiving item from trade. Id: 87, amount: 1 from: Ben	
+[1/20/18 12:10AM]	Bob used command ::master | Player rights = DEVELOPER	
+[1/20/18 12:18AM]	Bob used command ::checkequip ben | Player rights = DEVELOPER	
+[1/20/18 12:21AM]	Bob used command ::answer 4 | Player rights = DEVELOPER	
+[1/20/18 12:21AM]	Bob used command ::answer 3 | Player rights = DEVELOPER	
+[1/20/18 12:21AM]	Bob used command ::answer 2 | Player rights = DEVELOPER	
+[1/20/18 12:21AM]	Bob used command ::answer 7 | Player rights = DEVELOPER	
+[1/20/18 12:21AM]	Bob used command ::answer 6 | Player rights = DEVELOPER	
+[1/20/18 12:26AM]	Receiving item from trade. Id: 14527, amount: 1 from: Ben	
+[1/20/18 12:28AM]	Receiving item from trade. Id: 14494, amount: 1 from: Ben	
+[1/20/18 12:28AM]	Receiving item from trade. Id: 14730, amount: 1 from: Ben	
+[1/20/18 12:28AM]	Receiving item from trade. Id: 14729, amount: 1 from: Ben	
+[1/20/18 12:33AM]	Bob used command ::npc 550 | Player rights = DEVELOPER	
+[1/20/18 12:45AM]	Receiving item from trade. Id: 17339, amount: 1 from: Ben	
+[1/20/18 12:45AM]	Receiving item from trade. Id: 17193, amount: 1 from: Ben	
+[1/20/18 12:45AM]	Receiving item from trade. Id: 17317, amount: 1 from: Ben	
+[1/20/18 12:45AM]	Receiving item from trade. Id: 17215, amount: 1 from: Ben	
+[1/20/18 12:45AM]	Receiving item from trade. Id: 17061, amount: 1 from: Ben	
+[1/20/18 12:47AM]	Receiving item from trade. Id: 16337, amount: 1 from: Ben	
+[1/20/18 12:53AM]	Bob used command ::npc 2 | Player rights = DEVELOPER	
+[1/20/18 01:30AM]	Bob used command ::npc 550 | Player rights = DEVELOPER	
+[1/20/18 01:34AM]	Bob used command ::update 5 | Player rights = DEVELOPER	
+[1/20/18 01:38AM]	Bob used command ::npc 55- | Player rights = DEVELOPER	
+[1/20/18 01:38AM]	Bob used command ::npc 550 | Player rights = DEVELOPER	
+[1/20/18 01:47AM]	Bob used command ::npc 550 | Player rights = DEVELOPER	
+[1/20/18 01:48AM]	Bob used command ::npc 550 | Player rights = DEVELOPER	
+[1/20/18 01:57AM]	Bob used command ::npc 550 | Player rights = DEVELOPER	
+[1/21/18 03:39AM]	Bob used command ::id abbysal tent | Player rights = DEVELOPER	
+[1/21/18 04:28AM]	Bob used command ::npc 550 | Player rights = DEVELOPER	
+[1/21/18 06:38AM]	Bob used command ::npc 550 | Player rights = DEVELOPER	
+[1/21/18 07:03AM]	Bob used command ::npc 550 | Player rights = DEVELOPER	
+[1/21/18 07:21AM]	Bob used command ::home2 | Player rights = DEVELOPER	
+[1/21/18 08:52AM]	Bob used command ::home | Player rights = DEVELOPER	
+[1/21/18 09:35AM]	Bob used command ::forums | Player rights = DEVELOPER	
+[1/21/18 10:17AM]	Bob used command ::item 8127 1 | Player rights = DEVELOPER	
+[1/21/18 10:17AM]	Bob used command ::object 8127 | Player rights = DEVELOPER	
+[1/21/18 10:17AM]	Bob used command ::item 8127 1 | Player rights = DEVELOPER	
+[1/21/18 10:17AM]	Player dropping item: 8127, amount: 1	
+[1/21/18 10:17AM]	Player picking up item: [ItemDefinition(8127)] - Name: Hanging skeleton; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[1/21/18 10:17AM]	Player dropping item: 8127, amount: 1	
+[1/21/18 10:17AM]	Player picking up item: [ItemDefinition(8127)] - Name: Hanging skeleton; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[1/21/18 10:41AM]	Bob used command ::home2 | Player rights = DEVELOPER	
+[1/21/18 10:45AM]	Bob used command ::npc 550 | Player rights = DEVELOPER	
+[1/21/18 10:54AM]	Bob used command ::item 12927 1 | Player rights = DEVELOPER	
+[1/21/18 12:22PM]	Bob used command ::dzone | Player rights = DEVELOPER	
+[1/21/18 01:28PM]	Bob used command ::update 20 | Player rights = DEVELOPER	
+[1/21/18 10:59PM]	Bob used command ::yel fight me | Player rights = DEVELOPER	
+[1/21/18 11:00PM]	Bob used command ::yell dont no me! | Player rights = DEVELOPER	
+[1/21/18 11:00PM]	Bob used command ::yell ill beat you | Player rights = DEVELOPER	
+[1/22/18 02:21AM]	Bob used command ::npc 2 | Player rights = DEVELOPER	
+[1/22/18 02:21AM]	Bob used command ::npc 550 | Player rights = DEVELOPER	
+[1/22/18 02:22AM]	Player bought 11230 x 10 from shop	
+[1/22/18 02:22AM]	Player bought 11230 x 10 from shop	
+[1/22/18 02:22AM]	Bob used command ::trian | Player rights = DEVELOPER	
+[1/22/18 02:22AM]	Bob used command ::train | Player rights = DEVELOPER	
+[1/22/18 02:46AM]	Bob used command ::update 10 | Player rights = DEVELOPER	
+[1/22/18 04:08AM]	Bob used command ::npc 7005 | Player rights = DEVELOPER	
+[1/22/18 04:08AM]	Bob used command ::npc 7005 | Player rights = DEVELOPER	
+[1/22/18 04:08AM]	Bob used command ::npc 7010 | Player rights = DEVELOPER	
+[1/22/18 04:09AM]	Bob used command ::rz | Player rights = DEVELOPER	
+[1/22/18 04:11AM]	Bob used command ::npc 7010 | Player rights = DEVELOPER	
+[1/22/18 04:11AM]	Bob used command ::npc 3 | Player rights = DEVELOPER	
+[1/22/18 07:39AM]	Bob used command ::tele 1950 5000 | Player rights = DEVELOPER	
+[1/22/18 07:39AM]	Bob used command ::save | Player rights = DEVELOPER	
+[1/22/18 08:37PM]	Bob used command ::home | Player rights = DEVELOPER	
+[1/22/18 08:38PM]	Bob used command ::item 995 2b | Player rights = DEVELOPER	
+[1/22/18 08:38PM]	Bob used command ::item 12633 | Player rights = DEVELOPER	
+[1/22/18 08:38PM]	Bob used command ::item 12631 1 | Player rights = DEVELOPER	
+[1/22/18 08:38PM]	Bob used command ::item 12635 | Player rights = DEVELOPER	
+[1/22/18 08:39PM]	Bob used command ::item 264 1 | Player rights = DEVELOPER	
+[1/22/18 08:39PM]	Bob used command ::id minecart ticket | Player rights = DEVELOPER	
+[1/22/18 08:39PM]	Bob used command ::item 5023 1 | Player rights = DEVELOPER	
+[1/22/18 09:11PM]	Bob used command ::update 20 | Player rights = DEVELOPER	
+[1/22/18 09:28PM]	Bob used command ::home2 | Player rights = DEVELOPER	
+[1/22/18 09:30PM]	Bob used command ::coords | Player rights = DEVELOPER	
+[1/22/18 09:32PM]	Bob used command ::coords | Player rights = DEVELOPER	
+[1/22/18 09:33PM]	Bob used command ::coords | Player rights = DEVELOPER	
+[1/22/18 09:34PM]	Bob used command ::coords | Player rights = DEVELOPER	
+[1/22/18 09:45PM]	Bob used command ::coords | Player rights = DEVELOPER	
+[1/23/18 09:07PM]	Bob used command ::update 20 | Player rights = DEVELOPER	
+[1/23/18 09:11PM]	Bob used command ::pos | Player rights = DEVELOPER	
+[1/23/18 09:11PM]	Bob used command ::coords | Player rights = DEVELOPER	
+[1/23/18 09:12PM]	Bob used command ::coords | Player rights = DEVELOPER	
+[1/23/18 09:13PM]	Bob used command ::coords | Player rights = DEVELOPER	
+[1/23/18 09:13PM]	Bob used command ::coords | Player rights = DEVELOPER	
+[1/23/18 09:14PM]	Bob used command ::coords | Player rights = DEVELOPER	
+[1/23/18 09:15PM]	Bob used command ::coords | Player rights = DEVELOPER	
+[1/23/18 09:16PM]	Bob used command ::coords | Player rights = DEVELOPER	
+[1/23/18 09:16PM]	Bob used command ::coords | Player rights = DEVELOPER	
+[1/23/18 09:19PM]	Bob used command ::coords | Player rights = DEVELOPER	
+[1/23/18 09:20PM]	Bob used command ::tele 3106 3499 | Player rights = DEVELOPER	
+[1/23/18 09:20PM]	Bob used command ::home2 | Player rights = DEVELOPER	
+[1/23/18 09:20PM]	Bob used command ::coords | Player rights = DEVELOPER	
+[1/23/18 09:21PM]	Bob used command ::coords | Player rights = DEVELOPER	
+[1/23/18 09:22PM]	Bob used command ::coords | Player rights = DEVELOPER	
+[1/23/18 09:39PM]	Bob used command ::update 1- | Player rights = DEVELOPER	
+[1/23/18 09:39PM]	Bob used command ::update 10 | Player rights = DEVELOPER	
+[1/23/18 10:44PM]	Bob used command ::id monky nutz | Player rights = DEVELOPER	
+[1/23/18 10:44PM]	Bob used command ::id monkey nuts | Player rights = DEVELOPER	
+[1/23/18 10:44PM]	Bob used command ::item 4012 1 | Player rights = DEVELOPER	
+[1/24/18 03:17AM]	Bob used command ::kick ben | Player rights = DEVELOPER	
+[1/24/18 03:17AM]	Bob just kicked Ben!	
+[1/31/18 03:37AM]	Bob used command ::item 79 | Player rights = DEVELOPER	
+[1/31/18 03:38AM]	Player dropping item: 79, amount: 1	
+[1/31/18 03:38AM]	Player picking up item: [ItemDefinition(79)] - Name: phat; equipment slot: 0; value: 100000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[1/31/18 03:40AM]	Bob used command ::item 19476 | Player rights = DEVELOPER	
+[1/31/18 03:11PM]	Bob used command ::item 14009 1 | Player rights = DEVELOPER	
+[1/31/18 03:25PM]	Bob used command ::item 14009 1 | Player rights = DEVELOPER	
+[1/31/18 03:29PM]	Bob used command ::item 19477 1 | Player rights = DEVELOPER	
+[1/31/18 09:33PM]	Bob used command ::item 6170 1 | Player rights = DEVELOPER	
+[1/31/18 09:34PM]	Bob used command ::item 6070 1 | Player rights = DEVELOPER	
+[1/31/18 09:34PM]	Bob used command ::item 6570 | Player rights = DEVELOPER	
+[1/31/18 09:49PM]	Bob used command ::update 20 | Player rights = DEVELOPER	
+[1/31/18 11:06PM]	Bob used command ::npc 5581 | Player rights = DEVELOPER	
+[1/31/18 11:06PM]	Bob used command ::update 10 | Player rights = DEVELOPER	
+[1/31/18 11:07PM]	Bob used command ::npc 5581 | Player rights = DEVELOPER	
+[1/31/18 11:08PM]	Bob used command ::item 20998 1 | Player rights = DEVELOPER	
+[1/31/18 11:08PM]	Bob used command ::item 11212 100 | Player rights = DEVELOPER	
+[1/31/18 11:09PM]	Bob used command ::hp | Player rights = DEVELOPER	
+[1/31/18 11:12PM]	Bob used command ::interface 118 | Player rights = DEVELOPER	
+[1/31/18 11:12PM]	Bob used command ::item 11212 100000 | Player rights = DEVELOPER	
+[1/31/18 11:12PM]	Bob used command ::setlevel 4 15000 | Player rights = DEVELOPER	
+[1/31/18 11:13PM]	Bob used command ::interface 118 | Player rights = DEVELOPER	
+[1/31/18 11:13PM]	Bob used command ::interface 127 | Player rights = DEVELOPER	
+[1/31/18 11:13PM]	Bob used command ::interface 110 | Player rights = DEVELOPER	
+[1/31/18 11:13PM]	Bob used command ::interface 265 | Player rights = DEVELOPER	
+[1/31/18 11:15PM]	Bob used command ::tele 1950 5000 | Player rights = DEVELOPER	
+[1/31/18 11:16PM]	Bob used command ::npc 5581 | Player rights = DEVELOPER	
+[2/1/18 08:23AM]	Bob used command ::tele 2213 9798 | Player rights = DEVELOPER	
+[2/1/18 08:23AM]	Bob used command ::tele 2313 9798 | Player rights = DEVELOPER	
+[2/1/18 08:24AM]	Bob used command ::tele 3035 4413 | Player rights = DEVELOPER	
+[2/1/18 08:25AM]	Bob used command ::drops | Player rights = DEVELOPER	
+[2/1/18 08:25AM]	Bob used command ::item 11212 200000 | Player rights = DEVELOPER	
+[2/1/18 08:25AM]	Bob used command ::setlevel 4 15000 | Player rights = DEVELOPER	
+[2/1/18 08:25AM]	Player picking up item: [ItemDefinition(11212)] - Name: Dragon arrow; equipment slot: 13; value: 5000; stackable ? true; noted ? false; 2h ? false amount: 4	
+[2/1/18 08:26AM]	Player picking up item: [ItemDefinition(11212)] - Name: Dragon arrow; equipment slot: 13; value: 5000; stackable ? true; noted ? false; 2h ? false amount: 3	
+[2/1/18 08:26AM]	Player picking up item: [ItemDefinition(11212)] - Name: Dragon arrow; equipment slot: 13; value: 5000; stackable ? true; noted ? false; 2h ? false amount: 2	
+[2/1/18 08:26AM]	Player picking up item: [ItemDefinition(13758)] - Name: Grubby key; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/1/18 08:29AM]	Bob used command ::sfs | Player rights = DEVELOPER	
+[2/1/18 08:32AM]	Player picking up item: [ItemDefinition(11212)] - Name: Dragon arrow; equipment slot: 13; value: 5000; stackable ? true; noted ? false; 2h ? false amount: 1	
+[2/1/18 08:32AM]	Player picking up item: [ItemDefinition(11212)] - Name: Dragon arrow; equipment slot: 13; value: 5000; stackable ? true; noted ? false; 2h ? false amount: 1	
+[2/1/18 08:40AM]	Bob used command ::id sagit | Player rights = DEVELOPER	
+[2/1/18 08:40AM]	Bob used command ::id sagittarian short | Player rights = DEVELOPER	
+[2/1/18 08:42AM]	Bob used command ::id sagittarian longbow | Player rights = DEVELOPER	
+[2/1/18 08:42AM]	Bob used command ::id 16337 | Player rights = DEVELOPER	
+[2/1/18 08:43AM]	Bob used command ::item 16337 1 | Player rights = DEVELOPER	
+[2/1/18 08:44AM]	Bob used command ::id sagittarian arrow | Player rights = DEVELOPER	
+[2/1/18 08:44AM]	Bob used command ::item 16477 1 | Player rights = DEVELOPER	
+[2/1/18 08:44AM]	Bob used command ::item 16477 20 | Player rights = DEVELOPER	
+[2/1/18 08:55AM]	Bob used command ::update 20 | Player rights = DEVELOPER	
+[2/1/18 08:56AM]	Bob used command ::master | Player rights = DEVELOPER	
+[2/1/18 08:56AM]	Bob used command ::p | Player rights = DEVELOPER	
+[2/1/18 08:56AM]	Bob used command ::hp | Player rights = DEVELOPER	
+[2/1/18 09:15AM]	Bob used command ::update 10 | Player rights = DEVELOPER	
+[2/1/18 09:26AM]	Bob used command ::update 10 | Player rights = DEVELOPER	
+[2/1/18 11:05AM]	Bob used command ::checkequip ben | Player rights = DEVELOPER	
+[2/1/18 11:07AM]	Bob used command ::npc 550 | Player rights = DEVELOPER	
+[2/1/18 11:09AM]	Receiving item from trade. Id: 17261, amount: 1 from: Ben	
+[2/1/18 11:09AM]	Receiving item from trade. Id: 17263, amount: 1 from: Ben	
+[2/2/18 12:11AM]	Bob used command ::grabregion | Player rights = DEVELOPER	
+[2/2/18 12:12AM]	Bob used command ::coords | Player rights = DEVELOPER	
+[2/2/18 12:13AM]	Bob used command ::cows | Player rights = DEVELOPER	
+[2/2/18 12:21AM]	Bob used command ::interface 69 | Player rights = DEVELOPER	
+[2/5/18 10:41AM]	Bob used command ::test | Player rights = DEVELOPER	
+[2/5/18 10:41AM]	Bob used command ::update 10- | Player rights = DEVELOPER	
+[2/5/18 10:41AM]	Bob used command ::update 10 | Player rights = DEVELOPER	
+[2/5/18 10:41AM]	Bob used command ::test | Player rights = DEVELOPER	
+[2/5/18 10:42AM]	Bob used command ::update 20 | Player rights = DEVELOPER	
+[2/5/18 10:42AM]	Bob used command ::test | Player rights = DEVELOPER	
+[2/5/18 10:43AM]	Bob used command ::pos | Player rights = DEVELOPER	
+[2/5/18 10:44AM]	Bob used command ::coords | Player rights = DEVELOPER	
+[2/5/18 10:46AM]	Bob used command ::bank | Player rights = DEVELOPER	
+[2/5/18 10:46AM]	Bob used command ::emptybank | Player rights = DEVELOPER	
+[2/5/18 10:46AM]	Bob used command ::bank | Player rights = DEVELOPER	
+[2/5/18 10:46AM]	Bob used command ::bank | Player rights = DEVELOPER	
+[2/5/18 10:46AM]	Bob used command ::test | Player rights = DEVELOPER	
+[2/5/18 10:47AM]	Bob used command ::id dragonbone | Player rights = DEVELOPER	
+[2/5/18 10:48AM]	Bob used command ::item 19010 1 | Player rights = DEVELOPER	
+[2/5/18 10:48AM]	Bob used command ::id dragon bones | Player rights = DEVELOPER	
+[2/5/18 10:48AM]	Bob used command ::item 536 1 | Player rights = DEVELOPER	
+[2/5/18 10:48AM]	Bob used command ::item 537  | Player rights = DEVELOPER	
+[2/5/18 11:01AM]	Bob used command ::home | Player rights = DEVELOPER	
+[2/5/18 11:02AM]	Bob used command ::item 12926 5 | Player rights = DEVELOPER	
+[2/5/18 11:02AM]	Bob used command ::test | Player rights = DEVELOPER	
+[2/5/18 11:02AM]	Bob used command ::home | Player rights = DEVELOPER	
+[2/5/18 11:02AM]	Bob used command ::home2 | Player rights = DEVELOPER	
+[2/5/18 11:03AM]	Bob used command ::item 12926 4 | Player rights = DEVELOPER	
+[2/5/18 11:03AM]	Bob used command ::home | Player rights = DEVELOPER	
+[2/5/18 11:20AM]	Bob used command ::rz | Player rights = DEVELOPER	
+[2/5/18 11:21AM]	Bob used command ::update 10 | Player rights = DEVELOPER	
+[2/5/18 11:22AM]	Bob used command ::rz | Player rights = DEVELOPER	
+[2/5/18 11:23AM]	Bob used command ::tele 2309 4591 | Player rights = DEVELOPER	
+[2/5/18 11:24AM]	Bob used command ::rz | Player rights = DEVELOPER	
+[2/5/18 11:28AM]	Bob used command ::test | Player rights = DEVELOPER	
+[2/5/18 11:56AM]	Bob used command ::update 20 | Player rights = DEVELOPER	
+[2/5/18 11:57AM]	Bob used command ::rz | Player rights = DEVELOPER	
+[2/5/18 11:57AM]	Bob used command ::home | Player rights = DEVELOPER	
+[2/5/18 11:57AM]	Bob used command ::id dragon bones | Player rights = DEVELOPER	
+[2/5/18 11:57AM]	Bob used command ::item 537 100000 | Player rights = DEVELOPER	
+[2/5/18 12:05PM]	Bob used command ::update 20 | Player rights = DEVELOPER	
+[2/5/18 12:09PM]	Bob used command ::rz | Player rights = DEVELOPER	
+[2/5/18 12:10PM]	Bob used command ::givedonamount 10000 dan | Player rights = DEVELOPER	
+[2/5/18 12:10PM]	Bob used command ::givedanamount 1000 bob | Player rights = DEVELOPER	
+[2/5/18 12:13PM]	Bob used command ::update 10 | Player rights = DEVELOPER	
+[2/5/18 12:35PM]	Bob used command ::bank | Player rights = DEVELOPER	
+[2/5/18 12:54PM]	Bob used command ::item 536 1 | Player rights = DEVELOPER	
+[2/5/18 01:34PM]	Bob used command ::id dragon pick | Player rights = DEVELOPER	
+[2/5/18 01:34PM]	Bob used command ::item 15259 1 | Player rights = DEVELOPER	
+[2/5/18 01:35PM]	Bob used command ::rz | Player rights = DEVELOPER	
+[2/5/18 01:57PM]	Bob used command ::anim 65535 | Player rights = DEVELOPER	
+[2/5/18 02:18PM]	Bob used command ::object 452 | Player rights = DEVELOPER	
+[2/5/18 02:27PM]	Bob used command ::bank | Player rights = DEVELOPER	
+[2/5/18 02:29PM]	Player dropping item: 451, amount: 1	
+[2/5/18 02:29PM]	Player dropping item: 451, amount: 1	
+[2/5/18 02:31PM]	Player dropping item: 451, amount: 1	
+[2/5/18 02:31PM]	Player dropping item: 451, amount: 1	
+[2/5/18 02:31PM]	Player dropping item: 451, amount: 1	
+[2/5/18 02:31PM]	Player dropping item: 451, amount: 1	
+[2/5/18 02:32PM]	Player dropping item: 451, amount: 1	
+[2/5/18 02:32PM]	Player dropping item: 451, amount: 1	
+[2/5/18 02:32PM]	Player dropping item: 451, amount: 1	
+[2/5/18 02:32PM]	Player dropping item: 451, amount: 1	
+[2/5/18 03:43PM]	Player dropping item: 451, amount: 1	
+[2/5/18 03:43PM]	Player dropping item: 451, amount: 1	
+[2/5/18 03:43PM]	Player dropping item: 451, amount: 1	
+[2/5/18 03:44PM]	Player dropping item: 451, amount: 1	
+[2/5/18 03:44PM]	Player dropping item: 451, amount: 1	
+[2/5/18 03:44PM]	Player dropping item: 451, amount: 1	
+[2/5/18 03:46PM]	Bob used command ::bank | Player rights = DEVELOPER	
+[2/5/18 03:46PM]	Bob used command ::saveall | Player rights = DEVELOPER	
+[2/5/18 03:49PM]	Bob used command ::object 2104 | Player rights = DEVELOPER	
+[2/5/18 03:49PM]	Bob used command ::object 2102 | Player rights = DEVELOPER	
+[2/5/18 03:50PM]	Bob used command ::object 2009 | Player rights = DEVELOPER	
+[2/5/18 03:50PM]	Bob used command ::object 2090 | Player rights = DEVELOPER	
+[2/5/18 03:51PM]	Bob used command ::object 2094 | Player rights = DEVELOPER	
+[2/5/18 03:51PM]	Bob used command ::object 2104 | Player rights = DEVELOPER	
+[2/5/18 03:51PM]	Bob used command ::object 2105 | Player rights = DEVELOPER	
+[2/5/18 03:51PM]	Bob used command ::object 2107 | Player rights = DEVELOPER	
+[2/5/18 03:52PM]	Bob used command ::gobject 2107 | Player rights = DEVELOPER	
+[2/5/18 03:56PM]	Bob used command ::object 395151 | Player rights = DEVELOPER	
+[2/5/18 03:56PM]	Bob used command ::object 39515 | Player rights = DEVELOPER	
+[2/5/18 03:57PM]	Bob used command ::object 8799 | Player rights = DEVELOPER	
+[2/5/18 03:58PM]	Bob used command ::object 42124 | Player rights = DEVELOPER	
+[2/5/18 03:58PM]	Bob used command ::object 42157 | Player rights = DEVELOPER	
+[2/5/18 04:03PM]	Bob used command ::object 8562  | Player rights = DEVELOPER	
+[2/6/18 06:24AM]	Bob used command ::item 537 100 | Player rights = DEVELOPER	
+[2/6/18 07:19AM]	Bob used command ::teleto ben | Player rights = DEVELOPER	
+[2/6/18 07:23AM]	Bob used command ::tele 3038 4401 | Player rights = DEVELOPER	
+[2/6/18 07:23AM]	Bob used command ::gobject -1 | Player rights = DEVELOPER	
+[2/6/18 07:23AM]	Bob used command ::tele 3040 4401 | Player rights = DEVELOPER	
+[2/6/18 07:23AM]	Bob used command ::gobject -1 | Player rights = DEVELOPER	
+[2/6/18 07:24AM]	Bob used command ::tele 3039 4401 | Player rights = DEVELOPER	
+[2/6/18 07:24AM]	Bob used command ::gobject -1 | Player rights = DEVELOPER	
+[2/6/18 07:24AM]	Bob used command ::tele 3038 4399 | Player rights = DEVELOPER	
+[2/6/18 07:24AM]	Bob used command ::gobjet -1 | Player rights = DEVELOPER	
+[2/6/18 07:24AM]	Bob used command ::gobject -1 | Player rights = DEVELOPER	
+[2/6/18 07:24AM]	Bob used command ::tele 3040 4399 | Player rights = DEVELOPER	
+[2/6/18 07:24AM]	Bob used command ::gobect -1 | Player rights = DEVELOPER	
+[2/6/18 07:24AM]	Bob used command ::gobject -1 | Player rights = DEVELOPER	
+[2/6/18 07:25AM]	Bob used command ::gobject 11758 | Player rights = DEVELOPER	
+[2/6/18 07:31AM]	Bob used command ::coords | Player rights = DEVELOPER	
+[2/6/18 07:58AM]	Bob used command ::gobject 4406 | Player rights = DEVELOPER	
+[2/6/18 07:58AM]	Bob used command ::gobject 3826 | Player rights = DEVELOPER	
+[2/6/18 07:59AM]	Bob used command ::gobject 3078 | Player rights = DEVELOPER	
+[2/6/18 07:59AM]	Bob used command ::gobject 3078 | Player rights = DEVELOPER	
+[2/6/18 07:59AM]	Bob used command ::gobject 2507 | Player rights = DEVELOPER	
+[2/6/18 08:11AM]	Bob used command ::nex | Player rights = DEVELOPER	
+[2/6/18 08:11AM]	Bob used command ::hp | Player rights = DEVELOPER	
+[2/6/18 08:13AM]	Bob used command ::nex | Player rights = DEVELOPER	
+[2/6/18 08:14AM]	Bob used command ::coords | Player rights = DEVELOPER	
+[2/6/18 08:14AM]	Bob used command ::Home | Player rights = DEVELOPER	
+[2/6/18 08:15AM]	Bob used command ::nex | Player rights = DEVELOPER	
+[2/6/18 08:21AM]	Bob used command ::home | Player rights = DEVELOPER	
+[2/6/18 08:21AM]	Bob used command ::nex | Player rights = DEVELOPER	
+[2/6/18 08:27AM]	Bob used command ::empty | Player rights = DEVELOPER	
+[2/6/18 08:27AM]	Bob used command ::item 18830 100 | Player rights = DEVELOPER	
+[2/6/18 08:27AM]	Bob used command ::empty | Player rights = DEVELOPER	
+[2/6/18 08:27AM]	Bob used command ::item 18831 1 | Player rights = DEVELOPER	
+[2/6/18 08:27AM]	Bob used command ::item 18831 100 | Player rights = DEVELOPER	
+[2/6/18 08:42AM]	Bob used command ::rz | Player rights = DEVELOPER	
+[2/6/18 12:02PM]	Bob used command ::test | Player rights = DEVELOPER	
+[2/6/18 12:02PM]	Bob used command ::coords | Player rights = DEVELOPER	
+[2/10/18 09:09PM]	Login from host 86.162.191.1	
+[3/3/18 11:01PM]	Login from host 103.225.137.254	
+[3/3/18 11:03PM]	Player bought 4587 x 1 from shop	
+[3/3/18 11:03PM]	Player bought 1127 x 1 from shop	
+[3/3/18 11:03PM]	Player bought 1079 x 1 from shop	
+[3/3/18 11:03PM]	Player bought 3751 x 1 from shop	
+[3/3/18 11:03PM]	Player bought 3105 x 1 from shop	
+[3/3/18 11:03PM]	Player bought 1704 x 1 from shop	
+[3/3/18 11:03PM]	Player bought 11126 x 1 from shop	
+[3/3/18 11:03PM]	Player bought 1215 x 1 from shop	
+[3/3/18 11:07PM]	Player picking up item: [ItemDefinition(405)] - Name: Casket; equipment slot: 3; value: 909; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:08PM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:10PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:11PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:12PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:12PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:13PM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:14PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:14PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:15PM]	Player picking up item: [ItemDefinition(1627)] - Name: Uncut jade; equipment slot: 3; value: 35; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:15PM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:15PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:16PM]	Player picking up item: [ItemDefinition(2687)] - Name: Clue scroll (easy); equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:16PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:16PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:17PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:17PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:18PM]	Player picking up item: [ItemDefinition(25)] - Name: Red vine worm; equipment slot: 3; value: 14200; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:18PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:19PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:19PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:20PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:20PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:20PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:21PM]	Player picking up item: [ItemDefinition(25)] - Name: Red vine worm; equipment slot: 3; value: 14200; stackable ? true; noted ? false; 2h ? false amount: 3	
+[3/3/18 11:21PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:25PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:26PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:26PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:27PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:27PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:27PM]	Player picking up item: [ItemDefinition(25)] - Name: Red vine worm; equipment slot: 3; value: 14200; stackable ? true; noted ? false; 2h ? false amount: 2	
+[3/3/18 11:28PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:28PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:29PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:29PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:30PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:30PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:30PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:31PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:32PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:32PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:33PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:33PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:34PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:34PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:35PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:35PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:36PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:37PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:37PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:37PM]	Player dropping item: 1323, amount: 1	
+[3/3/18 11:37PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:38PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:39PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:40PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:40PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:41PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:41PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:42PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:42PM]	Player picking up item: [ItemDefinition(534)] - Name: Babydragon bones; equipment slot: 3; value: 35877; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:44PM]	Player dropping item: 1191, amount: 1	
+[3/3/18 11:44PM]	Player dropping item: 1478, amount: 1	
+[3/3/18 11:46PM]	Player dropping item: 4391, amount: 1	
+[3/3/18 11:46PM]	Player dropping item: 841, amount: 1	
+[3/3/18 11:46PM]	Player dropping item: 882, amount: 471	
+[3/3/18 11:46PM]	Player dropping item: 1095, amount: 1	
+[3/3/18 11:46PM]	Player dropping item: 1129, amount: 1	
+[3/3/18 11:46PM]	Player dropping item: 1169, amount: 1	
+[3/3/18 11:46PM]	Player bought 868 x 200 from shop	
+[3/3/18 11:46PM]	Player bought 10499 x 1 from shop	
+[3/3/18 11:46PM]	Player bought 2503 x 1 from shop	
+[3/3/18 11:46PM]	Player bought 2497 x 1 from shop	
+[3/3/18 11:46PM]	Player bought 2491 x 1 from shop	
+[3/3/18 11:46PM]	Player bought 6328 x 1 from shop	
+[3/3/18 11:46PM]	Player bought 3749 x 1 from shop	
+[3/3/18 11:48PM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:48PM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:49PM]	Player bought 3842 x 1 from shop	
+[3/3/18 11:49PM]	Player bought 3840 x 1 from shop	
+[3/3/18 11:49PM]	Player bought 542 x 1 from shop	
+[3/3/18 11:49PM]	Player bought 544 x 1 from shop	
+[3/3/18 11:50PM]	Player picking up item: [ItemDefinition(12160)] - Name: Crimson charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/3/18 11:51PM]	Player bought 861 x 1 from shop	
+[3/3/18 11:51PM]	Player bought 892 x 200 from shop	
+[3/3/18 11:51PM]	Player dropping item: 868, amount: 146	
+[3/3/18 11:51PM]	Player dropping item: 544, amount: 1	
+[3/3/18 11:51PM]	Player dropping item: 542, amount: 1	
+[3/3/18 11:52PM]	Player bought 3024 x 1 from shop	
+[3/3/18 11:52PM]	Player bought 3024 x 5 from shop	
+[3/3/18 11:52PM]	Player bought 391 x 1 from shop	
+[3/3/18 11:52PM]	Player bought 391 x 1 from shop	
+[3/3/18 11:52PM]	Player bought 391 x 5 from shop	
+[3/3/18 11:56PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 2600000	
+[3/3/18 11:56PM]	Player picking up item: [ItemDefinition(6686)] - Name: Saradomin brew (4); equipment slot: 3; value: 12257; stackable ? true; noted ? true; 2h ? false amount: 1	
+[3/3/18 11:56PM]	Player bought 3024 x 5 from shop	
+[3/3/18 11:57PM]	Player bought 892 x 1000 from shop	
+[3/4/18 12:00AM]	Login from host 103.225.137.254	
+[3/4/18 12:00AM]	Player picking up item: [ItemDefinition(2680)] - Name: Clue scroll (easy); equipment slot: 3; value: 1000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/4/18 12:01AM]	Player picking up item: [ItemDefinition(12160)] - Name: Crimson charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/4/18 12:01AM]	Player picking up item: [ItemDefinition(830)] - Name: Rune javelin; equipment slot: 13; value: 198; stackable ? true; noted ? false; 2h ? false amount: 5	
+[3/4/18 12:02AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 68000	
+[3/4/18 12:02AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 2	
+[3/4/18 12:03AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/4/18 12:03AM]	Player picking up item: [ItemDefinition(12160)] - Name: Crimson charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/4/18 12:04AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/4/18 12:04AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 34000	
+[3/4/18 12:33AM]	Bob used command ::answer smithing | Player rights = PLAYER	
+[3/4/18 12:34AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 34000	
+[3/4/18 12:34AM]	Player picking up item: [ItemDefinition(12163)] - Name: Blue charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/4/18 12:34AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/4/18 12:35AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/4/18 12:36AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 34000	
+[3/4/18 12:36AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/4/18 12:36AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 34000	
+[3/4/18 12:36AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/4/18 12:37AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 34000	
+[3/4/18 12:37AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/4/18 12:38AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/4/18 12:38AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 34000	
+[3/4/18 12:39AM]	Player dropping item: 229, amount: 1	
+[3/4/18 12:39AM]	Player dropping item: 229, amount: 1	
+[3/4/18 12:39AM]	Player picking up item: [ItemDefinition(12163)] - Name: Blue charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/4/18 12:40AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/4/18 12:40AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/4/18 12:41AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 34000	
+[3/4/18 12:41AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/4/18 12:42AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/4/18 12:43AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/4/18 12:43AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 2	
+[3/4/18 12:43AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 34000	
+[3/4/18 12:44AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 2	
+[3/4/18 12:44AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 34000	
+[3/4/18 12:45AM]	Player picking up item: [ItemDefinition(12160)] - Name: Crimson charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/4/18 12:45AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/4/18 12:46AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 34000	
+[3/4/18 12:47AM]	Player dropping item: 579, amount: 1	
+[3/4/18 12:47AM]	Player dropping item: 1627, amount: 1	
+[3/4/18 12:47AM]	Player dropping item: 1115, amount: 1	
+[3/4/18 12:47AM]	Player dropping item: 1067, amount: 1	
+[3/4/18 12:47AM]	Player dropping item: 577, amount: 1	
+[3/4/18 12:47AM]	Player dropping item: 1011, amount: 1	
+[3/4/18 12:50AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 2600000	
+[3/4/18 12:51AM]	Player bought 385 x 10 from shop	
+[3/4/18 12:51AM]	Player bought 385 x 10 from shop	
+[3/4/18 12:54AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 2600000	
+[3/4/18 12:54AM]	Player picking up item: [ItemDefinition(7114)] - Name: Pirate boots; equipment slot: 10; value: 1078; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/4/18 12:54AM]	Player bought 14501 x 1 from shop	
+[3/4/18 12:54AM]	Player bought 14497 x 1 from shop	
+[3/4/18 12:54AM]	Player bought 14499 x 1 from shop	
+[3/4/18 12:55AM]	Player dropping item: 229, amount: 1	
+[3/4/18 12:58AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 2600000	
+[3/4/18 12:58AM]	Player picking up item: [ItemDefinition(560)] - Name: Death rune; equipment slot: 3; value: 229; stackable ? true; noted ? false; 2h ? false amount: 150	
+[3/4/18 12:58AM]	Player bought 4105 x 1 from shop	
+[3/4/18 12:58AM]	Player bought 4107 x 1 from shop	
+[3/4/18 12:58AM]	Player bought 4675 x 1 from shop	
+[3/4/18 12:58AM]	Player bought 2414 x 1 from shop	
+[3/4/18 12:58AM]	Player bought 560 x 2000 from shop	
+[3/4/18 12:58AM]	Player bought 565 x 4000 from shop	
+[3/4/18 12:59AM]	Player dropping item: 385, amount: 1	
+[3/4/18 12:59AM]	Player dropping item: 385, amount: 1	
+[3/4/18 12:59AM]	Player dropping item: 385, amount: 1	
+[3/4/18 12:59AM]	Login from host 103.225.137.254	
+[3/4/18 01:02AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/4/18 01:02AM]	Player picking up item: [ItemDefinition(12160)] - Name: Crimson charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/4/18 01:03AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/4/18 01:09AM]	Bob used command ::answer 75000 | Player rights = PLAYER	
+[3/4/18 01:09AM]	Bob used command ::answer 75000 | Player rights = PLAYER	
+[3/4/18 01:10AM]	Player dropping item: 1381, amount: 1	
+[3/4/18 01:10AM]	Player dropping item: 229, amount: 1	
+[3/4/18 01:10AM]	Player bought 6199 x 5 from shop	
+[3/4/18 01:11AM]	Player bought 3040 x 1 from shop	
+[3/4/18 01:14AM]	Player picking up item: [ItemDefinition(6889)] - Name: Mages' book; equipment slot: 5; value: 6000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/4/18 01:14AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 2600000	
+[3/4/18 01:14AM]	Player picking up item: [ItemDefinition(7945)] - Name: Raw monkfish; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 120	
+[3/4/18 01:17AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 2600000	
+[3/4/18 01:17AM]	Player dropping item: 229, amount: 1	
+[3/4/18 01:19AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 2600000	
+[3/4/18 01:19AM]	Player picking up item: [ItemDefinition(565)] - Name: Blood rune; equipment slot: 3; value: 1688; stackable ? true; noted ? false; 2h ? false amount: 60	
+[3/4/18 01:22AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 2600000	
+[3/4/18 01:22AM]	Player picking up item: [ItemDefinition(25)] - Name: Red vine worm; equipment slot: 3; value: 14200; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/4/18 01:22AM]	Player picking up item: [ItemDefinition(555)] - Name: Water rune; equipment slot: 3; value: 120; stackable ? true; noted ? false; 2h ? false amount: 400	
+[3/4/18 01:24AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 2600000	
+[3/4/18 01:26AM]	Player picking up item: [ItemDefinition(2434)] - Name: Prayer potion (4); equipment slot: 3; value: 9277; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/4/18 01:26AM]	Player picking up item: [ItemDefinition(391)] - Name: Manta ray; equipment slot: 3; value: 998; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/4/18 01:26AM]	Bob used command ::answer smithing | Player rights = PLAYER	
+[3/4/18 01:26AM]	Bob used command ::answer smithing | Player rights = PLAYER	
+[3/4/18 01:28AM]	Player bought 565 x 4000 from shop	
+[3/4/18 01:28AM]	Player bought 560 x 2000 from shop	
+[3/4/18 01:28AM]	Player bought 2434 x 10 from shop	
+[3/4/18 01:28AM]	Player bought 2434 x 1 from shop	
+[3/4/18 01:28AM]	Player bought 2434 x 1 from shop	
+[3/4/18 01:28AM]	Player bought 2434 x 1 from shop	
+[3/4/18 01:28AM]	Player bought 391 x 1 from shop	
+[3/4/18 01:28AM]	Player bought 391 x 1 from shop	
+[3/4/18 01:29AM]	Player bought 3040 x 1 from shop	
+[3/4/18 01:29AM]	Player bought 2442 x 5 from shop	
+[3/4/18 01:29AM]	Player bought 3040 x 1 from shop	
+[3/4/18 01:29AM]	Player bought 2442 x 1 from shop	
+[3/4/18 01:29AM]	Player bought 2442 x 1 from shop	
+[3/4/18 01:31AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 2600000	
+[3/4/18 01:34AM]	Player picking up item: [ItemDefinition(402)] - Name: Seaweed; equipment slot: 3; value: 394; stackable ? true; noted ? true; 2h ? false amount: 7	
+[3/4/18 01:34AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 2600000	
+[3/4/18 01:36AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 2600000	
+[3/4/18 01:36AM]	Player dropping item: 229, amount: 1	
+[3/4/18 01:39AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 2600000	
+[3/4/18 01:41AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 2600000	
+[3/4/18 01:53AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 2600000	
+[3/4/18 01:55AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 2600000	
+[3/4/18 01:55AM]	Player picking up item: [ItemDefinition(1303)] - Name: Rune longsword; equipment slot: 3; value: 23100; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/4/18 01:57AM]	Player bought 3842 x 1 from shop	
+[3/4/18 01:57AM]	Player bought 2550 x 1 from shop	
+[3/4/18 01:57AM]	Player bought 6568 x 1 from shop	
+[3/4/18 01:57AM]	Player bought 2434 x 10 from shop	
+[3/4/18 01:57AM]	Player bought 2434 x 5 from shop	
+[3/4/18 01:57AM]	Player bought 2434 x 1 from shop	
+[3/4/18 01:57AM]	Player bought 385 x 5 from shop	
+[3/4/18 01:59AM]	Player bought 6 x 1 from shop	
+[3/4/18 01:59AM]	Player bought 12 x 1 from shop	
+[3/4/18 01:59AM]	Player bought 10 x 1 from shop	
+[3/4/18 01:59AM]	Player bought 8 x 1 from shop	
+[3/4/18 01:59AM]	Player bought 2 x 5000 from shop	
+[3/4/18 01:59AM]	Login from host 103.225.137.254	
+[3/4/18 02:00AM]	Player bought 2347 x 1 from shop	
+[3/4/18 02:06AM]	Player picking up item: [ItemDefinition(2677)] - Name: Clue scroll (easy); equipment slot: 3; value: 1000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/4/18 02:07AM]	Player picking up item: [ItemDefinition(12160)] - Name: Crimson charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/4/18 02:07AM]	Player picking up item: [ItemDefinition(12163)] - Name: Blue charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/4/18 02:10AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/4/18 02:12AM]	Player dropping item: 229, amount: 1	
+[3/4/18 02:12AM]	Player dropping item: 229, amount: 1	
+[3/4/18 02:16AM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/4/18 02:17AM]	Player picking up item: [ItemDefinition(2683)] - Name: Clue scroll (easy); equipment slot: 3; value: 1000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/4/18 02:19AM]	Bob used command ::answer 37 | Player rights = PLAYER	
+[3/4/18 02:22AM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/4/18 02:22AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/4/18 02:24AM]	Player dropping item: 229, amount: 1	
+[3/4/18 02:24AM]	Player dropping item: 229, amount: 1	
+[3/4/18 02:28AM]	Player bought 562 x 1000 from shop	
+[3/4/18 02:29AM]	Player bought 556 x 2000 from shop	
+[3/4/18 02:29AM]	Player bought 557 x 2000 from shop	
+[3/4/18 02:32AM]	Player picking up item: [ItemDefinition(4224)] - Name: New crystal shield; equipment slot: 5; value: 762200; stackable ? false; noted ? false; 2h ? true amount: 1	
+[3/4/18 02:32AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 1500000	
+[3/4/18 02:32AM]	Player picking up item: [ItemDefinition(565)] - Name: Blood rune; equipment slot: 3; value: 1688; stackable ? true; noted ? false; 2h ? false amount: 100	
+[3/4/18 02:32AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 3	
+[3/4/18 02:32AM]	Player picking up item: [ItemDefinition(554)] - Name: Fire rune; equipment slot: 3; value: 180; stackable ? true; noted ? false; 2h ? false amount: 500	
+[3/4/18 02:34AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 1500000	
+[3/4/18 02:34AM]	Player picking up item: [ItemDefinition(2366)] - Name: Shield left half; equipment slot: 5; value: 38900; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/4/18 02:34AM]	Player dropping item: 391, amount: 1	
+[3/4/18 02:34AM]	Player dropping item: 391, amount: 1	
+[3/4/18 02:34AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 4	
+[3/4/18 02:34AM]	Player picking up item: [ItemDefinition(12160)] - Name: Crimson charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/4/18 02:37AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 1513500	
+[3/4/18 02:37AM]	Player picking up item: [ItemDefinition(565)] - Name: Blood rune; equipment slot: 3; value: 1688; stackable ? true; noted ? false; 2h ? false amount: 100	
+[3/4/18 02:37AM]	Player picking up item: [ItemDefinition(554)] - Name: Fire rune; equipment slot: 3; value: 180; stackable ? true; noted ? false; 2h ? false amount: 500	
+[3/4/18 02:37AM]	Player dropping item: 229, amount: 1	
+[3/4/18 02:39AM]	Player picking up item: [ItemDefinition(2677)] - Name: Clue scroll (easy); equipment slot: 3; value: 1000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/4/18 02:39AM]	Player picking up item: [ItemDefinition(1127)] - Name: Rune platebody; equipment slot: 4; value: 64000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/4/18 02:39AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 1500000	
+[3/4/18 02:39AM]	Player picking up item: [ItemDefinition(565)] - Name: Blood rune; equipment slot: 3; value: 1688; stackable ? true; noted ? false; 2h ? false amount: 100	
+[3/4/18 02:39AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 3	
+[3/4/18 02:43AM]	Bob used command ::rules | Player rights = PLAYER	
+[3/4/18 02:45AM]	Player bought 868 x 5000 from shop	
+[3/4/18 02:47AM]	Bob used command ::discord | Player rights = PLAYER	
+[3/4/18 02:47AM]	Bob used command ::[FRI]Daking | Player rights = PLAYER	
+[3/4/18 02:49AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 1513500	
+[3/4/18 02:49AM]	Player picking up item: [ItemDefinition(1458)] - Name: Law talisman; equipment slot: 3; value: 20000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/4/18 02:49AM]	Player picking up item: [ItemDefinition(557)] - Name: Earth rune; equipment slot: 3; value: 120; stackable ? true; noted ? false; 2h ? false amount: 1500	
+[3/4/18 02:49AM]	Player picking up item: [ItemDefinition(556)] - Name: Air rune; equipment slot: 3; value: 90; stackable ? true; noted ? false; 2h ? false amount: 800	
+[3/4/18 02:51AM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/4/18 02:51AM]	Player picking up item: [ItemDefinition(560)] - Name: Death rune; equipment slot: 3; value: 229; stackable ? true; noted ? false; 2h ? false amount: 100	
+[3/4/18 02:51AM]	Player picking up item: [ItemDefinition(200)] - Name: Grimy guam; equipment slot: 3; value: 2817; stackable ? true; noted ? true; 2h ? false amount: 35	
+[3/4/18 02:51AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 1513500	
+[3/4/18 02:53AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 1500000	
+[3/4/18 02:53AM]	Player picking up item: [ItemDefinition(1438)] - Name: Air talisman; equipment slot: 3; value: 1000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/4/18 02:53AM]	Player picking up item: [ItemDefinition(12163)] - Name: Blue charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 2	
+[3/4/18 02:53AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/4/18 02:57AM]	Player dropping item: 229, amount: 1	
+[3/4/18 02:57AM]	Player bought 385 x 10 from shop	
+[3/4/18 02:57AM]	Player dropping item: 1458, amount: 1	
+[3/4/18 02:59AM]	Player dropping item: 1704, amount: 1	
+[3/4/18 02:59AM]	Player dropping item: 1438, amount: 1	
+[3/4/18 02:59AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 1500000	
+[3/4/18 02:59AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 3	
+[3/4/18 03:02AM]	Login from host 103.225.137.254	
+[3/4/18 03:02AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 3	
+[3/4/18 03:02AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 1500000	
+[3/4/18 03:59AM]	Login from host 103.225.137.254	
+[3/4/18 04:59AM]	Login from host 103.225.137.254	
+[3/4/18 05:59AM]	Login from host 103.225.137.254	
+[3/4/18 06:12AM]	Bob used command ::players | Player rights = PLAYER	
+[3/4/18 06:27AM]	Bob used command ::answer barrows | Player rights = PLAYER	
+[3/4/18 06:59AM]	Login from host 103.225.137.254	
+[3/6/18 08:16PM]	Login from host 103.225.137.254	
+[3/6/18 08:16PM]	Player bought 811 x 1 from shop	
+[3/6/18 08:16PM]	Player dropping item: 811, amount: 1	
+[3/6/18 08:16PM]	Player dropping item: 3030, amount: 1	
+[3/6/18 08:16PM]	Player picking up item: [ItemDefinition(811)] - Name: Rune dart; equipment slot: 3; value: 511; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/6/18 08:17PM]	Player bought 2434 x 10 from shop	
+[3/6/18 08:18PM]	Player bought 1265 x 1 from shop	
+[3/6/18 08:18PM]	Player bought 1275 x 1 from shop	
+[3/6/18 08:19PM]	Player dropping item: 1617, amount: 1	
+[3/6/18 08:19PM]	Bob used command ::answer Rigour | Player rights = PLAYER	
+[3/6/18 08:19PM]	Player bought 1273 x 1 from shop	
+[3/6/18 08:19PM]	Player bought 1271 x 1 from shop	
+[3/6/18 08:20PM]	Player bought 2347 x 1 from shop	
+[3/6/18 08:20PM]	Player dropping item: 1205, amount: 1	
+[3/6/18 08:20PM]	Player dropping item: 1205, amount: 1	
+[3/6/18 08:20PM]	Player dropping item: 1205, amount: 1	
+[3/6/18 08:20PM]	Player dropping item: 1205, amount: 1	
+[3/6/18 08:21PM]	Player dropping item: 1265, amount: 1	
+[3/6/18 08:21PM]	Player dropping item: 1619, amount: 1	
+[3/6/18 08:21PM]	Player picking up item: [ItemDefinition(1619)] - Name: Uncut ruby; equipment slot: 3; value: 950; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/6/18 08:21PM]	Player dropping item: 1619, amount: 1	
+[3/6/18 08:23PM]	Player bought 6199 x 10 from shop	
+[3/6/18 08:24PM]	Player dropping item: 1271, amount: 1	
+[3/6/18 08:24PM]	Player bought 2491 x 1 from shop	
+[3/6/18 08:25PM]	Player bought 2444 x 1 from shop	
+[3/6/18 08:25PM]	Player bought 2444 x 1 from shop	
+[3/6/18 08:25PM]	Player bought 2442 x 1 from shop	
+[3/6/18 08:25PM]	Player bought 2434 x 10 from shop	
+[3/6/18 08:25PM]	Player bought 385 x 10 from shop	
+[3/6/18 08:25PM]	Player bought 385 x 10 from shop	
+[3/6/18 08:26PM]	Player picking up item: [ItemDefinition(2685)] - Name: Clue scroll (easy); equipment slot: 3; value: 1000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/6/18 08:26PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 1513500	
+[3/6/18 08:26PM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 4	
+[3/6/18 08:28PM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/6/18 08:28PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 1513500	
+[3/6/18 08:28PM]	Player picking up item: [ItemDefinition(200)] - Name: Grimy guam; equipment slot: 3; value: 2817; stackable ? true; noted ? true; 2h ? false amount: 35	
+[3/6/18 08:29PM]	Bob received a Dragon full helm from Slash Bash	
+[3/6/18 08:29PM]	Player picking up item: [ItemDefinition(11335)] - Name: Dragon full helm; equipment slot: 0; value: 1000002; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/6/18 08:29PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 1500000	
+[3/6/18 08:29PM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 4	
+[3/6/18 08:29PM]	Player picking up item: [ItemDefinition(12163)] - Name: Blue charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 2	
+[3/6/18 08:31PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 1500000	
+[3/6/18 08:31PM]	Player picking up item: [ItemDefinition(4675)] - Name: Ancient staff; equipment slot: 3; value: 76800; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/6/18 08:31PM]	Player dropping item: 4675, amount: 1	
+[3/6/18 08:31PM]	Player picking up item: [ItemDefinition(12163)] - Name: Blue charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 12:46AM]	Login from host 103.225.137.254	
+[3/8/18 12:59AM]	Bob used command ::answer dark beast | Player rights = PLAYER	
+[3/8/18 12:59AM]	Login from host 103.225.137.254	
+[3/8/18 01:07AM]	Login from host 103.225.137.254	

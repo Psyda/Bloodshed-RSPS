@@ -1,0 +1,3 @@
+[2/6/18 08:12AM]	Login from host 148.252.128.25	
+[2/6/18 08:14AM]	Testing used command ::home | Player rights = PLAYER	
+[2/6/18 08:15AM]	Login from host 148.252.128.25	

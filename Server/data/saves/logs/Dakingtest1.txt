@@ -1,0 +1,16 @@
+[3/5/18 01:09AM]	Login from host 175.36.234.114	
+[3/5/18 01:10AM]	Receiving item from Daking. ItemName: $50 Scroll, itemId: 10935 amount: 1	
+[3/5/18 01:16AM]	Login from host 175.36.234.114	
+[3/5/18 01:16AM]	Dakingtest1 used command ::gz | Player rights = GOLD_MEMBER	
+[3/5/18 01:16AM]	Dakingtest1 used command ::gzone | Player rights = GOLD_MEMBER	
+[3/5/18 01:17AM]	Dakingtest1 used command ::gz | Player rights = GOLD_MEMBER	
+[3/5/18 01:17AM]	Dakingtest1 used command ::rz | Player rights = GOLD_MEMBER	
+[3/5/18 01:17AM]	Dakingtest1 used command ::gz | Player rights = GOLD_MEMBER	
+[3/5/18 01:18AM]	Dakingtest1 used command ::gz | Player rights = PLAYER	
+[3/5/18 01:18AM]	Dakingtest1 used command ::gz | Player rights = SILVER_MEMBER	
+[3/5/18 01:18AM]	Login from host 175.36.234.114	
+[3/5/18 01:19AM]	Dakingtest1 used command ::gz | Player rights = GOLD_MEMBER	
+[3/5/18 04:11PM]	Login from host 175.36.234.114	
+[3/5/18 04:11PM]	Dakingtest1 used command ::gz | Player rights = GOLD_MEMBER	
+[3/5/18 04:11PM]	Dakingtest1 used command ::yell conor do ::gz | Player rights = GOLD_MEMBER	
+[3/5/18 04:42PM]	Dakingtest1 used command ::rz | Player rights = GOLD_MEMBER	

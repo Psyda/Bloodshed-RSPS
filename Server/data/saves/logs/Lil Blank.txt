@@ -1,0 +1,11 @@
+[2/11/18 03:03AM]	Login from host 125.168.0.163	
+[2/11/18 03:05AM]	Player bought 1351 x 1 from shop	
+[2/11/18 03:23AM]	Player bought 1359 x 1 from shop	
+[2/11/18 03:41AM]	Lil Blank used command ::answer 5 | Player rights = PLAYER	
+[2/11/18 03:41AM]	Lil Blank used command ::home | Player rights = PLAYER	
+[2/11/18 03:46AM]	Player picking up item: [ItemDefinition(5074)] - Name: Bird's nest; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 03:46AM]	Player dropping item: 1643, amount: 1	
+[2/11/18 04:07AM]	Lil Blank used command ::Drop | Player rights = PLAYER	
+[2/11/18 04:13AM]	Lil Blank used command ::Drop | Player rights = PLAYER	
+[2/11/18 04:29AM]	Player picking up item: [ItemDefinition(19803)] - Name: Elite void knight torso; equipment slot: 4; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 04:35AM]	Gave item in trade to Mrblank. Id: 19803, amount: 1	

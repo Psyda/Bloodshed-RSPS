@@ -1,0 +1,537 @@
+[2/10/18 09:09PM]	Login from host 86.162.191.1	
+[2/10/18 09:11PM]	Help used command ::[CN] Z | Player rights = PLAYER	
+[2/11/18 12:53AM]	Login from host 86.162.191.1	
+[2/11/18 12:54AM]	Help used command ::help | Player rights = PLAYER	
+[2/11/18 05:48AM]	Login from host 86.166.91.225	
+[2/11/18 05:56AM]	Help used command ::help | Player rights = PLAYER	
+[2/11/18 05:56AM]	Help used command ::help | Player rights = PLAYER	
+[2/11/18 05:56AM]	Help used command ::help | Player rights = PLAYER	
+[2/11/18 05:56AM]	Help used command ::help | Player rights = PLAYER	
+[2/11/18 05:56AM]	Help used command ::help | Player rights = PLAYER	
+[2/11/18 05:58AM]	Help used command ::home | Player rights = PLAYER	
+[2/11/18 05:59AM]	Help used command ::yell f | Player rights = PLAYER	
+[2/11/18 06:01AM]	Help used command ::teleto ace | Player rights = PLAYER	
+[2/11/18 06:03AM]	Help used command ::home2 | Player rights = PLAYER	
+[2/11/18 06:06AM]	Help used command ::home | Player rights = PLAYER	
+[2/11/18 06:12AM]	Login from host 86.166.91.225	
+[2/11/18 06:18AM]	Player dropping item: 995, amount: 6	
+[2/11/18 06:18AM]	Help used command ::home | Player rights = PLAYER	
+[2/11/18 06:22AM]	Login from host 86.164.80.41	
+[2/11/18 06:24AM]	Login from host 86.164.80.41	
+[2/11/18 06:24AM]	Help used command ::home | Player rights = PLAYER	
+[2/11/18 06:30AM]	Login from host 86.157.245.154	
+[2/11/18 06:48AM]	Login from host 86.157.245.154	
+[2/11/18 06:52AM]	Help used command ::teleto daking | Player rights = SUPPORT	
+[2/11/18 06:52AM]	Help used command ::teleto daking | Player rights = SUPPORT	
+[2/11/18 06:53AM]	Help used command ::teleto daking | Player rights = SUPPORT	
+[2/11/18 06:53AM]	Help used command ::home | Player rights = SUPPORT	
+[2/11/18 06:58AM]	Help used command ::rz | Player rights = SUPPORT	
+[2/11/18 07:00AM]	Help used command ::max | Player rights = SUPPORT	
+[2/11/18 07:00AM]	Help used command ::maxed | Player rights = SUPPORT	
+[2/11/18 07:07AM]	Help used command ::answer dark beast | Player rights = SUPPORT	
+[2/11/18 07:07AM]	Help used command ::answer phoenix | Player rights = SUPPORT	
+[2/11/18 07:10AM]	Help used command ::god | Player rights = SUPPORT	
+[2/11/18 07:10AM]	Help used command ::teleto daking | Player rights = SUPPORT	
+[2/11/18 07:13AM]	Login from host 86.157.245.154	
+[2/11/18 07:13AM]	Help used command ::home | Player rights = SUPPORT	
+[2/11/18 07:23AM]	Help used command ::di | Player rights = SUPPORT	
+[2/11/18 07:24AM]	Help used command ::home | Player rights = SUPPORT	
+[2/11/18 07:25AM]	Help used command ::teleto daking | Player rights = SUPPORT	
+[2/11/18 07:59AM]	Login from host 86.157.245.154	
+[2/11/18 09:36AM]	Login from host 86.157.245.154	
+[2/11/18 09:36AM]	Help used command ::hiscores | Player rights = SUPPORT	
+[2/11/18 10:03AM]	Login from host 86.157.245.154	
+[2/11/18 10:03AM]	Help used command ::rz | Player rights = SUPPORT	
+[2/11/18 10:04AM]	Help used command ::vote | Player rights = SUPPORT	
+[2/11/18 10:06AM]	Help used command ::Store | Player rights = SUPPORT	
+[2/11/18 10:38AM]	Login from host 86.157.245.154	
+[2/11/18 10:38AM]	Help used command ::teleto mrblank | Player rights = SUPPORT	
+[2/11/18 10:38AM]	Help used command ::teleto mrblank | Player rights = SUPPORT	
+[2/11/18 10:38AM]	Help used command ::teleto mrblank | Player rights = SUPPORT	
+[2/11/18 10:38AM]	Gave item in trade to Mrblank. Id: 995, amount: 1	
+[2/11/18 10:38AM]	Receiving item from trade. Id: 20059, amount: 1 from: Mrblank	
+[2/11/18 10:38AM]	Help used command ::home | Player rights = SUPPORT	
+[2/11/18 10:38AM]	Help used command ::di | Player rights = SUPPORT	
+[2/11/18 12:06PM]	Login from host 86.157.245.154	
+[2/11/18 12:06PM]	Help used command ::teleto lootz | Player rights = SUPPORT	
+[2/11/18 03:14PM]	Login from host 86.157.245.154	
+[2/11/18 03:16PM]	Receiving item from trade. Id: 15501, amount: 4653 from: Daking	
+[2/11/18 03:17PM]	Help used command ::[FRI]Daking | Player rights = SUPPORT	
+[2/11/18 03:18PM]	Help used command ::empty | Player rights = SUPPORT	
+[2/11/18 03:21PM]	Player picking up item: [ItemDefinition(15260)] - Name: Dragon pickaxe; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 1	
+[2/11/18 03:21PM]	Player picking up item: [ItemDefinition(6923)] - Name: Infinity gloves; equipment slot: 9; value: 174080; stackable ? true; noted ? true; 2h ? false amount: 1	
+[2/11/18 03:21PM]	Player picking up item: [ItemDefinition(11)] - Name: Cannon barrels; equipment slot: 3; value: 1617000; stackable ? true; noted ? true; 2h ? false amount: 1	
+[2/11/18 03:21PM]	Player picking up item: [ItemDefinition(6921)] - Name: Infinity boots; equipment slot: 10; value: 147400; stackable ? true; noted ? true; 2h ? false amount: 1	
+[2/11/18 03:21PM]	Player picking up item: [ItemDefinition(13868)] - Name: Zuriel's staff; equipment slot: 3; value: 1260800; stackable ? true; noted ? true; 2h ? false amount: 1	
+[2/11/18 03:21PM]	Player picking up item: [ItemDefinition(11699)] - Name: Saradomin godsword; equipment slot: 3; value: 10000002; stackable ? true; noted ? true; 2h ? true amount: 1	
+[2/11/18 03:21PM]	Player picking up item: [ItemDefinition(2582)] - Name: Robin hood hat; equipment slot: 0; value: 480000; stackable ? true; noted ? true; 2h ? false amount: 1	
+[2/11/18 03:21PM]	Player picking up item: [ItemDefinition(11284)] - Name: Dragonfire shield; equipment slot: 5; value: 25000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 03:23PM]	Player picking up item: [ItemDefinition(11723)] - Name: Armadyl chainskirt; equipment slot: 7; value: 1000002; stackable ? true; noted ? true; 2h ? false amount: 1	
+[2/11/18 03:23PM]	Player picking up item: [ItemDefinition(15260)] - Name: Dragon pickaxe; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 1	
+[2/11/18 03:23PM]	Player picking up item: [ItemDefinition(6586)] - Name: Amulet of fury; equipment slot: 2; value: 12500000; stackable ? true; noted ? true; 2h ? false amount: 1	
+[2/11/18 03:23PM]	Player picking up item: [ItemDefinition(6923)] - Name: Infinity gloves; equipment slot: 9; value: 174080; stackable ? true; noted ? true; 2h ? false amount: 1	
+[2/11/18 03:27PM]	Player picking up item: [ItemDefinition(11284)] - Name: Dragonfire shield; equipment slot: 5; value: 25000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 03:29PM]	Player picking up item: [ItemDefinition(11721)] - Name: Armadyl chestplate; equipment slot: 4; value: 1000002; stackable ? true; noted ? true; 2h ? false amount: 1	
+[2/11/18 03:42PM]	Player picking up item: [ItemDefinition(6570)] - Name: Fire cape; equipment slot: 1; value: 100000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 03:52PM]	Help used command ::bank | Player rights = SUPPORT	
+[2/11/18 03:52PM]	Help used command ::bank | Player rights = SUPPORT	
+[2/11/18 03:53PM]	Player bought 6685 x 10 from shop	
+[2/11/18 03:53PM]	Player bought 6685 x 10 from shop	
+[2/11/18 03:53PM]	Help used command ::di | Player rights = SUPPORT	
+[2/11/18 03:53PM]	Player bought 15333 x 1 from shop	
+[2/11/18 03:57PM]	Player bought 7462 x 1 from shop	
+[2/11/18 03:58PM]	Help used command ::teleto daking | Player rights = SUPPORT	
+[2/11/18 04:20PM]	Login from host 86.157.245.154	
+[2/11/18 04:21PM]	Help used command ::empty | Player rights = SUPPORT	
+[2/11/18 04:21PM]	Help used command ::home | Player rights = SUPPORT	
+[2/11/18 04:30PM]	Help used command ::[FRI]Lil Daking | Player rights = SUPPORT	
+[2/11/18 04:32PM]	Help used command ::teleto daking | Player rights = SUPPORT	
+[2/11/18 04:32PM]	Help used command ::teleto lil daking | Player rights = SUPPORT	
+[2/11/18 04:35PM]	Gave item in trade to Z. Id: 20000, amount: 1	
+[2/11/18 04:35PM]	Gave item in trade to Z. Id: 20000, amount: 1	
+[2/11/18 04:35PM]	Gave item in trade to Z. Id: 14485, amount: 2	
+[2/11/18 04:35PM]	Gave item in trade to Z. Id: 11699, amount: 2	
+[2/11/18 04:35PM]	Gave item in trade to Z. Id: 14008, amount: 1	
+[2/11/18 04:35PM]	Gave item in trade to Z. Id: 14008, amount: 1	
+[2/11/18 04:35PM]	Gave item in trade to Z. Id: 14009, amount: 1	
+[2/11/18 04:35PM]	Gave item in trade to Z. Id: 14009, amount: 1	
+[2/11/18 04:35PM]	Gave item in trade to Z. Id: 14010, amount: 1	
+[2/11/18 04:35PM]	Gave item in trade to Z. Id: 14010, amount: 1	
+[2/11/18 04:35PM]	Gave item in trade to Z. Id: 11613, amount: 1	
+[2/11/18 04:35PM]	Gave item in trade to Z. Id: 20059, amount: 1	
+[2/11/18 04:35PM]	Gave item in trade to Z. Id: 11731, amount: 2	
+[2/11/18 04:35PM]	Gave item in trade to Z. Id: 11236, amount: 2	
+[2/11/18 04:35PM]	Gave item in trade to Z. Id: 19336, amount: 1	
+[2/11/18 04:35PM]	Gave item in trade to Z. Id: 19336, amount: 1	
+[2/11/18 04:35PM]	Gave item in trade to Z. Id: 11697, amount: 2	
+[2/11/18 04:35PM]	Gave item in trade to Z. Id: 11721, amount: 2	
+[2/11/18 04:35PM]	Gave item in trade to Z. Id: 20002, amount: 1	
+[2/11/18 04:35PM]	Gave item in trade to Z. Id: 20002, amount: 1	
+[2/11/18 04:35PM]	Gave item in trade to Z. Id: 11723, amount: 2	
+[2/11/18 04:35PM]	Gave item in trade to Z. Id: 19338, amount: 1	
+[2/11/18 04:35PM]	Gave item in trade to Z. Id: 19338, amount: 1	
+[2/11/18 04:35PM]	Gave item in trade to Z. Id: 13903, amount: 2	
+[2/11/18 04:35PM]	Gave item in trade to Z. Id: 13900, amount: 2	
+[2/11/18 04:35PM]	Gave item in trade to Z. Id: 19780, amount: 1	
+[2/11/18 04:35PM]	Gave item in trade to Z. Id: 19780, amount: 1	
+[2/11/18 04:35PM]	Gave item in trade to Z. Id: 11613, amount: 1	
+[2/11/18 04:38PM]	Gave item in trade to Z. Id: 11727, amount: 2	
+[2/11/18 04:38PM]	Gave item in trade to Z. Id: 19337, amount: 1	
+[2/11/18 04:38PM]	Gave item in trade to Z. Id: 19337, amount: 1	
+[2/11/18 04:38PM]	Gave item in trade to Z. Id: 11719, amount: 2	
+[2/11/18 04:38PM]	Gave item in trade to Z. Id: 17274, amount: 2	
+[2/11/18 04:38PM]	Gave item in trade to Z. Id: 13868, amount: 2	
+[2/11/18 04:38PM]	Gave item in trade to Z. Id: 15242, amount: 2	
+[2/11/18 04:38PM]	Gave item in trade to Z. Id: 4152, amount: 10	
+[2/11/18 04:38PM]	Gave item in trade to Z. Id: 11283, amount: 1	
+[2/11/18 04:38PM]	Gave item in trade to Z. Id: 11283, amount: 1	
+[2/11/18 04:38PM]	Gave item in trade to Z. Id: 19340, amount: 1	
+[2/11/18 04:38PM]	Gave item in trade to Z. Id: 19340, amount: 1	
+[2/11/18 04:38PM]	Gave item in trade to Z. Id: 20001, amount: 1	
+[2/11/18 04:38PM]	Gave item in trade to Z. Id: 20001, amount: 1	
+[2/11/18 04:38PM]	Gave item in trade to Z. Id: 6740, amount: 2	
+[2/11/18 04:38PM]	Gave item in trade to Z. Id: 15260, amount: 2	
+[2/11/18 04:38PM]	Gave item in trade to Z. Id: 13897, amount: 2	
+[2/11/18 04:38PM]	Gave item in trade to Z. Id: 11701, amount: 2	
+[2/11/18 04:38PM]	Gave item in trade to Z. Id: 15127, amount: 2	
+[2/11/18 04:38PM]	Gave item in trade to Z. Id: 11725, amount: 2	
+[2/11/18 04:38PM]	Gave item in trade to Z. Id: 10551, amount: 1	
+[2/11/18 04:38PM]	Gave item in trade to Z. Id: 10551, amount: 1	
+[2/11/18 04:45PM]	Gave item in trade to Z. Id: 15220, amount: 1	
+[2/11/18 04:45PM]	Gave item in trade to Z. Id: 15220, amount: 1	
+[2/11/18 04:45PM]	Gave item in trade to Z. Id: 15018, amount: 1	
+[2/11/18 04:45PM]	Gave item in trade to Z. Id: 15018, amount: 1	
+[2/11/18 04:45PM]	Gave item in trade to Z. Id: 15020, amount: 1	
+[2/11/18 04:45PM]	Gave item in trade to Z. Id: 15020, amount: 1	
+[2/11/18 04:45PM]	Gave item in trade to Z. Id: 6586, amount: 2	
+[2/11/18 04:45PM]	Gave item in trade to Z. Id: 15019, amount: 1	
+[2/11/18 04:45PM]	Gave item in trade to Z. Id: 15019, amount: 1	
+[2/11/18 04:45PM]	Gave item in trade to Z. Id: 11283, amount: 1	
+[2/11/18 04:45PM]	Gave item in trade to Z. Id: 11283, amount: 1	
+[2/11/18 04:45PM]	Gave item in trade to Z. Id: 15487, amount: 2	
+[2/11/18 04:45PM]	Gave item in trade to Z. Id: 15501, amount: 100	
+[2/11/18 04:50PM]	Player bought 554 x 50 from shop	
+[2/11/18 04:51PM]	Player bought 561 x 10 from shop	
+[2/11/18 04:57PM]	Help used command ::rz | Player rights = SUPPORT	
+[2/11/18 05:05PM]	Player bought 561 x 200 from shop	
+[2/11/18 05:05PM]	Player dropping item: 15018, amount: 1	
+[2/11/18 05:05PM]	Player bought 1387 x 1 from shop	
+[2/11/18 05:20PM]	Help used command ::store | Player rights = SUPPORT	
+[2/11/18 05:22PM]	Gave item in trade to Z. Id: 12632, amount: 70	
+[2/11/18 05:42PM]	Login from host 86.157.245.154	
+[2/12/18 07:52PM]	Login from host 86.161.214.112	
+[2/12/18 07:53PM]	Help used command ::title | Player rights = SUPPORT	
+[2/12/18 08:00PM]	Help used command ::vote | Player rights = SUPPORT	
+[2/12/18 08:01PM]	Help used command ::vote | Player rights = SUPPORT	
+[2/12/18 08:01PM]	Help used command ::reward 1 | Player rights = SUPPORT	
+[2/12/18 08:01PM]	Help used command ::reward | Player rights = SUPPORT	
+[2/12/18 08:15PM]	Login from host 86.161.214.112	
+[2/12/18 08:15PM]	Receiving item from trade. Id: 4084, amount: 1 from: Z	
+[2/12/18 08:15PM]	Receiving item from trade. Id: 20998, amount: 1 from: Z	
+[2/12/18 08:15PM]	Receiving item from trade. Id: 11288, amount: 1 from: Z	
+[2/12/18 08:31PM]	Help used command ::teleto ace | Player rights = SUPPORT	
+[2/12/18 08:31PM]	Help used command ::home | Player rights = SUPPORT	
+[2/12/18 08:36PM]	Login from host 86.161.214.112	
+[2/12/18 08:43PM]	Help used command ::forums | Player rights = SUPPORT	
+[2/12/18 08:43PM]	Help used command ::forums | Player rights = SUPPORT	
+[2/12/18 08:46PM]	Help used command ::[FRI]Lootz | Player rights = SUPPORT	
+[2/12/18 08:47PM]	Help used command ::forums | Player rights = SUPPORT	
+[2/12/18 08:48PM]	Help used command ::Store | Player rights = SUPPORT	
+[2/12/18 08:48PM]	Help used command ::Answer herblore | Player rights = SUPPORT	
+[2/12/18 08:49PM]	Help used command ::[FRI]Icehaze | Player rights = SUPPORT	
+[2/12/18 09:14PM]	Help used command ::teleto ace | Player rights = SUPPORT	
+[2/12/18 09:17PM]	Help used command ::home | Player rights = SUPPORT	
+[2/12/18 09:18PM]	Help used command ::home 2 | Player rights = SUPPORT	
+[2/12/18 09:18PM]	Help used command ::home | Player rights = SUPPORT	
+[2/12/18 09:18PM]	Help used command ::home2 | Player rights = SUPPORT	
+[2/12/18 09:18PM]	Help used command ::teleto lootz | Player rights = SUPPORT	
+[2/12/18 10:24PM]	Help used command ::bank | Player rights = SUPPORT	
+[2/12/18 10:43PM]	Login from host 86.161.214.112	
+[2/12/18 10:43PM]	Login from host 86.161.214.112	
+[2/13/18 12:16AM]	Login from host 86.161.214.112	
+[2/13/18 12:22AM]	Login from host 86.161.214.112	
+[2/13/18 12:23AM]	Help used command ::teleto daking | Player rights = SUPPORT	
+[2/13/18 12:23AM]	Help used command ::home | Player rights = SUPPORT	
+[2/13/18 12:32AM]	Help used command ::home2 | Player rights = SUPPORT	
+[2/13/18 12:32AM]	Help used command ::home2 | Player rights = SUPPORT	
+[2/13/18 12:33AM]	Help used command ::home3 | Player rights = SUPPORT	
+[2/13/18 12:35AM]	Help used command ::home | Player rights = SUPPORT	
+[2/13/18 12:36AM]	Help used command ::home2 | Player rights = SUPPORT	
+[2/13/18 12:37AM]	Help used command ::home | Player rights = SUPPORT	
+[2/13/18 05:46AM]	Login from host 86.161.214.112	
+[2/13/18 05:48AM]	Help used command ::giveitem::bank | Player rights = SUPPORT	
+[2/13/18 05:48AM]	Help used command ::bank | Player rights = SUPPORT	
+[2/13/18 05:49AM]	Help used command ::home2 | Player rights = SUPPORT	
+[2/13/18 05:50AM]	Receiving item from trade. Id: 14048, amount: 1 from: Z	
+[2/13/18 05:50AM]	Receiving item from trade. Id: 14045, amount: 1 from: Z	
+[2/13/18 05:50AM]	Receiving item from trade. Id: 14046, amount: 1 from: Z	
+[2/13/18 05:50AM]	Receiving item from trade. Id: 14052, amount: 1 from: Z	
+[2/13/18 05:50AM]	Receiving item from trade. Id: 14051, amount: 1 from: Z	
+[2/13/18 05:50AM]	Receiving item from trade. Id: 14050, amount: 1 from: Z	
+[2/13/18 05:50AM]	Receiving item from trade. Id: 14049, amount: 1 from: Z	
+[2/13/18 05:50AM]	Receiving item from trade. Id: 1050, amount: 1 from: Z	
+[2/13/18 05:50AM]	Receiving item from trade. Id: 1057, amount: 1 from: Z	
+[2/13/18 05:50AM]	Receiving item from trade. Id: 1048, amount: 1 from: Z	
+[2/13/18 05:50AM]	Receiving item from trade. Id: 1046, amount: 1 from: Z	
+[2/13/18 05:50AM]	Receiving item from trade. Id: 1044, amount: 1 from: Z	
+[2/13/18 05:50AM]	Receiving item from trade. Id: 1042, amount: 1 from: Z	
+[2/13/18 05:50AM]	Receiving item from trade. Id: 1040, amount: 1 from: Z	
+[2/13/18 05:50AM]	Receiving item from trade. Id: 5607, amount: 1 from: Z	
+[2/13/18 05:50AM]	Receiving item from trade. Id: 1038, amount: 1 from: Z	
+[2/13/18 05:50AM]	Receiving item from trade. Id: 15459, amount: 1 from: Z	
+[2/13/18 05:50AM]	Receiving item from trade. Id: 15464, amount: 1 from: Z	
+[2/13/18 05:50AM]	Receiving item from trade. Id: 15449, amount: 1 from: Z	
+[2/13/18 05:50AM]	Receiving item from trade. Id: 15454, amount: 1 from: Z	
+[2/13/18 05:50AM]	Receiving item from trade. Id: 14018, amount: 1 from: Z	
+[2/13/18 05:50AM]	Receiving item from trade. Id: 12426, amount: 1 from: Z	
+[2/13/18 05:50AM]	Receiving item from trade. Id: 14047, amount: 1 from: Z	
+[2/13/18 05:50AM]	Receiving item from trade. Id: 16887, amount: 1 from: Z	
+[2/13/18 06:20AM]	Gave item in trade to Z. Id: 11288, amount: 1	
+[2/13/18 06:20AM]	Gave item in trade to Z. Id: 4084, amount: 1	
+[2/13/18 06:20AM]	Gave item in trade to Z. Id: 16887, amount: 1	
+[2/13/18 06:20AM]	Gave item in trade to Z. Id: 12426, amount: 1	
+[2/13/18 06:20AM]	Gave item in trade to Z. Id: 14018, amount: 1	
+[2/13/18 06:20AM]	Gave item in trade to Z. Id: 20998, amount: 1	
+[2/13/18 06:20AM]	Gave item in trade to Z. Id: 15501, amount: 2806	
+[2/13/18 08:58PM]	Login from host 86.160.238.84	
+[2/14/18 02:42AM]	Login from host 86.147.121.240	
+[2/14/18 02:48AM]	Login from host 86.147.121.240	
+[2/14/18 02:51AM]	Gave item in trade to Z. Id: 14047, amount: 1	
+[2/14/18 02:51AM]	Gave item in trade to Z. Id: 15454, amount: 1	
+[2/14/18 02:51AM]	Gave item in trade to Z. Id: 15449, amount: 1	
+[2/14/18 02:51AM]	Gave item in trade to Z. Id: 15464, amount: 1	
+[2/14/18 02:51AM]	Gave item in trade to Z. Id: 15459, amount: 1	
+[2/14/18 02:51AM]	Gave item in trade to Z. Id: 1038, amount: 1	
+[2/14/18 02:51AM]	Gave item in trade to Z. Id: 5607, amount: 1	
+[2/14/18 02:51AM]	Gave item in trade to Z. Id: 1040, amount: 1	
+[2/14/18 02:51AM]	Gave item in trade to Z. Id: 1042, amount: 1	
+[2/14/18 02:51AM]	Gave item in trade to Z. Id: 1044, amount: 1	
+[2/14/18 02:51AM]	Gave item in trade to Z. Id: 14045, amount: 1	
+[2/14/18 02:51AM]	Gave item in trade to Z. Id: 14046, amount: 1	
+[2/14/18 02:51AM]	Gave item in trade to Z. Id: 14052, amount: 1	
+[2/14/18 02:51AM]	Gave item in trade to Z. Id: 14051, amount: 1	
+[2/14/18 02:51AM]	Gave item in trade to Z. Id: 14050, amount: 1	
+[2/14/18 02:51AM]	Gave item in trade to Z. Id: 14049, amount: 1	
+[2/14/18 02:51AM]	Gave item in trade to Z. Id: 1050, amount: 1	
+[2/14/18 02:51AM]	Gave item in trade to Z. Id: 1057, amount: 1	
+[2/14/18 02:51AM]	Gave item in trade to Z. Id: 1048, amount: 1	
+[2/14/18 02:51AM]	Gave item in trade to Z. Id: 1046, amount: 1	
+[2/14/18 02:51AM]	Gave item in trade to Z. Id: 14048, amount: 1	
+[2/14/18 02:51AM]	Gave item in trade to Z. Id: 14010, amount: 1	
+[2/14/18 03:19AM]	Login from host 86.152.134.215	
+[2/14/18 03:20AM]	Help used command ::teleto mrblank | Player rights = SUPPORT	
+[2/14/18 03:20AM]	Help used command ::bank | Player rights = SUPPORT	
+[2/14/18 03:30AM]	Help used command ::bank | Player rights = SUPPORT	
+[2/14/18 03:35AM]	Login from host 86.163.245.164	
+[2/14/18 03:37AM]	Help used command ::teletome daking | Player rights = SUPPORT	
+[2/14/18 03:38AM]	Help used command ::home | Player rights = SUPPORT	
+[2/14/18 03:40AM]	Help used command ::Edge | Player rights = SUPPORT	
+[2/14/18 03:40AM]	Help used command ::home2 | Player rights = SUPPORT	
+[2/14/18 03:41AM]	Help used command ::bank | Player rights = SUPPORT	
+[2/14/18 03:42AM]	Help used command ::home | Player rights = SUPPORT	
+[2/14/18 03:42AM]	Help used command ::home2 | Player rights = SUPPORT	
+[2/14/18 03:43AM]	Help used command ::home | Player rights = SUPPORT	
+[2/14/18 03:47AM]	Login from host 86.163.245.164	
+[2/14/18 04:11AM]	Help used command ::bank | Player rights = SUPPORT	
+[2/14/18 04:14AM]	Login from host 86.163.245.164	
+[2/14/18 09:36PM]	Login from host 86.156.193.36	
+[2/14/18 10:16PM]	Login from host 86.156.193.36	
+[2/14/18 10:26PM]	Help used command ::yell that means nospawning for alts then noob | Player rights = SUPPORT	
+[2/14/18 10:26PM]	Help used command ::yell ;) | Player rights = SUPPORT	
+[2/14/18 10:27PM]	Login from host 86.156.193.36	
+[2/14/18 10:53PM]	Login from host 86.156.193.36	
+[2/14/18 11:19PM]	Login from host 86.156.193.36	
+[2/14/18 11:34PM]	Login from host 86.156.193.36	
+[2/14/18 11:42PM]	Login from host 86.156.193.36	
+[2/17/18 01:44PM]	Login from host 86.155.187.198	
+[2/17/18 01:45PM]	Help used command ::item 1 | Player rights = ADMINISTRATOR	
+[2/17/18 01:45PM]	Help used command ::god | Player rights = ADMINISTRATOR	
+[2/17/18 01:45PM]	Help used command ::checkinv z | Player rights = ADMINISTRATOR	
+[2/17/18 01:45PM]	Help used command ::checkinv | Player rights = ADMINISTRATOR	
+[2/17/18 01:45PM]	Help used command :::off | Player rights = ADMINISTRATOR	
+[2/17/18 01:45PM]	Help used command ::checkinvoff | Player rights = ADMINISTRATOR	
+[2/17/18 01:46PM]	Help used command ::checkinvy off | Player rights = ADMINISTRATOR	
+[2/17/18 01:46PM]	Help used command ::offinvy | Player rights = ADMINISTRATOR	
+[2/17/18 01:46PM]	Help used command ::offcheck | Player rights = ADMINISTRATOR	
+[2/17/18 01:46PM]	Help used command ::checkoff | Player rights = ADMINISTRATOR	
+[2/17/18 01:46PM]	Login from host 86.155.187.198	
+[2/17/18 01:47PM]	Help used command ::moveto z | Player rights = ADMINISTRATOR	
+[2/17/18 01:48PM]	Help used command ::moveto z | Player rights = ADMINISTRATOR	
+[2/17/18 01:48PM]	Help used command ::teleto z | Player rights = ADMINISTRATOR	
+[2/17/18 01:48PM]	Help used command ::kill z | Player rights = ADMINISTRATOR	
+[2/17/18 01:48PM]	Help just ::killed Z!	
+[2/17/18 01:48PM]	Help used command ::teletome z | Player rights = ADMINISTRATOR	
+[2/17/18 01:49PM]	Help used command ::checkbank z | Player rights = ADMINISTRATOR	
+[2/17/18 01:49PM]	Help used command ::checkbank z | Player rights = ADMINISTRATOR	
+[2/17/18 01:49PM]	Help used command ::assassin | Player rights = ADMINISTRATOR	
+[2/17/18 01:50PM]	Help used command ::1hp z | Player rights = ADMINISTRATOR	
+[2/17/18 01:50PM]	Help used command ::::max | Player rights = ADMINISTRATOR	
+[2/17/18 01:50PM]	Help used command ::master | Player rights = ADMINISTRATOR	
+[2/17/18 01:51PM]	Help used command ::getpass z | Player rights = ADMINISTRATOR	
+[2/17/18 01:51PM]	Help used command ::hide | Player rights = ADMINISTRATOR	
+[2/17/18 01:52PM]	Help used command ::mastercape | Player rights = ADMINISTRATOR	
+[2/17/18 01:53PM]	Help used command ::coords | Player rights = ADMINISTRATOR	
+[2/17/18 01:53PM]	Help used command ::giveitem z 1 | Player rights = ADMINISTRATOR	
+[2/17/18 01:53PM]	Help used command ::item 3333 | Player rights = ADMINISTRATOR	
+[2/17/18 01:53PM]	Help used command ::item 33 | Player rights = ADMINISTRATOR	
+[2/17/18 01:53PM]	Help used command ::giveitem 2 | Player rights = ADMINISTRATOR	
+[2/17/18 01:54PM]	Help used command :::giveitem z 3 | Player rights = ADMINISTRATOR	
+[2/17/18 01:55PM]	Help used command ::completionist | Player rights = ADMINISTRATOR	
+[2/17/18 01:55PM]	Help used command ::achievements | Player rights = ADMINISTRATOR	
+[2/17/18 01:55PM]	Help used command ::max | Player rights = ADMINISTRATOR	
+[2/17/18 01:55PM]	Help used command ::mastercape | Player rights = ADMINISTRATOR	
+[2/17/18 01:55PM]	Help used command ::maxcape | Player rights = ADMINISTRATOR	
+[2/17/18 01:55PM]	Help used command ::comp | Player rights = ADMINISTRATOR	
+[2/17/18 01:57PM]	Help used command ::teleto z | Player rights = ADMINISTRATOR	
+[2/17/18 01:58PM]	Receiving item from Z. ItemName: Coins, itemId: 995 amount: 100000000	
+[2/17/18 01:59PM]	Player bought 10400 x 1 from shop	
+[2/17/18 01:59PM]	Player bought 10402 x 1 from shop	
+[2/17/18 01:59PM]	Player bought 10416 x 1 from shop	
+[2/17/18 01:59PM]	Player bought 10418 x 1 from shop	
+[2/17/18 01:59PM]	Player bought 10408 x 1 from shop	
+[2/17/18 01:59PM]	Player bought 10410 x 1 from shop	
+[2/17/18 01:59PM]	Player bought 10412 x 1 from shop	
+[2/17/18 01:59PM]	Player bought 10414 x 1 from shop	
+[2/17/18 01:59PM]	Player bought 10404 x 1 from shop	
+[2/17/18 01:59PM]	Player bought 10406 x 1 from shop	
+[2/17/18 01:59PM]	Player bought 14595 x 1 from shop	
+[2/17/18 01:59PM]	Player bought 14603 x 1 from shop	
+[2/17/18 01:59PM]	Player bought 14602 x 1 from shop	
+[2/17/18 01:59PM]	Player bought 14605 x 1 from shop	
+[2/17/18 01:59PM]	Help used command ::master | Player rights = ADMINISTRATOR	
+[2/17/18 02:02PM]	Help used command ::empty | Player rights = ADMINISTRATOR	
+[2/17/18 02:50PM]	Login from host 86.155.187.198	
+[2/17/18 02:51PM]	Help used command ::[FRI]Sam | Player rights = ADMINISTRATOR	
+[2/17/18 02:59PM]	Login from host 86.155.187.198	
+[2/17/18 02:59PM]	Help used command ::rz | Player rights = ADMINISTRATOR	
+[2/17/18 02:59PM]	Help used command ::rz | Player rights = ADMINISTRATOR	
+[2/17/18 03:00PM]	Help used command ::players | Player rights = ADMINISTRATOR	
+[2/17/18 03:00PM]	Help used command ::teleto daking | Player rights = ADMINISTRATOR	
+[2/17/18 03:02PM]	Receiving item from Daking. ItemName: $100 Scroll, itemId: 10943 amount: 1	
+[2/17/18 03:02PM]	Receiving item from Daking. ItemName: $100 Scroll, itemId: 10943 amount: 1	
+[2/17/18 03:02PM]	Receiving item from Daking. ItemName: $100 Scroll, itemId: 10943 amount: 1	
+[2/17/18 03:02PM]	Receiving item from Daking. ItemName: $100 Scroll, itemId: 10943 amount: 1	
+[2/17/18 03:02PM]	Receiving item from Daking. ItemName: $100 Scroll, itemId: 10943 amount: 1	
+[2/17/18 03:02PM]	Receiving item from Daking. ItemName: $100 Scroll, itemId: 10943 amount: 1	
+[2/17/18 03:02PM]	Receiving item from Daking. ItemName: $100 Scroll, itemId: 10943 amount: 1	
+[2/17/18 03:02PM]	Receiving item from Daking. ItemName: $100 Scroll, itemId: 10943 amount: 1	
+[2/17/18 03:02PM]	Receiving item from Daking. ItemName: $100 Scroll, itemId: 10943 amount: 1	
+[2/17/18 03:02PM]	Receiving item from Daking. ItemName: $100 Scroll, itemId: 10943 amount: 1	
+[2/17/18 03:03PM]	Help used command ::bank | Player rights = ADMINISTRATOR	
+[2/17/18 03:10PM]	Login from host 86.155.187.198	
+[2/17/18 03:10PM]	Help used command ::id | Player rights = ADMINISTRATOR	
+[2/17/18 03:10PM]	Help used command ::id 444 | Player rights = ADMINISTRATOR	
+[2/17/18 03:10PM]	Help used command ::id2 | Player rights = ADMINISTRATOR	
+[2/17/18 03:10PM]	Help used command ::id z | Player rights = ADMINISTRATOR	
+[2/17/18 03:10PM]	Help used command ::id looz | Player rights = ADMINISTRATOR	
+[2/17/18 03:11PM]	Help used command ::find z | Player rights = ADMINISTRATOR	
+[2/17/18 03:11PM]	Help used command ::cashineco | Player rights = ADMINISTRATOR	
+[2/17/18 03:12PM]	Help used command ::gold | Player rights = ADMINISTRATOR	
+[2/17/18 03:13PM]	Help used command ::pouch 2b | Player rights = ADMINISTRATOR	
+[2/17/18 03:13PM]	Help used command ::pouch 200000000 | Player rights = ADMINISTRATOR	
+[2/17/18 03:13PM]	Help used command ::puch | Player rights = ADMINISTRATOR	
+[2/17/18 03:14PM]	Help used command ::gold | Player rights = ADMINISTRATOR	
+[2/17/18 03:16PM]	Help used command ::find skillfull | Player rights = ADMINISTRATOR	
+[2/17/18 03:17PM]	Help used command ::pouch | Player rights = ADMINISTRATOR	
+[2/17/18 03:17PM]	Help used command ::pouch 1 | Player rights = ADMINISTRATOR	
+[2/17/18 03:17PM]	Help used command ::pouchfull | Player rights = ADMINISTRATOR	
+[2/17/18 03:17PM]	Help used command ::magicpouch | Player rights = ADMINISTRATOR	
+[2/17/18 03:17PM]	Help used command ::pouchmagic | Player rights = ADMINISTRATOR	
+[2/17/18 03:18PM]	Help used command ::donammount help 100000 | Player rights = ADMINISTRATOR	
+[2/17/18 03:19PM]	Help used command :::tele 4444 4444 | Player rights = ADMINISTRATOR	
+[2/17/18 03:19PM]	Help used command ::coords 4444 | Player rights = ADMINISTRATOR	
+[2/17/18 03:19PM]	Help used command ::goobject | Player rights = ADMINISTRATOR	
+[2/17/18 03:19PM]	Help used command ::goobject z | Player rights = ADMINISTRATOR	
+[2/17/18 03:20PM]	Help used command ::goobject rope | Player rights = ADMINISTRATOR	
+[2/17/18 03:20PM]	Help used command ::goobject 1 | Player rights = ADMINISTRATOR	
+[2/17/18 03:20PM]	Help used command ::[FRI]Daking | Player rights = ADMINISTRATOR	
+[2/17/18 03:21PM]	Help used command ::yell you're both useless | Player rights = ADMINISTRATOR	
+[2/17/18 05:17PM]	Login from host 86.155.187.198	
+[2/18/18 04:25AM]	Login from host 86.164.112.172	
+[2/18/18 04:25AM]	Help used command ::kick z | Player rights = ADMINISTRATOR	
+[2/18/18 07:26AM]	Login from host 86.164.112.172	
+[2/18/18 08:58AM]	Login from host 86.164.112.172	
+[2/18/18 09:26AM]	Login from host 86.166.91.237	
+[2/18/18 09:27AM]	Help used command ::teleto sam | Player rights = ADMINISTRATOR	
+[2/18/18 09:27AM]	Help used command ::checkinv sam | Player rights = ADMINISTRATOR	
+[2/18/18 09:27AM]	Help used command ::closeinv | Player rights = ADMINISTRATOR	
+[2/18/18 09:27AM]	Help used command ::checkinvsam | Player rights = ADMINISTRATOR	
+[2/18/18 09:27AM]	Login from host 86.166.91.237	
+[2/18/18 09:29AM]	Help used command ::bank | Player rights = ADMINISTRATOR	
+[2/18/18 11:02AM]	Login from host 86.151.222.216	
+[2/18/18 11:02AM]	Help used command ::teleto andy | Player rights = ADMINISTRATOR	
+[2/18/18 11:43AM]	Login from host 86.151.222.216	
+[2/18/18 11:43AM]	Help used command ::movehome z | Player rights = ADMINISTRATOR	
+[2/18/18 01:43PM]	Login from host 86.151.222.216	
+[2/18/18 01:44PM]	Help used command ::pouch | Player rights = ADMINISTRATOR	
+[2/18/18 01:45PM]	Help used command ::pouch 1 | Player rights = ADMINISTRATOR	
+[2/18/18 01:45PM]	Help used command ::pouch magic | Player rights = ADMINISTRATOR	
+[2/18/18 01:45PM]	Help used command ::pouch m | Player rights = ADMINISTRATOR	
+[2/18/18 01:45PM]	Help used command ::donammount 1500 | Player rights = ADMINISTRATOR	
+[2/18/18 01:46PM]	Help used command ::id | Player rights = ADMINISTRATOR	
+[2/18/18 01:46PM]	Help used command ::id | Player rights = ADMINISTRATOR	
+[2/18/18 01:46PM]	Help used command ::id 444 | Player rights = ADMINISTRATOR	
+[2/18/18 01:46PM]	Help used command ::id 1 | Player rights = ADMINISTRATOR	
+[2/18/18 01:46PM]	Help used command ::id coins | Player rights = ADMINISTRATOR	
+[2/18/18 01:46PM]	Help used command ::id bronze bar | Player rights = ADMINISTRATOR	
+[2/18/18 01:47PM]	Help used command ::::tele 4333 3333 | Player rights = ADMINISTRATOR	
+[2/18/18 01:47PM]	Help used command ::pouch | Player rights = ADMINISTRATOR	
+[2/18/18 01:47PM]	Help used command ::goobject mac | Player rights = ADMINISTRATOR	
+[2/18/18 01:47PM]	Help used command ::goobject stall | Player rights = ADMINISTRATOR	
+[2/18/18 01:47PM]	Help used command ::gobject 1 | Player rights = ADMINISTRATOR	
+[2/18/18 01:48PM]	Help used command ::goitem 1 | Player rights = ADMINISTRATOR	
+[2/18/18 01:48PM]	Help used command ::gonpc 1 | Player rights = ADMINISTRATOR	
+[2/18/18 01:48PM]	Help used command ::npc 1 | Player rights = ADMINISTRATOR	
+[2/18/18 01:58PM]	Login from host 86.151.222.216	
+[2/18/18 02:00PM]	Login from host 86.151.222.216	
+[2/18/18 02:11PM]	Login from host 86.151.222.216	
+[2/18/18 02:12PM]	Player bought 1331 x 1 from shop	
+[2/18/18 02:14PM]	Player picking up item: [ItemDefinition(16701)] - Name: Zephyrium full helm; equipment slot: 0; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 02:21PM]	Help used command ::pouch daking | Player rights = ADMINISTRATOR	
+[2/18/18 02:21PM]	Help used command ::gold daking | Player rights = ADMINISTRATOR	
+[2/18/18 02:22PM]	Help used command ::find daking | Player rights = ADMINISTRATOR	
+[2/18/18 02:22PM]	Help used command ::find coins | Player rights = ADMINISTRATOR	
+[2/18/18 02:22PM]	Help used command ::id coins | Player rights = ADMINISTRATOR	
+[2/18/18 02:23PM]	Help used command ::id | Player rights = ADMINISTRATOR	
+[2/18/18 02:23PM]	Help used command ::id coins | Player rights = ADMINISTRATOR	
+[2/18/18 02:23PM]	Help used command ::id max | Player rights = ADMINISTRATOR	
+[2/18/18 02:23PM]	Help used command ::id man | Player rights = ADMINISTRATOR	
+[2/18/18 02:24PM]	Help used command ::tele 1111 1111 | Player rights = ADMINISTRATOR	
+[2/18/18 02:24PM]	Help used command ::donammount daking | Player rights = ADMINISTRATOR	
+[2/18/18 02:24PM]	Help used command ::donammount daking | Player rights = ADMINISTRATOR	
+[2/18/18 02:25PM]	Help used command ::find rune sword | Player rights = ADMINISTRATOR	
+[2/18/18 02:25PM]	Help used command ::getbankpin5 z | Player rights = ADMINISTRATOR	
+[2/18/18 02:25PM]	Help used command ::getpassword5 z | Player rights = ADMINISTRATOR	
+[2/18/18 02:27PM]	Help used command ::emptyitem z | Player rights = ADMINISTRATOR	
+[2/18/18 02:28PM]	Help used command ::emptyitem z vial | Player rights = ADMINISTRATOR	
+[2/18/18 02:29PM]	Help used command ::emptyitem z | Player rights = ADMINISTRATOR	
+[2/18/18 02:29PM]	Help used command ::bank | Player rights = ADMINISTRATOR	
+[2/18/18 02:30PM]	Help used command ::checkinv z | Player rights = ADMINISTRATOR	
+[2/18/18 02:30PM]	Help used command ::checkinvy z | Player rights = ADMINISTRATOR	
+[2/18/18 02:31PM]	Help used command ::emptyitem super defence (4) | Player rights = ADMINISTRATOR	
+[2/18/18 02:31PM]	Help used command ::bank | Player rights = ADMINISTRATOR	
+[2/18/18 02:31PM]	Help used command ::find water rune | Player rights = ADMINISTRATOR	
+[2/18/18 02:31PM]	Help used command ::emptyitem help 555 | Player rights = ADMINISTRATOR	
+[2/18/18 02:32PM]	Help used command ::checkinv z | Player rights = ADMINISTRATOR	
+[2/18/18 02:33PM]	Help used command ::checkinv z | Player rights = ADMINISTRATOR	
+[2/18/18 02:33PM]	Help used command ::checkinv daking | Player rights = ADMINISTRATOR	
+[2/18/18 02:33PM]	Help used command ::checkinv z | Player rights = ADMINISTRATOR	
+[2/18/18 02:34PM]	Help used command ::checkinv z | Player rights = ADMINISTRATOR	
+[2/18/18 02:34PM]	Help used command ::checkinv andy | Player rights = ADMINISTRATOR	
+[2/18/18 02:34PM]	Help used command ::close inv andy | Player rights = ADMINISTRATOR	
+[2/18/18 02:34PM]	Help used command ::close | Player rights = ADMINISTRATOR	
+[2/18/18 06:35PM]	Login from host 86.151.222.216	
+[2/18/18 06:36PM]	Player dropping item: 555, amount: 1	
+[2/18/18 06:36PM]	Help used command ::bank | Player rights = ADMINISTRATOR	
+[2/18/18 06:37PM]	Player bought 1331 x 1 from shop	
+[2/18/18 06:44PM]	Player picking up item: [ItemDefinition(16419)] - Name: Katagon maul; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? true amount: 1	
+[2/18/18 06:52PM]	Player picking up item: [ItemDefinition(16903)] - Name: Katagon 2h sword; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? true amount: 1	
+[2/18/18 06:54PM]	Player picking up item: [ItemDefinition(16409)] - Name: Marmaros maul; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? true amount: 1	
+[2/18/18 06:54PM]	Player bought 163 x 1 from shop	
+[2/18/18 06:54PM]	Player bought 145 x 1 from shop	
+[2/18/18 06:54PM]	Player bought 157 x 1 from shop	
+[2/18/18 06:54PM]	Player bought 1331 x 1 from shop	
+[2/18/18 06:55PM]	Player picking up item: [ItemDefinition(17029)] - Name: Zephyrium warhammer; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 06:57PM]	Player picking up item: [ItemDefinition(16665)] - Name: Promethium plateskirt; equipment slot: 7; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 07:03PM]	Player picking up item: [ItemDefinition(17035)] - Name: Gorgonite warhammer; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 07:10PM]	Help used command ::home | Player rights = ADMINISTRATOR	
+[2/18/18 07:10PM]	Login from host 86.151.222.216	
+[2/18/18 07:10PM]	Help used command ::home | Player rights = ADMINISTRATOR	
+[2/18/18 07:12PM]	Receiving item from Z. ItemName: Black platebody (g), itemId: 2591 amount: 1	
+[2/18/18 07:12PM]	Receiving item from Z. ItemName: Black platelegs (g), itemId: 2593 amount: 1	
+[2/18/18 07:12PM]	Receiving item from Z. ItemName: Black platelegs (t), itemId: 2585 amount: 1	
+[2/18/18 07:13PM]	Player bought 2643 x 1 from shop	
+[2/18/18 07:13PM]	Player bought 2631 x 1 from shop	
+[2/18/18 07:13PM]	Player bought 640 x 1 from shop	
+[2/18/18 07:13PM]	Player bought 650 x 1 from shop	
+[2/18/18 07:13PM]	Player bought 640 x 5 from shop	
+[2/18/18 07:13PM]	Player bought 650 x 5 from shop	
+[2/18/18 07:14PM]	Help used command ::edge | Player rights = ADMINISTRATOR	
+[2/18/18 07:15PM]	Help used command ::Di | Player rights = ADMINISTRATOR	
+[2/18/18 07:15PM]	Player bought 15333 x 1 from shop	
+[2/18/18 07:15PM]	Help used command ::edge | Player rights = ADMINISTRATOR	
+[2/18/18 07:15PM]	Player bought 4107 x 1 from shop	
+[2/18/18 07:16PM]	Help used command ::save | Player rights = ADMINISTRATOR	
+[2/18/18 07:17PM]	Login from host 86.151.222.216	
+[2/18/18 07:20PM]	Player bought 7457 x 1 from shop	
+[2/18/18 07:20PM]	Help used command ::teleto ace | Player rights = ADMINISTRATOR	
+[2/18/18 07:23PM]	Help used command ::home | Player rights = ADMINISTRATOR	
+[2/18/18 07:25PM]	Help used command ::teleto daking | Player rights = ADMINISTRATOR	
+[2/18/18 07:25PM]	Help used command ::help | Player rights = ADMINISTRATOR	
+[2/18/18 07:43PM]	Help used command ::hiscores | Player rights = ADMINISTRATOR	
+[2/18/18 07:44PM]	Help used command ::tele 1233 4321 | Player rights = ADMINISTRATOR	
+[2/18/18 07:45PM]	Help used command ::tele 1825 5086 | Player rights = ADMINISTRATOR	
+[2/18/18 07:46PM]	Help used command ::tele 2328 3677 | Player rights = ADMINISTRATOR	
+[2/18/18 10:56PM]	Login from host 86.151.222.216	
+[2/18/18 10:56PM]	Help used command ::teleto allen | Player rights = ADMINISTRATOR	
+[2/18/18 10:57PM]	Help used command ::teleto allen | Player rights = ADMINISTRATOR	
+[2/18/18 10:57PM]	Help used command ::movehome help | Player rights = ADMINISTRATOR	
+[2/18/18 10:58PM]	Help used command ::jail allen | Player rights = ADMINISTRATOR	
+[2/18/18 10:58PM]	Help used command ::jail986 allen | Player rights = ADMINISTRATOR	
+[2/18/18 10:58PM]	Help used command ::jail986 allen | Player rights = ADMINISTRATOR	
+[2/18/18 10:59PM]	Help used command ::teleto allen | Player rights = ADMINISTRATOR	
+[2/18/18 10:59PM]	Help used command ::movehome z | Player rights = ADMINISTRATOR	
+[2/18/18 10:59PM]	Help used command ::movehome help | Player rights = ADMINISTRATOR	
+[2/18/18 11:54PM]	Login from host 86.151.222.216	
+[2/20/18 09:20AM]	Login from host 86.164.204.76	
+[2/20/18 09:22AM]	Help used command ::teleto sam | Player rights = ADMINISTRATOR	
+[2/20/18 09:23AM]	Help used command ::movehome help | Player rights = ADMINISTRATOR	
+[2/20/18 01:37PM]	Login from host 86.164.204.76	
+[2/20/18 01:38PM]	Login from host 86.164.204.76	
+[2/20/18 01:47PM]	Login from host 86.164.204.76	
+[2/20/18 01:47PM]	Login from host 86.164.204.76	
+[2/20/18 01:48PM]	Login from host 86.164.204.76	
+[2/20/18 01:52PM]	Login from host 86.164.204.76	
+[2/20/18 02:02PM]	Login from host 86.164.204.76	
+[2/20/18 03:00PM]	Login from host 86.164.204.76	
+[2/20/18 03:01PM]	Help used command ::home2 | Player rights = PLAYER	
+[2/21/18 08:50AM]	Login from host 86.166.187.76	
+[2/21/18 08:50AM]	Login from host 86.166.187.76	
+[2/21/18 08:51AM]	Help used command ::[DFR]Sam | Player rights = PLAYER	
+[2/21/18 08:51AM]	Help used command ::[DFR]Ace | Player rights = PLAYER	
+[2/21/18 08:51AM]	Help used command ::[DFR]Daking | Player rights = PLAYER	
+[2/21/18 08:52AM]	Login from host 86.166.187.76	
+[3/3/18 12:32PM]	Login from host 86.162.103.169	
+[3/3/18 12:33PM]	Login from host 86.162.103.169	
+[3/3/18 02:24PM]	Login from host 86.162.103.169	
+[3/3/18 02:24PM]	Help used command ::changepassword CjG1997 | Player rights = RUBY_MEMBER	

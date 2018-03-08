@@ -1,0 +1,164 @@
+[2/11/18 03:33PM]	Login from host 175.36.234.114	
+[2/11/18 03:34PM]	Login from host 175.36.234.114	
+[2/11/18 03:42PM]	Lil Daking used command ::giveitem 18782 lil daking 28 | Player rights = RUBY_MEMBER	
+[2/11/18 03:44PM]	Lil Daking used command ::giveitem 18782 28 lil daking | Player rights = RUBY_MEMBER	
+[2/11/18 03:44PM]	Lil Daking used command ::giveitem 18782 28 lil daking | Player rights = RUBY_MEMBER	
+[2/11/18 03:45PM]	Lil Daking used command ::giveitem 18782 28 lil daking | Player rights = RUBY_MEMBER	
+[2/11/18 03:56PM]	Player bought 20061 x 1 from shop	
+[2/11/18 03:56PM]	Player bought 20998 x 1 from shop	
+[2/11/18 03:56PM]	Player bought 11554 x 1 from shop	
+[2/11/18 03:56PM]	Player bought 13051 x 1 from shop	
+[2/11/18 03:56PM]	Player bought 20555 x 1 from shop	
+[2/11/18 03:56PM]	Player bought 12926 x 1 from shop	
+[2/11/18 03:56PM]	Player bought 11283 x 1 from shop	
+[2/11/18 03:56PM]	Player bought 11613 x 1 from shop	
+[2/11/18 03:56PM]	Player bought 11694 x 1 from shop	
+[2/11/18 03:56PM]	Player bought 14484 x 1 from shop	
+[2/11/18 03:56PM]	Player bought 19780 x 1 from shop	
+[2/11/18 03:57PM]	Player bought 20002 x 1 from shop	
+[2/11/18 03:57PM]	Player bought 20001 x 5 from shop	
+[2/11/18 03:57PM]	Player bought 20000 x 1 from shop	
+[2/11/18 03:57PM]	Player bought 20000 x 5 from shop	
+[2/11/18 03:57PM]	Player bought 20002 x 5 from shop	
+[2/11/18 03:57PM]	Player bought 20001 x 1 from shop	
+[2/11/18 04:02PM]	Player bought 14010 x 5 from shop	
+[2/11/18 04:02PM]	Player bought 14009 x 5 from shop	
+[2/11/18 04:02PM]	Player bought 14008 x 5 from shop	
+[2/11/18 04:02PM]	Player bought 14011 x 5 from shop	
+[2/11/18 04:02PM]	Player bought 14012 x 5 from shop	
+[2/11/18 04:02PM]	Player bought 14013 x 5 from shop	
+[2/11/18 04:03PM]	Lil Daking used command ::rz | Player rights = RUBY_MEMBER	
+[2/11/18 04:06PM]	Lil Daking used command ::Dz | Player rights = RUBY_MEMBER	
+[2/11/18 04:10PM]	Lil Daking used command ::dzone | Player rights = RUBY_MEMBER	
+[2/11/18 04:12PM]	Player bought 20022 x 5 from shop	
+[2/11/18 04:12PM]	Player bought 20021 x 5 from shop	
+[2/11/18 04:12PM]	Player bought 20018 x 5 from shop	
+[2/11/18 04:12PM]	Player bought 20017 x 5 from shop	
+[2/11/18 04:12PM]	Player bought 20016 x 5 from shop	
+[2/11/18 04:12PM]	Player bought 14016 x 1 from shop	
+[2/11/18 04:12PM]	Player bought 14015 x 1 from shop	
+[2/11/18 04:12PM]	Player bought 14014 x 1 from shop	
+[2/11/18 04:14PM]	Player bought 20020 x 5 from shop	
+[2/11/18 04:14PM]	Player bought 20019 x 5 from shop	
+[2/11/18 04:14PM]	Player bought 20011 x 5 from shop	
+[2/11/18 04:14PM]	Player bought 20010 x 5 from shop	
+[2/11/18 04:14PM]	Player bought 20012 x 5 from shop	
+[2/11/18 04:15PM]	Player bought 20013 x 1 from shop	
+[2/11/18 04:15PM]	Player bought 20014 x 1 from shop	
+[2/11/18 04:15PM]	Player bought 14062 x 1 from shop	
+[2/11/18 04:15PM]	Player bought 13995 x 1 from shop	
+[2/11/18 04:15PM]	Player bought 13994 x 1 from shop	
+[2/11/18 04:15PM]	Player bought 12282 x 5 from shop	
+[2/11/18 04:15PM]	Player bought 12284 x 1 from shop	
+[2/11/18 04:15PM]	Player bought 12284 x 1 from shop	
+[2/11/18 04:15PM]	Player bought 15492 x 1 from shop	
+[2/11/18 04:15PM]	Player bought 15492 x 1 from shop	
+[2/11/18 04:15PM]	Player bought 12601 x 1 from shop	
+[2/11/18 04:15PM]	Player bought 12601 x 1 from shop	
+[2/11/18 04:15PM]	Player bought 17291 x 1 from shop	
+[2/11/18 04:15PM]	Player bought 17291 x 1 from shop	
+[2/11/18 04:15PM]	Player bought 13744 x 1 from shop	
+[2/11/18 04:15PM]	Player bought 13738 x 1 from shop	
+[2/11/18 04:16PM]	Player bought 13742 x 1 from shop	
+[2/11/18 04:16PM]	Player bought 13740 x 1 from shop	
+[2/11/18 04:16PM]	Player bought 12708 x 1 from shop	
+[2/11/18 04:16PM]	Player bought 13235 x 1 from shop	
+[2/11/18 04:16PM]	Player bought 13239 x 1 from shop	
+[2/11/18 04:16PM]	Player bought 13738 x 5 from shop	
+[2/11/18 04:16PM]	Player bought 13742 x 5 from shop	
+[2/11/18 04:16PM]	Player bought 13740 x 5 from shop	
+[2/11/18 04:16PM]	Player bought 13744 x 5 from shop	
+[2/11/18 04:18PM]	Player bought 20998 x 5 from shop	
+[2/11/18 04:18PM]	Player bought 20061 x 1 from shop	
+[2/11/18 04:18PM]	Player bought 20061 x 1 from shop	
+[2/11/18 04:18PM]	Player bought 11554 x 1 from shop	
+[2/11/18 04:18PM]	Player bought 11554 x 1 from shop	
+[2/11/18 04:18PM]	Player bought 4706 x 1 from shop	
+[2/11/18 04:18PM]	Player bought 4706 x 1 from shop	
+[2/11/18 04:18PM]	Player bought 13051 x 1 from shop	
+[2/11/18 04:18PM]	Player bought 13051 x 1 from shop	
+[2/11/18 04:18PM]	Player bought 20555 x 1 from shop	
+[2/11/18 04:19PM]	Player bought 20555 x 1 from shop	
+[2/11/18 04:19PM]	Player bought 12926 x 10 from shop	
+[2/11/18 04:20PM]	Lil Daking used command ::answer 92 | Player rights = RUBY_MEMBER	
+[2/11/18 04:24PM]	Lil Daking used command ::bank | Player rights = RUBY_MEMBER	
+[2/11/18 04:30PM]	Lil Daking used command ::[FRI]Help | Player rights = RUBY_MEMBER	
+[2/11/18 04:45PM]	Player picking up item: [ItemDefinition(18782)] - Name: Dragonkin lamp; equipment slot: 3; value: 10000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 05:15PM]	Lil Daking used command ::answer 2457 | Player rights = RUBY_MEMBER	
+[2/11/18 05:15PM]	Lil Daking used command ::answer 2475 | Player rights = RUBY_MEMBER	
+[2/11/18 05:33PM]	Player bought 12926 x 5 from shop	
+[2/11/18 05:33PM]	Player bought 12926 x 10 from shop	
+[2/11/18 05:33PM]	Login from host 175.36.234.114	
+[2/11/18 05:39PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 05:39PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 05:40PM]	Lil Daking used command ::bank | Player rights = RUBY_MEMBER	
+[2/11/18 05:40PM]	Player bought 6686 x 5000 from shop	
+[2/11/18 05:40PM]	Player bought 3025 x 5000 from shop	
+[2/11/18 05:40PM]	Player bought 2445 x 5000 from shop	
+[2/11/18 05:40PM]	Player bought 2437 x 5000 from shop	
+[2/11/18 05:40PM]	Player bought 2441 x 5000 from shop	
+[2/11/18 05:40PM]	Player bought 3041 x 5000 from shop	
+[2/11/18 05:41PM]	Player dropping item: 1131, amount: 1	
+[2/11/18 05:50PM]	Lil Daking used command ::[FRI]Lootz | Player rights = RUBY_MEMBER	
+[2/11/18 05:52PM]	Lil Daking used command ::bank | Player rights = RUBY_MEMBER	
+[2/11/18 05:57PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 9855748	
+[2/11/18 05:57PM]	Player picking up item: [ItemDefinition(4132)] - Name: Rune boots; equipment slot: 10; value: 22500; stackable ? true; noted ? true; 2h ? false amount: 347	
+[2/11/18 05:57PM]	Player picking up item: [ItemDefinition(2360)] - Name: Mithril bar; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 241	
+[2/11/18 05:57PM]	Player picking up item: [ItemDefinition(868)] - Name: Rune knife; equipment slot: 3; value: 1703; stackable ? true; noted ? false; 2h ? false amount: 325	
+[2/11/18 05:57PM]	Lil Daking used command ::movehome lil daking | Player rights = RUBY_MEMBER	
+[2/11/18 06:01PM]	Login from host 175.36.234.114	
+[2/11/18 06:08PM]	Player bought 12437 x 1 from shop	
+[2/11/18 06:08PM]	Player bought 12426 x 1 from shop	
+[2/11/18 06:08PM]	Player bought 14018 x 1 from shop	
+[2/11/18 06:09PM]	Player bought 11288 x 1 from shop	
+[2/11/18 06:09PM]	Player bought 15464 x 1 from shop	
+[2/11/18 06:09PM]	Player bought 15459 x 1 from shop	
+[2/11/18 06:09PM]	Player bought 15454 x 1 from shop	
+[2/11/18 06:09PM]	Player bought 15449 x 1 from shop	
+[2/11/18 06:09PM]	Player bought 5607 x 1 from shop	
+[2/11/18 06:09PM]	Player bought 4084 x 1 from shop	
+[2/11/18 06:09PM]	Player bought 14048 x 1 from shop	
+[2/11/18 06:09PM]	Player bought 14045 x 1 from shop	
+[2/11/18 06:09PM]	Player bought 14044 x 1 from shop	
+[2/11/18 06:09PM]	Player bought 14046 x 1 from shop	
+[2/11/18 06:09PM]	Player bought 14052 x 1 from shop	
+[2/11/18 06:09PM]	Player bought 14051 x 1 from shop	
+[2/11/18 06:09PM]	Player bought 14050 x 1 from shop	
+[2/11/18 06:09PM]	Player bought 14049 x 1 from shop	
+[2/11/18 06:09PM]	Player bought 1050 x 1 from shop	
+[2/11/18 06:09PM]	Player bought 1057 x 1 from shop	
+[2/11/18 06:09PM]	Player bought 1055 x 1 from shop	
+[2/11/18 06:09PM]	Player bought 1053 x 1 from shop	
+[2/11/18 06:09PM]	Player bought 1048 x 1 from shop	
+[2/11/18 06:09PM]	Player bought 1046 x 1 from shop	
+[2/11/18 06:09PM]	Player bought 1044 x 1 from shop	
+[2/11/18 06:09PM]	Player bought 1042 x 1 from shop	
+[2/11/18 06:09PM]	Player bought 1040 x 1 from shop	
+[2/11/18 06:09PM]	Player bought 1038 x 1 from shop	
+[2/11/18 06:17PM]	Login from host 175.36.234.114	
+[2/11/18 06:18PM]	Lil Daking used command ::bank | Player rights = RUBY_MEMBER	
+[2/11/18 06:21PM]	Lil Daking used command ::[FRI]Ace | Player rights = RUBY_MEMBER	
+[2/11/18 06:22PM]	Lil Daking used command ::bank | Player rights = RUBY_MEMBER	
+[2/11/18 06:23PM]	Lil Daking used command ::bank | Player rights = RUBY_MEMBER	
+[2/11/18 06:26PM]	Lil Daking used command ::teleto ace | Player rights = RUBY_MEMBER	
+[2/11/18 06:30PM]	Login from host 175.36.234.114	
+[2/11/18 07:28PM]	Login from host 175.36.234.114	
+[2/11/18 07:36PM]	Player bought 7462 x 1 from shop	
+[2/11/18 07:38PM]	Lil Daking used command ::empty | Player rights = RUBY_MEMBER	
+[2/12/18 07:46PM]	Login from host 175.36.234.114	
+[2/12/18 07:52PM]	Player picking up item: [ItemDefinition(20000)] - Name: Steadfast boots; equipment slot: 10; value: 10000001; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/12/18 07:52PM]	Player picking up item: [ItemDefinition(1459)] - Name: Law talisman; equipment slot: 3; value: 20000; stackable ? true; noted ? true; 2h ? false amount: 310	
+[2/12/18 07:52PM]	Player picking up item: [ItemDefinition(1272)] - Name: Adamant pickaxe; equipment slot: 3; value: 4805; stackable ? true; noted ? true; 2h ? false amount: 345	
+[2/12/18 07:52PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 19210910	
+[2/12/18 07:52PM]	Login from host 175.36.234.114	
+[2/12/18 07:55PM]	Login from host 175.36.234.114	
+[2/13/18 11:51PM]	Login from host 175.36.234.114	
+[2/13/18 11:53PM]	Lil Daking used command ::di | Player rights = RUBY_MEMBER	
+[2/13/18 11:54PM]	Player picking up item: [ItemDefinition(884)] - Name: Iron arrow; equipment slot: 13; value: 20; stackable ? true; noted ? false; 2h ? false amount: 600	
+[2/13/18 11:54PM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 4	
+[2/13/18 11:58PM]	Player picking up item: [ItemDefinition(6685)] - Name: Saradomin brew (4); equipment slot: 3; value: 20000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/13/18 11:58PM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 4	
+[2/13/18 11:58PM]	Player picking up item: [ItemDefinition(6685)] - Name: Saradomin brew (4); equipment slot: 3; value: 20000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/13/18 11:58PM]	Lil Daking used command ::movehome lil_daking | Player rights = RUBY_MEMBER	
+[2/13/18 11:58PM]	Lil Daking used command ::yell move me home  | Player rights = RUBY_MEMBER	
+[2/13/18 11:59PM]	Login from host 175.36.234.114	

@@ -1,0 +1,10 @@
+[2/19/18 05:32PM]	Login from host 207.172.180.3	
+[2/19/18 05:38PM]	V used command ::home | Player rights = PLAYER	
+[2/19/18 05:41PM]	V used command ::[FRI]Z | Player rights = PLAYER	
+[2/19/18 05:41PM]	V used command ::[FRI]D | Player rights = PLAYER	
+[2/19/18 05:41PM]	V used command ::[FRI]Daking | Player rights = PLAYER	
+[2/19/18 05:41PM]	V used command ::[FRI]Ace | Player rights = PLAYER	
+[2/19/18 05:41PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[2/19/18 06:11PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 1000234	
+[2/19/18 06:13PM]	Player picking up item: [ItemDefinition(985)] - Name: Tooth half of a key; equipment slot: 3; value: 26200; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/19/18 06:24PM]	Player picking up item: [ItemDefinition(985)] - Name: Tooth half of a key; equipment slot: 3; value: 26200; stackable ? false; noted ? false; 2h ? false amount: 1	

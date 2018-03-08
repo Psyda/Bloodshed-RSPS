@@ -1,0 +1,414 @@
+[3/8/18 02:58AM]	Login from host 190.77.109.46	
+[3/8/18 02:59AM]	Login from host 190.77.109.46	
+[3/8/18 03:00AM]	El233m used command ::yell hi | Player rights = PLAYER	
+[3/8/18 03:05AM]	Player picking up item: [ItemDefinition(12163)] - Name: Blue charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:05AM]	Player picking up item: [ItemDefinition(12160)] - Name: Crimson charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:06AM]	Player picking up item: [ItemDefinition(403)] - Name: Edible seaweed; equipment slot: 3; value: 321; stackable ? false; noted ? false; 2h ? false amount: 2	
+[3/8/18 03:07AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:08AM]	Player picking up item: [ItemDefinition(12160)] - Name: Crimson charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:08AM]	Player picking up item: [ItemDefinition(403)] - Name: Edible seaweed; equipment slot: 3; value: 321; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:09AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:10AM]	Player picking up item: [ItemDefinition(12160)] - Name: Crimson charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:10AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:11AM]	El233m used command ::check | Player rights = PLAYER	
+[3/8/18 03:11AM]	Player picking up item: [ItemDefinition(454)] - Name: Coal; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 1	
+[3/8/18 03:11AM]	Player picking up item: [ItemDefinition(403)] - Name: Edible seaweed; equipment slot: 3; value: 321; stackable ? false; noted ? false; 2h ? false amount: 3	
+[3/8/18 03:11AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 03:12AM]	Player picking up item: [ItemDefinition(405)] - Name: Casket; equipment slot: 3; value: 909; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:12AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 03:13AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:13AM]	Player picking up item: [ItemDefinition(15188)] - Name: Rock crab carcass; equipment slot: 3; value: 476; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:13AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 03:14AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:15AM]	Player picking up item: [ItemDefinition(439)] - Name: Tin ore; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 2	
+[3/8/18 03:17AM]	El233m used command ::comands | Player rights = PLAYER	
+[3/8/18 03:17AM]	El233m used command ::command | Player rights = PLAYER	
+[3/8/18 03:17AM]	Player picking up item: [ItemDefinition(1623)] - Name: Uncut sapphire; equipment slot: 3; value: 200; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:17AM]	Player picking up item: [ItemDefinition(407)] - Name: Oyster; equipment slot: 3; value: 114; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:18AM]	El233m used command ::yell hi | Player rights = PLAYER	
+[3/8/18 03:18AM]	Player picking up item: [ItemDefinition(1623)] - Name: Uncut sapphire; equipment slot: 3; value: 200; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:18AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:18AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 03:19AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:19AM]	Player picking up item: [ItemDefinition(12163)] - Name: Blue charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:19AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:20AM]	Login from host 200.93.65.218	
+[3/8/18 03:22AM]	Player bought 882 x 10 from shop	
+[3/8/18 03:22AM]	Player bought 882 x 10 from shop	
+[3/8/18 03:22AM]	Player bought 882 x 10 from shop	
+[3/8/18 03:22AM]	Player bought 882 x 5 from shop	
+[3/8/18 03:22AM]	Player bought 882 x 5 from shop	
+[3/8/18 03:22AM]	Player bought 882 x 10 from shop	
+[3/8/18 03:23AM]	Player bought 560 x 1000 from shop	
+[3/8/18 03:23AM]	Player bought 4675 x 1 from shop	
+[3/8/18 03:23AM]	Player bought 4099 x 1 from shop	
+[3/8/18 03:23AM]	Player bought 4101 x 1 from shop	
+[3/8/18 03:23AM]	Player bought 4103 x 1 from shop	
+[3/8/18 03:24AM]	Player bought 4105 x 1 from shop	
+[3/8/18 03:24AM]	Player bought 4107 x 1 from shop	
+[3/8/18 03:24AM]	Player bought 2414 x 1 from shop	
+[3/8/18 03:24AM]	Player bought 565 x 1000 from shop	
+[3/8/18 03:24AM]	Player bought 566 x 100 from shop	
+[3/8/18 03:24AM]	Player bought 566 x 900 from shop	
+[3/8/18 03:28AM]	El233m used command ::aswer herblore | Player rights = PLAYER	
+[3/8/18 03:30AM]	Player picking up item: [ItemDefinition(407)] - Name: Oyster; equipment slot: 3; value: 114; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:30AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:31AM]	Player picking up item: [ItemDefinition(12163)] - Name: Blue charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:34AM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:34AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 1000234	
+[3/8/18 03:34AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:35AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:35AM]	Player picking up item: [ItemDefinition(2485)] - Name: Grimy lantadyme; equipment slot: 3; value: 31224; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:36AM]	Player picking up item: [ItemDefinition(1625)] - Name: Uncut opal; equipment slot: 3; value: 30; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:36AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:36AM]	Player picking up item: [ItemDefinition(12163)] - Name: Blue charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:36AM]	Player picking up item: [ItemDefinition(12160)] - Name: Crimson charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:36AM]	Player picking up item: [ItemDefinition(15188)] - Name: Rock crab carcass; equipment slot: 3; value: 476; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:37AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 03:37AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:37AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 03:37AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:38AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:38AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:38AM]	Player picking up item: [ItemDefinition(561)] - Name: Nature rune; equipment slot: 3; value: 420; stackable ? true; noted ? false; 2h ? false amount: 3	
+[3/8/18 03:38AM]	Player picking up item: [ItemDefinition(1625)] - Name: Uncut opal; equipment slot: 3; value: 30; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:39AM]	Player picking up item: [ItemDefinition(25)] - Name: Red vine worm; equipment slot: 3; value: 14200; stackable ? true; noted ? false; 2h ? false amount: 2	
+[3/8/18 03:39AM]	Player dropping item: 561, amount: 3	
+[3/8/18 03:39AM]	Player dropping item: 409, amount: 1	
+[3/8/18 03:39AM]	Player dropping item: 1381, amount: 1	
+[3/8/18 03:39AM]	Player dropping item: 1323, amount: 1	
+[3/8/18 03:39AM]	Player picking up item: [ItemDefinition(2681)] - Name: Clue scroll (easy); equipment slot: 3; value: 1000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:39AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:40AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:40AM]	Player picking up item: [ItemDefinition(5295)] - Name: Ranarr seed; equipment slot: 3; value: 6540; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:40AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:40AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:41AM]	Player picking up item: [ItemDefinition(12163)] - Name: Blue charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:41AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 03:41AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:41AM]	Player picking up item: [ItemDefinition(25)] - Name: Red vine worm; equipment slot: 3; value: 14200; stackable ? true; noted ? false; 2h ? false amount: 3	
+[3/8/18 03:41AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:42AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:42AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 03:42AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:42AM]	Player picking up item: [ItemDefinition(5295)] - Name: Ranarr seed; equipment slot: 3; value: 6540; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:42AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 03:42AM]	Player picking up item: [ItemDefinition(407)] - Name: Oyster; equipment slot: 3; value: 114; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:42AM]	Player dropping item: 409, amount: 1	
+[3/8/18 03:43AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:43AM]	Player picking up item: [ItemDefinition(405)] - Name: Casket; equipment slot: 3; value: 909; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:43AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:43AM]	Player picking up item: [ItemDefinition(12160)] - Name: Crimson charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:43AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:43AM]	Player picking up item: [ItemDefinition(12163)] - Name: Blue charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:44AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:44AM]	Player picking up item: [ItemDefinition(5295)] - Name: Ranarr seed; equipment slot: 3; value: 6540; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:44AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:44AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 03:44AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:44AM]	Player picking up item: [ItemDefinition(407)] - Name: Oyster; equipment slot: 3; value: 114; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:44AM]	Player dropping item: 409, amount: 1	
+[3/8/18 03:45AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 03:45AM]	Player picking up item: [ItemDefinition(12160)] - Name: Crimson charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:45AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:45AM]	Player picking up item: [ItemDefinition(25)] - Name: Red vine worm; equipment slot: 3; value: 14200; stackable ? true; noted ? false; 2h ? false amount: 2	
+[3/8/18 03:46AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 03:46AM]	El233m used command ::aswer 1 | Player rights = PLAYER	
+[3/8/18 03:46AM]	El233m used command ::answer 1 | Player rights = PLAYER	
+[3/8/18 03:46AM]	El233m used command ::answe 10 | Player rights = PLAYER	
+[3/8/18 03:47AM]	Player picking up item: [ItemDefinition(407)] - Name: Oyster; equipment slot: 3; value: 114; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:47AM]	El233m used command ::answer 10 | Player rights = PLAYER	
+[3/8/18 03:47AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 1000000	
+[3/8/18 03:47AM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:47AM]	El233m used command ::answer 3 | Player rights = PLAYER	
+[3/8/18 03:47AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:47AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:48AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:48AM]	Player picking up item: [ItemDefinition(407)] - Name: Oyster; equipment slot: 3; value: 114; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:48AM]	El233m used command ::answer 2 | Player rights = PLAYER	
+[3/8/18 03:49AM]	Player dropping item: 409, amount: 1	
+[3/8/18 03:49AM]	Player dropping item: 409, amount: 1	
+[3/8/18 03:49AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:49AM]	Player picking up item: [ItemDefinition(25)] - Name: Red vine worm; equipment slot: 3; value: 14200; stackable ? true; noted ? false; 2h ? false amount: 2	
+[3/8/18 03:50AM]	El233m used command ::answer 15 | Player rights = PLAYER	
+[3/8/18 03:50AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 03:50AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:50AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 03:51AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:51AM]	Player picking up item: [ItemDefinition(25)] - Name: Red vine worm; equipment slot: 3; value: 14200; stackable ? true; noted ? false; 2h ? false amount: 2	
+[3/8/18 03:51AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 03:51AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:51AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:52AM]	Player bought 853 x 1 from shop	
+[3/8/18 03:52AM]	Player bought 9185 x 1 from shop	
+[3/8/18 03:53AM]	Player bought 890 x 200 from shop	
+[3/8/18 03:53AM]	Player bought 9244 x 150 from shop	
+[3/8/18 03:53AM]	Player bought 10499 x 1 from shop	
+[3/8/18 03:53AM]	Player bought 2499 x 1 from shop	
+[3/8/18 03:53AM]	Player bought 2493 x 1 from shop	
+[3/8/18 03:53AM]	Player bought 2487 x 1 from shop	
+[3/8/18 03:53AM]	Player bought 3749 x 1 from shop	
+[3/8/18 03:53AM]	Player bought 6328 x 1 from shop	
+[3/8/18 03:55AM]	Player bought 11090 x 1 from shop	
+[3/8/18 03:55AM]	Player bought 2550 x 1 from shop	
+[3/8/18 03:56AM]	Player bought 1540 x 1 from shop	
+[3/8/18 03:56AM]	Player bought 3842 x 1 from shop	
+[3/8/18 03:59AM]	Player bought 952 x 1 from shop	
+[3/8/18 04:01AM]	Login from host 190.39.54.19	
+[3/8/18 04:04AM]	El233m used command ::answer 75 | Player rights = PLAYER	
+[3/8/18 04:06AM]	Login from host 190.77.109.46	
+[3/8/18 04:06AM]	El233m used command ::::answer 60 | Player rights = PLAYER	
+[3/8/18 04:07AM]	Player picking up item: [ItemDefinition(1617)] - Name: Uncut diamond; equipment slot: 3; value: 7200; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:07AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:07AM]	Player picking up item: [ItemDefinition(1625)] - Name: Uncut opal; equipment slot: 3; value: 30; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:07AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 1000000	
+[3/8/18 04:07AM]	Player picking up item: [ItemDefinition(407)] - Name: Oyster; equipment slot: 3; value: 114; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:07AM]	Player picking up item: [ItemDefinition(12160)] - Name: Crimson charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:08AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 04:08AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 1000000	
+[3/8/18 04:09AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 04:09AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:09AM]	Player dropping item: 409, amount: 1	
+[3/8/18 04:09AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:10AM]	Player picking up item: [ItemDefinition(407)] - Name: Oyster; equipment slot: 3; value: 114; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:10AM]	Player picking up item: [ItemDefinition(5295)] - Name: Ranarr seed; equipment slot: 3; value: 6540; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:10AM]	Player dropping item: 409, amount: 1	
+[3/8/18 04:10AM]	Player picking up item: [ItemDefinition(1625)] - Name: Uncut opal; equipment slot: 3; value: 30; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:11AM]	Player dropping item: 853, amount: 1	
+[3/8/18 04:11AM]	Player dropping item: 882, amount: 494	
+[3/8/18 04:11AM]	Player picking up item: [ItemDefinition(12160)] - Name: Crimson charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:11AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:11AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:11AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 04:11AM]	Player picking up item: [ItemDefinition(407)] - Name: Oyster; equipment slot: 3; value: 114; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:11AM]	Player dropping item: 409, amount: 1	
+[3/8/18 04:14AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:23AM]	El233m used command ::answer 99 | Player rights = PLAYER	
+[3/8/18 04:23AM]	El233m used command ::answer max cape | Player rights = PLAYER	
+[3/8/18 04:23AM]	El233m used command ::answer skillcap | Player rights = PLAYER	
+[3/8/18 04:24AM]	El233m used command ::answer skillcapes | Player rights = PLAYER	
+[3/8/18 04:26AM]	El233m used command ::maxcapes | Player rights = PLAYER	
+[3/8/18 04:26AM]	El233m used command ::answer maxcapes | Player rights = PLAYER	
+[3/8/18 04:27AM]	El233m used command ::answer skillcape | Player rights = PLAYER	
+[3/8/18 04:31AM]	Player picking up item: [ItemDefinition(1625)] - Name: Uncut opal; equipment slot: 3; value: 30; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:31AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 04:31AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:31AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 04:31AM]	Player picking up item: [ItemDefinition(12163)] - Name: Blue charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:31AM]	Player picking up item: [ItemDefinition(12160)] - Name: Crimson charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:31AM]	Player picking up item: [ItemDefinition(987)] - Name: Loop half of a key; equipment slot: 3; value: 12900; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:31AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:32AM]	Player picking up item: [ItemDefinition(1621)] - Name: Uncut emerald; equipment slot: 3; value: 700; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:32AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:32AM]	Player dropping item: 1621, amount: 1	
+[3/8/18 04:32AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 04:33AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:33AM]	Player picking up item: [ItemDefinition(407)] - Name: Oyster; equipment slot: 3; value: 114; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:33AM]	Player dropping item: 409, amount: 1	
+[3/8/18 04:33AM]	Player picking up item: [ItemDefinition(407)] - Name: Oyster; equipment slot: 3; value: 114; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:34AM]	Player dropping item: 409, amount: 1	
+[3/8/18 04:34AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 04:34AM]	Player picking up item: [ItemDefinition(407)] - Name: Oyster; equipment slot: 3; value: 114; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:34AM]	Player dropping item: 409, amount: 1	
+[3/8/18 04:34AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 04:34AM]	Player dropping item: 25, amount: 11	
+[3/8/18 04:34AM]	Player picking up item: [ItemDefinition(45)] - Name: Opal bolt tips; equipment slot: 13; value: 17; stackable ? true; noted ? false; 2h ? false amount: 3	
+[3/8/18 04:34AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:34AM]	Player picking up item: [ItemDefinition(12163)] - Name: Blue charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:34AM]	Player picking up item: [ItemDefinition(985)] - Name: Tooth half of a key; equipment slot: 3; value: 26200; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:34AM]	Player picking up item: [ItemDefinition(985)] - Name: Tooth half of a key; equipment slot: 3; value: 26200; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:34AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:35AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:35AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:35AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 04:35AM]	Player picking up item: [ItemDefinition(18778)] - Name: Starved ancient effigy; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:35AM]	Player dropping item: 45, amount: 3	
+[3/8/18 04:36AM]	Player picking up item: [ItemDefinition(1625)] - Name: Uncut opal; equipment slot: 3; value: 30; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:36AM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:36AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:36AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:36AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 468	
+[3/8/18 04:36AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:36AM]	Player picking up item: [ItemDefinition(1625)] - Name: Uncut opal; equipment slot: 3; value: 30; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:37AM]	Player dropping item: 11090, amount: 1	
+[3/8/18 04:37AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 04:37AM]	Player picking up item: [ItemDefinition(1625)] - Name: Uncut opal; equipment slot: 3; value: 30; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:37AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:37AM]	Player picking up item: [ItemDefinition(12163)] - Name: Blue charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:38AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 1000000	
+[3/8/18 04:38AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:38AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:38AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:39AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:39AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:39AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:39AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 04:39AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:40AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:40AM]	Player picking up item: [ItemDefinition(405)] - Name: Casket; equipment slot: 3; value: 909; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:40AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 04:40AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:40AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 04:40AM]	Player picking up item: [ItemDefinition(1625)] - Name: Uncut opal; equipment slot: 3; value: 30; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:40AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:44AM]	Player bought 9244 x 200 from shop	
+[3/8/18 04:44AM]	Player bought 2503 x 1 from shop	
+[3/8/18 04:44AM]	Player bought 2497 x 1 from shop	
+[3/8/18 04:44AM]	Player bought 2491 x 1 from shop	
+[3/8/18 04:44AM]	Player dropping item: 2499, amount: 1	
+[3/8/18 04:44AM]	Player dropping item: 2493, amount: 1	
+[3/8/18 04:44AM]	Player dropping item: 2487, amount: 1	
+[3/8/18 04:45AM]	Player picking up item: [ItemDefinition(407)] - Name: Oyster; equipment slot: 3; value: 114; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:45AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 04:45AM]	Player picking up item: [ItemDefinition(12163)] - Name: Blue charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:45AM]	Player dropping item: 409, amount: 1	
+[3/8/18 04:45AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 04:46AM]	Player picking up item: [ItemDefinition(1625)] - Name: Uncut opal; equipment slot: 3; value: 30; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:46AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:46AM]	Player picking up item: [ItemDefinition(12160)] - Name: Crimson charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:47AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:47AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 04:47AM]	Player picking up item: [ItemDefinition(1625)] - Name: Uncut opal; equipment slot: 3; value: 30; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:47AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:47AM]	Player picking up item: [ItemDefinition(5295)] - Name: Ranarr seed; equipment slot: 3; value: 6540; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:48AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 04:48AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:48AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:48AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:48AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 04:48AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:49AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 04:49AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:50AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:50AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:50AM]	Player picking up item: [ItemDefinition(5295)] - Name: Ranarr seed; equipment slot: 3; value: 6540; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:50AM]	Player picking up item: [ItemDefinition(12160)] - Name: Crimson charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:50AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:51AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:51AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 04:51AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:52AM]	Player picking up item: [ItemDefinition(1625)] - Name: Uncut opal; equipment slot: 3; value: 30; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:52AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:52AM]	Player picking up item: [ItemDefinition(12160)] - Name: Crimson charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:52AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 04:52AM]	Player picking up item: [ItemDefinition(407)] - Name: Oyster; equipment slot: 3; value: 114; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:52AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 100234	
+[3/8/18 04:52AM]	Player picking up item: [ItemDefinition(12160)] - Name: Crimson charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:52AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:53AM]	Player picking up item: [ItemDefinition(1625)] - Name: Uncut opal; equipment slot: 3; value: 30; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:53AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 2	
+[3/8/18 04:53AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 04:54AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 04:54AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:54AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 1000000	
+[3/8/18 04:54AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 04:54AM]	Player picking up item: [ItemDefinition(407)] - Name: Oyster; equipment slot: 3; value: 114; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:54AM]	Player dropping item: 409, amount: 1	
+[3/8/18 04:55AM]	Player picking up item: [ItemDefinition(407)] - Name: Oyster; equipment slot: 3; value: 114; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:55AM]	Player dropping item: 409, amount: 1	
+[3/8/18 04:55AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 04:55AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:55AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:55AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 04:55AM]	Player picking up item: [ItemDefinition(12160)] - Name: Crimson charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:55AM]	Player picking up item: [ItemDefinition(407)] - Name: Oyster; equipment slot: 3; value: 114; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:55AM]	Player dropping item: 409, amount: 1	
+[3/8/18 04:56AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 1000000	
+[3/8/18 04:56AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 04:56AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:56AM]	Player picking up item: [ItemDefinition(12160)] - Name: Crimson charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:57AM]	Player picking up item: [ItemDefinition(407)] - Name: Oyster; equipment slot: 3; value: 114; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:57AM]	Player dropping item: 409, amount: 1	
+[3/8/18 04:57AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:58AM]	Player picking up item: [ItemDefinition(407)] - Name: Oyster; equipment slot: 3; value: 114; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:58AM]	Player dropping item: 409, amount: 1	
+[3/8/18 04:58AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 04:58AM]	Player picking up item: [ItemDefinition(407)] - Name: Oyster; equipment slot: 3; value: 114; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:58AM]	Player picking up item: [ItemDefinition(407)] - Name: Oyster; equipment slot: 3; value: 114; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:58AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 04:59AM]	Player dropping item: 409, amount: 1	
+[3/8/18 04:59AM]	Player dropping item: 409, amount: 1	
+[3/8/18 04:59AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 04:59AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 04:59AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:00AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:03AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:05AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 05:05AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 05:05AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:05AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:13AM]	Login from host 200.93.65.218	
+[3/8/18 05:14AM]	Player picking up item: [ItemDefinition(18778)] - Name: Starved ancient effigy; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:14AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 05:14AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 05:14AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 05:14AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:15AM]	Player picking up item: [ItemDefinition(1625)] - Name: Uncut opal; equipment slot: 3; value: 30; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:15AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 2	
+[3/8/18 05:15AM]	Player picking up item: [ItemDefinition(407)] - Name: Oyster; equipment slot: 3; value: 114; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:15AM]	Player picking up item: [ItemDefinition(1619)] - Name: Uncut ruby; equipment slot: 3; value: 950; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:16AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:16AM]	Player picking up item: [ItemDefinition(12160)] - Name: Crimson charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:16AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 05:18AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 05:19AM]	Player picking up item: [ItemDefinition(12160)] - Name: Crimson charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:19AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:19AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 05:23AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 05:23AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:23AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 1000234	
+[3/8/18 05:23AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:23AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:24AM]	Player picking up item: [ItemDefinition(1625)] - Name: Uncut opal; equipment slot: 3; value: 30; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:24AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:24AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 05:24AM]	Player picking up item: [ItemDefinition(12160)] - Name: Crimson charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:24AM]	Player picking up item: [ItemDefinition(12163)] - Name: Blue charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:24AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:25AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:25AM]	Player picking up item: [ItemDefinition(12160)] - Name: Crimson charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:26AM]	El233m used command ::answer 25 | Player rights = PLAYER	
+[3/8/18 05:26AM]	Player picking up item: [ItemDefinition(12160)] - Name: Crimson charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:26AM]	El233m used command ::answer 30 | Player rights = PLAYER	
+[3/8/18 05:26AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:26AM]	El233m used command ::answer 5 | Player rights = PLAYER	
+[3/8/18 05:27AM]	El233m used command ::answer 6 | Player rights = PLAYER	
+[3/8/18 05:27AM]	El233m used command ::answer 7 | Player rights = PLAYER	
+[3/8/18 05:27AM]	El233m used command ::answer 8 | Player rights = PLAYER	
+[3/8/18 05:27AM]	El233m used command ::answer 9 | Player rights = PLAYER	
+[3/8/18 05:27AM]	El233m used command ::answer 10 | Player rights = PLAYER	
+[3/8/18 05:27AM]	El233m used command ::asnwer 11 | Player rights = PLAYER	
+[3/8/18 05:27AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:27AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 05:28AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:28AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 05:28AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:28AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 05:28AM]	Player picking up item: [ItemDefinition(985)] - Name: Tooth half of a key; equipment slot: 3; value: 26200; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:28AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 05:28AM]	Player picking up item: [ItemDefinition(407)] - Name: Oyster; equipment slot: 3; value: 114; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:28AM]	Player dropping item: 409, amount: 1	
+[3/8/18 05:29AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:29AM]	Player picking up item: [ItemDefinition(1625)] - Name: Uncut opal; equipment slot: 3; value: 30; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:29AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:29AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 05:29AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 05:29AM]	Player picking up item: [ItemDefinition(12160)] - Name: Crimson charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:29AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:29AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 05:30AM]	Player picking up item: [ItemDefinition(1625)] - Name: Uncut opal; equipment slot: 3; value: 30; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:30AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:30AM]	Player picking up item: [ItemDefinition(405)] - Name: Casket; equipment slot: 3; value: 909; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:30AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 468	
+[3/8/18 05:31AM]	Player picking up item: [ItemDefinition(1625)] - Name: Uncut opal; equipment slot: 3; value: 30; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:31AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 05:31AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/8/18 05:31AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:31AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:31AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:32AM]	Player picking up item: [ItemDefinition(1625)] - Name: Uncut opal; equipment slot: 3; value: 30; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:32AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:32AM]	Player picking up item: [ItemDefinition(987)] - Name: Loop half of a key; equipment slot: 3; value: 12900; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 05:32AM]	Player picking up item: [ItemDefinition(437)] - Name: Copper ore; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 1	
+[3/8/18 05:32AM]	Player dropping item: 437, amount: 1	
+[3/8/18 05:33AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	

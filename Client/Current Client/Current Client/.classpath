@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="classes/artifacts/Client_jar/Client.jar"/>
+	<classpathentry kind="lib" path="lib/oshi-core-3.3.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j.jar"/>
+	<classpathentry kind="lib" path="lib/theme.jar"/>
+	<classpathentry kind="lib" path="lib/trident.jar"/>
+	<classpathentry kind="output" path="classes/production/client"/>
+</classpath>

@@ -1,0 +1,118 @@
+[3/6/18 09:23PM]	Login from host 24.179.111.46	
+[3/6/18 09:24PM]	Lexi used command ::[FRI]Daking | Player rights = PLAYER	
+[3/6/18 09:29PM]	Login from host 24.179.111.46	
+[3/6/18 09:44PM]	Player picking up item: [ItemDefinition(11134)] - Name: Regen bracelet; equipment slot: 9; value: 127100; stackable ? true; noted ? true; 2h ? false amount: 1	
+[3/6/18 09:55PM]	Lexi used command ::di | Player rights = PLAYER	
+[3/7/18 04:41PM]	Login from host 24.179.111.46	
+[3/7/18 04:48PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[3/7/18 04:49PM]	Player picking up item: [ItemDefinition(985)] - Name: Tooth half of a key; equipment slot: 3; value: 26200; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/7/18 04:50PM]	Player picking up item: [ItemDefinition(987)] - Name: Loop half of a key; equipment slot: 3; value: 12900; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/7/18 04:50PM]	Player picking up item: [ItemDefinition(12163)] - Name: Blue charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/7/18 04:50PM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/7/18 04:51PM]	Player picking up item: [ItemDefinition(561)] - Name: Nature rune; equipment slot: 3; value: 420; stackable ? true; noted ? false; 2h ? false amount: 2	
+[3/7/18 04:51PM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/7/18 04:53PM]	Player bought 4587 x 1 from shop	
+[3/7/18 04:53PM]	Player bought 5680 x 1 from shop	
+[3/7/18 04:54PM]	Player picking up item: [ItemDefinition(441)] - Name: Iron ore; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 1	
+[3/7/18 04:54PM]	Player dropping item: 441, amount: 1	
+[3/7/18 04:54PM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/7/18 04:56PM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/7/18 04:56PM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/7/18 04:56PM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/7/18 04:57PM]	Player dropping item: 1323, amount: 1	
+[3/7/18 04:57PM]	Player picking up item: [ItemDefinition(12160)] - Name: Crimson charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/7/18 04:58PM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/7/18 04:58PM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/7/18 04:58PM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/7/18 04:58PM]	Player picking up item: [ItemDefinition(12160)] - Name: Crimson charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/7/18 04:58PM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/7/18 04:59PM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/7/18 05:00PM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/7/18 05:00PM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/7/18 05:02PM]	Player picking up item: [ItemDefinition(12160)] - Name: Crimson charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/7/18 05:02PM]	Player picking up item: [ItemDefinition(12160)] - Name: Crimson charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/7/18 05:03PM]	Player picking up item: [ItemDefinition(12160)] - Name: Crimson charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/7/18 05:03PM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/7/18 05:03PM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/7/18 05:04PM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/7/18 05:06PM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/7/18 05:06PM]	Player picking up item: [ItemDefinition(15188)] - Name: Rock crab carcass; equipment slot: 3; value: 476; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/7/18 05:06PM]	Player dropping item: 15188, amount: 1	
+[3/7/18 05:07PM]	Player picking up item: [ItemDefinition(12160)] - Name: Crimson charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/7/18 05:07PM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/7/18 05:08PM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/7/18 05:08PM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/7/18 05:09PM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/7/18 05:10PM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/7/18 05:11PM]	Player picking up item: [ItemDefinition(405)] - Name: Casket; equipment slot: 3; value: 909; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/7/18 05:11PM]	Player dropping item: 561, amount: 2	
+[3/7/18 05:11PM]	Player picking up item: [ItemDefinition(18778)] - Name: Starved ancient effigy; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/7/18 05:13PM]	Lexi received a Pet Rock Crab from Rock Crab	
+[3/7/18 05:15PM]	Player picking up item: [ItemDefinition(405)] - Name: Casket; equipment slot: 3; value: 909; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/7/18 05:17PM]	Player picking up item: [ItemDefinition(405)] - Name: Casket; equipment slot: 3; value: 909; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/7/18 05:17PM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/7/18 05:17PM]	Lexi used command ::answer 7 | Player rights = PLAYER	
+[3/7/18 05:17PM]	Lexi used command ::anwer 8 | Player rights = PLAYER	
+[3/7/18 05:17PM]	Lexi used command ::answer 9 | Player rights = PLAYER	
+[3/7/18 05:17PM]	Lexi used command ::answer 6 | Player rights = PLAYER	
+[3/7/18 05:17PM]	Lexi used command ::answer 5 | Player rights = PLAYER	
+[3/7/18 05:17PM]	Lexi used command ::answer 4 | Player rights = PLAYER	
+[3/7/18 05:17PM]	Player picking up item: [ItemDefinition(805)] - Name: Rune thrownaxe; equipment slot: 3; value: 220; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/7/18 05:17PM]	Player picking up item: [ItemDefinition(805)] - Name: Rune thrownaxe; equipment slot: 3; value: 220; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/7/18 05:19PM]	Player picking up item: [ItemDefinition(405)] - Name: Casket; equipment slot: 3; value: 909; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/7/18 05:27PM]	Player picking up item: [ItemDefinition(18778)] - Name: Starved ancient effigy; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/7/18 05:28PM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/7/18 05:28PM]	Player picking up item: [ItemDefinition(12163)] - Name: Blue charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/7/18 05:35PM]	Lexi used command ::answer boss points | Player rights = PLAYER	
+[3/7/18 05:37PM]	Player picking up item: [ItemDefinition(12163)] - Name: Blue charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/7/18 05:53PM]	Player picking up item: [ItemDefinition(12160)] - Name: Crimson charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/7/18 06:49PM]	Lexi used command ::gamble | Player rights = PLAYER	
+[3/7/18 06:50PM]	Player gambled 100000000Coins	
+[3/7/18 06:50PM]	Player gambled 100000000Coins	
+[3/7/18 06:50PM]	Player gambled 100000000Coins	
+[3/7/18 06:50PM]	Player gambled 100000000Coins	
+[3/7/18 06:50PM]	Player gambled 100000000Coins	
+[3/7/18 06:50PM]	Player gambled 100000000Coins	
+[3/7/18 06:50PM]	Player gambled 100000000Coins	
+[3/7/18 06:50PM]	Player gambled 100000000Coins	
+[3/7/18 06:50PM]	Player gambled 100000000Coins	
+[3/7/18 06:50PM]	Player gambled 100000000Coins	
+[3/7/18 06:50PM]	Player gambled 100000000Coins	
+[3/7/18 06:50PM]	Player gambled 100000000Coins	
+[3/7/18 06:50PM]	Player gambled 100000000Coins	
+[3/7/18 06:50PM]	Player gambled 100000000Coins	
+[3/7/18 06:50PM]	Player gambled 100000000Coins	
+[3/7/18 06:50PM]	Player gambled 100000000Coins	
+[3/7/18 06:50PM]	Player gambled 100000000Coins	
+[3/7/18 06:50PM]	Player gambled 100000000Coins	
+[3/7/18 06:50PM]	Player gambled 100000000Coins	
+[3/7/18 06:50PM]	Player gambled 100000000Coins	
+[3/7/18 06:50PM]	Player gambled 100000000Coins	
+[3/7/18 06:50PM]	Player gambled 100000000Coins	
+[3/7/18 06:50PM]	Player gambled 100000000Coins	
+[3/7/18 06:50PM]	Player gambled 100000000Coins	
+[3/7/18 06:50PM]	Player gambled 100000000Coins	
+[3/7/18 06:51PM]	Player gambled 100000000Coins	
+[3/7/18 06:51PM]	Player gambled 500000000Coins	
+[3/7/18 06:51PM]	Player gambled 1000000000Coins	
+[3/7/18 06:51PM]	Player gambled 94000000Coins	
+[3/7/18 06:51PM]	Player gambled 984000Coins	
+[3/7/18 06:51PM]	Player gambled 1666Coins	
+[3/7/18 06:51PM]	Player gambled 2000000Coins	
+[3/7/18 06:51PM]	Player gambled 8892Coins	
+[3/7/18 06:51PM]	Player gambled 8892Coins	
+[3/7/18 06:51PM]	Player gambled 8892Coins	
+[3/7/18 06:51PM]	Player gambled 8892Coins	
+[3/7/18 06:52PM]	Player gambled 26676Coins	
+[3/7/18 07:12PM]	Login from host 24.179.111.46	
+[3/7/18 07:29PM]	Login from host 24.179.111.46	
+[3/7/18 08:45PM]	Login from host 24.179.111.46	
+[3/7/18 08:46PM]	Lexi used command ::zu1989 | Player rights = PLAYER	
+[3/7/18 08:46PM]	Lexi used command ::invisible989 | Player rights = PLAYER	
+[3/7/18 08:46PM]	Lexi used command ::promotele ace | Player rights = PLAYER	
+[3/7/18 08:53PM]	Lexi used command ::dropparty | Player rights = PLAYER	
+[3/7/18 08:56PM]	Lexi used command ::sql | Player rights = PLAYER	
+[3/7/18 08:57PM]	Lexi used command ::tkeys | Player rights = PLAYER	
+[3/7/18 08:57PM]	Lexi used command ::yell no | Player rights = PLAYER	
+[3/7/18 09:17PM]	Lexi used command ::dropparty | Player rights = PLAYER	
+[3/7/18 10:20PM]	Login from host 24.179.111.46	

@@ -1,0 +1,230 @@
+[2/10/18 06:51PM]	Login from host 130.18.104.177	
+[2/18/18 04:27AM]	Login from host 86.164.112.172	
+[2/18/18 04:29AM]	Pure used command ::bank | Player rights = PLAYER	
+[2/18/18 04:29AM]	Player bought 3105 x 1 from shop	
+[2/18/18 04:29AM]	Player bought 3842 x 1 from shop	
+[2/18/18 04:30AM]	Player bought 10499 x 1 from shop	
+[2/18/18 04:30AM]	Player bought 4587 x 1 from shop	
+[2/18/18 04:32AM]	Pure used command ::home | Player rights = PLAYER	
+[2/18/18 04:32AM]	Pure used command ::Sethome | Player rights = PLAYER	
+[2/18/18 04:33AM]	Pure used command ::sethome | Player rights = PLAYER	
+[2/18/18 04:33AM]	Pure used command ::home | Player rights = PLAYER	
+[2/18/18 04:36AM]	Login from host 86.164.112.172	
+[2/18/18 04:37AM]	Pure used command ::commands | Player rights = PLAYER	
+[2/18/18 04:49AM]	Login from host 86.164.112.172	
+[2/18/18 05:06AM]	Receiving item from Z. ItemName: Dragon claws, itemId: 14484 amount: 1	
+[2/18/18 05:06AM]	Receiving item from Z. ItemName: Amulet of fury, itemId: 6585 amount: 1	
+[2/18/18 05:06AM]	Receiving item from Z. ItemName: Robin hood hat, itemId: 2581 amount: 1	
+[2/18/18 05:06AM]	Receiving item from Z. ItemName: Ranger boots, itemId: 2577 amount: 1	
+[2/18/18 05:06AM]	Receiving item from Z. ItemName: Coins, itemId: 995 amount: 100000000	
+[2/18/18 05:06AM]	Receiving item from Z. ItemName: Dragon scimitar, itemId: 4587 amount: 1	
+[2/18/18 05:07AM]	Player dropping item: 1011, amount: 1	
+[2/18/18 05:07AM]	Player dropping item: 579, amount: 1	
+[2/18/18 05:07AM]	Player dropping item: 577, amount: 1	
+[2/18/18 05:07AM]	Player dropping item: 1478, amount: 1	
+[2/18/18 05:07AM]	Player dropping item: 1095, amount: 1	
+[2/18/18 05:07AM]	Player dropping item: 1191, amount: 1	
+[2/18/18 05:08AM]	Player bought 6107 x 1 from shop	
+[2/18/18 05:08AM]	Player bought 9185 x 1 from shop	
+[2/18/18 05:08AM]	Player bought 1215 x 1 from shop	
+[2/18/18 05:08AM]	Player bought 6528 x 1 from shop	
+[2/18/18 05:08AM]	Player bought 861 x 1 from shop	
+[2/18/18 05:08AM]	Player bought 11118 x 1 from shop	
+[2/18/18 05:08AM]	Player bought 2550 x 1 from shop	
+[2/18/18 05:08AM]	Player bought 2497 x 5 from shop	
+[2/18/18 05:09AM]	Player dropping item: 841, amount: 1	
+[2/18/18 05:09AM]	Player dropping item: 4391, amount: 1	
+[2/18/18 05:09AM]	Player dropping item: 1323, amount: 1	
+[2/18/18 05:09AM]	Player dropping item: 1067, amount: 1	
+[2/18/18 05:10AM]	Player bought 391 x 10 from shop	
+[2/18/18 05:10AM]	Player bought 811 x 500 from shop	
+[2/18/18 05:11AM]	Player bought 811 x 500 from shop	
+[2/18/18 05:12AM]	Player bought 560 x 5000 from shop	
+[2/18/18 05:12AM]	Player bought 565 x 5000 from shop	
+[2/18/18 05:12AM]	Player bought 566 x 5000 from shop	
+[2/18/18 05:12AM]	Player bought 555 x 5000 from shop	
+[2/18/18 05:13AM]	Player bought 555 x 5000 from shop	
+[2/18/18 05:13AM]	Player bought 562 x 1000 from shop	
+[2/18/18 05:13AM]	Player bought 9075 x 5000 from shop	
+[2/18/18 05:14AM]	Pure used command ::answer ghost town | Player rights = PLAYER	
+[2/18/18 05:23AM]	Player picking up item: [ItemDefinition(1625)] - Name: Uncut opal; equipment slot: 3; value: 30; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 05:33AM]	Pure used command ::answer 57 | Player rights = PLAYER	
+[2/18/18 05:35AM]	Player dropping item: 1625, amount: 1	
+[2/18/18 05:37AM]	Player picking up item: [ItemDefinition(45)] - Name: Opal bolt tips; equipment slot: 13; value: 17; stackable ? true; noted ? false; 2h ? false amount: 4	
+[2/18/18 05:39AM]	Player bought 6108 x 1 from shop	
+[2/18/18 05:39AM]	Player bought 6107 x 1 from shop	
+[2/18/18 05:39AM]	Player bought 6109 x 1 from shop	
+[2/18/18 05:39AM]	Player bought 4675 x 1 from shop	
+[2/18/18 05:40AM]	Player dropping item: 45, amount: 4	
+[2/18/18 05:40AM]	Player dropping item: 558, amount: 995	
+[2/18/18 05:40AM]	Player bought 8 x 1 from shop	
+[2/18/18 05:40AM]	Player bought 10 x 1 from shop	
+[2/18/18 05:40AM]	Player bought 12 x 1 from shop	
+[2/18/18 05:40AM]	Player bought 6 x 1 from shop	
+[2/18/18 05:40AM]	Player bought 2 x 1000 from shop	
+[2/18/18 05:43AM]	Pure received a Pet Rock Crab from Rock Crab	
+[2/18/18 05:48AM]	Player picking up item: [ItemDefinition(403)] - Name: Edible seaweed; equipment slot: 3; value: 321; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 05:49AM]	Login from host 86.164.112.172	
+[2/18/18 05:49AM]	Pure used command ::answer rigour | Player rights = PLAYER	
+[2/18/18 05:55AM]	Player dropping item: 403, amount: 1	
+[2/18/18 05:57AM]	Player bought 892 x 5000 from shop	
+[2/18/18 05:57AM]	Player bought 9244 x 5000 from shop	
+[2/18/18 05:59AM]	Pure used command ::empty | Player rights = PLAYER	
+[2/18/18 06:00AM]	Player bought 4587 x 5 from shop	
+[2/18/18 06:00AM]	Player bought 6528 x 1 from shop	
+[2/18/18 06:00AM]	Player bought 6528 x 1 from shop	
+[2/18/18 06:00AM]	Player bought 1215 x 5 from shop	
+[2/18/18 06:00AM]	Player bought 9185 x 5 from shop	
+[2/18/18 06:00AM]	Player bought 4675 x 5 from shop	
+[2/18/18 06:00AM]	Player bought 3842 x 5 from shop	
+[2/18/18 06:00AM]	Player bought 9185 x 5 from shop	
+[2/18/18 06:00AM]	Player bought 861 x 5 from shop	
+[2/18/18 06:00AM]	Player bought 10499 x 5 from shop	
+[2/18/18 06:00AM]	Player bought 868 x 1000 from shop	
+[2/18/18 06:01AM]	Player bought 1704 x 5 from shop	
+[2/18/18 06:01AM]	Player bought 2550 x 5 from shop	
+[2/18/18 06:02AM]	Player bought 556 x 5000 from shop	
+[2/18/18 06:02AM]	Player bought 1387 x 5 from shop	
+[2/18/18 06:02AM]	Player bought 1385 x 5 from shop	
+[2/18/18 06:02AM]	Player bought 1383 x 5 from shop	
+[2/18/18 06:02AM]	Player bought 1381 x 5 from shop	
+[2/18/18 06:04AM]	Player bought 1115 x 5 from shop	
+[2/18/18 06:04AM]	Player bought 1153 x 5 from shop	
+[2/18/18 06:04AM]	Player bought 6108 x 5 from shop	
+[2/18/18 06:04AM]	Player bought 6107 x 5 from shop	
+[2/18/18 06:04AM]	Player bought 6109 x 5 from shop	
+[2/18/18 06:05AM]	Player bought 1249 x 5 from shop	
+[2/18/18 06:05AM]	Player bought 3204 x 5 from shop	
+[2/18/18 06:05AM]	Player bought 5680 x 5 from shop	
+[2/18/18 06:05AM]	Player bought 1434 x 5 from shop	
+[2/18/18 06:05AM]	Player bought 4153 x 5 from shop	
+[2/18/18 06:07AM]	Pure used command ::empty | Player rights = PLAYER	
+[2/18/18 06:08AM]	Player bought 2443 x 100 from shop	
+[2/18/18 06:08AM]	Player bought 2437 x 100 from shop	
+[2/18/18 06:08AM]	Player bought 2441 x 100 from shop	
+[2/18/18 06:08AM]	Player bought 2445 x 100 from shop	
+[2/18/18 06:09AM]	Receiving item from Z. ItemName: Coins, itemId: 995 amount: 50000000	
+[2/18/18 06:10AM]	Player bought 6686 x 300 from shop	
+[2/18/18 06:10AM]	Player bought 6686 x 300 from shop	
+[2/18/18 06:10AM]	Player bought 3025 x 600 from shop	
+[2/18/18 06:10AM]	Player bought 2447 x 100 from shop	
+[2/18/18 06:10AM]	Player bought 2443 x 100 from shop	
+[2/18/18 06:10AM]	Player bought 2437 x 100 from shop	
+[2/18/18 06:11AM]	Player bought 2441 x 100 from shop	
+[2/18/18 06:11AM]	Player bought 2445 x 100 from shop	
+[2/18/18 06:11AM]	Player bought 392 x 1000 from shop	
+[2/18/18 06:12AM]	Player dropping item: 1129, amount: 1	
+[2/18/18 06:13AM]	Player dropping item: 1169, amount: 1	
+[2/18/18 06:13AM]	Pure used command ::bank | Player rights = PLAYER	
+[2/18/18 06:13AM]	Pure used command ::bank | Player rights = PLAYER	
+[2/18/18 06:14AM]	Player picking up item: [ItemDefinition(526)] - Name: Bones; equipment slot: 3; value: 1157; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 06:15AM]	Player picking up item: [ItemDefinition(526)] - Name: Bones; equipment slot: 3; value: 1157; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 06:16AM]	Player picking up item: [ItemDefinition(526)] - Name: Bones; equipment slot: 3; value: 1157; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 06:16AM]	Player picking up item: [ItemDefinition(526)] - Name: Bones; equipment slot: 3; value: 1157; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 06:17AM]	Player picking up item: [ItemDefinition(526)] - Name: Bones; equipment slot: 3; value: 1157; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 06:17AM]	Player picking up item: [ItemDefinition(526)] - Name: Bones; equipment slot: 3; value: 1157; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 06:18AM]	Player picking up item: [ItemDefinition(526)] - Name: Bones; equipment slot: 3; value: 1157; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 06:18AM]	Player picking up item: [ItemDefinition(526)] - Name: Bones; equipment slot: 3; value: 1157; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 06:20AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 327	
+[2/18/18 06:20AM]	Player picking up item: [ItemDefinition(526)] - Name: Bones; equipment slot: 3; value: 1157; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 06:20AM]	Player picking up item: [ItemDefinition(526)] - Name: Bones; equipment slot: 3; value: 1157; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 06:20AM]	Player dropping item: 995, amount: 327	
+[2/18/18 06:21AM]	Player picking up item: [ItemDefinition(526)] - Name: Bones; equipment slot: 3; value: 1157; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 06:21AM]	Player picking up item: [ItemDefinition(1323)] - Name: Iron scimitar; equipment slot: 3; value: 19; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 06:21AM]	Player picking up item: [ItemDefinition(526)] - Name: Bones; equipment slot: 3; value: 1157; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 06:22AM]	Player picking up item: [ItemDefinition(526)] - Name: Bones; equipment slot: 3; value: 1157; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 06:22AM]	Player picking up item: [ItemDefinition(526)] - Name: Bones; equipment slot: 3; value: 1157; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 06:22AM]	Player picking up item: [ItemDefinition(526)] - Name: Bones; equipment slot: 3; value: 1157; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 06:24AM]	Player picking up item: [ItemDefinition(526)] - Name: Bones; equipment slot: 3; value: 1157; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 06:24AM]	Player picking up item: [ItemDefinition(526)] - Name: Bones; equipment slot: 3; value: 1157; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 06:24AM]	Player picking up item: [ItemDefinition(526)] - Name: Bones; equipment slot: 3; value: 1157; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 06:24AM]	Player picking up item: [ItemDefinition(526)] - Name: Bones; equipment slot: 3; value: 1157; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 06:24AM]	Player picking up item: [ItemDefinition(526)] - Name: Bones; equipment slot: 3; value: 1157; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 06:24AM]	Player dropping item: 1323, amount: 1	
+[2/18/18 06:25AM]	Pure used command ::answer armadyl crossbow | Player rights = PLAYER	
+[2/18/18 06:25AM]	Player dropping item: 526, amount: 1	
+[2/18/18 06:25AM]	Player dropping item: 526, amount: 1	
+[2/18/18 06:25AM]	Player dropping item: 526, amount: 1	
+[2/18/18 06:35AM]	Player dropping item: 145, amount: 1	
+[2/18/18 06:35AM]	Player dropping item: 157, amount: 1	
+[2/18/18 06:45AM]	Player bought 7458 x 1 from shop	
+[2/18/18 06:45AM]	Player dropping item: 11118, amount: 1	
+[2/18/18 06:46AM]	Player bought 7458 x 5 from shop	
+[2/18/18 06:47AM]	Pure used command ::answer vannaka | Player rights = PLAYER	
+[2/18/18 06:48AM]	Player bought 7459 x 1 from shop	
+[2/18/18 06:48AM]	Player bought 7460 x 1 from shop	
+[2/18/18 06:48AM]	Player bought 7461 x 1 from shop	
+[2/18/18 06:48AM]	Player bought 7462 x 1 from shop	
+[2/18/18 06:49AM]	Player bought 7459 x 5 from shop	
+[2/18/18 06:49AM]	Pure used command ::empty | Player rights = PLAYER	
+[2/18/18 07:00AM]	Pure used command ::sethome | Player rights = PLAYER	
+[2/18/18 07:00AM]	Pure used command ::sethome | Player rights = PLAYER	
+[2/18/18 07:00AM]	Pure used command ::sethome | Player rights = PLAYER	
+[2/18/18 07:01AM]	Pure used command ::home | Player rights = PLAYER	
+[2/18/18 07:01AM]	Player dropping item: 230, amount: 1	
+[2/18/18 07:01AM]	Player dropping item: 3027, amount: 1	
+[2/18/18 07:01AM]	Player dropping item: 170, amount: 1	
+[2/18/18 07:02AM]	Player bought 1540 x 1 from shop	
+[2/18/18 07:04AM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 07:04AM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 07:05AM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 07:06AM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 07:06AM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 07:07AM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 07:08AM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 07:08AM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 07:08AM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 07:09AM]	Player picking up item: [ItemDefinition(1247)] - Name: Rune spear; equipment slot: 3; value: 6600; stackable ? false; noted ? false; 2h ? true amount: 1	
+[2/18/18 07:09AM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 07:09AM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 07:09AM]	Player picking up item: [ItemDefinition(987)] - Name: Loop half of a key; equipment slot: 3; value: 12900; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 07:09AM]	Player picking up item: [ItemDefinition(9244)] - Name: Dragon bolts (e); equipment slot: 13; value: 10000; stackable ? true; noted ? false; 2h ? false amount: 4881	
+[2/18/18 07:09AM]	Player picking up item: [ItemDefinition(1115)] - Name: Iron platebody; equipment slot: 4; value: 211; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 07:09AM]	Player picking up item: [ItemDefinition(2497)] - Name: Black d'hide chaps; equipment slot: 7; value: 5315; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 07:09AM]	Player picking up item: [ItemDefinition(3105)] - Name: Rock climbing boots; equipment slot: 10; value: 5035; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 07:09AM]	Player picking up item: [ItemDefinition(4587)] - Name: Dragon scimitar; equipment slot: 3; value: 59600; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 07:09AM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 07:09AM]	Player picking up item: [ItemDefinition(1540)] - Name: Anti-dragon shield; equipment slot: 5; value: 2000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 07:09AM]	Player picking up item: [ItemDefinition(7459)] - Name: Culinaromancer's Gloves 7; equipment slot: 9; value: 20000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 07:09AM]	Player picking up item: [ItemDefinition(391)] - Name: Manta ray; equipment slot: 3; value: 998; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 07:09AM]	Player picking up item: [ItemDefinition(391)] - Name: Manta ray; equipment slot: 3; value: 998; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 07:09AM]	Player picking up item: [ItemDefinition(391)] - Name: Manta ray; equipment slot: 3; value: 998; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 07:09AM]	Player picking up item: [ItemDefinition(391)] - Name: Manta ray; equipment slot: 3; value: 998; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 07:09AM]	Player picking up item: [ItemDefinition(391)] - Name: Manta ray; equipment slot: 3; value: 998; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 07:10AM]	Player picking up item: [ItemDefinition(2550)] - Name: Ring of recoil; equipment slot: 12; value: 1027; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 07:10AM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 07:10AM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 07:11AM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/18/18 07:11AM]	Pure used command ::home | Player rights = PLAYER	
+[2/18/18 07:12AM]	Receiving item from Z. ItemName: Stat reset certificate, itemId: 13663 amount: 1	
+[2/18/18 07:12AM]	Receiving item from Z. ItemName: Stat reset certificate, itemId: 13663 amount: 1	
+[2/18/18 07:12AM]	Receiving item from Z. ItemName: Stat reset certificate, itemId: 13663 amount: 1	
+[2/18/18 07:12AM]	Receiving item from Z. ItemName: Stat reset certificate, itemId: 13663 amount: 1	
+[2/18/18 07:12AM]	Player dropping item: 1247, amount: 1	
+[2/18/18 07:13AM]	Pure used command ::answer skotizo | Player rights = PLAYER	
+[2/18/18 07:14AM]	Player dropping item: 1540, amount: 1	
+[2/18/18 07:14AM]	Pure used command ::home | Player rights = PLAYER	
+[2/18/18 07:16AM]	Pure used command ::empty | Player rights = PLAYER	
+[2/18/18 07:18AM]	Pure used command ::edge | Player rights = PLAYER	
+[2/18/18 07:19AM]	Player dropping item: 391, amount: 1	
+[2/18/18 07:19AM]	Player bought 664 x 1 from shop	
+[2/24/18 07:42AM]	Login from host 86.160.240.82	
+[2/24/18 07:42AM]	Pure used command ::home | Player rights = PLAYER	
+[2/24/18 07:43AM]	Pure used command ::changepass Lootz1 | Player rights = PLAYER	
+[2/24/18 07:43AM]	Pure used command ::changepassword lootz1 | Player rights = PLAYER	
+[2/24/18 07:45AM]	Login from host 130.18.104.177	
+[2/24/18 07:45AM]	Pure used command ::changepassword cpw12345 | Player rights = PLAYER	
+[2/24/18 07:46AM]	Gave item in trade to Daking. ItemName: Manta ray, itemId: 391 amount: 1	
+[2/24/18 07:46AM]	Gave item in trade to Daking. ItemName: Manta ray, itemId: 391 amount: 1	
+[2/24/18 07:46AM]	Gave item in trade to Daking. ItemName: Manta ray, itemId: 391 amount: 1	
+[2/24/18 07:46AM]	Receiving item from Daking. ItemName: Sacred clay hat, itemId: 14116 amount: 1	
+[2/24/18 07:46AM]	Receiving item from Daking. ItemName: Sacred clay robe top, itemId: 14114 amount: 1	
+[2/24/18 07:46AM]	Receiving item from Daking. ItemName: Sacred clay robe bottom, itemId: 14115 amount: 1	
+[2/24/18 07:47AM]	Gave item in trade to Daking. ItemName: Sacred clay robe bottom, itemId: 14115 amount: 1	
+[2/24/18 07:47AM]	Gave item in trade to Daking. ItemName: Sacred clay robe top, itemId: 14114 amount: 1	
+[2/24/18 07:47AM]	Gave item in trade to Daking. ItemName: Sacred clay hat, itemId: 14116 amount: 1	
+[2/24/18 07:49AM]	Pure used command ::title | Player rights = SILVER_MEMBER	
+[2/28/18 11:37AM]	Login from host 130.18.104.177	
+[2/28/18 11:38AM]	Player bought 7461 x 1 from shop	
+[2/28/18 11:39AM]	Player bought 1153 x 1 from shop	
+[2/28/18 11:43AM]	Player bought 10499 x 1 from shop	

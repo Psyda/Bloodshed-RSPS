@@ -1,0 +1,751 @@
+[1/19/18 10:27PM]	Login from host 72.211.139.66	
+[1/19/18 10:28PM]	Ben used command ::bank | Player rights = MANAGER	
+[1/19/18 10:29PM]	Ben used command ::master | Player rights = MANAGER	
+[1/19/18 10:30PM]	Ben used command ::givedpoints ben 10000 | Player rights = MANAGER	
+[1/19/18 10:30PM]	Player bought 20998 x 1 from shop	
+[1/19/18 10:31PM]	Player bought 10943 x 1 from shop	
+[1/19/18 10:31PM]	Player bought 14011 x 1 from shop	
+[1/19/18 10:31PM]	Player bought 14012 x 1 from shop	
+[1/19/18 10:31PM]	Player bought 14013 x 1 from shop	
+[1/19/18 10:31PM]	Player bought 12708 x 1 from shop	
+[1/19/18 10:31PM]	Player bought 13740 x 1 from shop	
+[1/19/18 10:31PM]	Player bought 17291 x 1 from shop	
+[1/19/18 10:32PM]	Ben used command ::finditem dragon arrows | Player rights = MANAGER	
+[1/19/18 10:32PM]	Ben used command ::item 995 2147000000 | Player rights = MANAGER	
+[1/19/18 10:32PM]	Ben used command ::item 995 214700000 | Player rights = MANAGER	
+[1/19/18 10:33PM]	Ben used command ::addbpoints 99999 ben | Player rights = MANAGER	
+[1/19/18 10:33PM]	Ben used command ::givedpoints 999999 ben | Player rights = MANAGER	
+[1/19/18 10:33PM]	Ben used command ::givebpoints 99999 ben | Player rights = MANAGER	
+[1/19/18 10:34PM]	Player bought 10499 x 1 from shop	
+[1/19/18 10:34PM]	Ben used command ::finditem dragon arrows | Player rights = MANAGER	
+[1/19/18 10:35PM]	Ben used command ::find dragon arrow | Player rights = MANAGER	
+[1/19/18 10:36PM]	Ben used command ::item 11212 90000 | Player rights = MANAGER	
+[1/19/18 10:36PM]	Ben used command ::find ring of wealth | Player rights = MANAGER	
+[1/19/18 10:36PM]	Ben used command ::item 20659 1 | Player rights = MANAGER	
+[1/19/18 10:36PM]	Ben used command ::item 20659 1 | Player rights = MANAGER	
+[1/19/18 10:36PM]	Player dropping item: 20659, amount: 1	
+[1/19/18 10:36PM]	Player dropping item: 20659, amount: 1	
+[1/19/18 10:37PM]	Ben used command ::item 2572 3 | Player rights = MANAGER	
+[1/19/18 10:37PM]	Ben used command ::bank | Player rights = MANAGER	
+[1/19/18 10:37PM]	Player bought 12926 x 10 from shop	
+[1/19/18 10:38PM]	Ben used command ::bank | Player rights = MANAGER	
+[1/19/18 10:38PM]	Ben used command ::find rocktail | Player rights = MANAGER	
+[1/19/18 10:38PM]	Ben used command ::item 15273 50000 | Player rights = MANAGER	
+[1/19/18 10:38PM]	Ben used command ::bank | Player rights = MANAGER	
+[1/19/18 10:39PM]	Ben used command ::::setlevel 5 15000 | Player rights = MANAGER	
+[1/19/18 10:40PM]	Ben used command ::item 5670 1 | Player rights = MANAGER	
+[1/19/18 10:40PM]	Player dropping item: 5670, amount: 1	
+[1/19/18 10:40PM]	Ben used command ::item 6570 1 | Player rights = MANAGER	
+[1/19/18 10:43PM]	Ben used command ::bank | Player rights = MANAGER	
+[1/19/18 10:43PM]	Ben used command ::hp | Player rights = MANAGER	
+[1/19/18 10:45PM]	Ben used command ::setlevel 3 500 | Player rights = MANAGER	
+[1/19/18 10:46PM]	Ben used command ::hp | Player rights = MANAGER	
+[1/19/18 10:47PM]	Ben used command ::find blowpipe | Player rights = MANAGER	
+[1/19/18 10:47PM]	Ben used command ::item 12927 3 | Player rights = MANAGER	
+[1/19/18 10:48PM]	Ben used command ::hp | Player rights = MANAGER	
+[1/19/18 10:48PM]	Ben used command ::find dragon dart | Player rights = MANAGER	
+[1/19/18 10:48PM]	Ben used command ::item 11230 50000 | Player rights = MANAGER	
+[1/19/18 10:48PM]	Ben used command ::spec | Player rights = MANAGER	
+[1/19/18 10:49PM]	Ben used command ::spec | Player rights = MANAGER	
+[1/19/18 10:50PM]	Ben used command ::hp | Player rights = MANAGER	
+[1/19/18 10:51PM]	Ben used command ::hp | Player rights = MANAGER	
+[1/19/18 10:51PM]	Ben used command ::hp | Player rights = MANAGER	
+[1/19/18 10:51PM]	Ben used command ::bank | Player rights = MANAGER	
+[1/19/18 10:54PM]	Ben used command ::bank | Player rights = MANAGER	
+[1/19/18 10:55PM]	Ben used command ::find donor box | Player rights = MANAGER	
+[1/19/18 10:55PM]	Ben used command ::find donor | Player rights = MANAGER	
+[1/19/18 10:55PM]	Ben used command ::find donation box | Player rights = MANAGER	
+[1/19/18 10:55PM]	Ben used command ::item 6183 25 | Player rights = MANAGER	
+[1/19/18 10:55PM]	Ben used command ::item 6183 99999 | Player rights = MANAGER	
+[1/19/18 10:56PM]	Ben used command ::bank | Player rights = MANAGER	
+[1/19/18 10:56PM]	Ben used command ::bank | Player rights = MANAGER	
+[1/19/18 10:59PM]	Player bought 14010 x 1 from shop	
+[1/19/18 10:59PM]	Player bought 14009 x 1 from shop	
+[1/19/18 10:59PM]	Player bought 14008 x 1 from shop	
+[1/19/18 10:59PM]	Player bought 12601 x 1 from shop	
+[1/19/18 11:00PM]	Player bought 12284 x 1 from shop	
+[1/19/18 11:00PM]	Player bought 14018 x 1 from shop	
+[1/19/18 11:00PM]	Player bought 12426 x 1 from shop	
+[1/19/18 11:00PM]	Player bought 14050 x 1 from shop	
+[1/19/18 11:00PM]	Player bought 13740 x 1 from shop	
+[1/19/18 11:05PM]	Ben used command ::item 19066 1 | Player rights = MANAGER	
+[1/19/18 11:05PM]	Player dropping item: 19066, amount: 1	
+[1/19/18 11:05PM]	Ben used command ::item 19066 1 | Player rights = MANAGER	
+[1/19/18 11:05PM]	Player dropping item: 19066, amount: 1	
+[1/19/18 11:06PM]	Ben used command ::find tron | Player rights = MANAGER	
+[1/19/18 11:06PM]	Ben used command ::find tron wings | Player rights = MANAGER	
+[1/19/18 11:06PM]	Ben used command ::item 19061 1 | Player rights = MANAGER	
+[1/19/18 11:06PM]	Player dropping item: 19061, amount: 1	
+[1/19/18 11:08PM]	Ben used command ::find 11732 | Player rights = MANAGER	
+[1/19/18 11:08PM]	Ben used command ::find dragon boots | Player rights = MANAGER	
+[1/19/18 11:22PM]	Ben used command ::item 18995 1 | Player rights = MANAGER	
+[1/19/18 11:22PM]	Player dropping item: 18995, amount: 1	
+[1/19/18 11:28PM]	Ben used command ::item 15624 1 | Player rights = MANAGER	
+[1/19/18 11:29PM]	Ben used command ::bank | Player rights = MANAGER	
+[1/19/18 11:29PM]	Login from host 72.211.139.66	
+[1/19/18 11:31PM]	Ben used command ::item 15599 1 | Player rights = MANAGER	
+[1/19/18 11:31PM]	Ben used command ::empty | Player rights = MANAGER	
+[1/19/18 11:31PM]	Ben used command ::item 15598 1 | Player rights = MANAGER	
+[1/19/18 11:32PM]	Ben used command ::item 15590 1 | Player rights = MANAGER	
+[1/19/18 11:32PM]	Ben used command ::empty | Player rights = MANAGER	
+[1/19/18 11:35PM]	Ben used command ::item 15500 2 | Player rights = MANAGER	
+[1/19/18 11:35PM]	Player dropping item: 15500, amount: 1	
+[1/19/18 11:35PM]	Player picking up item: [ItemDefinition(15500)] - Name: Ice strykewyrm; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[1/19/18 11:35PM]	Ben used command ::empty | Player rights = MANAGER	
+[1/19/18 11:39PM]	Ben used command ::item 15432 1 | Player rights = MANAGER	
+[1/19/18 11:41PM]	Ben used command ::item 15397 1 | Player rights = MANAGER	
+[1/19/18 11:46PM]	Ben used command ::Dboss | Player rights = MANAGER	
+[1/19/18 11:46PM]	Ben used command ::item 15358 5 | Player rights = MANAGER	
+[1/19/18 11:46PM]	Ben used command ::empty | Player rights = MANAGER	
+[1/19/18 11:47PM]	Ben used command ::item 15350 2 | Player rights = MANAGER	
+[1/19/18 11:47PM]	Ben used command ::empty | Player rights = MANAGER	
+[1/19/18 11:57PM]	Ben used command ::bank | Player rights = MANAGER	
+[1/19/18 11:57PM]	Ben used command ::bank | Player rights = MANAGER	
+[1/19/18 11:58PM]	Ben used command ::bank | Player rights = MANAGER	
+[1/19/18 11:58PM]	Ben used command ::find dragon claws | Player rights = MANAGER	
+[1/20/18 12:00AM]	Ben used command ::find fire cape | Player rights = MANAGER	
+[1/20/18 12:01AM]	Ben used command ::bank | Player rights = MANAGER	
+[1/20/18 12:01AM]	Ben used command ::bank | Player rights = MANAGER	
+[1/20/18 12:01AM]	Ben used command ::find mystery box | Player rights = MANAGER	
+[1/20/18 12:02AM]	Ben used command ::item 6199 99999 | Player rights = MANAGER	
+[1/20/18 12:02AM]	Ben used command ::item 15501 9999999 | Player rights = MANAGER	
+[1/20/18 12:02AM]	Ben used command ::bank | Player rights = MANAGER	
+[1/20/18 12:02AM]	Ben used command ::bank | Player rights = MANAGER	
+[1/20/18 12:03AM]	Ben used command ::bank | Player rights = MANAGER	
+[1/20/18 12:03AM]	Ben used command ::bank | Player rights = MANAGER	
+[1/20/18 12:04AM]	Ben used command ::bank | Player rights = MANAGER	
+[1/20/18 12:04AM]	Ben used command ::bank | Player rights = MANAGER	
+[1/20/18 12:05AM]	Ben used command ::bank | Player rights = MANAGER	
+[1/20/18 12:05AM]	Ben used command ::bank | Player rights = MANAGER	
+[1/20/18 12:06AM]	Ben used command ::bank | Player rights = MANAGER	
+[1/20/18 12:09AM]	Ben used command ::item 3208 1 | Player rights = MANAGER	
+[1/20/18 12:09AM]	Player dropping item: 3208, amount: 1	
+[1/20/18 12:09AM]	Ben used command ::item 86 | Player rights = MANAGER	
+[1/20/18 12:10AM]	Ben used command ::item 87 1 | Player rights = MANAGER	
+[1/20/18 12:10AM]	Gave item in trade to Bob. Id: 86, amount: 1	
+[1/20/18 12:10AM]	Gave item in trade to Bob. Id: 87, amount: 1	
+[1/20/18 12:22AM]	Ben used command ::item 14734 1 | Player rights = MANAGER	
+[1/20/18 12:22AM]	Ben used command ::item 14733 1 | Player rights = MANAGER	
+[1/20/18 12:23AM]	Ben used command ::item 14732 1 | Player rights = MANAGER	
+[1/20/18 12:24AM]	Ben used command ::item 14731 1 | Player rights = MANAGER	
+[1/20/18 12:24AM]	Ben used command ::item 14730 1 | Player rights = MANAGER	
+[1/20/18 12:24AM]	Ben used command ::item 14729 1 | Player rights = MANAGER	
+[1/20/18 12:26AM]	Ben used command ::find elite black | Player rights = MANAGER	
+[1/20/18 12:26AM]	Ben used command ::item 14527 3 | Player rights = MANAGER	
+[1/20/18 12:26AM]	Gave item in trade to Bob. Id: 14527, amount: 1	
+[1/20/18 12:27AM]	Ben used command ::bank | Player rights = MANAGER	
+[1/20/18 12:27AM]	Ben used command ::item 14490 1 | Player rights = MANAGER	
+[1/20/18 12:28AM]	Ben used command ::item 14492 1 | Player rights = MANAGER	
+[1/20/18 12:28AM]	Ben used command ::item 14494 1 | Player rights = MANAGER	
+[1/20/18 12:28AM]	Gave item in trade to Bob. Id: 14494, amount: 1	
+[1/20/18 12:28AM]	Gave item in trade to Bob. Id: 14730, amount: 1	
+[1/20/18 12:28AM]	Gave item in trade to Bob. Id: 14729, amount: 1	
+[1/20/18 12:29AM]	Player bought 11724 x 1 from shop	
+[1/20/18 12:29AM]	Player bought 11726 x 1 from shop	
+[1/20/18 12:29AM]	Player bought 20000 x 1 from shop	
+[1/20/18 12:29AM]	Player bought 13887 x 1 from shop	
+[1/20/18 12:29AM]	Player bought 13893 x 1 from shop	
+[1/20/18 12:29AM]	Player bought 20013 x 1 from shop	
+[1/20/18 12:29AM]	Player bought 20014 x 1 from shop	
+[1/20/18 12:29AM]	Player bought 14062 x 1 from shop	
+[1/20/18 12:29AM]	Player bought 13995 x 1 from shop	
+[1/20/18 12:29AM]	Player bought 13994 x 1 from shop	
+[1/20/18 12:30AM]	Player bought 13239 x 1 from shop	
+[1/20/18 12:32AM]	Ben used command ::bank | Player rights = MANAGER	
+[1/20/18 12:33AM]	Ben used command ::item 14713 1 | Player rights = MANAGER	
+[1/20/18 12:38AM]	Ben used command ::item 16909 1 | Player rights = MANAGER	
+[1/20/18 12:41AM]	Ben used command ::item 16887 1 | Player rights = MANAGER	
+[1/20/18 12:43AM]	Ben used command ::item 17061 1 | Player rights = MANAGER	
+[1/20/18 12:44AM]	Ben used command ::item 17193 1 | Player rights = MANAGER	
+[1/20/18 12:44AM]	Ben used command ::item 17215 1 | Player rights = MANAGER	
+[1/20/18 12:44AM]	Ben used command ::item 17317 1 | Player rights = MANAGER	
+[1/20/18 12:44AM]	Ben used command ::item 17339 1 | Player rights = MANAGER	
+[1/20/18 12:45AM]	Ben used command ::item 17340 1 | Player rights = MANAGER	
+[1/20/18 12:45AM]	Gave item in trade to Bob. Id: 17339, amount: 1	
+[1/20/18 12:45AM]	Gave item in trade to Bob. Id: 17193, amount: 1	
+[1/20/18 12:45AM]	Gave item in trade to Bob. Id: 17317, amount: 1	
+[1/20/18 12:45AM]	Gave item in trade to Bob. Id: 17215, amount: 1	
+[1/20/18 12:45AM]	Gave item in trade to Bob. Id: 17061, amount: 1	
+[1/20/18 12:46AM]	Ben used command ::item 16338 1 | Player rights = MANAGER	
+[1/20/18 12:47AM]	Ben used command ::item 16337 1 | Player rights = MANAGER	
+[1/20/18 12:47AM]	Ben used command ::item 16337 1 | Player rights = MANAGER	
+[1/20/18 12:47AM]	Gave item in trade to Bob. Id: 16337, amount: 1	
+[1/20/18 01:07AM]	Login from host 72.211.139.66	
+[1/20/18 01:10AM]	Ben used command ::item 11609 | Player rights = MANAGER	
+[1/20/18 01:37AM]	Login from host 72.211.139.66	
+[1/20/18 02:57AM]	Login from host 72.211.139.66	
+[1/20/18 02:59AM]	Ben used command ::hp | Player rights = MANAGER	
+[1/20/18 02:59AM]	Ben used command ::find whip | Player rights = MANAGER	
+[1/20/18 02:59AM]	Ben used command ::item 18957 | Player rights = MANAGER	
+[1/20/18 02:59AM]	Player dropping item: 18957, amount: 1	
+[1/20/18 03:00AM]	Ben used command ::item 6022 | Player rights = MANAGER	
+[1/20/18 03:00AM]	Player dropping item: 6022, amount: 1	
+[1/20/18 03:00AM]	Ben used command ::item 18902 | Player rights = MANAGER	
+[1/20/18 03:00AM]	Player dropping item: 18902, amount: 1	
+[1/20/18 03:01AM]	Ben used command ::item 13444 1 | Player rights = MANAGER	
+[1/20/18 03:02AM]	Ben used command ::setlevel 2 999 | Player rights = MANAGER	
+[1/20/18 03:06AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 4000000	
+[1/20/18 03:06AM]	Ben used command ::setlevel 2 5000 | Player rights = MANAGER	
+[1/20/18 03:14AM]	Ben used command ::hp | Player rights = MANAGER	
+[1/20/18 03:15AM]	Ben used command ::title Benism | Player rights = MANAGER	
+[1/20/18 03:17AM]	Player bought 10943 x 5 from shop	
+[1/20/18 03:17AM]	Player bought 10943 x 5 from shop	
+[1/20/18 03:18AM]	Login from host 72.211.139.66	
+[1/20/18 03:19AM]	Player bought 1038 x 1 from shop	
+[1/20/18 03:19AM]	Player bought 1040 x 1 from shop	
+[1/20/18 03:19AM]	Player bought 1042 x 1 from shop	
+[1/20/18 03:19AM]	Player bought 1044 x 1 from shop	
+[1/20/18 03:19AM]	Player bought 1046 x 1 from shop	
+[1/20/18 03:19AM]	Player bought 1048 x 1 from shop	
+[1/20/18 03:19AM]	Player bought 14046 x 1 from shop	
+[1/20/18 03:19AM]	Player bought 14044 x 1 from shop	
+[1/20/18 03:19AM]	Player bought 14045 x 1 from shop	
+[1/20/18 03:19AM]	Player bought 14048 x 1 from shop	
+[1/20/18 03:19AM]	Ben used command ::bank | Player rights = MANAGER	
+[1/20/18 03:20AM]	Ben used command ::bank | Player rights = MANAGER	
+[1/20/18 03:20AM]	Ben used command ::setlevel 2 99 | Player rights = MANAGER	
+[1/20/18 03:21AM]	Ben used command ::find dragon arrow | Player rights = MANAGER	
+[1/20/18 03:21AM]	Ben used command ::item 11212 888888 | Player rights = MANAGER	
+[1/20/18 03:22AM]	Ben used command ::hp | Player rights = MANAGER	
+[1/20/18 03:22AM]	Ben used command ::setlevel 3 500 | Player rights = MANAGER	
+[1/20/18 03:22AM]	Ben used command ::hp | Player rights = MANAGER	
+[1/20/18 03:22AM]	Ben used command ::setlevel 6 500 | Player rights = MANAGER	
+[1/20/18 03:23AM]	Ben used command ::setlevel 7 500 | Player rights = MANAGER	
+[1/20/18 03:23AM]	Ben used command ::setlevel 4 500 | Player rights = MANAGER	
+[1/20/18 03:23AM]	Player picking up item: [ItemDefinition(1516)] - Name: Yew logs; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 45	
+[1/20/18 03:25AM]	Ben received a Chocatrice egg from Kraken	
+[1/20/18 03:25AM]	Player picking up item: [ItemDefinition(12655)] - Name: Chocatrice egg; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[1/20/18 03:26AM]	Ben used command ::setlevel 4 800 | Player rights = MANAGER	
+[1/20/18 03:31AM]	Ben used command ::di | Player rights = MANAGER	
+[1/20/18 03:33AM]	Ben used command ::master | Player rights = MANAGER	
+[1/20/18 03:34AM]	Ben used command ::star | Player rights = MANAGER	
+[1/20/18 03:36AM]	Ben used command ::setlevel 4 800 | Player rights = MANAGER	
+[1/20/18 03:37AM]	Ben used command ::hp | Player rights = MANAGER	
+[1/20/18 03:37AM]	Ben used command ::dexp | Player rights = MANAGER	
+[1/20/18 03:37AM]	Ben used command ::doublexp | Player rights = MANAGER	
+[1/20/18 03:37AM]	Ben used command ::doublexp | Player rights = MANAGER	
+[1/20/18 03:37AM]	Ben used command ::doubledrop | Player rights = MANAGER	
+[1/20/18 03:37AM]	Ben used command ::doubledrops | Player rights = MANAGER	
+[1/20/18 03:45AM]	Ben used command ::item 995 2147000000 | Player rights = MANAGER	
+[1/20/18 03:46AM]	Ben used command ::find 100m | Player rights = MANAGER	
+[1/20/18 03:46AM]	Ben used command ::find Note | Player rights = MANAGER	
+[1/20/18 05:48AM]	Login from host 72.211.139.66	
+[1/20/18 05:52AM]	Ben used command ::find tentacle | Player rights = MANAGER	
+[1/20/18 06:00AM]	Player dropping item: 995, amount: 1100	
+[1/20/18 06:04AM]	Ben used command ::bank | Player rights = MANAGER	
+[1/20/18 06:04AM]	Ben used command ::find koras's | Player rights = MANAGER	
+[1/20/18 06:05AM]	Ben used command ::find koras | Player rights = MANAGER	
+[1/20/18 06:06AM]	Ben used command ::find boss | Player rights = MANAGER	
+[1/20/18 06:06AM]	Ben used command ::item 20428 1 | Player rights = MANAGER	
+[1/20/18 06:06AM]	Player dropping item: 20428, amount: 1	
+[1/20/18 06:06AM]	Ben used command ::item 18618 1 | Player rights = MANAGER	
+[1/20/18 06:06AM]	Player dropping item: 18618, amount: 1	
+[1/20/18 06:06AM]	Ben used command ::item 18631 1 | Player rights = MANAGER	
+[1/20/18 06:06AM]	Player dropping item: 18631, amount: 1	
+[1/20/18 06:07AM]	Ben used command ::find defender | Player rights = MANAGER	
+[1/20/18 06:07AM]	Ben used command ::item 17273 | Player rights = MANAGER	
+[1/20/18 06:07AM]	Ben used command ::bank | Player rights = MANAGER	
+[1/20/18 06:07AM]	Ben used command ::item 20072 1 | Player rights = MANAGER	
+[1/20/18 06:12AM]	Ben used command ::item 17273 | Player rights = MANAGER	
+[1/20/18 06:14AM]	Ben used command ::update | Player rights = MANAGER	
+[1/20/18 06:15AM]	Ben used command ::yell no | Player rights = MANAGER	
+[1/20/18 06:25AM]	Login from host 72.211.139.66	
+[1/20/18 06:48AM]	Login from host 72.211.139.66	
+[1/20/18 07:48AM]	Login from host 72.211.139.66	
+[1/20/18 07:49AM]	Ben used command ::find lime | Player rights = MANAGER	
+[1/20/18 07:49AM]	Ben used command ::find lime whip | Player rights = MANAGER	
+[1/20/18 09:04AM]	Login from host 72.211.139.66	
+[1/20/18 09:04AM]	Ben used command ::find master | Player rights = MANAGER	
+[1/20/18 09:05AM]	Ben used command ::item 19709 1 | Player rights = MANAGER	
+[1/20/18 09:06AM]	Ben used command ::item 15440 1 | Player rights = MANAGER	
+[1/20/18 09:06AM]	Ben used command ::item 15485 1 | Player rights = MANAGER	
+[1/20/18 09:06AM]	Ben used command ::bank | Player rights = MANAGER	
+[1/21/18 03:13AM]	Login from host 72.211.139.66	
+[1/21/18 03:16AM]	Ben used command ::find dragonkin | Player rights = MANAGER	
+[1/21/18 03:16AM]	Ben used command ::item 18782 25 | Player rights = MANAGER	
+[1/21/18 03:17AM]	Ben used command ::bank | Player rights = MANAGER	
+[1/21/18 03:30AM]	Ben used command ::find godsword | Player rights = MANAGER	
+[1/21/18 03:30AM]	Ben used command ::item 19002 | Player rights = MANAGER	
+[1/21/18 03:30AM]	Player dropping item: 19002, amount: 1	
+[1/21/18 03:43AM]	Ben used command ::update 15 | Player rights = MANAGER	
+[1/21/18 04:27AM]	Login from host 72.211.139.66	
+[1/21/18 04:28AM]	Player bought 18786 x 1 from shop	
+[1/21/18 04:28AM]	Ben used command ::koras | Player rights = MANAGER	
+[1/21/18 04:28AM]	Ben used command ::find koras | Player rights = MANAGER	
+[1/21/18 04:30AM]	Ben used command ::item 18786 1 | Player rights = MANAGER	
+[1/21/18 04:30AM]	Ben used command ::item 19780 1 | Player rights = MANAGER	
+[1/21/18 04:42AM]	Ben used command ::find present | Player rights = MANAGER	
+[1/21/18 04:42AM]	Ben used command ::item 6542 1 | Player rights = MANAGER	
+[1/21/18 04:42AM]	Ben used command ::item 6542 10 | Player rights = MANAGER	
+[1/21/18 04:43AM]	Ben used command ::item 6542 2 | Player rights = MANAGER	
+[1/21/18 04:50AM]	Ben used command ::find elder maul | Player rights = MANAGER	
+[1/21/18 04:50AM]	Ben used command ::find maul | Player rights = MANAGER	
+[1/21/18 04:56AM]	Ben used command ::item 14632 1 | Player rights = MANAGER	
+[1/21/18 04:57AM]	Ben used command ::bank | Player rights = MANAGER	
+[1/21/18 05:00AM]	Ben used command ::item 18746 1 | Player rights = MANAGER	
+[1/21/18 05:01AM]	Ben used command ::item 18745 1 | Player rights = MANAGER	
+[1/21/18 05:01AM]	Ben used command ::item 18744 | Player rights = MANAGER	
+[1/21/18 05:01AM]	Ben used command ::item 18747 1 | Player rights = MANAGER	
+[1/21/18 05:02AM]	Ben used command ::find duel ring | Player rights = MANAGER	
+[1/21/18 05:02AM]	Ben used command ::find duel | Player rights = MANAGER	
+[1/21/18 05:02AM]	Ben used command ::item 2560 3 | Player rights = MANAGER	
+[1/21/18 05:03AM]	Ben used command ::find halo | Player rights = MANAGER	
+[1/21/18 05:04AM]	Ben used command ::find faithful | Player rights = MANAGER	
+[1/21/18 05:05AM]	Ben used command ::update 20 | Player rights = MANAGER	
+[1/21/18 05:06AM]	Login from host 72.211.139.66	
+[1/21/18 05:12AM]	Login from host 72.211.139.66	
+[1/21/18 05:39AM]	Ben used command ::bank | Player rights = MANAGER	
+[1/21/18 05:58AM]	Ben used command ::item 10551 1 | Player rights = MANAGER	
+[1/21/18 06:00AM]	Ben used command ::item 6199 1 | Player rights = MANAGER	
+[1/21/18 06:02AM]	Ben used command ::item 11732 1 | Player rights = MANAGER	
+[1/21/18 06:02AM]	Ben used command ::item 15273 1 | Player rights = MANAGER	
+[1/21/18 06:03AM]	Ben used command ::item 11694 | Player rights = MANAGER	
+[1/21/18 07:02AM]	Login from host 72.211.139.66	
+[1/21/18 07:20AM]	Login from host 72.211.139.66	
+[1/21/18 07:23AM]	Login from host 72.211.139.66	
+[1/21/18 07:24AM]	Ben used command ::update 50 | Player rights = MANAGER	
+[1/21/18 07:25AM]	Login from host 72.211.139.66	
+[1/21/18 07:28AM]	Ben used command ::setlevel 4 99 | Player rights = MANAGER	
+[1/21/18 07:29AM]	Ben used command ::spec | Player rights = MANAGER	
+[1/21/18 07:30AM]	Ben used command ::home | Player rights = MANAGER	
+[1/21/18 07:31AM]	Ben used command ::setlevel 25 120 | Player rights = MANAGER	
+[1/21/18 07:31AM]	Ben used command ::setlevel 25 125 | Player rights = MANAGER	
+[1/21/18 07:31AM]	Ben used command ::setlevel 24 120 | Player rights = MANAGER	
+[1/21/18 07:32AM]	Player bought 16955 x 5 from shop	
+[1/21/18 07:32AM]	Player bought 16425 x 5 from shop	
+[1/21/18 07:32AM]	Player bought 16909 x 5 from shop	
+[1/21/18 07:34AM]	Ben used command ::empty | Player rights = MANAGER	
+[1/21/18 07:34AM]	Ben used command ::bank | Player rights = MANAGER	
+[1/21/18 07:37AM]	Ben used command ::find dragon claws | Player rights = MANAGER	
+[1/21/18 07:51AM]	Ben used command ::find crystal | Player rights = MANAGER	
+[1/21/18 07:54AM]	Login from host 72.211.139.66	
+[1/21/18 08:05AM]	Ben used command ::find frost dragon bone | Player rights = MANAGER	
+[1/21/18 08:05AM]	Ben used command ::item 18831 1000 | Player rights = MANAGER	
+[1/21/18 08:07AM]	Login from host 72.211.139.66	
+[1/21/18 08:08AM]	Ben used command ::find rocktail | Player rights = MANAGER	
+[1/21/18 08:12AM]	Ben used command ::find (i) | Player rights = MANAGER	
+[1/21/18 08:18AM]	Ben used command ::update 5000 | Player rights = MANAGER	
+[1/21/18 08:18AM]	Ben used command ::update 500 | Player rights = MANAGER	
+[1/21/18 08:30AM]	Login from host 72.211.139.66	
+[1/21/18 08:33AM]	Login from host 72.211.139.66	
+[1/21/18 08:35AM]	Player bought 15272 x 5 from shop	
+[1/21/18 08:36AM]	Ben used command ::find rocktail | Player rights = MANAGER	
+[1/21/18 08:36AM]	Ben used command ::item 15273 50000 | Player rights = MANAGER	
+[1/21/18 08:37AM]	Ben used command ::update 40 | Player rights = MANAGER	
+[1/21/18 08:38AM]	Login from host 72.211.139.66	
+[1/21/18 08:46AM]	Ben used command ::find upgrade | Player rights = MANAGER	
+[1/21/18 08:46AM]	Ben used command ::find crystal | Player rights = MANAGER	
+[1/21/18 08:47AM]	Ben used command ::item 17376 1 | Player rights = MANAGER	
+[1/21/18 08:47AM]	Player dropping item: 17376, amount: 1	
+[1/21/18 08:47AM]	Ben used command ::item 8628 1 | Player rights = MANAGER	
+[1/21/18 08:47AM]	Ben used command ::item 8624 | Player rights = MANAGER	
+[1/21/18 08:48AM]	Player dropping item: 8624, amount: 1	
+[1/21/18 08:48AM]	Player dropping item: 8628, amount: 1	
+[1/21/18 08:48AM]	Ben used command ::item 6103 | Player rights = MANAGER	
+[1/21/18 08:48AM]	Player dropping item: 6103, amount: 1	
+[1/21/18 08:48AM]	Ben used command ::item 4313 | Player rights = MANAGER	
+[1/21/18 08:49AM]	Ben used command ::item 4313 | Player rights = MANAGER	
+[1/21/18 08:49AM]	Ben used command ::item 4211 | Player rights = MANAGER	
+[1/21/18 08:50AM]	Player bought 18349 x 1 from shop	
+[1/21/18 08:59AM]	Ben used command ::find twisted | Player rights = MANAGER	
+[1/21/18 09:30AM]	Login from host 72.211.139.66	
+[1/21/18 09:31AM]	Ben used command ::item 6103 5 | Player rights = MANAGER	
+[1/21/18 09:35AM]	Ben used command ::update 40 | Player rights = MANAGER	
+[1/21/18 09:38AM]	Login from host 72.211.139.66	
+[1/21/18 09:39AM]	Ben used command ::item 4211 | Player rights = MANAGER	
+[1/21/18 09:47AM]	Ben used command ::update 40 | Player rights = MANAGER	
+[1/21/18 09:48AM]	Login from host 72.211.139.66	
+[1/21/18 09:51AM]	Ben used command ::update 40 | Player rights = MANAGER	
+[1/21/18 09:53AM]	Login from host 72.211.139.66	
+[1/21/18 09:56AM]	Ben used command ::bank | Player rights = MANAGER	
+[1/21/18 10:23AM]	Login from host 72.211.139.66	
+[1/21/18 10:23AM]	Ben used command ::update 40 | Player rights = MANAGER	
+[1/21/18 10:26AM]	Login from host 72.211.139.66	
+[1/21/18 10:26AM]	Ben used command ::dz | Player rights = MANAGER	
+[1/21/18 10:26AM]	Ben used command ::dzone | Player rights = MANAGER	
+[1/21/18 10:27AM]	Ben used command ::teleto bob | Player rights = MANAGER	
+[1/21/18 10:38AM]	Ben used command ::update | Player rights = MANAGER	
+[1/21/18 10:38AM]	Ben used command ::update 40 | Player rights = MANAGER	
+[1/21/18 10:40AM]	Login from host 72.211.139.66	
+[1/21/18 10:41AM]	Login from host 72.211.139.66	
+[1/21/18 10:41AM]	Ben used command ::update 40 | Player rights = MANAGER	
+[1/21/18 10:43AM]	Login from host 72.211.139.66	
+[1/21/18 10:48AM]	Ben used command ::update 40 | Player rights = MANAGER	
+[1/21/18 10:49AM]	Login from host 72.211.139.66	
+[1/21/18 11:02AM]	Ben used command ::update 40 | Player rights = MANAGER	
+[1/21/18 11:03AM]	Login from host 72.211.139.66	
+[1/21/18 10:56PM]	Login from host 72.211.139.66	
+[1/21/18 10:59PM]	Ben used command ::yell no | Player rights = MANAGER	
+[1/21/18 11:00PM]	Ben used command ::yell lol | Player rights = MANAGER	
+[1/21/18 11:14PM]	Ben used command ::update 40 | Player rights = MANAGER	
+[1/21/18 11:16PM]	Login from host 72.211.139.66	
+[1/21/18 11:43PM]	Ben used command ::bank | Player rights = MANAGER	
+[1/21/18 11:58PM]	Ben used command ::item 774 1 | Player rights = MANAGER	
+[1/21/18 11:58PM]	Ben used command ::item 773 | Player rights = MANAGER	
+[1/22/18 02:20AM]	Login from host 72.211.139.66	
+[1/22/18 02:20AM]	Ben used command ::kick bob | Player rights = MANAGER	
+[1/22/18 02:20AM]	Ben just kicked Bob!	
+[1/22/18 02:26AM]	Ben used command ::teleto bob | Player rights = MANAGER	
+[1/22/18 02:26AM]	Ben used command ::find cannon ball | Player rights = MANAGER	
+[1/22/18 02:26AM]	Ben used command ::item 4579 50000 | Player rights = MANAGER	
+[1/22/18 02:26AM]	Ben used command ::bank | Player rights = MANAGER	
+[1/22/18 02:27AM]	Ben used command ::item 7119 50000 | Player rights = MANAGER	
+[1/22/18 02:27AM]	Ben used command ::empty | Player rights = MANAGER	
+[1/22/18 02:27AM]	Ben used command ::item 13716 50000 | Player rights = MANAGER	
+[1/22/18 02:27AM]	Ben used command ::empty | Player rights = MANAGER	
+[1/22/18 02:27AM]	Ben used command ::item 7147 500000 | Player rights = MANAGER	
+[1/22/18 02:27AM]	Ben used command ::empty | Player rights = MANAGER	
+[1/22/18 02:27AM]	Ben used command ::find cannon | Player rights = MANAGER	
+[1/22/18 02:28AM]	Ben used command ::item 2 500000 | Player rights = MANAGER	
+[1/22/18 02:28AM]	Player dropping item: 12927, amount: 1	
+[1/22/18 02:28AM]	Player picking up item: [ItemDefinition(12927)] - Name: Magma Toxic Blowpipe; equipment slot: 3; value: 10000000; stackable ? false; noted ? false; 2h ? true amount: 1	
+[1/22/18 02:30AM]	Player picking up item: [ItemDefinition(405)] - Name: Casket; equipment slot: 3; value: 909; stackable ? false; noted ? false; 2h ? false amount: 1	
+[1/22/18 02:30AM]	Ben used command ::find present | Player rights = MANAGER	
+[1/22/18 02:30AM]	Ben used command ::item 15420 2 | Player rights = MANAGER	
+[1/22/18 02:30AM]	Player dropping item: 15420, amount: 1	
+[1/22/18 02:30AM]	Player dropping item: 15420, amount: 1	
+[1/22/18 02:30AM]	Ben used command ::item 6542 5 | Player rights = MANAGER	
+[1/22/18 02:31AM]	Ben used command ::item 6542 50 | Player rights = MANAGER	
+[1/22/18 02:31AM]	Player dropping item: 6542, amount: 1	
+[1/22/18 02:31AM]	Player picking up item: [ItemDefinition(6542)] - Name: Present; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 24	
+[1/22/18 02:31AM]	Player picking up item: [ItemDefinition(6542)] - Name: Present; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[1/22/18 02:31AM]	Player picking up item: [ItemDefinition(15420)] - Name: Present; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[1/22/18 02:31AM]	Player picking up item: [ItemDefinition(15420)] - Name: Present; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[1/22/18 02:31AM]	Player picking up item: [ItemDefinition(6542)] - Name: Present; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 13	
+[1/22/18 02:31AM]	Player dropping item: 15420, amount: 1	
+[1/22/18 02:31AM]	Player dropping item: 15420, amount: 1	
+[1/22/18 02:31AM]	Ben used command ::item 6542 500 | Player rights = MANAGER	
+[1/22/18 02:31AM]	Player dropping item: 6542, amount: 1	
+[1/22/18 02:32AM]	Player picking up item: [ItemDefinition(6542)] - Name: Present; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[1/22/18 12:31PM]	Login from host 72.211.139.66	
+[1/22/18 12:31PM]	Ben used command ::dboss | Player rights = MANAGER	
+[1/22/18 12:31PM]	Ben used command ::dboss | Player rights = MANAGER	
+[1/22/18 12:46PM]	Ben used command ::[FRI]Bob | Player rights = MANAGER	
+[1/23/18 10:53PM]	Login from host 72.211.139.66	
+[1/23/18 10:53PM]	Ben used command ::home2 | Player rights = MANAGER	
+[1/23/18 10:57PM]	Ben used command ::update 40 | Player rights = MANAGER	
+[1/23/18 11:01PM]	Login from host 72.211.139.66	
+[1/23/18 11:35PM]	Login from host 72.211.139.66	
+[1/23/18 11:50PM]	Login from host 72.211.139.66	
+[1/23/18 11:50PM]	Ben used command ::item 17293 | Player rights = MANAGER	
+[1/23/18 11:51PM]	Ben used command ::item 17295 | Player rights = MANAGER	
+[1/23/18 11:52PM]	Ben used command ::item 17287 1 | Player rights = MANAGER	
+[1/23/18 11:53PM]	Ben used command ::item 17285 | Player rights = MANAGER	
+[1/23/18 11:54PM]	Ben used command ::item 17285 | Player rights = MANAGER	
+[1/23/18 11:55PM]	Ben used command ::item 17263 | Player rights = MANAGER	
+[1/23/18 11:56PM]	Ben used command ::item 17262 | Player rights = MANAGER	
+[1/23/18 11:56PM]	Ben used command ::item 17261 | Player rights = MANAGER	
+[1/23/18 11:56PM]	Ben used command ::item 17260 2 | Player rights = MANAGER	
+[1/24/18 12:01AM]	Login from host 72.211.139.66	
+[1/24/18 12:01AM]	Ben used command ::update | Player rights = MANAGER	
+[1/24/18 12:02AM]	Ben used command ::home2 | Player rights = MANAGER	
+[1/24/18 12:03AM]	Ben used command ::coords | Player rights = MANAGER	
+[1/24/18 12:06AM]	Ben used command ::item 17149 1 | Player rights = MANAGER	
+[1/24/18 12:06AM]	Ben used command ::item 17143 1 | Player rights = MANAGER	
+[1/24/18 12:08AM]	Ben used command ::item 17013 | Player rights = MANAGER	
+[1/24/18 12:08AM]	Ben used command ::item 17017 1 | Player rights = MANAGER	
+[1/24/18 12:11AM]	Ben used command ::item 16477 50000 | Player rights = MANAGER	
+[1/24/18 12:12AM]	Ben used command ::item 16381 1 | Player rights = MANAGER	
+[1/24/18 12:13AM]	Ben used command ::item 16316 1 | Player rights = MANAGER	
+[1/24/18 12:13AM]	Ben used command ::item 16315 | Player rights = MANAGER	
+[1/24/18 12:16AM]	Ben used command ::item 15707 1 | Player rights = MANAGER	
+[1/24/18 12:18AM]	Ben used command ::item 15597 1 | Player rights = MANAGER	
+[1/24/18 12:18AM]	Ben used command ::item 15596 1 | Player rights = MANAGER	
+[1/24/18 12:20AM]	Ben used command ::item 14200 1 | Player rights = MANAGER	
+[1/24/18 12:20AM]	Ben used command ::item 14191 1 | Player rights = MANAGER	
+[1/24/18 12:21AM]	Player dropping item: 14191, amount: 1	
+[1/24/18 12:21AM]	Ben used command ::item 14191 1 | Player rights = MANAGER	
+[1/24/18 12:21AM]	Player dropping item: 14191, amount: 1	
+[1/24/18 12:21AM]	Ben used command ::item 14160 1 | Player rights = MANAGER	
+[1/24/18 12:21AM]	Player dropping item: 14160, amount: 1	
+[1/24/18 12:22AM]	Ben used command ::item 14151 1 | Player rights = MANAGER	
+[1/24/18 12:22AM]	Player dropping item: 14151, amount: 1	
+[1/24/18 12:22AM]	Ben used command ::item 14150 1 | Player rights = MANAGER	
+[1/24/18 12:22AM]	Player dropping item: 14150, amount: 1	
+[1/24/18 12:22AM]	Ben used command ::find harpoon | Player rights = MANAGER	
+[1/24/18 12:22AM]	Ben used command ::item 14148 1 | Player rights = MANAGER	
+[1/24/18 12:22AM]	Player dropping item: 14148, amount: 1	
+[1/24/18 12:22AM]	Ben used command ::item 14101 1 | Player rights = MANAGER	
+[1/24/18 12:23AM]	Ben used command ::item 14109  | Player rights = MANAGER	
+[1/24/18 12:23AM]	Ben used command ::bank | Player rights = MANAGER	
+[1/24/18 12:24AM]	Ben used command ::find bow | Player rights = MANAGER	
+[1/24/18 12:24AM]	Ben used command ::item 18947 1 | Player rights = MANAGER	
+[1/24/18 12:24AM]	Player dropping item: 18947, amount: 1	
+[1/24/18 12:24AM]	Ben used command ::item 18920 | Player rights = MANAGER	
+[1/24/18 12:24AM]	Player dropping item: 18920, amount: 1	
+[1/24/18 12:29AM]	Ben used command ::find toxic staff of the dead | Player rights = MANAGER	
+[1/24/18 12:29AM]	Ben used command ::item 12284 1 | Player rights = MANAGER	
+[1/24/18 12:31AM]	Ben used command ::home | Player rights = MANAGER	
+[1/24/18 12:40AM]	Ben used command ::item 14108 1 | Player rights = MANAGER	
+[1/24/18 12:40AM]	Ben used command ::find clay hatchet | Player rights = MANAGER	
+[1/24/18 12:40AM]	Ben used command ::item 14100 1 | Player rights = MANAGER	
+[1/24/18 12:44AM]	Ben used command ::bank | Player rights = MANAGER	
+[1/24/18 12:46AM]	Ben used command ::bank | Player rights = MANAGER	
+[1/24/18 12:47AM]	Ben used command ::find doomcore | Player rights = MANAGER	
+[1/24/18 12:48AM]	Ben used command ::update 40 | Player rights = MANAGER	
+[1/24/18 12:51AM]	Login from host 72.211.139.66	
+[1/24/18 12:51AM]	Ben used command ::item 14097 | Player rights = MANAGER	
+[1/24/18 12:53AM]	Ben used command ::find 14052 1 | Player rights = MANAGER	
+[1/24/18 12:53AM]	Ben used command ::item 14052 | Player rights = MANAGER	
+[1/24/18 12:55AM]	Ben used command ::item 556 20000 | Player rights = MANAGER	
+[1/24/18 12:55AM]	Ben used command ::item 560 1111111 | Player rights = MANAGER	
+[1/25/18 01:20PM]	Login from host 72.211.139.66	
+[1/25/18 01:21PM]	Ben used command ::tele 3304 3116 | Player rights = MANAGER	
+[1/25/18 01:22PM]	Ben used command ::tele 3504 3575 | Player rights = MANAGER	
+[1/25/18 01:25PM]	Ben used command ::tele 2390 9886 | Player rights = MANAGER	
+[1/25/18 01:25PM]	Ben used command ::tele 2795 3321 | Player rights = MANAGER	
+[1/25/18 01:26PM]	Ben used command ::tele 2273 4695  | Player rights = MANAGER	
+[1/25/18 01:26PM]	Ben used command ::tele 2309 4597 | Player rights = MANAGER	
+[1/25/18 01:33PM]	Login from host 72.211.139.66	
+[1/25/18 01:33PM]	Ben used command ::tele 2358 4959 | Player rights = MANAGER	
+[1/25/18 09:53PM]	Login from host 72.211.139.66	
+[1/25/18 09:53PM]	Ben used command ::tele 2443 5958 | Player rights = MANAGER	
+[1/25/18 09:55PM]	Ben used command ::tele 2738 5081 | Player rights = MANAGER	
+[1/25/18 09:56PM]	Ben used command ::dboss | Player rights = MANAGER	
+[1/25/18 09:56PM]	Ben used command ::tele 2441 3090 | Player rights = MANAGER	
+[1/25/18 09:57PM]	Ben used command ::tele 2375 4705 | Player rights = MANAGER	
+[1/25/18 09:57PM]	Ben used command ::tele 2576 5655 | Player rights = MANAGER	
+[1/25/18 09:58PM]	Ben used command ::tele 2534 3511 | Player rights = MANAGER	
+[1/25/18 09:59PM]	Ben used command ::tele 3274 2784 | Player rights = MANAGER	
+[1/25/18 09:59PM]	Ben used command ::tele 2242 3278 | Player rights = MANAGER	
+[1/25/18 10:00PM]	Ben used command ::tele 2197 3252 | Player rights = MANAGER	
+[1/25/18 10:01PM]	Ben used command ::tele 2241 3238 | Player rights = MANAGER	
+[1/25/18 10:01PM]	Ben used command ::tele3157 4822 | Player rights = MANAGER	
+[1/25/18 10:02PM]	Ben used command ::tele 3157 4822 | Player rights = MANAGER	
+[1/25/18 10:03PM]	Ben used command ::tele 2596 4780 | Player rights = MANAGER	
+[1/25/18 10:03PM]	Ben used command ::tele 2095 4428 | Player rights = MANAGER	
+[1/25/18 10:04PM]	Ben used command ::find cannon | Player rights = MANAGER	
+[1/25/18 10:04PM]	Ben used command ::item 2 900000 | Player rights = MANAGER	
+[1/25/18 10:04PM]	Ben used command ::item 6 2 | Player rights = MANAGER	
+[1/25/18 10:04PM]	Ben used command ::item 7 2 | Player rights = MANAGER	
+[1/25/18 10:04PM]	Ben used command ::item 8 2 | Player rights = MANAGER	
+[1/25/18 10:04PM]	Ben used command ::item 10 2 | Player rights = MANAGER	
+[1/25/18 10:04PM]	Ben used command ::item 12 2 | Player rights = MANAGER	
+[1/25/18 10:05PM]	Player dropping item: 7, amount: 2	
+[1/25/18 10:05PM]	Ben used command ::tele 2338 4747 | Player rights = MANAGER	
+[1/25/18 10:06PM]	Ben used command ::tele 1960 4824 | Player rights = MANAGER	
+[1/25/18 10:06PM]	Ben used command ::tele 2015 4826 | Player rights = MANAGER	
+[1/25/18 10:06PM]	Ben used command ::tele 1971 5001 | Player rights = MANAGER	
+[1/25/18 10:07PM]	Ben used command ::tele 2929 9649 | Player rights = MANAGER	
+[1/25/18 10:07PM]	Ben used command ::tele 3300 9825 | Player rights = MANAGER	
+[1/25/18 10:08PM]	Ben used command ::tele 2152 5095 | Player rights = MANAGER	
+[1/25/18 10:09PM]	Ben used command ::tele 1894 5333 | Player rights = MANAGER	
+[1/25/18 10:10PM]	Ben used command ::tele 3681 9889 | Player rights = MANAGER	
+[1/25/18 10:10PM]	Ben used command ::tele 2319 9804 | Player rights = MANAGER	
+[1/25/18 10:10PM]	Ben used command ::tele 2856 3809 | Player rights = MANAGER	
+[1/25/18 10:14PM]	Ben used command ::tele 2091 3210 | Player rights = MANAGER	
+[1/25/18 10:15PM]	Ben used command ::tele 2884 9798 | Player rights = MANAGER	
+[1/25/18 10:17PM]	Ben used command ::tele 2918 9895 | Player rights = MANAGER	
+[1/25/18 10:20PM]	Ben used command ::tele 25007 4718 | Player rights = MANAGER	
+[1/25/18 10:58PM]	Ben used command ::tele ::tele 2739 3472 | Player rights = MANAGER	
+[1/25/18 10:58PM]	Ben used command ::tele 2739 3472 | Player rights = MANAGER	
+[1/25/18 10:59PM]	Ben used command ::tele 2659 3661 | Player rights = MANAGER	
+[1/25/18 11:00PM]	Ben used command ::tele 2516 3369 | Player rights = MANAGER	
+[1/25/18 11:44PM]	Ben used command ::tele ::bank | Player rights = MANAGER	
+[1/25/18 11:44PM]	Ben used command ::find present | Player rights = MANAGER	
+[1/25/18 11:44PM]	Ben used command ::item 6542 5 | Player rights = MANAGER	
+[1/25/18 11:48PM]	Ben used command ::home | Player rights = MANAGER	
+[1/26/18 12:21AM]	Ben used command ::item 5581 | Player rights = MANAGER	
+[1/26/18 12:23AM]	Player dropping item: 5581, amount: 1	
+[1/26/18 04:06AM]	Ben used command ::tele 3490 3090 | Player rights = MANAGER	
+[1/26/18 04:06AM]	Ben used command ::tele 3305 2755 | Player rights = MANAGER	
+[1/26/18 04:07AM]	Ben used command ::tele 3489 3288 | Player rights = MANAGER	
+[1/26/18 04:09AM]	Ben used command ::tele 2545 4715 | Player rights = MANAGER	
+[1/26/18 04:09AM]	Ben used command ::tele 3528 9871 | Player rights = MANAGER	
+[1/26/18 04:18AM]	Ben used command ::home | Player rights = MANAGER	
+[1/26/18 09:12AM]	Login from host 72.211.139.66	
+[1/27/18 11:48PM]	Login from host 72.211.139.66	
+[1/27/18 11:56PM]	Login from host 72.211.139.66	
+[1/27/18 11:56PM]	Ben used command ::bank | Player rights = MANAGER	
+[1/28/18 12:02AM]	Login from host 72.211.139.66	
+[1/28/18 06:45AM]	Login from host 72.211.139.66	
+[1/28/18 06:45AM]	Ben used command ::bank | Player rights = MANAGER	
+[1/28/18 06:45AM]	Ben used command ::find present | Player rights = MANAGER	
+[1/30/18 12:25AM]	Login from host 72.211.139.66	
+[1/30/18 12:26AM]	Ben used command ::find runite ore | Player rights = MANAGER	
+[1/30/18 12:29AM]	Ben used command ::bank | Player rights = MANAGER	
+[1/30/18 12:31AM]	Player bought 14009 x 1 from shop	
+[1/30/18 12:31AM]	Player bought 14010 x 1 from shop	
+[1/30/18 12:31AM]	Player bought 14062 x 1 from shop	
+[1/30/18 12:31AM]	Player bought 20014 x 1 from shop	
+[1/30/18 12:31AM]	Player bought 13994 x 1 from shop	
+[1/30/18 12:38AM]	Player bought 9813 x 1 from shop	
+[2/1/18 09:22AM]	Login from host 72.211.139.66	
+[2/1/18 09:22AM]	Ben used command ::item 14009 1 | Player rights = MANAGER	
+[2/1/18 09:22AM]	Ben used command ::teleto bob | Player rights = MANAGER	
+[2/1/18 09:23AM]	Ben used command ::bank | Player rights = MANAGER	
+[2/1/18 09:27AM]	Login from host 72.211.139.66	
+[2/1/18 09:27AM]	Ben used command ::bank | Player rights = MANAGER	
+[2/1/18 09:28AM]	Ben used command ::bank | Player rights = MANAGER	
+[2/1/18 09:28AM]	Ben used command ::bank | Player rights = MANAGER	
+[2/1/18 09:29AM]	Ben used command ::find comp | Player rights = MANAGER	
+[2/1/18 09:29AM]	Ben used command ::find completition | Player rights = MANAGER	
+[2/1/18 09:29AM]	Ben used command ::bank | Player rights = MANAGER	
+[2/1/18 09:31AM]	Player picking up item: [ItemDefinition(11212)] - Name: Dragon arrow; equipment slot: 13; value: 5000; stackable ? true; noted ? false; 2h ? false amount: 22	
+[2/1/18 09:31AM]	Ben used command ::hp | Player rights = MANAGER	
+[2/1/18 09:33AM]	Ben used command ::hp | Player rights = MANAGER	
+[2/1/18 09:34AM]	Ben used command ::find elite | Player rights = MANAGER	
+[2/1/18 09:34AM]	Ben used command ::item 18889 1 | Player rights = MANAGER	
+[2/1/18 09:35AM]	Player dropping item: 18889, amount: 1	
+[2/1/18 09:43AM]	Ben used command ::god | Player rights = MANAGER	
+[2/1/18 09:49AM]	Ben used command ::bank | Player rights = MANAGER	
+[2/1/18 11:03AM]	Login from host 72.211.139.66	
+[2/1/18 11:03AM]	Ben used command ::bank | Player rights = MANAGER	
+[2/1/18 11:04AM]	Ben used command ::find bracelet | Player rights = MANAGER	
+[2/1/18 11:04AM]	Ben used command ::item 17263 1 | Player rights = MANAGER	
+[2/1/18 11:04AM]	Ben used command ::item 17261 2 | Player rights = MANAGER	
+[2/1/18 11:04AM]	Ben used command ::teleto bob | Player rights = MANAGER	
+[2/1/18 11:06AM]	Ben used command ::find max cape | Player rights = MANAGER	
+[2/1/18 11:07AM]	Ben used command ::item 14019 1 | Player rights = MANAGER	
+[2/1/18 11:09AM]	Gave item in trade to Bob. Id: 17261, amount: 1	
+[2/1/18 11:09AM]	Gave item in trade to Bob. Id: 17263, amount: 1	
+[2/1/18 11:15AM]	Ben used command ::drops | Player rights = MANAGER	
+[2/3/18 05:51PM]	Login from host 72.211.139.66	
+[2/3/18 05:51PM]	Ben used command ::find doomcore | Player rights = MANAGER	
+[2/3/18 05:51PM]	Ben used command ::item 17293 | Player rights = MANAGER	
+[2/3/18 05:51PM]	Ben used command ::bank | Player rights = MANAGER	
+[2/3/18 05:52PM]	Ben used command ::bank | Player rights = MANAGER	
+[2/6/18 06:23AM]	Login from host 72.211.139.66	
+[2/6/18 06:23AM]	Ben used command ::teleto bob | Player rights = MANAGER	
+[2/6/18 06:25AM]	Ben used command ::find frost bone | Player rights = MANAGER	
+[2/6/18 06:25AM]	Ben used command ::find frost | Player rights = MANAGER	
+[2/6/18 06:25AM]	Ben used command ::item 537 5000 | Player rights = MANAGER	
+[2/6/18 06:25AM]	Login from host 72.211.139.66	
+[2/6/18 06:27AM]	Ben used command ::bank | Player rights = MANAGER	
+[2/6/18 06:27AM]	Player dropping item: 451, amount: 1	
+[2/6/18 06:28AM]	Login from host 72.211.139.66	
+[2/6/18 06:29AM]	Ben used command ::bank | Player rights = MANAGER	
+[2/6/18 06:30AM]	Ben used command ::find prmal hatch | Player rights = MANAGER	
+[2/6/18 06:31AM]	Ben used command :::find primal hatchet | Player rights = MANAGER	
+[2/6/18 06:45AM]	Ben used command ::find primal | Player rights = MANAGER	
+[2/6/18 07:18AM]	Ben used command ::test | Player rights = MANAGER	
+[2/6/18 07:24AM]	Ben used command ::pos | Player rights = MANAGER	
+[2/6/18 07:24AM]	Ben used command ::coords | Player rights = MANAGER	
+[2/6/18 07:25AM]	Ben used command ::coords | Player rights = MANAGER	
+[2/6/18 07:25AM]	Login from host 72.211.139.66	
+[2/6/18 07:26AM]	Ben used command ::coords | Player rights = MANAGER	
+[2/6/18 07:27AM]	Login from host 72.211.139.66	
+[2/6/18 07:29AM]	Ben used command ::coord | Player rights = DEVELOPER	
+[2/6/18 07:29AM]	Ben used command ::coords | Player rights = DEVELOPER	
+[2/6/18 07:33AM]	Ben used command ::gobject 11758 | Player rights = DEVELOPER	
+[2/6/18 07:33AM]	Ben used command ::gobject 11758 | Player rights = DEVELOPER	
+[2/6/18 07:33AM]	Ben used command ::gobject 11758 | Player rights = DEVELOPER	
+[2/6/18 07:33AM]	Ben used command ::gobject 11758 | Player rights = DEVELOPER	
+[2/6/18 07:35AM]	Ben used command ::gobject 17656 | Player rights = DEVELOPER	
+[2/6/18 07:36AM]	Ben used command ::gobject 17656 | Player rights = DEVELOPER	
+[2/6/18 07:36AM]	Ben used command ::gobject 17656 | Player rights = DEVELOPER	
+[2/6/18 07:36AM]	Ben used command ::gobject 17656 | Player rights = DEVELOPER	
+[2/6/18 07:37AM]	Ben used command ::gobject 17656 | Player rights = DEVELOPER	
+[2/6/18 07:37AM]	Ben used command ::gobject 17656 | Player rights = DEVELOPER	
+[2/6/18 07:37AM]	Ben used command ::gobject 17656 | Player rights = DEVELOPER	
+[2/6/18 07:37AM]	Ben used command ::gobject 17656 | Player rights = DEVELOPER	
+[2/6/18 07:38AM]	Ben used command ::gobject 17656 | Player rights = DEVELOPER	
+[2/6/18 07:38AM]	Ben used command ::gobject 17658 | Player rights = DEVELOPER	
+[2/6/18 07:39AM]	Ben used command ::gojbect 17658 | Player rights = DEVELOPER	
+[2/6/18 07:39AM]	Ben used command ::gobject 17658 | Player rights = DEVELOPER	
+[2/6/18 07:40AM]	Ben used command ::gobject 17658 | Player rights = DEVELOPER	
+[2/6/18 07:40AM]	Ben used command ::gobject 17658 | Player rights = DEVELOPER	
+[2/6/18 07:40AM]	Ben used command ::gobject 17658 | Player rights = DEVELOPER	
+[2/6/18 07:40AM]	Ben used command ::gobject 17658 | Player rights = DEVELOPER	
+[2/6/18 07:40AM]	Ben used command ::gobject 17658 | Player rights = DEVELOPER	
+[2/6/18 07:41AM]	Ben used command ::gobject 17658 | Player rights = DEVELOPER	
+[2/6/18 07:41AM]	Ben used command ::gobject 17656 | Player rights = DEVELOPER	
+[2/6/18 07:41AM]	Ben used command ::gobject 17656 | Player rights = DEVELOPER	
+[2/6/18 07:41AM]	Ben used command ::gobject 17656 | Player rights = DEVELOPER	
+[2/6/18 07:42AM]	Ben used command ::gobject 17656 | Player rights = DEVELOPER	
+[2/6/18 07:42AM]	Ben used command ::gobject 17658 | Player rights = DEVELOPER	
+[2/6/18 07:43AM]	Ben used command ::teletome bob | Player rights = DEVELOPER	
+[2/6/18 07:43AM]	Ben used command ::gobject 17658 | Player rights = DEVELOPER	
+[2/6/18 07:44AM]	Ben used command ::gobject 17658 | Player rights = DEVELOPER	
+[2/6/18 07:44AM]	Ben used command ::noclip | Player rights = DEVELOPER	
+[2/6/18 07:44AM]	Ben used command ::nc | Player rights = DEVELOPER	
+[2/6/18 07:45AM]	Ben used command ::gobject 17656 | Player rights = DEVELOPER	
+[2/6/18 07:45AM]	Ben used command ::gobject 17656 | Player rights = DEVELOPER	
+[2/6/18 07:45AM]	Ben used command ::gobject 17656 | Player rights = DEVELOPER	
+[2/6/18 07:45AM]	Ben used command ::gobject 17656 | Player rights = DEVELOPER	
+[2/6/18 07:46AM]	Ben used command ::gobject 17656 | Player rights = DEVELOPER	
+[2/6/18 07:46AM]	Ben used command ::gobject 17656 | Player rights = DEVELOPER	
+[2/6/18 07:46AM]	Ben used command ::gobject 17656 | Player rights = DEVELOPER	
+[2/6/18 07:46AM]	Ben used command ::gobject 17656 | Player rights = DEVELOPER	
+[2/6/18 07:47AM]	Ben used command ::gobject 17656 | Player rights = DEVELOPER	
+[2/6/18 07:47AM]	Ben used command ::gobject 17656 | Player rights = DEVELOPER	
+[2/6/18 07:47AM]	Ben used command ::gobject 17656 | Player rights = DEVELOPER	
+[2/6/18 07:48AM]	Ben used command ::gobject 17656 | Player rights = DEVELOPER	
+[2/6/18 07:48AM]	Ben used command ::gobject 17656 | Player rights = DEVELOPER	
+[2/6/18 07:48AM]	Ben used command ::gobject 17656 | Player rights = DEVELOPER	
+[2/6/18 07:48AM]	Ben used command ::gobject 17656 | Player rights = DEVELOPER	
+[2/6/18 07:49AM]	Ben used command ::gobject 17656 | Player rights = DEVELOPER	
+[2/6/18 07:49AM]	Ben used command ::gobject 17658 | Player rights = DEVELOPER	
+[2/6/18 07:49AM]	Ben used command ::gobject 17658 | Player rights = DEVELOPER	
+[2/6/18 07:49AM]	Ben used command ::gobject 17658 | Player rights = DEVELOPER	
+[2/6/18 07:49AM]	Ben used command ::gobject 17658 | Player rights = DEVELOPER	
+[2/6/18 07:50AM]	Ben used command ::gobject 17658 | Player rights = DEVELOPER	
+[2/6/18 07:50AM]	Ben used command ::gobject 11758 | Player rights = DEVELOPER	
+[2/6/18 08:03AM]	Ben used command ::gobject 2507 | Player rights = DEVELOPER	
+[2/6/18 08:03AM]	Ben used command ::test | Player rights = DEVELOPER	
+[2/6/18 08:04AM]	Ben used command ::gobject 17658 | Player rights = DEVELOPER	
+[2/6/18 08:04AM]	Ben used command ::gobject 17658 | Player rights = DEVELOPER	
+[2/6/18 08:04AM]	Ben used command ::gobject 2507 | Player rights = DEVELOPER	
+[2/6/18 08:05AM]	Ben used command ::teleto bob | Player rights = DEVELOPER	
+[2/6/18 08:07AM]	Ben used command ::coords | Player rights = DEVELOPER	
+[2/6/18 08:08AM]	Ben used command ::hp | Player rights = DEVELOPER	
+[2/8/18 07:00AM]	Login from host 72.211.139.66	
+[2/8/18 07:07AM]	Login from host 72.211.139.66	
+[2/8/18 07:08AM]	Ben used command ::bank | Player rights = DEVELOPER	
+[2/8/18 07:09AM]	Ben used command ::yell mhmhmhmhmhmhmh | Player rights = DEVELOPER	
+[2/8/18 07:09AM]	Ben used command ::home2 | Player rights = DEVELOPER	
+[2/8/18 07:09AM]	Ben used command ::home | Player rights = DEVELOPER	
+[2/8/18 07:10AM]	Player bought 14018 x 1 from shop	
+[2/8/18 10:22AM]	Login from host 173.239.199.234	
+[2/8/18 10:22AM]	Ben used command ::item 14009 1 | Player rights = DEVELOPER	
+[2/8/18 10:23AM]	Ben used command ::setlevel1500 | Player rights = DEVELOPER	
+[2/8/18 10:23AM]	Ben used command ::hp | Player rights = DEVELOPER	
+[2/8/18 10:24AM]	Ben used command ::item 6570 | Player rights = DEVELOPER	
+[2/8/18 10:24AM]	Ben used command ::setlevel 4 15000 | Player rights = DEVELOPER	
+[2/8/18 10:30AM]	Ben used command ::home | Player rights = DEVELOPER	
+[2/8/18 10:31AM]	Ben used command ::dboss | Player rights = DEVELOPER	
+[2/8/18 10:36AM]	Ben used command ::dboss | Player rights = DEVELOPER	
+[2/8/18 10:36AM]	Ben used command ::rz | Player rights = DEVELOPER	
+[2/8/18 10:36AM]	Ben used command ::dzone | Player rights = DEVELOPER	
+[2/8/18 10:41AM]	Ben used command ::item 12927 1 | Player rights = DEVELOPER	
+[2/11/18 12:49PM]	Login from host 46.195.20.115	
+[2/11/18 12:50PM]	Ben used command ::empty | Player rights = PLAYER	
+[2/11/18 02:37PM]	Login from host 46.195.20.115	
+[2/11/18 02:43PM]	Login from host 46.195.20.115	
+[2/11/18 02:43PM]	Ben used command ::master | Player rights = MANAGER	
+[2/11/18 02:44PM]	Ben used command ::item 1837 1 | Player rights = MANAGER	
+[2/11/18 02:44PM]	Ben used command ::spawn 1837 1 | Player rights = MANAGER	
+[2/11/18 02:44PM]	Ben used command ::commands | Player rights = MANAGER	
+[2/11/18 02:44PM]	Ben used command ::staffcommands | Player rights = MANAGER	
+[2/11/18 02:45PM]	Ben used command ::givedon5 ben | Player rights = MANAGER	
+[2/11/18 02:45PM]	Ben used command ::givedpoints1 2147000000 ben | Player rights = MANAGER	
+[2/11/18 02:45PM]	Ben used command ::givedpoints1 ben 100000000 | Player rights = MANAGER	
+[2/11/18 02:46PM]	Ben used command ::id 1837 1 | Player rights = MANAGER	
+[2/11/18 02:46PM]	Ben used command ::id party hat | Player rights = MANAGER	
+[2/11/18 02:46PM]	Login from host 46.195.20.115	
+[2/11/18 02:46PM]	Ben used command ::givedon4 ben | Player rights = MANAGER	
+[2/11/18 02:47PM]	Ben used command ::pnpc 100 | Player rights = MANAGER	
+[2/11/18 02:47PM]	Ben used command ::v1 | Player rights = MANAGER	
+[2/11/18 02:47PM]	Ben used command ::v1 | Player rights = MANAGER	
+[2/11/18 02:47PM]	Ben used command ::object | Player rights = MANAGER	
+[2/11/18 02:47PM]	Ben used command ::npc 103 | Player rights = MANAGER	
+[2/11/18 02:47PM]	Ben used command ::spawn 6585 1 | Player rights = MANAGER	
+[2/11/18 02:47PM]	Ben used command ::item 6585 1 | Player rights = MANAGER	
+[2/11/18 02:48PM]	Ben used command ::givedpoints 100000 ben | Player rights = MANAGER	
+[2/11/18 02:48PM]	Ben used command ::doublexp | Player rights = MANAGER	
+[2/11/18 02:48PM]	Ben used command ::doublexp | Player rights = MANAGER	
+[2/11/18 02:48PM]	Ben used command ::giveitem 1837 1 ben | Player rights = MANAGER	
+[2/11/18 02:48PM]	Ben used command ::giveitem 6585 1 ben | Player rights = MANAGER	
+[2/11/18 02:49PM]	Ben used command ::object 100 | Player rights = MANAGER	
+[2/11/18 02:49PM]	Ben used command ::staffzone | Player rights = MANAGER	
+[2/11/18 02:49PM]	Ben used command ::afk | Player rights = MANAGER	
+[2/17/18 10:46AM]	Login from host 84.217.59.206	
+[2/17/18 11:16AM]	Login from host 84.217.59.206	
+[2/17/18 11:16AM]	Ben used command ::teleto ace | Player rights = MODERATOR	
+[2/17/18 11:17AM]	Ben used command ::empty | Player rights = MODERATOR	
+[2/18/18 06:47PM]	Login from host 46.195.20.125	
+[2/18/18 06:47PM]	Ben used command ::teleto ace | Player rights = MODERATOR	
+[2/18/18 06:47PM]	Ben used command ::teleto ace | Player rights = MODERATOR	
+[2/18/18 06:48PM]	Ben used command ::teleto ace | Player rights = MODERATOR	
+[2/18/18 06:48PM]	Ben used command ::staffzone | Player rights = MODERATOR	
+[2/18/18 06:48PM]	Ben used command ::teleto ace | Player rights = MODERATOR	

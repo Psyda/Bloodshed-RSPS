@@ -1,0 +1,1283 @@
+[2/11/18 12:30PM]	Login from host 174.192.34.58	
+[2/11/18 12:40PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 234	
+[2/11/18 12:40PM]	Player dropping item: 995, amount: 234	
+[2/11/18 12:45PM]	Grillem used command ::[FRI]Lootz | Player rights = BRONZE_MEMBER	
+[2/11/18 12:46PM]	Player picking up item: [ItemDefinition(2686)] - Name: Clue scroll (easy); equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 12:53PM]	Player bought 1079 x 1 from shop	
+[2/11/18 12:53PM]	Player bought 1127 x 1 from shop	
+[2/11/18 12:53PM]	Player bought 10828 x 1 from shop	
+[2/11/18 12:54PM]	Player bought 6328 x 1 from shop	
+[2/11/18 12:54PM]	Player bought 2497 x 1 from shop	
+[2/11/18 12:54PM]	Player bought 2503 x 1 from shop	
+[2/11/18 12:54PM]	Player bought 2491 x 1 from shop	
+[2/11/18 12:54PM]	Player bought 1704 x 1 from shop	
+[2/11/18 12:54PM]	Player bought 6568 x 1 from shop	
+[2/11/18 12:54PM]	Player bought 3105 x 1 from shop	
+[2/11/18 12:54PM]	Player bought 2550 x 1 from shop	
+[2/11/18 12:54PM]	Player bought 861 x 1 from shop	
+[2/11/18 12:55PM]	Player bought 892 x 500 from shop	
+[2/11/18 12:55PM]	Player bought 1215 x 1 from shop	
+[2/11/18 12:55PM]	Player bought 4587 x 1 from shop	
+[2/11/18 12:57PM]	Player bought 1201 x 1 from shop	
+[2/11/18 01:02PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 01:02PM]	Player picking up item: [ItemDefinition(985)] - Name: Tooth half of a key; equipment slot: 3; value: 26200; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 01:04PM]	Grillem used command ::answer runecrafting | Player rights = BRONZE_MEMBER	
+[2/11/18 01:06PM]	Player picking up item: [ItemDefinition(2368)] - Name: Shield right half; equipment slot: 5; value: 117405; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 01:08PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 110000	
+[2/11/18 01:08PM]	Player picking up item: [ItemDefinition(565)] - Name: Blood rune; equipment slot: 3; value: 1688; stackable ? true; noted ? false; 2h ? false amount: 100	
+[2/11/18 01:12PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 01:12PM]	Player picking up item: [ItemDefinition(385)] - Name: Shark; equipment slot: 3; value: 5000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 01:16PM]	Player picking up item: [ItemDefinition(1516)] - Name: Yew logs; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 50	
+[2/11/18 01:16PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 01:20PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 170000	
+[2/11/18 01:20PM]	Player picking up item: [ItemDefinition(1357)] - Name: Adamant hatchet; equipment slot: 3; value: 763; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 01:20PM]	Player picking up item: [ItemDefinition(7418)] - Name: Mole skin; equipment slot: 3; value: 9025; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 01:22PM]	Grillem used command ::answer 2157m | Player rights = BRONZE_MEMBER	
+[2/11/18 01:23PM]	Player picking up item: [ItemDefinition(1516)] - Name: Yew logs; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 50	
+[2/11/18 01:23PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 01:23PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 01:23PM]	Player picking up item: [ItemDefinition(7418)] - Name: Mole skin; equipment slot: 3; value: 9025; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 01:24PM]	Player picking up item: [ItemDefinition(7114)] - Name: Pirate boots; equipment slot: 10; value: 1078; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 01:27PM]	Grillem used command ::answer 2147m | Player rights = BRONZE_MEMBER	
+[2/11/18 01:27PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 01:27PM]	Player picking up item: [ItemDefinition(7418)] - Name: Mole skin; equipment slot: 3; value: 9025; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 01:30PM]	Player dropping item: 229, amount: 1	
+[2/11/18 01:32PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 01:32PM]	Player picking up item: [ItemDefinition(1725)] - Name: Amulet of strength; equipment slot: 2; value: 1154; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 01:32PM]	Player picking up item: [ItemDefinition(7418)] - Name: Mole skin; equipment slot: 3; value: 9025; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 01:35PM]	Player picking up item: [ItemDefinition(386)] - Name: Shark; equipment slot: 3; value: 5000; stackable ? true; noted ? true; 2h ? false amount: 20	
+[2/11/18 01:35PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 01:35PM]	Player picking up item: [ItemDefinition(7418)] - Name: Mole skin; equipment slot: 3; value: 9025; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 01:35PM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[2/11/18 01:35PM]	Player dropping item: 12159, amount: 1	
+[2/11/18 01:40PM]	Grillem used command ::answer 25 | Player rights = BRONZE_MEMBER	
+[2/11/18 01:40PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 01:40PM]	Player picking up item: [ItemDefinition(7418)] - Name: Mole skin; equipment slot: 3; value: 9025; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 01:45PM]	Player picking up item: [ItemDefinition(1149)] - Name: Dragon med helm; equipment slot: 0; value: 72320; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 01:45PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 01:45PM]	Player picking up item: [ItemDefinition(7418)] - Name: Mole skin; equipment slot: 3; value: 9025; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 01:46PM]	Player bought 9185 x 1 from shop	
+[2/11/18 01:47PM]	Player bought 868 x 500 from shop	
+[2/11/18 01:48PM]	Player bought 10499 x 1 from shop	
+[2/11/18 01:48PM]	Player bought 2550 x 5 from shop	
+[2/11/18 01:49PM]	Player bought 2444 x 5 from shop	
+[2/11/18 01:49PM]	Grillem used command ::di | Player rights = BRONZE_MEMBER	
+[2/11/18 01:55PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 170000	
+[2/11/18 01:55PM]	Player picking up item: [ItemDefinition(1123)] - Name: Adamant platebody; equipment slot: 4; value: 9821; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 01:58PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 170000	
+[2/11/18 01:58PM]	Player picking up item: [ItemDefinition(2680)] - Name: Clue scroll (easy); equipment slot: 3; value: 1000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 01:58PM]	Player picking up item: [ItemDefinition(1247)] - Name: Rune spear; equipment slot: 3; value: 6600; stackable ? false; noted ? false; 2h ? true amount: 1	
+[2/11/18 02:02PM]	Player bought 811 x 500 from shop	
+[2/11/18 02:02PM]	Player bought 811 x 500 from shop	
+[2/11/18 02:05PM]	Player picking up item: [ItemDefinition(443)] - Name: Silver ore; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 50	
+[2/11/18 02:05PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 02:08PM]	Player picking up item: [ItemDefinition(3052)] - Name: Grimy snapdragon; equipment slot: 3; value: 194800; stackable ? true; noted ? true; 2h ? false amount: 12	
+[2/11/18 02:08PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 02:09PM]	Player dropping item: 229, amount: 1	
+[2/11/18 02:11PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 02:11PM]	Player picking up item: [ItemDefinition(1369)] - Name: Mithril battleaxe; equipment slot: 3; value: 890; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:14PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 02:14PM]	Player picking up item: [ItemDefinition(7418)] - Name: Mole skin; equipment slot: 3; value: 9025; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:14PM]	Player picking up item: [ItemDefinition(7418)] - Name: Mole skin; equipment slot: 3; value: 9025; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:17PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:17PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 02:17PM]	Player picking up item: [ItemDefinition(1303)] - Name: Rune longsword; equipment slot: 3; value: 23100; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:17PM]	Player picking up item: [ItemDefinition(556)] - Name: Air rune; equipment slot: 3; value: 90; stackable ? true; noted ? false; 2h ? false amount: 2544	
+[2/11/18 02:20PM]	Player picking up item: [ItemDefinition(441)] - Name: Iron ore; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 60	
+[2/11/18 02:20PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 02:20PM]	Player picking up item: [ItemDefinition(7418)] - Name: Mole skin; equipment slot: 3; value: 9025; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:20PM]	Player picking up item: [ItemDefinition(18778)] - Name: Starved ancient effigy; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:23PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 02:27PM]	Player picking up item: [ItemDefinition(1516)] - Name: Yew logs; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 50	
+[2/11/18 02:27PM]	Player picking up item: [ItemDefinition(386)] - Name: Shark; equipment slot: 3; value: 5000; stackable ? true; noted ? true; 2h ? false amount: 20	
+[2/11/18 02:27PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 02:30PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 02:30PM]	Player picking up item: [ItemDefinition(2680)] - Name: Clue scroll (easy); equipment slot: 3; value: 1000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:30PM]	Player picking up item: [ItemDefinition(1247)] - Name: Rune spear; equipment slot: 3; value: 6600; stackable ? false; noted ? false; 2h ? true amount: 1	
+[2/11/18 02:32PM]	Player picking up item: [ItemDefinition(1516)] - Name: Yew logs; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 50	
+[2/11/18 02:32PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 02:32PM]	Player picking up item: [ItemDefinition(6686)] - Name: Saradomin brew (4); equipment slot: 3; value: 12257; stackable ? true; noted ? true; 2h ? false amount: 1	
+[2/11/18 02:34PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 02:34PM]	Player picking up item: [ItemDefinition(886)] - Name: Steel arrow; equipment slot: 13; value: 41; stackable ? true; noted ? false; 2h ? false amount: 120	
+[2/11/18 02:39PM]	Player bought 9769 x 1 from shop	
+[2/11/18 02:43PM]	Login from host 174.192.34.58	
+[2/11/18 02:45PM]	Player picking up item: [ItemDefinition(3052)] - Name: Grimy snapdragon; equipment slot: 3; value: 194800; stackable ? true; noted ? true; 2h ? false amount: 12	
+[2/11/18 02:45PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 02:45PM]	Player picking up item: [ItemDefinition(1373)] - Name: Rune battleaxe; equipment slot: 3; value: 15000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:46PM]	Grillem used command ::[FRI]Ace | Player rights = BRONZE_MEMBER	
+[2/11/18 02:48PM]	Grillem received a Dragon pickaxe from Giant Mole	
+[2/11/18 02:48PM]	Player picking up item: [ItemDefinition(15259)] - Name: Dragon pickaxe; equipment slot: 3; value: 12000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:48PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 02:48PM]	Player picking up item: [ItemDefinition(1247)] - Name: Rune spear; equipment slot: 3; value: 6600; stackable ? false; noted ? false; 2h ? true amount: 1	
+[2/11/18 02:50PM]	Login from host 174.192.34.58	
+[2/11/18 02:51PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 02:51PM]	Player picking up item: [ItemDefinition(1185)] - Name: Rune sq shield; equipment slot: 5; value: 12900; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:51PM]	Player dropping item: 229, amount: 1	
+[2/11/18 02:53PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 02:53PM]	Player picking up item: [ItemDefinition(2366)] - Name: Shield left half; equipment slot: 5; value: 38900; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:53PM]	Player picking up item: [ItemDefinition(1319)] - Name: Rune 2h sword; equipment slot: 3; value: 21600; stackable ? false; noted ? false; 2h ? true amount: 1	
+[2/11/18 02:56PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 02:59PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 03:00PM]	Grillem used command ::answer strength | Player rights = BRONZE_MEMBER	
+[2/11/18 03:01PM]	Player picking up item: [ItemDefinition(441)] - Name: Iron ore; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 60	
+[2/11/18 03:01PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 03:01PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 03:03PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 03:03PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 03:05PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 03:05PM]	Player picking up item: [ItemDefinition(1516)] - Name: Yew logs; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 50	
+[2/11/18 03:05PM]	Player picking up item: [ItemDefinition(7418)] - Name: Mole skin; equipment slot: 3; value: 9025; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 03:05PM]	Player dropping item: 7418, amount: 1	
+[2/11/18 03:05PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 03:05PM]	Player picking up item: [ItemDefinition(6686)] - Name: Saradomin brew (4); equipment slot: 3; value: 12257; stackable ? true; noted ? true; 2h ? false amount: 1	
+[2/11/18 03:08PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 03:10PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 03:10PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 170000	
+[2/11/18 03:10PM]	Player picking up item: [ItemDefinition(2485)] - Name: Grimy lantadyme; equipment slot: 3; value: 31224; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 03:12PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 03:12PM]	Player picking up item: [ItemDefinition(386)] - Name: Shark; equipment slot: 3; value: 5000; stackable ? true; noted ? true; 2h ? false amount: 6	
+[2/11/18 03:15PM]	Player picking up item: [ItemDefinition(1631)] - Name: Uncut dragonstone; equipment slot: 3; value: 18000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 03:15PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 03:17PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 03:17PM]	Player picking up item: [ItemDefinition(884)] - Name: Iron arrow; equipment slot: 13; value: 20; stackable ? true; noted ? false; 2h ? false amount: 600	
+[2/11/18 03:19PM]	Grillem used command ::answer 508 | Player rights = BRONZE_MEMBER	
+[2/11/18 03:19PM]	Grillem used command ::answer 358 | Player rights = BRONZE_MEMBER	
+[2/11/18 03:19PM]	Grillem used command ::answer 528 | Player rights = BRONZE_MEMBER	
+[2/11/18 03:19PM]	Player bought 811 x 500 from shop	
+[2/11/18 03:20PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 03:20PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 03:20PM]	Player picking up item: [ItemDefinition(2366)] - Name: Shield left half; equipment slot: 5; value: 38900; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 03:20PM]	Player picking up item: [ItemDefinition(1215)] - Name: Dragon dagger; equipment slot: 3; value: 18000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 03:20PM]	Player picking up item: [ItemDefinition(2683)] - Name: Clue scroll (easy); equipment slot: 3; value: 1000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 03:23PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 110000	
+[2/11/18 03:26PM]	Grillem used command ::di | Player rights = BRONZE_MEMBER	
+[2/11/18 03:26PM]	Player bought 11852 x 1 from shop	
+[2/11/18 03:27PM]	Player bought 15325 x 10 from shop	
+[2/11/18 03:27PM]	Player bought 15325 x 5 from shop	
+[2/11/18 03:28PM]	Player bought 9243 x 500 from shop	
+[2/11/18 03:28PM]	Player bought 9243 x 500 from shop	
+[2/11/18 03:32PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 03:32PM]	Player picking up item: [ItemDefinition(1623)] - Name: Uncut sapphire; equipment slot: 3; value: 200; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 03:34PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 03:34PM]	Player picking up item: [ItemDefinition(1201)] - Name: Rune kiteshield; equipment slot: 5; value: 50000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 03:36PM]	Player picking up item: [ItemDefinition(208)] - Name: Grimy ranarr; equipment slot: 3; value: 45322; stackable ? true; noted ? true; 2h ? false amount: 10	
+[2/11/18 03:36PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 03:37PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 110000	
+[2/11/18 03:39PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 03:39PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 170000	
+[2/11/18 03:39PM]	Player picking up item: [ItemDefinition(1357)] - Name: Adamant hatchet; equipment slot: 3; value: 763; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 03:40PM]	Player dropping item: 229, amount: 1	
+[2/11/18 03:41PM]	Player picking up item: [ItemDefinition(1516)] - Name: Yew logs; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 50	
+[2/11/18 03:41PM]	Player picking up item: [ItemDefinition(1631)] - Name: Uncut dragonstone; equipment slot: 3; value: 18000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 03:41PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 03:43PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 03:43PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 110000	
+[2/11/18 03:45PM]	Player picking up item: [ItemDefinition(1631)] - Name: Uncut dragonstone; equipment slot: 3; value: 18000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 03:45PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 03:47PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 03:47PM]	Player picking up item: [ItemDefinition(9144)] - Name: Runite bolts; equipment slot: 13; value: 253; stackable ? true; noted ? false; 2h ? false amount: 16	
+[2/11/18 03:48PM]	Player dropping item: 229, amount: 1	
+[2/11/18 03:49PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 03:49PM]	Player picking up item: [ItemDefinition(1319)] - Name: Rune 2h sword; equipment slot: 3; value: 21600; stackable ? false; noted ? false; 2h ? true amount: 1	
+[2/11/18 03:49PM]	Player picking up item: [ItemDefinition(1373)] - Name: Rune battleaxe; equipment slot: 3; value: 15000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 03:51PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 03:52PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 03:54PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 170000	
+[2/11/18 03:54PM]	Player picking up item: [ItemDefinition(892)] - Name: Rune arrow; equipment slot: 13; value: 1100; stackable ? true; noted ? false; 2h ? false amount: 53	
+[2/11/18 03:55PM]	Grillem used command ::answer help | Player rights = BRONZE_MEMBER	
+[2/11/18 03:57PM]	Player picking up item: [ItemDefinition(208)] - Name: Grimy ranarr; equipment slot: 3; value: 45322; stackable ? true; noted ? true; 2h ? false amount: 10	
+[2/11/18 03:57PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 170000	
+[2/11/18 03:57PM]	Player dropping item: 229, amount: 1	
+[2/11/18 03:59PM]	Player picking up item: [ItemDefinition(208)] - Name: Grimy ranarr; equipment slot: 3; value: 45322; stackable ? true; noted ? true; 2h ? false amount: 10	
+[2/11/18 03:59PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 03:59PM]	Player picking up item: [ItemDefinition(1373)] - Name: Rune battleaxe; equipment slot: 3; value: 15000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 03:59PM]	Player picking up item: [ItemDefinition(2677)] - Name: Clue scroll (easy); equipment slot: 3; value: 1000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 04:01PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 04:09PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 04:09PM]	Player picking up item: [ItemDefinition(441)] - Name: Iron ore; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 60	
+[2/11/18 04:11PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 04:12PM]	Player dropping item: 229, amount: 1	
+[2/11/18 04:13PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 04:14PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 170000	
+[2/11/18 04:14PM]	Player picking up item: [ItemDefinition(1249)] - Name: Dragon spear; equipment slot: 3; value: 38500; stackable ? false; noted ? false; 2h ? true amount: 1	
+[2/11/18 04:17PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 110000	
+[2/11/18 04:19PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 04:20PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 110000	
+[2/11/18 04:20PM]	Player picking up item: [ItemDefinition(561)] - Name: Nature rune; equipment slot: 3; value: 420; stackable ? true; noted ? false; 2h ? false amount: 15	
+[2/11/18 04:23PM]	Player picking up item: [ItemDefinition(441)] - Name: Iron ore; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 60	
+[2/11/18 04:23PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 04:23PM]	Player picking up item: [ItemDefinition(402)] - Name: Seaweed; equipment slot: 3; value: 394; stackable ? true; noted ? true; 2h ? false amount: 7	
+[2/11/18 04:23PM]	Player dropping item: 402, amount: 7	
+[2/11/18 04:23PM]	Player picking up item: [ItemDefinition(402)] - Name: Seaweed; equipment slot: 3; value: 394; stackable ? true; noted ? true; 2h ? false amount: 7	
+[2/11/18 04:23PM]	Player dropping item: 229, amount: 1	
+[2/11/18 04:25PM]	Player picking up item: [ItemDefinition(1516)] - Name: Yew logs; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 50	
+[2/11/18 04:25PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 04:27PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 04:28PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 04:30PM]	Player dropping item: 229, amount: 1	
+[2/11/18 04:30PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 04:30PM]	Player picking up item: [ItemDefinition(15272)] - Name: Rocktail; equipment slot: 3; value: 15000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 04:32PM]	Player picking up item: [ItemDefinition(441)] - Name: Iron ore; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 60	
+[2/11/18 04:32PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 04:32PM]	Player dropping item: 229, amount: 1	
+[2/11/18 04:34PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 04:34PM]	Player picking up item: [ItemDefinition(1373)] - Name: Rune battleaxe; equipment slot: 3; value: 15000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 04:34PM]	Player picking up item: [ItemDefinition(561)] - Name: Nature rune; equipment slot: 3; value: 420; stackable ? true; noted ? false; 2h ? false amount: 15	
+[2/11/18 04:36PM]	Player picking up item: [ItemDefinition(1201)] - Name: Rune kiteshield; equipment slot: 5; value: 50000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 04:36PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 230000	
+[2/11/18 04:38PM]	Grillem used command ::answer 8 | Player rights = BRONZE_MEMBER	
+[2/11/18 04:38PM]	Grillem used command ::answer 5 | Player rights = BRONZE_MEMBER	
+[2/11/18 04:38PM]	Grillem used command ::answer 4 | Player rights = BRONZE_MEMBER	
+[2/11/18 04:38PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 04:39PM]	Player dropping item: 229, amount: 1	
+[2/11/18 04:40PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 04:42PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 04:42PM]	Player picking up item: [ItemDefinition(892)] - Name: Rune arrow; equipment slot: 13; value: 1100; stackable ? true; noted ? false; 2h ? false amount: 67	
+[2/11/18 04:42PM]	Player picking up item: [ItemDefinition(2366)] - Name: Shield left half; equipment slot: 5; value: 38900; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 04:47PM]	Player bought 392 x 200 from shop	
+[2/11/18 04:47PM]	Grillem used command ::di | Player rights = BRONZE_MEMBER	
+[2/11/18 04:48PM]	Player bought 3025 x 200 from shop	
+[2/11/18 04:52PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 04:52PM]	Player picking up item: [ItemDefinition(1373)] - Name: Rune battleaxe; equipment slot: 3; value: 15000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 04:52PM]	Player bought 19335 x 1 from shop	
+[2/11/18 04:59PM]	Player bought 2446 x 5 from shop	
+[2/11/18 05:03PM]	Player bought 7462 x 1 from shop	
+[2/11/18 05:13PM]	Grillem used command ::title | Player rights = BRONZE_MEMBER	
+[2/11/18 05:14PM]	Grillem used command ::Answer 2047 | Player rights = BRONZE_MEMBER	
+[2/11/18 05:19PM]	Player bought 9244 x 200 from shop	
+[2/11/18 05:19PM]	Player bought 9244 x 200 from shop	
+[2/11/18 05:19PM]	Player bought 9244 x 100 from shop	
+[2/11/18 05:20PM]	Login from host 174.192.34.58	
+[2/11/18 05:22PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 05:24PM]	Grillem received a Dragon pickaxe from Giant Mole	
+[2/11/18 05:24PM]	Player picking up item: [ItemDefinition(15259)] - Name: Dragon pickaxe; equipment slot: 3; value: 12000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 05:24PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 05:24PM]	Player picking up item: [ItemDefinition(1123)] - Name: Adamant platebody; equipment slot: 4; value: 9821; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 05:26PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 05:27PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 05:27PM]	Player picking up item: [ItemDefinition(1623)] - Name: Uncut sapphire; equipment slot: 3; value: 200; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 05:29PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 05:29PM]	Player picking up item: [ItemDefinition(1185)] - Name: Rune sq shield; equipment slot: 5; value: 12900; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 05:30PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 05:30PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 05:30PM]	Player picking up item: [ItemDefinition(1123)] - Name: Adamant platebody; equipment slot: 4; value: 9821; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 05:30PM]	Player picking up item: [ItemDefinition(1373)] - Name: Rune battleaxe; equipment slot: 3; value: 15000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 05:32PM]	Player picking up item: [ItemDefinition(1631)] - Name: Uncut dragonstone; equipment slot: 3; value: 18000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 05:32PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 05:32PM]	Player picking up item: [ItemDefinition(2685)] - Name: Clue scroll (easy); equipment slot: 3; value: 1000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 05:33PM]	Player dropping item: 229, amount: 1	
+[2/11/18 05:33PM]	Player picking up item: [ItemDefinition(2681)] - Name: Clue scroll (easy); equipment slot: 3; value: 1000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 05:33PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 05:33PM]	Player picking up item: [ItemDefinition(386)] - Name: Shark; equipment slot: 3; value: 5000; stackable ? true; noted ? true; 2h ? false amount: 20	
+[2/11/18 05:35PM]	Player picking up item: [ItemDefinition(441)] - Name: Iron ore; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 60	
+[2/11/18 05:35PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 05:36PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 110000	
+[2/11/18 05:38PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 170000	
+[2/11/18 05:38PM]	Player picking up item: [ItemDefinition(9144)] - Name: Runite bolts; equipment slot: 13; value: 253; stackable ? true; noted ? false; 2h ? false amount: 13	
+[2/11/18 05:40PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 05:40PM]	Player dropping item: 229, amount: 1	
+[2/11/18 05:40PM]	Player picking up item: [ItemDefinition(1631)] - Name: Uncut dragonstone; equipment slot: 3; value: 18000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 05:40PM]	Player picking up item: [ItemDefinition(441)] - Name: Iron ore; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 60	
+[2/11/18 05:41PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 05:41PM]	Player picking up item: [ItemDefinition(1249)] - Name: Dragon spear; equipment slot: 3; value: 38500; stackable ? false; noted ? false; 2h ? true amount: 1	
+[2/11/18 05:43PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 05:44PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 230000	
+[2/11/18 05:46PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 05:47PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 05:47PM]	Player picking up item: [ItemDefinition(892)] - Name: Rune arrow; equipment slot: 13; value: 1100; stackable ? true; noted ? false; 2h ? false amount: 35	
+[2/11/18 05:47PM]	Player dropping item: 229, amount: 1	
+[2/11/18 05:47PM]	Player dropping item: 229, amount: 1	
+[2/11/18 05:49PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 50000	
+[2/11/18 05:49PM]	Player picking up item: [ItemDefinition(2368)] - Name: Shield right half; equipment slot: 5; value: 117405; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 05:53PM]	Player bought 9244 x 500 from shop	
+[2/11/18 05:57PM]	Player picking up item: [ItemDefinition(15273)] - Name: Rocktail; equipment slot: 3; value: 15000; stackable ? true; noted ? true; 2h ? false amount: 337	
+[2/11/18 05:57PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 10593427	
+[2/11/18 05:58PM]	Gave item in trade to Lootz. Id: 385, amount: 1	
+[2/11/18 05:58PM]	Gave item in trade to Lootz. Id: 385, amount: 1	
+[2/11/18 05:58PM]	Gave item in trade to Lootz. Id: 385, amount: 1	
+[2/11/18 05:58PM]	Receiving item from trade. Id: 995, amount: 19284942 from: Lootz	
+[2/11/18 05:58PM]	Receiving item from trade. Id: 868, amount: 224 from: Lootz	
+[2/11/18 05:58PM]	Receiving item from trade. Id: 2504, amount: 273 from: Lootz	
+[2/11/18 06:00PM]	Grillem used command ::home | Player rights = BRONZE_MEMBER	
+[2/11/18 06:03PM]	Grillem used command ::title | Player rights = BRONZE_MEMBER	
+[2/11/18 06:04PM]	Receiving item from trade. Id: 2572, amount: 1 from: Lootz	
+[2/11/18 06:16PM]	Login from host 174.192.34.58	
+[2/11/18 06:21PM]	Player bought 989 x 1 from shop	
+[2/11/18 06:22PM]	Player dropping item: 385, amount: 1	
+[2/11/18 06:22PM]	Player picking up item: [ItemDefinition(385)] - Name: Shark; equipment slot: 3; value: 5000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 06:23PM]	Grillem used command ::di | Player rights = BRONZE_MEMBER	
+[2/11/18 06:40PM]	Player picking up item: [ItemDefinition(441)] - Name: Iron ore; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 60	
+[2/11/18 06:40PM]	Player picking up item: [ItemDefinition(1201)] - Name: Rune kiteshield; equipment slot: 5; value: 50000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 06:41PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 06:41PM]	Player picking up item: [ItemDefinition(443)] - Name: Silver ore; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 50	
+[2/11/18 06:48PM]	Player dropping item: 229, amount: 1	
+[2/11/18 06:50PM]	Login from host 174.192.34.58	
+[2/12/18 04:48PM]	Login from host 174.192.16.92	
+[2/12/18 04:50PM]	Login from host 174.192.13.179	
+[2/12/18 05:03PM]	Grillem used command ::answer 70 | Player rights = BRONZE_MEMBER	
+[2/12/18 05:13PM]	Login from host 174.192.13.179	
+[2/12/18 05:14PM]	Login from host 174.192.13.179	
+[2/12/18 05:22PM]	Login from host 174.192.13.179	
+[2/12/18 05:23PM]	Grillem used command ::yell np ;) | Player rights = GOLD_MEMBER	
+[2/12/18 05:26PM]	Receiving item from trade. Id: 4706, amount: 1 from: Lootz	
+[2/12/18 05:30PM]	Grillem used command ::answer runecrafting | Player rights = GOLD_MEMBER	
+[2/12/18 05:36PM]	Receiving item from trade. Id: 18831, amount: 500 from: Daking	
+[2/12/18 05:44PM]	Grillem used command ::safepvp | Player rights = GOLD_MEMBER	
+[2/12/18 05:48PM]	Player picking up item: [ItemDefinition(443)] - Name: Silver ore; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 50	
+[2/12/18 05:53PM]	Grillem used command ::Dboss | Player rights = GOLD_MEMBER	
+[2/12/18 05:53PM]	Grillem used command ::Home | Player rights = GOLD_MEMBER	
+[2/12/18 05:57PM]	Grillem used command ::teleportto lootz | Player rights = GOLD_MEMBER	
+[2/12/18 05:59PM]	Grillem used command ::[FRI]Andy | Player rights = GOLD_MEMBER	
+[2/12/18 06:10PM]	Player picking up item: [ItemDefinition(892)] - Name: Rune arrow; equipment slot: 13; value: 1100; stackable ? true; noted ? false; 2h ? false amount: 12	
+[2/12/18 06:14PM]	Grillem used command ::[FRI]Pickleriick | Player rights = GOLD_MEMBER	
+[2/12/18 06:18PM]	Gave item in trade to Andy. Id: 18831, amount: 72	
+[2/12/18 06:30PM]	Player picking up item: [ItemDefinition(7945)] - Name: Raw monkfish; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 120	
+[2/12/18 06:31PM]	Player picking up item: [ItemDefinition(2362)] - Name: Adamant bar; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 16	
+[2/12/18 06:31PM]	Player picking up item: [ItemDefinition(1618)] - Name: Uncut diamond; equipment slot: 3; value: 7200; stackable ? true; noted ? true; 2h ? false amount: 5	
+[2/12/18 06:31PM]	Player picking up item: [ItemDefinition(1392)] - Name: Battlestaff; equipment slot: 3; value: 8282; stackable ? true; noted ? true; 2h ? false amount: 10	
+[2/12/18 06:34PM]	Player picking up item: [ItemDefinition(452)] - Name: Runite ore; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 12	
+[2/12/18 06:34PM]	Player picking up item: [ItemDefinition(2577)] - Name: Ranger boots; equipment slot: 10; value: 2170000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/12/18 06:34PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/12/18 06:34PM]	Player picking up item: [ItemDefinition(402)] - Name: Seaweed; equipment slot: 3; value: 394; stackable ? true; noted ? true; 2h ? false amount: 7	
+[2/12/18 06:37PM]	Player picking up item: [ItemDefinition(452)] - Name: Runite ore; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 12	
+[2/12/18 06:37PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/12/18 06:40PM]	Player picking up item: [ItemDefinition(1514)] - Name: Magic logs; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 35	
+[2/12/18 06:40PM]	Player picking up item: [ItemDefinition(1392)] - Name: Battlestaff; equipment slot: 3; value: 8282; stackable ? true; noted ? true; 2h ? false amount: 10	
+[2/12/18 06:40PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/12/18 06:40PM]	Player dropping item: 229, amount: 1	
+[2/12/18 06:42PM]	Grillem used command ::answer wilderness | Player rights = GOLD_MEMBER	
+[2/12/18 06:42PM]	Player picking up item: [ItemDefinition(565)] - Name: Blood rune; equipment slot: 3; value: 1688; stackable ? true; noted ? false; 2h ? false amount: 60	
+[2/12/18 06:43PM]	Player dropping item: 229, amount: 1	
+[2/12/18 06:45PM]	Player picking up item: [ItemDefinition(1514)] - Name: Magic logs; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 35	
+[2/12/18 06:45PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/12/18 06:45PM]	Player picking up item: [ItemDefinition(402)] - Name: Seaweed; equipment slot: 3; value: 394; stackable ? true; noted ? true; 2h ? false amount: 7	
+[2/12/18 06:48PM]	Player dropping item: 229, amount: 1	
+[2/12/18 06:51PM]	Player picking up item: [ItemDefinition(2362)] - Name: Adamant bar; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 16	
+[2/12/18 06:51PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/12/18 06:54PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/12/18 06:58PM]	Player picking up item: [ItemDefinition(1778)] - Name: Bow string; equipment slot: 12; value: 5611; stackable ? true; noted ? true; 2h ? false amount: 128	
+[2/12/18 06:58PM]	Player picking up item: [ItemDefinition(1514)] - Name: Magic logs; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 35	
+[2/12/18 07:00PM]	Grillem received an Uncut onyx from Zulrah	
+[2/12/18 07:00PM]	Player picking up item: [ItemDefinition(6571)] - Name: Uncut onyx; equipment slot: 3; value: 12547551; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/12/18 07:00PM]	Player picking up item: [ItemDefinition(2364)] - Name: Rune bar; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 22	
+[2/12/18 07:00PM]	Player picking up item: [ItemDefinition(1778)] - Name: Bow string; equipment slot: 12; value: 5611; stackable ? true; noted ? true; 2h ? false amount: 128	
+[2/12/18 07:00PM]	Player picking up item: [ItemDefinition(565)] - Name: Blood rune; equipment slot: 3; value: 1688; stackable ? true; noted ? false; 2h ? false amount: 60	
+[2/12/18 07:00PM]	Grillem used command ::answer 10 | Player rights = GOLD_MEMBER	
+[2/12/18 07:02PM]	Player picking up item: [ItemDefinition(452)] - Name: Runite ore; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 12	
+[2/12/18 07:02PM]	Player picking up item: [ItemDefinition(560)] - Name: Death rune; equipment slot: 3; value: 229; stackable ? true; noted ? false; 2h ? false amount: 150	
+[2/12/18 07:04PM]	Player picking up item: [ItemDefinition(452)] - Name: Runite ore; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 12	
+[2/12/18 07:04PM]	Player picking up item: [ItemDefinition(3138)] - Name: Potato cactus; equipment slot: 3; value: 41948; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/12/18 07:04PM]	Player picking up item: [ItemDefinition(566)] - Name: Soul rune; equipment slot: 3; value: 344; stackable ? true; noted ? false; 2h ? false amount: 50	
+[2/12/18 07:06PM]	Player picking up item: [ItemDefinition(452)] - Name: Runite ore; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 12	
+[2/12/18 07:06PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/12/18 07:08PM]	Player picking up item: [ItemDefinition(1514)] - Name: Magic logs; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 35	
+[2/12/18 07:08PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/12/18 07:08PM]	Player picking up item: [ItemDefinition(1347)] - Name: Rune warhammer; equipment slot: 3; value: 15900; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/12/18 07:08PM]	Player picking up item: [ItemDefinition(566)] - Name: Soul rune; equipment slot: 3; value: 344; stackable ? true; noted ? false; 2h ? false amount: 50	
+[2/12/18 07:11PM]	Player picking up item: [ItemDefinition(1514)] - Name: Magic logs; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 35	
+[2/12/18 07:11PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/12/18 07:11PM]	Player picking up item: [ItemDefinition(565)] - Name: Blood rune; equipment slot: 3; value: 1688; stackable ? true; noted ? false; 2h ? false amount: 60	
+[2/12/18 07:13PM]	Player picking up item: [ItemDefinition(1748)] - Name: Black dragonhide; equipment slot: 3; value: 1902; stackable ? true; noted ? true; 2h ? false amount: 148	
+[2/12/18 07:13PM]	Player picking up item: [ItemDefinition(565)] - Name: Blood rune; equipment slot: 3; value: 1688; stackable ? true; noted ? false; 2h ? false amount: 168	
+[2/12/18 07:15PM]	Player picking up item: [ItemDefinition(1516)] - Name: Yew logs; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 45	
+[2/12/18 07:17PM]	Player dropping item: 229, amount: 1	
+[2/12/18 07:17PM]	Player picking up item: [ItemDefinition(1778)] - Name: Bow string; equipment slot: 12; value: 5611; stackable ? true; noted ? true; 2h ? false amount: 128	
+[2/12/18 07:17PM]	Player picking up item: [ItemDefinition(1392)] - Name: Battlestaff; equipment slot: 3; value: 8282; stackable ? true; noted ? true; 2h ? false amount: 10	
+[2/12/18 07:18PM]	Grillem used command ::answer town crier | Player rights = GOLD_MEMBER	
+[2/12/18 07:19PM]	Player picking up item: [ItemDefinition(452)] - Name: Runite ore; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 12	
+[2/12/18 07:19PM]	Player picking up item: [ItemDefinition(5304)] - Name: Torstol seed; equipment slot: 3; value: 15040; stackable ? true; noted ? false; 2h ? false amount: 25	
+[2/12/18 07:19PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/12/18 07:19PM]	Player picking up item: [ItemDefinition(1383)] - Name: Staff of water; equipment slot: 3; value: 1089; stackable ? false; noted ? false; 2h ? false amount: 5	
+[2/12/18 07:23PM]	Player bought 11554 x 1 from shop	
+[2/12/18 07:23PM]	Player bought 20000 x 1 from shop	
+[2/12/18 07:23PM]	Player bought 12708 x 1 from shop	
+[2/12/18 07:36PM]	Grillem used command ::answer bank | Player rights = GOLD_MEMBER	
+[2/12/18 07:36PM]	Grillem used command ::shops | Player rights = GOLD_MEMBER	
+[2/12/18 07:36PM]	Grillem used command ::marketplace | Player rights = GOLD_MEMBER	
+[2/12/18 07:37PM]	Grillem used command ::di | Player rights = GOLD_MEMBER	
+[2/12/18 07:46PM]	Grillem used command ::yell ww? :) | Player rights = GOLD_MEMBER	
+[2/12/18 07:52PM]	Player picking up item: [ItemDefinition(2504)] - Name: Black d'hide body; equipment slot: 4; value: 1; stackable ? true; noted ? true; 2h ? false amount: 358	
+[2/12/18 07:52PM]	Player picking up item: [ItemDefinition(1620)] - Name: Uncut ruby; equipment slot: 3; value: 950; stackable ? true; noted ? true; 2h ? false amount: 345	
+[2/12/18 07:52PM]	Player picking up item: [ItemDefinition(13883)] - Name: Morrigan's throwing axe; equipment slot: 3; value: 50150; stackable ? true; noted ? false; 2h ? false amount: 383	
+[2/12/18 07:52PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 8077517	
+[2/12/18 08:01PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/12/18 08:01PM]	Player picking up item: [ItemDefinition(892)] - Name: Rune arrow; equipment slot: 13; value: 1100; stackable ? true; noted ? false; 2h ? false amount: 64	
+[2/12/18 08:04PM]	Player picking up item: [ItemDefinition(443)] - Name: Silver ore; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 50	
+[2/12/18 08:12PM]	Player dropping item: 229, amount: 1	
+[2/12/18 08:12PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/12/18 08:14PM]	Player picking up item: [ItemDefinition(1631)] - Name: Uncut dragonstone; equipment slot: 3; value: 18000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/12/18 08:15PM]	Player picking up item: [ItemDefinition(892)] - Name: Rune arrow; equipment slot: 13; value: 1100; stackable ? true; noted ? false; 2h ? false amount: 50	
+[2/12/18 08:15PM]	Player picking up item: [ItemDefinition(1373)] - Name: Rune battleaxe; equipment slot: 3; value: 15000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/12/18 08:15PM]	Player picking up item: [ItemDefinition(1623)] - Name: Uncut sapphire; equipment slot: 3; value: 200; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/12/18 08:15PM]	Player dropping item: 1623, amount: 1	
+[2/12/18 08:16PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/12/18 08:16PM]	Player picking up item: [ItemDefinition(386)] - Name: Shark; equipment slot: 3; value: 5000; stackable ? true; noted ? true; 2h ? false amount: 20	
+[2/12/18 08:16PM]	Player picking up item: [ItemDefinition(1303)] - Name: Rune longsword; equipment slot: 3; value: 23100; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/12/18 08:18PM]	Player picking up item: [ItemDefinition(3052)] - Name: Grimy snapdragon; equipment slot: 3; value: 194800; stackable ? true; noted ? true; 2h ? false amount: 12	
+[2/12/18 08:20PM]	Grillem received a Dragon pickaxe from Giant Mole	
+[2/12/18 08:20PM]	Player picking up item: [ItemDefinition(15259)] - Name: Dragon pickaxe; equipment slot: 3; value: 12000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/12/18 08:21PM]	Player picking up item: [ItemDefinition(1392)] - Name: Battlestaff; equipment slot: 3; value: 8282; stackable ? true; noted ? true; 2h ? false amount: 10	
+[2/12/18 08:22PM]	Player picking up item: [ItemDefinition(443)] - Name: Silver ore; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 50	
+[2/12/18 08:22PM]	Player picking up item: [ItemDefinition(385)] - Name: Shark; equipment slot: 3; value: 5000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/12/18 08:22PM]	Player picking up item: [ItemDefinition(1123)] - Name: Adamant platebody; equipment slot: 4; value: 9821; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/12/18 08:22PM]	Player dropping item: 1123, amount: 1	
+[2/12/18 08:22PM]	Player dropping item: 229, amount: 1	
+[2/12/18 08:25PM]	Player picking up item: [ItemDefinition(2361)] - Name: Adamant bar; equipment slot: 3; value: 87279; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/12/18 08:25PM]	Player dropping item: 2361, amount: 1	
+[2/12/18 08:25PM]	Player picking up item: [ItemDefinition(561)] - Name: Nature rune; equipment slot: 3; value: 420; stackable ? true; noted ? false; 2h ? false amount: 15	
+[2/12/18 08:25PM]	Player dropping item: 561, amount: 15	
+[2/12/18 08:27PM]	Player picking up item: [ItemDefinition(391)] - Name: Manta ray; equipment slot: 3; value: 998; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/12/18 08:29PM]	Player picking up item: [ItemDefinition(392)] - Name: Manta ray; equipment slot: 3; value: 998; stackable ? true; noted ? true; 2h ? false amount: 4	
+[2/12/18 08:29PM]	Player dropping item: 229, amount: 1	
+[2/12/18 08:32PM]	Player picking up item: [ItemDefinition(1631)] - Name: Uncut dragonstone; equipment slot: 3; value: 18000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/12/18 08:33PM]	Player dropping item: 229, amount: 1	
+[2/12/18 08:35PM]	Player picking up item: [ItemDefinition(1392)] - Name: Battlestaff; equipment slot: 3; value: 8282; stackable ? true; noted ? true; 2h ? false amount: 10	
+[2/12/18 08:38PM]	Grillem received a Ring of wealth from Giant Mole	
+[2/12/18 08:38PM]	Player picking up item: [ItemDefinition(2572)] - Name: Ring of wealth; equipment slot: 12; value: 10000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/12/18 08:38PM]	Player picking up item: [ItemDefinition(1392)] - Name: Battlestaff; equipment slot: 3; value: 8282; stackable ? true; noted ? true; 2h ? false amount: 10	
+[2/12/18 08:38PM]	Player picking up item: [ItemDefinition(1303)] - Name: Rune longsword; equipment slot: 3; value: 23100; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/12/18 08:39PM]	Player picking up item: [ItemDefinition(3052)] - Name: Grimy snapdragon; equipment slot: 3; value: 194800; stackable ? true; noted ? true; 2h ? false amount: 12	
+[2/17/18 10:38AM]	Login from host 174.192.17.248	
+[2/17/18 10:41AM]	Player picking up item: [ItemDefinition(405)] - Name: Casket; equipment slot: 3; value: 909; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 10:42AM]	Grillem received an Artefact receipt from Rock Crab	
+[2/17/18 10:42AM]	Player picking up item: [ItemDefinition(11974)] - Name: Artefact receipt; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 10:45AM]	Player picking up item: [ItemDefinition(11212)] - Name: Dragon arrow; equipment slot: 13; value: 5000; stackable ? true; noted ? false; 2h ? false amount: 1	
+[2/17/18 10:46AM]	Player dropping item: 11212, amount: 1	
+[2/17/18 03:03PM]	Login from host 174.192.9.128	
+[2/17/18 03:05PM]	Player dropping item: 229, amount: 1	
+[2/17/18 03:05PM]	Player dropping item: 229, amount: 1	
+[2/17/18 03:06PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:06PM]	Player picking up item: [ItemDefinition(2361)] - Name: Adamant bar; equipment slot: 3; value: 87279; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:06PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:06PM]	Player dropping item: 2361, amount: 1	
+[2/17/18 03:07PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:07PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:08PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:08PM]	Player picking up item: [ItemDefinition(7937)] - Name: Pure essence; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 50	
+[2/17/18 03:08PM]	Player picking up item: [ItemDefinition(205)] - Name: Grimy harralander; equipment slot: 3; value: 12249; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:08PM]	Player dropping item: 205, amount: 1	
+[2/17/18 03:09PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:10PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:10PM]	Player picking up item: [ItemDefinition(892)] - Name: Rune arrow; equipment slot: 13; value: 1100; stackable ? true; noted ? false; 2h ? false amount: 12	
+[2/17/18 03:10PM]	Grillem used command ::[FRI]Sam | Player rights = GOLD_MEMBER	
+[2/17/18 03:11PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:11PM]	Player picking up item: [ItemDefinition(560)] - Name: Death rune; equipment slot: 3; value: 229; stackable ? true; noted ? false; 2h ? false amount: 10	
+[2/17/18 03:12PM]	Player dropping item: 229, amount: 1	
+[2/17/18 03:12PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:12PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:12PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:13PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:15PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:17PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:17PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:18PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:19PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:19PM]	Player dropping item: 229, amount: 1	
+[2/17/18 03:19PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:19PM]	Player picking up item: [ItemDefinition(385)] - Name: Shark; equipment slot: 3; value: 5000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:20PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:20PM]	Player picking up item: [ItemDefinition(990)] - Name: Crystal key; equipment slot: 3; value: 43000; stackable ? true; noted ? true; 2h ? false amount: 1	
+[2/17/18 03:21PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:22PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:22PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:22PM]	Player dropping item: 556, amount: 1091	
+[2/17/18 03:22PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:23PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:24PM]	Player dropping item: 229, amount: 1	
+[2/17/18 03:25PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:25PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:25PM]	Player dropping item: 229, amount: 1	
+[2/17/18 03:25PM]	Player picking up item: [ItemDefinition(213)] - Name: Grimy kwuarm; equipment slot: 3; value: 31576; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:25PM]	Player dropping item: 213, amount: 1	
+[2/17/18 03:26PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:26PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:26PM]	Player picking up item: [ItemDefinition(7937)] - Name: Pure essence; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 50	
+[2/17/18 03:27PM]	Player picking up item: [ItemDefinition(385)] - Name: Shark; equipment slot: 3; value: 5000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:28PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:28PM]	Player dropping item: 229, amount: 1	
+[2/17/18 03:29PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:29PM]	Player dropping item: 229, amount: 1	
+[2/17/18 03:29PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:30PM]	Player dropping item: 229, amount: 1	
+[2/17/18 03:30PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:30PM]	Player dropping item: 2452, amount: 1	
+[2/17/18 03:30PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:31PM]	Player dropping item: 3024, amount: 1	
+[2/17/18 03:31PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:31PM]	Player dropping item: 2452, amount: 1	
+[2/17/18 03:32PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:32PM]	Player dropping item: 3024, amount: 1	
+[2/17/18 03:33PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:33PM]	Player picking up item: [ItemDefinition(1303)] - Name: Rune longsword; equipment slot: 3; value: 23100; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:33PM]	Player dropping item: 2458, amount: 1	
+[2/17/18 03:33PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:34PM]	Player dropping item: 3030, amount: 1	
+[2/17/18 03:34PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:35PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 03:40PM]	Player bought 1079 x 1 from shop	
+[2/17/18 03:40PM]	Player bought 13734 x 1 from shop	
+[2/17/18 03:43PM]	Player bought 1331 x 1 from shop	
+[2/17/18 03:43PM]	Player bought 1333 x 1 from shop	
+[2/17/18 03:43PM]	Player bought 4587 x 1 from shop	
+[2/17/18 03:43PM]	Player bought 5680 x 1 from shop	
+[2/17/18 03:49PM]	Player dropping item: 1323, amount: 1	
+[2/17/18 03:49PM]	Player dropping item: 1331, amount: 1	
+[2/17/18 03:49PM]	Grillem used command ::bank | Player rights = GOLD_MEMBER	
+[2/17/18 03:52PM]	Player bought 9757 x 1 from shop	
+[2/17/18 03:52PM]	Player bought 9754 x 1 from shop	
+[2/17/18 03:52PM]	Player bought 9769 x 1 from shop	
+[2/17/18 03:56PM]	Grillem used command ::di | Player rights = GOLD_MEMBER	
+[2/17/18 03:56PM]	Player bought 15313 x 10 from shop	
+[2/17/18 03:56PM]	Player bought 15317 x 5 from shop	
+[2/17/18 03:56PM]	Player bought 15309 x 10 from shop	
+[2/17/18 03:58PM]	Grillem used command ::bank | Player rights = GOLD_MEMBER	
+[2/17/18 03:58PM]	Grillem used command ::bank | Player rights = GOLD_MEMBER	
+[2/17/18 03:59PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 04:00PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 04:00PM]	Player picking up item: [ItemDefinition(892)] - Name: Rune arrow; equipment slot: 13; value: 1100; stackable ? true; noted ? false; 2h ? false amount: 12	
+[2/17/18 04:00PM]	Player picking up item: [ItemDefinition(217)] - Name: Grimy dwarf weed; equipment slot: 3; value: 46211; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 04:02PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 04:02PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 04:03PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 04:03PM]	Player picking up item: [ItemDefinition(219)] - Name: Grimy torstol; equipment slot: 3; value: 63914; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 04:03PM]	Player picking up item: [ItemDefinition(203)] - Name: Grimy tarromin; equipment slot: 3; value: 5525; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 04:03PM]	Player dropping item: 203, amount: 1	
+[2/17/18 04:03PM]	Player dropping item: 217, amount: 1	
+[2/17/18 04:03PM]	Player dropping item: 219, amount: 1	
+[2/17/18 04:05PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 04:06PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 04:06PM]	Player picking up item: [ItemDefinition(892)] - Name: Rune arrow; equipment slot: 13; value: 1100; stackable ? true; noted ? false; 2h ? false amount: 12	
+[2/17/18 04:07PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 04:07PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 04:07PM]	Player picking up item: [ItemDefinition(2678)] - Name: Clue scroll (easy); equipment slot: 3; value: 1000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 04:10PM]	Player bought 3024 x 5 from shop	
+[2/17/18 04:13PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 04:13PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 04:13PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 04:14PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 04:15PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 04:15PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 04:16PM]	Player dropping item: 229, amount: 1	
+[2/17/18 04:16PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 04:16PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 04:17PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 04:18PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 04:18PM]	Player picking up item: [ItemDefinition(385)] - Name: Shark; equipment slot: 3; value: 5000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 04:19PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 04:19PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 04:20PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 04:20PM]	Player dropping item: 229, amount: 1	
+[2/17/18 04:21PM]	Player picking up item: [ItemDefinition(2677)] - Name: Clue scroll (easy); equipment slot: 3; value: 1000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 04:21PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 04:22PM]	Grillem used command ::[FRI]Skillful | Player rights = GOLD_MEMBER	
+[2/17/18 04:23PM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/17/18 04:23PM]	Grillem used command ::gamble | Player rights = GOLD_MEMBER	
+[2/17/18 04:23PM]	Player gambled 5000000Coins	
+[2/17/18 04:24PM]	Player gambled 5000000Coins	
+[2/17/18 04:24PM]	Player gambled 5000000Coins	
+[2/17/18 04:24PM]	Player gambled 5000000Coins	
+[2/17/18 04:24PM]	Player gambled 5000000Coins	
+[2/17/18 04:24PM]	Player gambled 5000000Coins	
+[2/17/18 04:24PM]	Player gambled 5000000Coins	
+[2/17/18 04:24PM]	Player gambled 5000000Coins	
+[2/17/18 04:25PM]	Player gambled 5000000Coins	
+[2/17/18 04:25PM]	Player gambled 5000000Coins	
+[2/17/18 04:25PM]	Player gambled 5000000Coins	
+[2/17/18 04:25PM]	Player gambled 5000000Coins	
+[2/17/18 04:25PM]	Player gambled 10000000Coins	
+[2/17/18 04:25PM]	Player gambled 10000000Coins	
+[2/17/18 04:25PM]	Player gambled 20000000Coins	
+[2/17/18 04:26PM]	Player gambled 20000000Coins	
+[2/17/18 04:26PM]	Player gambled 10000000Coins	
+[2/17/18 04:26PM]	Player gambled 10000000Coins	
+[2/17/18 04:26PM]	Player gambled 10000000Coins	
+[2/17/18 04:26PM]	Player gambled 20000000Coins	
+[2/17/18 04:26PM]	Player gambled 10000000Coins	
+[2/17/18 04:26PM]	Player gambled 10000000Coins	
+[2/17/18 04:27PM]	Player gambled 10000000Coins	
+[2/17/18 04:27PM]	Player gambled 10000000Coins	
+[2/17/18 04:27PM]	Player gambled 20000000Coins	
+[2/17/18 04:27PM]	Player gambled 20000000Coins	
+[2/17/18 04:27PM]	Player gambled 50000000Coins	
+[2/17/18 04:27PM]	Player gambled 10000000Coins	
+[2/17/18 04:28PM]	Player gambled 5000000Coins	
+[2/17/18 04:28PM]	Player gambled 5000000Coins	
+[2/17/18 04:28PM]	Player gambled 5000000Coins	
+[2/17/18 04:28PM]	Player gambled 5000000Coins	
+[2/17/18 04:28PM]	Player gambled 5000000Coins	
+[2/17/18 04:28PM]	Player gambled 10000000Coins	
+[2/17/18 04:28PM]	Player gambled 10000000Coins	
+[2/17/18 04:28PM]	Player gambled 20000000Coins	
+[2/17/18 04:28PM]	Player gambled 20000000Coins	
+[2/17/18 04:29PM]	Player gambled 20000000Coins	
+[2/17/18 04:29PM]	Player gambled 20000000Coins	
+[2/17/18 04:29PM]	Player gambled 20000000Coins	
+[2/17/18 04:29PM]	Player gambled 50000000Coins	
+[2/17/18 04:29PM]	Player gambled 50000000Coins	
+[2/17/18 04:29PM]	Player gambled 2000000Coins	
+[2/17/18 04:29PM]	Player gambled 20000000Coins	
+[2/17/18 04:30PM]	Player gambled 20000000Coins	
+[2/17/18 04:30PM]	Player gambled 20000000Coins	
+[2/17/18 04:30PM]	Player gambled 50000000Coins	
+[2/17/18 04:30PM]	Player gambled 20000000Coins	
+[2/17/18 04:30PM]	Player gambled 60000Coins	
+[2/20/18 11:27AM]	Login from host 174.192.22.254	
+[2/20/18 11:34AM]	Grillem used command ::answer alskpwru39020dmsa3aeamap | Player rights = GOLD_MEMBER	
+[2/20/18 11:41AM]	Grillem used command ::[FRI]Z | Player rights = GOLD_MEMBER	
+[2/20/18 11:41AM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 11:42AM]	Player picking up item: [ItemDefinition(385)] - Name: Shark; equipment slot: 3; value: 5000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 11:42AM]	Player picking up item: [ItemDefinition(1123)] - Name: Adamant platebody; equipment slot: 4; value: 9821; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 11:42AM]	Player picking up item: [ItemDefinition(1445)] - Name: Water talisman; equipment slot: 3; value: 2500; stackable ? true; noted ? true; 2h ? false amount: 2	
+[2/20/18 11:42AM]	Player dropping item: 1445, amount: 2	
+[2/20/18 11:42AM]	Player dropping item: 1123, amount: 1	
+[2/20/18 11:42AM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 11:42AM]	Player picking up item: [ItemDefinition(7937)] - Name: Pure essence; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 50	
+[2/20/18 11:43AM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 11:43AM]	Player dropping item: 229, amount: 1	
+[2/20/18 11:44AM]	Player dropping item: 229, amount: 1	
+[2/20/18 11:44AM]	Player dropping item: 229, amount: 1	
+[2/20/18 11:44AM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 11:44AM]	Player picking up item: [ItemDefinition(385)] - Name: Shark; equipment slot: 3; value: 5000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 11:45AM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 11:45AM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 11:46AM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 11:47AM]	Grillem received a Pet Frost dragon from a Frost Dragon	
+[2/20/18 11:47AM]	Player picking up item: [ItemDefinition(11991)] - Name: Pet Frost dragon; equipment slot: 3; value: 500000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 11:47AM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 11:47AM]	Player picking up item: [ItemDefinition(2683)] - Name: Clue scroll (easy); equipment slot: 3; value: 1000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 11:48AM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 11:48AM]	Player dropping item: 229, amount: 1	
+[2/20/18 11:49AM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 11:49AM]	Player picking up item: [ItemDefinition(892)] - Name: Rune arrow; equipment slot: 13; value: 1100; stackable ? true; noted ? false; 2h ? false amount: 12	
+[2/20/18 11:49AM]	Player picking up item: [ItemDefinition(2688)] - Name: Clue scroll (easy); equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 11:50AM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 11:50AM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 11:51AM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 11:52AM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 11:52AM]	Player picking up item: [ItemDefinition(217)] - Name: Grimy dwarf weed; equipment slot: 3; value: 46211; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 11:52AM]	Player dropping item: 217, amount: 1	
+[2/20/18 11:53AM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 11:53AM]	Player picking up item: [ItemDefinition(892)] - Name: Rune arrow; equipment slot: 13; value: 1100; stackable ? true; noted ? false; 2h ? false amount: 12	
+[2/20/18 11:54AM]	Player dropping item: 229, amount: 1	
+[2/20/18 11:54AM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 11:54AM]	Player picking up item: [ItemDefinition(892)] - Name: Rune arrow; equipment slot: 13; value: 1100; stackable ? true; noted ? false; 2h ? false amount: 12	
+[2/20/18 11:54AM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 11:55AM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 11:55AM]	Player picking up item: [ItemDefinition(18830)] - Name: Frost dragon bones; equipment slot: 3; value: 112823; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 11:59AM]	Player bought 952 x 1 from shop	
+[2/20/18 12:27PM]	Player bought 3025 x 200 from shop	
+[2/20/18 12:27PM]	Player bought 2453 x 200 from shop	
+[2/20/18 12:27PM]	Player bought 2447 x 20 from shop	
+[2/20/18 12:27PM]	Player bought 392 x 500 from shop	
+[2/20/18 12:28PM]	Grillem used command ::Di | Player rights = GOLD_MEMBER	
+[2/20/18 12:28PM]	Grillem used command ::answe abyssal demon | Player rights = GOLD_MEMBER	
+[2/20/18 12:28PM]	Grillem used command ::answer abyssal demon | Player rights = GOLD_MEMBER	
+[2/20/18 12:28PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:28PM]	Player picking up item: [ItemDefinition(18778)] - Name: Starved ancient effigy; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:28PM]	Grillem used command ::answer abyssal whip | Player rights = GOLD_MEMBER	
+[2/20/18 12:29PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:29PM]	Player picking up item: [ItemDefinition(1149)] - Name: Dragon med helm; equipment slot: 0; value: 72320; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:29PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:29PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:29PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:30PM]	Grillem used command ::answer abyssal demon | Player rights = GOLD_MEMBER	
+[2/20/18 12:30PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:30PM]	Player picking up item: [ItemDefinition(1631)] - Name: Uncut dragonstone; equipment slot: 3; value: 18000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:30PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:30PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:31PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:31PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:31PM]	Player picking up item: [ItemDefinition(2680)] - Name: Clue scroll (easy); equipment slot: 3; value: 1000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:32PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:32PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:32PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:32PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:33PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:33PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:33PM]	Player dropping item: 229, amount: 1	
+[2/20/18 12:33PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:34PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:34PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:34PM]	Player picking up item: [ItemDefinition(18778)] - Name: Starved ancient effigy; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:34PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:34PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:34PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:34PM]	Player picking up item: [ItemDefinition(2368)] - Name: Shield right half; equipment slot: 5; value: 117405; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:34PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:35PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:36PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:36PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:36PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:36PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:36PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:37PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:37PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:37PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:37PM]	Player picking up item: [ItemDefinition(18778)] - Name: Starved ancient effigy; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:37PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:37PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:37PM]	Player picking up item: [ItemDefinition(18778)] - Name: Starved ancient effigy; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:37PM]	Player dropping item: 229, amount: 1	
+[2/20/18 12:38PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:39PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:39PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:39PM]	Player picking up item: [ItemDefinition(2366)] - Name: Shield left half; equipment slot: 5; value: 38900; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:39PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:39PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:39PM]	Player picking up item: [ItemDefinition(18778)] - Name: Starved ancient effigy; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:40PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:40PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:41PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:41PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:41PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:41PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:42PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:42PM]	Player picking up item: [ItemDefinition(1149)] - Name: Dragon med helm; equipment slot: 0; value: 72320; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:43PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:43PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:43PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:43PM]	Player dropping item: 229, amount: 1	
+[2/20/18 12:44PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:44PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:44PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:45PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:45PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:46PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:46PM]	Player dropping item: 229, amount: 1	
+[2/20/18 12:46PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:46PM]	Player dropping item: 229, amount: 1	
+[2/20/18 12:46PM]	Player picking up item: [ItemDefinition(2682)] - Name: Clue scroll (easy); equipment slot: 3; value: 1000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:47PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:47PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:47PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:48PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:48PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:49PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:49PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:49PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:50PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:50PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:51PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:51PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:51PM]	Player picking up item: [ItemDefinition(2678)] - Name: Clue scroll (easy); equipment slot: 3; value: 1000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:51PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:51PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:52PM]	Player dropping item: 229, amount: 1	
+[2/20/18 12:52PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:52PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:53PM]	Player picking up item: [ItemDefinition(2686)] - Name: Clue scroll (easy); equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:53PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:53PM]	Player dropping item: 229, amount: 1	
+[2/20/18 12:53PM]	Player picking up item: [ItemDefinition(2683)] - Name: Clue scroll (easy); equipment slot: 3; value: 1000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 12:53PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:06PM]	Grillem used command ::[DFR]Skillful | Player rights = GOLD_MEMBER	
+[2/20/18 01:09PM]	Player dropping item: 391, amount: 1	
+[2/20/18 01:09PM]	Player dropping item: 391, amount: 1	
+[2/20/18 01:09PM]	Player dropping item: 391, amount: 1	
+[2/20/18 01:09PM]	Player dropping item: 391, amount: 1	
+[2/20/18 01:09PM]	Player dropping item: 391, amount: 1	
+[2/20/18 01:09PM]	Player picking up item: [ItemDefinition(1459)] - Name: Law talisman; equipment slot: 3; value: 20000; stackable ? true; noted ? true; 2h ? false amount: 386	
+[2/20/18 01:09PM]	Player picking up item: [ItemDefinition(13883)] - Name: Morrigan's throwing axe; equipment slot: 3; value: 50150; stackable ? true; noted ? false; 2h ? false amount: 416	
+[2/20/18 01:09PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 7556351	
+[2/20/18 01:10PM]	Grillem used command ::bank | Player rights = GOLD_MEMBER	
+[2/20/18 01:12PM]	Grillem used command ::di | Player rights = GOLD_MEMBER	
+[2/20/18 01:17PM]	Grillem used command ::bank | Player rights = GOLD_MEMBER	
+[2/20/18 01:17PM]	Login from host 174.192.22.254	
+[2/20/18 01:17PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:17PM]	Player picking up item: [ItemDefinition(985)] - Name: Tooth half of a key; equipment slot: 3; value: 26200; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:19PM]	Player picking up item: [ItemDefinition(1516)] - Name: Yew logs; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 50	
+[2/20/18 01:19PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:20PM]	Player dropping item: 229, amount: 1	
+[2/20/18 01:20PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:21PM]	Grillem used command ::Answer varrock | Player rights = GOLD_MEMBER	
+[2/20/18 01:21PM]	Player dropping item: 229, amount: 1	
+[2/20/18 01:22PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:22PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:22PM]	Player dropping item: 557, amount: 1508	
+[2/20/18 01:22PM]	Player picking up item: [ItemDefinition(1215)] - Name: Dragon dagger; equipment slot: 3; value: 18000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:23PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:23PM]	Player picking up item: [ItemDefinition(1631)] - Name: Uncut dragonstone; equipment slot: 3; value: 18000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:24PM]	Player dropping item: 229, amount: 1	
+[2/20/18 01:25PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:25PM]	Player picking up item: [ItemDefinition(15272)] - Name: Rocktail; equipment slot: 3; value: 15000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:25PM]	Grillem used command ::bank | Player rights = GOLD_MEMBER	
+[2/20/18 01:25PM]	Player dropping item: 229, amount: 1	
+[2/20/18 01:25PM]	Grillem used command ::bank | Player rights = GOLD_MEMBER	
+[2/20/18 01:26PM]	Player picking up item: [ItemDefinition(443)] - Name: Silver ore; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 50	
+[2/20/18 01:26PM]	Player picking up item: [ItemDefinition(1516)] - Name: Yew logs; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 50	
+[2/20/18 01:27PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:27PM]	Player picking up item: [ItemDefinition(385)] - Name: Shark; equipment slot: 3; value: 5000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:27PM]	Player picking up item: [ItemDefinition(892)] - Name: Rune arrow; equipment slot: 13; value: 1100; stackable ? true; noted ? false; 2h ? false amount: 53	
+[2/20/18 01:28PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:28PM]	Player picking up item: [ItemDefinition(1185)] - Name: Rune sq shield; equipment slot: 5; value: 12900; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:29PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:29PM]	Player picking up item: [ItemDefinition(1249)] - Name: Dragon spear; equipment slot: 3; value: 38500; stackable ? false; noted ? false; 2h ? true amount: 1	
+[2/20/18 01:31PM]	Player dropping item: 229, amount: 1	
+[2/20/18 01:31PM]	Player dropping item: 229, amount: 1	
+[2/20/18 01:31PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:31PM]	Player picking up item: [ItemDefinition(386)] - Name: Shark; equipment slot: 3; value: 5000; stackable ? true; noted ? true; 2h ? false amount: 6	
+[2/20/18 01:33PM]	Player picking up item: [ItemDefinition(443)] - Name: Silver ore; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 50	
+[2/20/18 01:33PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:34PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:36PM]	Player dropping item: 229, amount: 1	
+[2/20/18 01:36PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:36PM]	Player picking up item: [ItemDefinition(1249)] - Name: Dragon spear; equipment slot: 3; value: 38500; stackable ? false; noted ? false; 2h ? true amount: 1	
+[2/20/18 01:37PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:37PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:37PM]	Player picking up item: [ItemDefinition(1185)] - Name: Rune sq shield; equipment slot: 5; value: 12900; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:37PM]	Player picking up item: [ItemDefinition(2366)] - Name: Shield left half; equipment slot: 5; value: 38900; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:37PM]	Grillem used command ::bank | Player rights = GOLD_MEMBER	
+[2/20/18 01:37PM]	Grillem used command ::bank | Player rights = GOLD_MEMBER	
+[2/20/18 01:39PM]	Grillem used command ::answer summoning | Player rights = GOLD_MEMBER	
+[2/20/18 01:39PM]	Grillem used command ::bank | Player rights = GOLD_MEMBER	
+[2/20/18 01:40PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:40PM]	Player picking up item: [ItemDefinition(1373)] - Name: Rune battleaxe; equipment slot: 3; value: 15000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:41PM]	Player dropping item: 229, amount: 1	
+[2/20/18 01:41PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:43PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:43PM]	Player picking up item: [ItemDefinition(1185)] - Name: Rune sq shield; equipment slot: 5; value: 12900; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:43PM]	Player picking up item: [ItemDefinition(987)] - Name: Loop half of a key; equipment slot: 3; value: 12900; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:44PM]	Player dropping item: 229, amount: 1	
+[2/20/18 01:44PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:44PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:44PM]	Player picking up item: [ItemDefinition(18778)] - Name: Starved ancient effigy; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:45PM]	Player dropping item: 229, amount: 1	
+[2/20/18 01:46PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:46PM]	Player picking up item: [ItemDefinition(1319)] - Name: Rune 2h sword; equipment slot: 3; value: 21600; stackable ? false; noted ? false; 2h ? true amount: 1	
+[2/20/18 01:46PM]	Player picking up item: [ItemDefinition(565)] - Name: Blood rune; equipment slot: 3; value: 1688; stackable ? true; noted ? false; 2h ? false amount: 100	
+[2/20/18 01:47PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:47PM]	Player picking up item: [ItemDefinition(9144)] - Name: Runite bolts; equipment slot: 13; value: 253; stackable ? true; noted ? false; 2h ? false amount: 28	
+[2/20/18 01:48PM]	Player dropping item: 229, amount: 1	
+[2/20/18 01:49PM]	Player picking up item: [ItemDefinition(6585)] - Name: Amulet of fury; equipment slot: 2; value: 12500000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:50PM]	Player picking up item: [ItemDefinition(441)] - Name: Iron ore; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 60	
+[2/20/18 01:50PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:50PM]	Player picking up item: [ItemDefinition(386)] - Name: Shark; equipment slot: 3; value: 5000; stackable ? true; noted ? true; 2h ? false amount: 6	
+[2/20/18 01:50PM]	Player dropping item: 229, amount: 1	
+[2/20/18 01:50PM]	Player picking up item: [ItemDefinition(560)] - Name: Death rune; equipment slot: 3; value: 229; stackable ? true; noted ? false; 2h ? false amount: 11	
+[2/20/18 01:50PM]	Player dropping item: 560, amount: 11	
+[2/20/18 01:51PM]	Player picking up item: [ItemDefinition(443)] - Name: Silver ore; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 50	
+[2/20/18 01:52PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:52PM]	Player picking up item: [ItemDefinition(892)] - Name: Rune arrow; equipment slot: 13; value: 1100; stackable ? true; noted ? false; 2h ? false amount: 36	
+[2/20/18 01:52PM]	Grillem used command ::bank | Player rights = GOLD_MEMBER	
+[2/20/18 01:55PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:55PM]	Player picking up item: [ItemDefinition(1303)] - Name: Rune longsword; equipment slot: 3; value: 23100; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:56PM]	Grillem used command ::Answer smithing | Player rights = GOLD_MEMBER	
+[2/20/18 01:56PM]	Player dropping item: 229, amount: 1	
+[2/20/18 01:57PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:57PM]	Player picking up item: [ItemDefinition(892)] - Name: Rune arrow; equipment slot: 13; value: 1100; stackable ? true; noted ? false; 2h ? false amount: 50	
+[2/20/18 01:57PM]	Player picking up item: [ItemDefinition(385)] - Name: Shark; equipment slot: 3; value: 5000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:57PM]	Player dropping item: 229, amount: 1	
+[2/20/18 01:58PM]	Player picking up item: [ItemDefinition(441)] - Name: Iron ore; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 60	
+[2/20/18 01:58PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:58PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 01:58PM]	Player picking up item: [ItemDefinition(892)] - Name: Rune arrow; equipment slot: 13; value: 1100; stackable ? true; noted ? false; 2h ? false amount: 54	
+[2/20/18 01:59PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:01PM]	Player picking up item: [ItemDefinition(1516)] - Name: Yew logs; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 50	
+[2/20/18 02:01PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:01PM]	Player picking up item: [ItemDefinition(892)] - Name: Rune arrow; equipment slot: 13; value: 1100; stackable ? true; noted ? false; 2h ? false amount: 45	
+[2/20/18 02:02PM]	Player dropping item: 229, amount: 1	
+[2/20/18 02:02PM]	Player dropping item: 229, amount: 1	
+[2/20/18 02:02PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:02PM]	Player picking up item: [ItemDefinition(892)] - Name: Rune arrow; equipment slot: 13; value: 1100; stackable ? true; noted ? false; 2h ? false amount: 64	
+[2/20/18 02:02PM]	Player picking up item: [ItemDefinition(985)] - Name: Tooth half of a key; equipment slot: 3; value: 26200; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:04PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:04PM]	Player picking up item: [ItemDefinition(15272)] - Name: Rocktail; equipment slot: 3; value: 15000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:06PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:06PM]	Player dropping item: 229, amount: 1	
+[2/20/18 02:06PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:06PM]	Player dropping item: 554, amount: 1594	
+[2/20/18 02:06PM]	Player picking up item: [ItemDefinition(892)] - Name: Rune arrow; equipment slot: 13; value: 1100; stackable ? true; noted ? false; 2h ? false amount: 40	
+[2/20/18 02:07PM]	Player dropping item: 229, amount: 1	
+[2/20/18 02:07PM]	Player picking up item: [ItemDefinition(392)] - Name: Manta ray; equipment slot: 3; value: 998; stackable ? true; noted ? true; 2h ? false amount: 4	
+[2/20/18 02:07PM]	Player dropping item: 392, amount: 4	
+[2/20/18 02:07PM]	Player picking up item: [ItemDefinition(1631)] - Name: Uncut dragonstone; equipment slot: 3; value: 18000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:07PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:08PM]	Player dropping item: 229, amount: 1	
+[2/20/18 02:09PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:10PM]	Player picking up item: [ItemDefinition(15272)] - Name: Rocktail; equipment slot: 3; value: 15000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:10PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:12PM]	Player picking up item: [ItemDefinition(892)] - Name: Rune arrow; equipment slot: 13; value: 1100; stackable ? true; noted ? false; 2h ? false amount: 57	
+[2/20/18 02:12PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:13PM]	Grillem received a Pet King black dragon from The King Black Dragon	
+[2/20/18 02:13PM]	Player dropping item: 229, amount: 1	
+[2/20/18 02:13PM]	Player dropping item: 229, amount: 1	
+[2/20/18 02:13PM]	Player picking up item: [ItemDefinition(11996)] - Name: Pet King black dragon; equipment slot: 3; value: 500000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:14PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:14PM]	Grillem used command ::bank | Player rights = GOLD_MEMBER	
+[2/20/18 02:14PM]	Grillem used command ::bank | Player rights = GOLD_MEMBER	
+[2/20/18 02:17PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:17PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:17PM]	Grillem used command ::bank | Player rights = GOLD_MEMBER	
+[2/20/18 02:17PM]	Player dropping item: 229, amount: 1	
+[2/20/18 02:18PM]	Player dropping item: 229, amount: 1	
+[2/20/18 02:18PM]	Player picking up item: [ItemDefinition(441)] - Name: Iron ore; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 60	
+[2/20/18 02:18PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:18PM]	Player picking up item: [ItemDefinition(565)] - Name: Blood rune; equipment slot: 3; value: 1688; stackable ? true; noted ? false; 2h ? false amount: 100	
+[2/20/18 02:20PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:20PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:20PM]	Player picking up item: [ItemDefinition(1185)] - Name: Rune sq shield; equipment slot: 5; value: 12900; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:21PM]	Player picking up item: [ItemDefinition(443)] - Name: Silver ore; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 50	
+[2/20/18 02:21PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:21PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:22PM]	Player dropping item: 229, amount: 1	
+[2/20/18 02:22PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:23PM]	Player dropping item: 229, amount: 1	
+[2/20/18 02:23PM]	Player picking up item: [ItemDefinition(1215)] - Name: Dragon dagger; equipment slot: 3; value: 18000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:24PM]	Player picking up item: [ItemDefinition(441)] - Name: Iron ore; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 60	
+[2/20/18 02:24PM]	Player dropping item: 391, amount: 1	
+[2/20/18 02:24PM]	Player picking up item: [ItemDefinition(15272)] - Name: Rocktail; equipment slot: 3; value: 15000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:24PM]	Player picking up item: [ItemDefinition(391)] - Name: Manta ray; equipment slot: 3; value: 998; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:24PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:27PM]	Player dropping item: 229, amount: 1	
+[2/20/18 02:27PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:27PM]	Player picking up item: [ItemDefinition(1516)] - Name: Yew logs; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 50	
+[2/20/18 02:28PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:29PM]	Player dropping item: 229, amount: 1	
+[2/20/18 02:30PM]	Player picking up item: [ItemDefinition(443)] - Name: Silver ore; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 50	
+[2/20/18 02:30PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:30PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:31PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:31PM]	Player dropping item: 2458, amount: 1	
+[2/20/18 02:31PM]	Player picking up item: [ItemDefinition(1303)] - Name: Rune longsword; equipment slot: 3; value: 23100; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:32PM]	Player dropping item: 229, amount: 1	
+[2/20/18 02:32PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:33PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:34PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:34PM]	Player picking up item: [ItemDefinition(9144)] - Name: Runite bolts; equipment slot: 13; value: 253; stackable ? true; noted ? false; 2h ? false amount: 25	
+[2/20/18 02:34PM]	Player dropping item: 179, amount: 1	
+[2/20/18 02:34PM]	Player picking up item: [ItemDefinition(1149)] - Name: Dragon med helm; equipment slot: 0; value: 72320; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:34PM]	Player dropping item: 229, amount: 1	
+[2/20/18 02:35PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:35PM]	Player dropping item: 229, amount: 1	
+[2/20/18 02:36PM]	Player picking up item: [ItemDefinition(386)] - Name: Shark; equipment slot: 3; value: 5000; stackable ? true; noted ? true; 2h ? false amount: 6	
+[2/20/18 02:36PM]	Player dropping item: 386, amount: 6	
+[2/20/18 02:36PM]	Player picking up item: [ItemDefinition(1373)] - Name: Rune battleaxe; equipment slot: 3; value: 15000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:36PM]	Grillem used command ::Bank | Player rights = GOLD_MEMBER	
+[2/20/18 02:36PM]	Login from host 174.192.22.254	
+[2/20/18 02:37PM]	Login from host 174.192.22.254	
+[2/20/18 02:42PM]	Grillem used command ::dboss | Player rights = GOLD_MEMBER	
+[2/20/18 02:52PM]	Login from host 174.192.22.254	
+[2/20/18 02:53PM]	Login from host 174.192.22.254	
+[2/20/18 02:54PM]	Grillem used command ::di | Player rights = GOLD_MEMBER	
+[2/20/18 02:55PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:55PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:55PM]	Player picking up item: [ItemDefinition(1149)] - Name: Dragon med helm; equipment slot: 0; value: 72320; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:55PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:55PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:55PM]	Player dropping item: 554, amount: 1336	
+[2/20/18 02:55PM]	Player picking up item: [ItemDefinition(2687)] - Name: Clue scroll (easy); equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:56PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:56PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:57PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:57PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:57PM]	Player dropping item: 557, amount: 1422	
+[2/20/18 02:57PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:57PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:58PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:59PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 02:59PM]	Player dropping item: 229, amount: 1	
+[2/20/18 02:59PM]	Player picking up item: [ItemDefinition(7945)] - Name: Raw monkfish; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 505	
+[2/20/18 02:59PM]	Player picking up item: [ItemDefinition(536)] - Name: Dragon bones; equipment slot: 3; value: 87927; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 03:04PM]	Login from host 174.192.22.254	
+[2/20/18 03:08PM]	Player bought 2414 x 1 from shop	
+[2/20/18 03:09PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 03:16PM]	Login from host 174.192.22.254	
+[2/20/18 03:19PM]	Login from host 174.192.22.254	
+[2/20/18 03:20PM]	Player picking up item: [ItemDefinition(2677)] - Name: Clue scroll (easy); equipment slot: 3; value: 1000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 03:22PM]	Player dropping item: 229, amount: 1	
+[2/20/18 03:25PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 03:28PM]	Player dropping item: 229, amount: 1	
+[2/20/18 03:31PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/20/18 03:39PM]	Player bought 6199 x 5 from shop	
+[2/20/18 06:03PM]	Login from host 174.192.22.254	
+[2/21/18 02:01PM]	Login from host 174.192.9.116	
+[2/21/18 02:12PM]	Grillem used command ::gamble | Player rights = GOLD_MEMBER	
+[2/21/18 02:12PM]	Player gambled 20000000Coins	
+[2/21/18 02:12PM]	Player gambled 20000000Coins	
+[2/21/18 02:13PM]	Player gambled 20000000Coins	
+[2/21/18 02:13PM]	Player gambled 20000000Coins	
+[2/21/18 02:13PM]	Player gambled 50000000Coins	
+[2/21/18 02:13PM]	Player gambled 50000000Coins	
+[2/21/18 02:13PM]	Player gambled 50000000Coins	
+[2/21/18 02:13PM]	Player gambled 100000000Coins	
+[2/21/18 02:16PM]	Grillem used command ::Spawn twisted bow | Player rights = GOLD_MEMBER	
+[2/21/18 02:16PM]	Grillem used command ::makeadmin grillem | Player rights = GOLD_MEMBER	
+[2/21/18 02:17PM]	Grillem used command ::makesupport grillem | Player rights = GOLD_MEMBER	
+[2/21/18 02:17PM]	Grillem used command ::commands | Player rights = GOLD_MEMBER	
+[2/21/18 02:17PM]	Grillem used command ::attacks | Player rights = GOLD_MEMBER	
+[2/21/18 02:18PM]	Grillem used command ::Claim | Player rights = GOLD_MEMBER	
+[2/21/18 02:23PM]	Grillem used command ::di | Player rights = GOLD_MEMBER	
+[2/21/18 02:23PM]	Player bought 15325 x 10 from shop	
+[2/21/18 02:23PM]	Player bought 15325 x 10 from shop	
+[2/21/18 02:23PM]	Player bought 15325 x 5 from shop	
+[2/21/18 02:23PM]	Player bought 15325 x 5 from shop	
+[2/21/18 02:24PM]	Player bought 2445 x 50 from shop	
+[2/21/18 02:25PM]	Grillem used command ::Bank | Player rights = GOLD_MEMBER	
+[2/21/18 02:31PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/21/18 02:31PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/21/18 02:31PM]	Player picking up item: [ItemDefinition(560)] - Name: Death rune; equipment slot: 3; value: 229; stackable ? true; noted ? false; 2h ? false amount: 150	
+[2/21/18 02:32PM]	Player picking up item: [ItemDefinition(7945)] - Name: Raw monkfish; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 120	
+[2/21/18 02:32PM]	Player picking up item: [ItemDefinition(5316)] - Name: Magic seed; equipment slot: 3; value: 31460; stackable ? true; noted ? false; 2h ? false amount: 10	
+[2/21/18 02:34PM]	Player dropping item: 229, amount: 1	
+[2/21/18 02:34PM]	Player picking up item: [ItemDefinition(2434)] - Name: Prayer potion (4); equipment slot: 3; value: 9277; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/21/18 02:34PM]	Player picking up item: [ItemDefinition(7945)] - Name: Raw monkfish; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 120	
+[2/21/18 02:35PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/21/18 02:35PM]	Player picking up item: [ItemDefinition(1514)] - Name: Magic logs; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 35	
+[2/21/18 02:36PM]	Player dropping item: 2434, amount: 1	
+[2/21/18 02:36PM]	Player picking up item: [ItemDefinition(1778)] - Name: Bow string; equipment slot: 12; value: 5611; stackable ? true; noted ? true; 2h ? false amount: 128	
+[2/21/18 02:36PM]	Player picking up item: [ItemDefinition(1514)] - Name: Magic logs; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 35	
+[2/21/18 02:36PM]	Player picking up item: [ItemDefinition(2577)] - Name: Ranger boots; equipment slot: 10; value: 2170000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/21/18 02:36PM]	Player picking up item: [ItemDefinition(1347)] - Name: Rune warhammer; equipment slot: 3; value: 15900; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/21/18 02:38PM]	Player dropping item: 229, amount: 1	
+[2/21/18 02:38PM]	Player picking up item: [ItemDefinition(1514)] - Name: Magic logs; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 35	
+[2/21/18 02:38PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/21/18 02:39PM]	Player picking up item: [ItemDefinition(1514)] - Name: Magic logs; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 35	
+[2/21/18 02:39PM]	Player picking up item: [ItemDefinition(208)] - Name: Grimy ranarr; equipment slot: 3; value: 45322; stackable ? true; noted ? true; 2h ? false amount: 10	
+[2/21/18 02:39PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/21/18 02:41PM]	Player picking up item: [ItemDefinition(1514)] - Name: Magic logs; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 35	
+[2/21/18 02:41PM]	Player picking up item: [ItemDefinition(1392)] - Name: Battlestaff; equipment slot: 3; value: 8282; stackable ? true; noted ? true; 2h ? false amount: 10	
+[2/21/18 02:41PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/21/18 02:43PM]	Player dropping item: 229, amount: 1	
+[2/21/18 02:43PM]	Player picking up item: [ItemDefinition(5304)] - Name: Torstol seed; equipment slot: 3; value: 15040; stackable ? true; noted ? false; 2h ? false amount: 25	
+[2/21/18 02:43PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/21/18 02:43PM]	Player picking up item: [ItemDefinition(565)] - Name: Blood rune; equipment slot: 3; value: 1688; stackable ? true; noted ? false; 2h ? false amount: 168	
+[2/21/18 02:43PM]	Player dropping item: 391, amount: 1	
+[2/21/18 02:43PM]	Player picking up item: [ItemDefinition(391)] - Name: Manta ray; equipment slot: 3; value: 998; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/21/18 05:18PM]	Login from host 174.192.9.116	
+[2/22/18 12:25PM]	Login from host 174.192.13.69	
+[2/23/18 09:27AM]	Login from host 174.192.13.69	
+[2/23/18 02:28PM]	Login from host 174.192.13.69	
+[2/23/18 02:50PM]	Grillem used command ::[FRI]Skillful | Player rights = GOLD_MEMBER	
+[2/23/18 02:54PM]	Player bought 9242 x 1000 from shop	
+[2/23/18 02:54PM]	Player bought 9242 x 1000 from shop	
+[2/23/18 02:59PM]	Player picking up item: [ItemDefinition(1320)] - Name: Rune 2h sword; equipment slot: 3; value: 21600; stackable ? true; noted ? true; 2h ? true amount: 12	
+[2/23/18 02:59PM]	Player picking up item: [ItemDefinition(560)] - Name: Death rune; equipment slot: 3; value: 229; stackable ? true; noted ? false; 2h ? false amount: 400	
+[2/23/18 03:01PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 03:04PM]	Player picking up item: [ItemDefinition(18778)] - Name: Starved ancient effigy; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 03:04PM]	Player picking up item: [ItemDefinition(561)] - Name: Nature rune; equipment slot: 3; value: 420; stackable ? true; noted ? false; 2h ? false amount: 70	
+[2/23/18 03:04PM]	Player dropping item: 229, amount: 1	
+[2/23/18 03:05PM]	Player picking up item: [ItemDefinition(1114)] - Name: Rune chainbody; equipment slot: 4; value: 1; stackable ? true; noted ? true; 2h ? false amount: 5	
+[2/23/18 03:05PM]	Player picking up item: [ItemDefinition(561)] - Name: Nature rune; equipment slot: 3; value: 420; stackable ? true; noted ? false; 2h ? false amount: 320	
+[2/23/18 03:06PM]	Player picking up item: [ItemDefinition(592)] - Name: Ashes; equipment slot: 3; value: 67; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 03:06PM]	Player dropping item: 592, amount: 1	
+[2/23/18 03:06PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 3000000	
+[2/23/18 03:06PM]	Player picking up item: [ItemDefinition(560)] - Name: Death rune; equipment slot: 3; value: 229; stackable ? true; noted ? false; 2h ? false amount: 100	
+[2/23/18 03:06PM]	Player picking up item: [ItemDefinition(1114)] - Name: Rune chainbody; equipment slot: 4; value: 1; stackable ? true; noted ? true; 2h ? false amount: 5	
+[2/23/18 03:06PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 6000000	
+[2/23/18 03:06PM]	Player picking up item: [ItemDefinition(560)] - Name: Death rune; equipment slot: 3; value: 229; stackable ? true; noted ? false; 2h ? false amount: 100	
+[2/23/18 03:06PM]	Player picking up item: [ItemDefinition(565)] - Name: Blood rune; equipment slot: 3; value: 1688; stackable ? true; noted ? false; 2h ? false amount: 1400	
+[2/23/18 03:06PM]	Player picking up item: [ItemDefinition(565)] - Name: Blood rune; equipment slot: 3; value: 1688; stackable ? true; noted ? false; 2h ? false amount: 700	
+[2/23/18 03:06PM]	Player picking up item: [ItemDefinition(565)] - Name: Blood rune; equipment slot: 3; value: 1688; stackable ? true; noted ? false; 2h ? false amount: 700	
+[2/23/18 03:06PM]	Player picking up item: [ItemDefinition(2690)] - Name: Clue scroll (easy); equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 03:06PM]	Player picking up item: [ItemDefinition(1114)] - Name: Rune chainbody; equipment slot: 4; value: 1; stackable ? true; noted ? true; 2h ? false amount: 5	
+[2/23/18 03:06PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 3015928	
+[2/23/18 03:07PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 3000000	
+[2/23/18 03:07PM]	Player picking up item: [ItemDefinition(1113)] - Name: Rune chainbody; equipment slot: 4; value: 1; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 03:07PM]	Player dropping item: 1113, amount: 1	
+[2/23/18 03:07PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 03:07PM]	Player picking up item: [ItemDefinition(204)] - Name: Grimy tarromin; equipment slot: 3; value: 5525; stackable ? true; noted ? true; 2h ? false amount: 206	
+[2/23/18 03:07PM]	Player dropping item: 558, amount: 1861	
+[2/23/18 03:07PM]	Player picking up item: [ItemDefinition(1602)] - Name: Diamond; equipment slot: 3; value: 10750; stackable ? true; noted ? true; 2h ? false amount: 19	
+[2/23/18 03:07PM]	Player dropping item: 229, amount: 1	
+[2/23/18 03:07PM]	Player picking up item: [ItemDefinition(565)] - Name: Blood rune; equipment slot: 3; value: 1688; stackable ? true; noted ? false; 2h ? false amount: 700	
+[2/23/18 03:07PM]	Player picking up item: [ItemDefinition(2677)] - Name: Clue scroll (easy); equipment slot: 3; value: 1000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 03:07PM]	Player picking up item: [ItemDefinition(1602)] - Name: Diamond; equipment slot: 3; value: 10750; stackable ? true; noted ? true; 2h ? false amount: 14	
+[2/23/18 03:07PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 3000000	
+[2/23/18 03:08PM]	Player picking up item: [ItemDefinition(213)] - Name: Grimy kwuarm; equipment slot: 3; value: 31576; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 03:08PM]	Player dropping item: 213, amount: 1	
+[2/23/18 03:08PM]	Player picking up item: [ItemDefinition(1303)] - Name: Rune longsword; equipment slot: 3; value: 23100; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 03:08PM]	Player dropping item: 1303, amount: 1	
+[2/23/18 03:10PM]	Player picking up item: [ItemDefinition(1602)] - Name: Diamond; equipment slot: 3; value: 10750; stackable ? true; noted ? true; 2h ? false amount: 14	
+[2/23/18 03:10PM]	Player picking up item: [ItemDefinition(561)] - Name: Nature rune; equipment slot: 3; value: 420; stackable ? true; noted ? false; 2h ? false amount: 70	
+[2/23/18 03:11PM]	Player picking up item: [ItemDefinition(1150)] - Name: Dragon med helm; equipment slot: 0; value: 32320; stackable ? true; noted ? true; 2h ? false amount: 8	
+[2/23/18 03:11PM]	Grillem used command ::bank | Player rights = GOLD_MEMBER	
+[2/23/18 03:12PM]	Grillem used command ::Bank | Player rights = GOLD_MEMBER	
+[2/23/18 03:15PM]	Player picking up item: [ItemDefinition(1373)] - Name: Rune battleaxe; equipment slot: 3; value: 15000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 03:15PM]	Player picking up item: [ItemDefinition(560)] - Name: Death rune; equipment slot: 3; value: 229; stackable ? true; noted ? false; 2h ? false amount: 400	
+[2/23/18 03:16PM]	Player picking up item: [ItemDefinition(1304)] - Name: Rune longsword; equipment slot: 3; value: 23100; stackable ? true; noted ? true; 2h ? false amount: 5	
+[2/23/18 03:16PM]	Player picking up item: [ItemDefinition(1149)] - Name: Dragon med helm; equipment slot: 0; value: 72320; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 03:16PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 03:17PM]	Player picking up item: [ItemDefinition(1149)] - Name: Dragon med helm; equipment slot: 0; value: 72320; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 03:17PM]	Player picking up item: [ItemDefinition(560)] - Name: Death rune; equipment slot: 3; value: 229; stackable ? true; noted ? false; 2h ? false amount: 400	
+[2/23/18 03:17PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 03:17PM]	Player dropping item: 229, amount: 1	
+[2/23/18 03:19PM]	Player picking up item: [ItemDefinition(1320)] - Name: Rune 2h sword; equipment slot: 3; value: 21600; stackable ? true; noted ? true; 2h ? true amount: 12	
+[2/23/18 03:20PM]	Player picking up item: [ItemDefinition(1373)] - Name: Rune battleaxe; equipment slot: 3; value: 15000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 03:20PM]	Player picking up item: [ItemDefinition(565)] - Name: Blood rune; equipment slot: 3; value: 1688; stackable ? true; noted ? false; 2h ? false amount: 700	
+[2/23/18 03:22PM]	Player picking up item: [ItemDefinition(1113)] - Name: Rune chainbody; equipment slot: 4; value: 1; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 03:22PM]	Player dropping item: 1113, amount: 1	
+[2/23/18 03:22PM]	Player picking up item: [ItemDefinition(164)] - Name: Super defence (3); equipment slot: 3; value: 2624; stackable ? true; noted ? true; 2h ? false amount: 16	
+[2/23/18 03:23PM]	Player picking up item: [ItemDefinition(2485)] - Name: Grimy lantadyme; equipment slot: 3; value: 31224; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 03:23PM]	Player dropping item: 2485, amount: 1	
+[2/23/18 03:25PM]	Player dropping item: 229, amount: 1	
+[2/23/18 03:25PM]	Player picking up item: [ItemDefinition(14472)] - Name: Ruined dragon armour lump; equipment slot: 3; value: 10000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 03:25PM]	Player picking up item: [ItemDefinition(1304)] - Name: Rune longsword; equipment slot: 3; value: 23100; stackable ? true; noted ? true; 2h ? false amount: 5	
+[2/23/18 03:25PM]	Player picking up item: [ItemDefinition(561)] - Name: Nature rune; equipment slot: 3; value: 420; stackable ? true; noted ? false; 2h ? false amount: 320	
+[2/23/18 03:26PM]	Player picking up item: [ItemDefinition(1150)] - Name: Dragon med helm; equipment slot: 0; value: 32320; stackable ? true; noted ? true; 2h ? false amount: 8	
+[2/23/18 03:26PM]	Player picking up item: [ItemDefinition(1303)] - Name: Rune longsword; equipment slot: 3; value: 23100; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 03:26PM]	Player picking up item: [ItemDefinition(18778)] - Name: Starved ancient effigy; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 03:28PM]	Player picking up item: [ItemDefinition(14472)] - Name: Ruined dragon armour lump; equipment slot: 3; value: 10000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 03:28PM]	Player picking up item: [ItemDefinition(1319)] - Name: Rune 2h sword; equipment slot: 3; value: 21600; stackable ? false; noted ? false; 2h ? true amount: 1	
+[2/23/18 03:28PM]	Player picking up item: [ItemDefinition(209)] - Name: Grimy irit; equipment slot: 3; value: 18768; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 03:28PM]	Player dropping item: 209, amount: 1	
+[2/23/18 03:30PM]	Player picking up item: [ItemDefinition(1320)] - Name: Rune 2h sword; equipment slot: 3; value: 21600; stackable ? true; noted ? true; 2h ? true amount: 12	
+[2/23/18 03:30PM]	Player picking up item: [ItemDefinition(1113)] - Name: Rune chainbody; equipment slot: 4; value: 1; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 03:30PM]	Player picking up item: [ItemDefinition(203)] - Name: Grimy tarromin; equipment slot: 3; value: 5525; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 03:30PM]	Player dropping item: 203, amount: 1	
+[2/23/18 03:31PM]	Player picking up item: [ItemDefinition(1304)] - Name: Rune longsword; equipment slot: 3; value: 23100; stackable ? true; noted ? true; 2h ? false amount: 5	
+[2/23/18 03:31PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 03:31PM]	Player picking up item: [ItemDefinition(565)] - Name: Blood rune; equipment slot: 3; value: 1688; stackable ? true; noted ? false; 2h ? false amount: 700	
+[2/23/18 03:32PM]	Player dropping item: 229, amount: 1	
+[2/23/18 03:33PM]	Player picking up item: [ItemDefinition(14472)] - Name: Ruined dragon armour lump; equipment slot: 3; value: 10000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 03:33PM]	Player picking up item: [ItemDefinition(1303)] - Name: Rune longsword; equipment slot: 3; value: 23100; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 03:33PM]	Player picking up item: [ItemDefinition(18778)] - Name: Starved ancient effigy; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 03:34PM]	Player picking up item: [ItemDefinition(1303)] - Name: Rune longsword; equipment slot: 3; value: 23100; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 03:34PM]	Player picking up item: [ItemDefinition(560)] - Name: Death rune; equipment slot: 3; value: 229; stackable ? true; noted ? false; 2h ? false amount: 400	
+[2/23/18 03:35PM]	Player picking up item: [ItemDefinition(15387)] - Name: Ruined backpack; equipment slot: 3; value: 97894; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 03:35PM]	Player picking up item: [ItemDefinition(1303)] - Name: Rune longsword; equipment slot: 3; value: 23100; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 03:36PM]	Player dropping item: 229, amount: 1	
+[2/23/18 03:36PM]	Player picking up item: [ItemDefinition(1602)] - Name: Diamond; equipment slot: 3; value: 10750; stackable ? true; noted ? true; 2h ? false amount: 30	
+[2/23/18 03:36PM]	Player picking up item: [ItemDefinition(560)] - Name: Death rune; equipment slot: 3; value: 229; stackable ? true; noted ? false; 2h ? false amount: 100	
+[2/23/18 03:37PM]	Player picking up item: [ItemDefinition(561)] - Name: Nature rune; equipment slot: 3; value: 420; stackable ? true; noted ? false; 2h ? false amount: 320	
+[2/23/18 03:51PM]	Grillem used command ::[FRI]Daking | Player rights = GOLD_MEMBER	
+[2/23/18 03:54PM]	Player picking up item: [ItemDefinition(448)] - Name: Mithril ore; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 150	
+[2/23/18 03:59PM]	Player picking up item: [ItemDefinition(1215)] - Name: Dragon dagger; equipment slot: 3; value: 18000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 03:59PM]	Grillem used command ::bank | Player rights = GOLD_MEMBER	
+[2/23/18 04:01PM]	Grillem used command ::home | Player rights = GOLD_MEMBER	
+[2/23/18 04:01PM]	Grillem used command ::di | Player rights = GOLD_MEMBER	
+[2/23/18 04:04PM]	Player picking up item: [ItemDefinition(443)] - Name: Silver ore; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 50	
+[2/23/18 04:06PM]	Player picking up item: [ItemDefinition(386)] - Name: Shark; equipment slot: 3; value: 5000; stackable ? true; noted ? true; 2h ? false amount: 6	
+[2/23/18 04:13PM]	Player picking up item: [ItemDefinition(9144)] - Name: Runite bolts; equipment slot: 13; value: 253; stackable ? true; noted ? false; 2h ? false amount: 30	
+[2/23/18 04:13PM]	Player picking up item: [ItemDefinition(2688)] - Name: Clue scroll (easy); equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 04:14PM]	Player picking up item: [ItemDefinition(1249)] - Name: Dragon spear; equipment slot: 3; value: 38500; stackable ? false; noted ? false; 2h ? true amount: 1	
+[2/23/18 04:14PM]	Player picking up item: [ItemDefinition(985)] - Name: Tooth half of a key; equipment slot: 3; value: 26200; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 04:14PM]	Player picking up item: [ItemDefinition(6190)] - Name: Odium Shard 2; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 04:17PM]	Player picking up item: [ItemDefinition(565)] - Name: Blood rune; equipment slot: 3; value: 1688; stackable ? true; noted ? false; 2h ? false amount: 100	
+[2/23/18 04:17PM]	Player dropping item: 229, amount: 1	
+[2/23/18 04:17PM]	Player picking up item: [ItemDefinition(560)] - Name: Death rune; equipment slot: 3; value: 229; stackable ? true; noted ? false; 2h ? false amount: 11	
+[2/23/18 04:17PM]	Player dropping item: 560, amount: 11	
+[2/23/18 04:18PM]	Player dropping item: 229, amount: 1	
+[2/23/18 04:19PM]	Player picking up item: [ItemDefinition(11732)] - Name: Dragon boots; equipment slot: 10; value: 10000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 04:19PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 04:19PM]	Player picking up item: [ItemDefinition(2686)] - Name: Clue scroll (easy); equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 04:20PM]	Player picking up item: [ItemDefinition(1617)] - Name: Uncut diamond; equipment slot: 3; value: 7200; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 04:20PM]	Player picking up item: [ItemDefinition(565)] - Name: Blood rune; equipment slot: 3; value: 1688; stackable ? true; noted ? false; 2h ? false amount: 100	
+[2/23/18 04:26PM]	Grillem used command ::answer money pouch | Player rights = GOLD_MEMBER	
+[2/23/18 04:33PM]	Login from host 174.192.13.69	
+[2/23/18 04:38PM]	Player bought 6857 x 1 from shop	
+[2/23/18 04:39PM]	Player bought 9470 x 1 from shop	
+[2/23/18 04:39PM]	Player bought 1023 x 1 from shop	
+[2/23/18 04:39PM]	Player bought 636 x 1 from shop	
+[2/23/18 04:39PM]	Player bought 646 x 1 from shop	
+[2/23/18 04:39PM]	Player bought 638 x 1 from shop	
+[2/23/18 04:39PM]	Player bought 648 x 1 from shop	
+[2/23/18 04:39PM]	Player bought 644 x 1 from shop	
+[2/23/18 04:39PM]	Player bought 654 x 1 from shop	
+[2/23/18 04:39PM]	Player bought 2631 x 1 from shop	
+[2/23/18 04:48PM]	Player picking up item: [ItemDefinition(4114)] - Name: Mystic robe bottom; equipment slot: 7; value: 48500; stackable ? true; noted ? true; 2h ? false amount: 388	
+[2/23/18 04:48PM]	Player picking up item: [ItemDefinition(1457)] - Name: Death talisman; equipment slot: 3; value: 30000; stackable ? true; noted ? true; 2h ? false amount: 291	
+[2/23/18 04:48PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 14130267	
+[2/23/18 05:01PM]	Player dropping item: 229, amount: 1	
+[2/23/18 05:01PM]	Player dropping item: 229, amount: 1	
+[2/23/18 05:04PM]	Player dropping item: 229, amount: 1	
+[2/23/18 05:06PM]	Player picking up item: [ItemDefinition(4100)] - Name: Mystic hat; equipment slot: 0; value: 16900; stackable ? true; noted ? true; 2h ? false amount: 409	
+[2/23/18 05:06PM]	Player picking up item: [ItemDefinition(1272)] - Name: Adamant pickaxe; equipment slot: 3; value: 4805; stackable ? true; noted ? true; 2h ? false amount: 345	
+[2/23/18 05:06PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 15090607	
+[2/23/18 05:16PM]	Player picking up item: [ItemDefinition(14890)] - Name: Bronzed dragon claw; equipment slot: 3; value: 20000; stackable ? false; noted ? false; 2h ? true amount: 1	
+[2/23/18 05:16PM]	Player picking up item: [ItemDefinition(14890)] - Name: Bronzed dragon claw; equipment slot: 3; value: 20000; stackable ? false; noted ? false; 2h ? true amount: 1	
+[2/23/18 05:16PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:17PM]	Player picking up item: [ItemDefinition(14886)] - Name: Saradomin carving; equipment slot: 3; value: 150000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:17PM]	Player picking up item: [ItemDefinition(2684)] - Name: Clue scroll (easy); equipment slot: 3; value: 1000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:18PM]	Grillem received a Zuriel's robe bottom from Revenant Impling	
+[2/23/18 05:18PM]	Player picking up item: [ItemDefinition(13861)] - Name: Zuriel's robe bottom; equipment slot: 7; value: 1613500; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:18PM]	Player picking up item: [ItemDefinition(14886)] - Name: Saradomin carving; equipment slot: 3; value: 150000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:19PM]	Grillem used command ::answer 4 | Player rights = GOLD_MEMBER	
+[2/23/18 05:19PM]	Grillem used command ::Answer 5 | Player rights = GOLD_MEMBER	
+[2/23/18 05:20PM]	Grillem used command ::answer 2 | Player rights = GOLD_MEMBER	
+[2/23/18 05:20PM]	Grillem used command ::answer 3 | Player rights = GOLD_MEMBER	
+[2/23/18 05:20PM]	Grillem used command ::answer 7 | Player rights = GOLD_MEMBER	
+[2/23/18 05:20PM]	Grillem used command ::answer 8 | Player rights = GOLD_MEMBER	
+[2/23/18 05:20PM]	Grillem used command ::answer 9 | Player rights = GOLD_MEMBER	
+[2/23/18 05:20PM]	Grillem used command ::answer 10 | Player rights = GOLD_MEMBER	
+[2/23/18 05:20PM]	Player picking up item: [ItemDefinition(14891)] - Name: Third age carafe; equipment slot: 3; value: 10000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:20PM]	Player dropping item: 229, amount: 1	
+[2/23/18 05:21PM]	Player picking up item: [ItemDefinition(14892)] - Name: Broken statue headdress; equipment slot: 3; value: 5000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:22PM]	Player picking up item: [ItemDefinition(14890)] - Name: Bronzed dragon claw; equipment slot: 3; value: 20000; stackable ? false; noted ? false; 2h ? true amount: 1	
+[2/23/18 05:22PM]	Player picking up item: [ItemDefinition(2685)] - Name: Clue scroll (easy); equipment slot: 3; value: 1000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:23PM]	Player picking up item: [ItemDefinition(14892)] - Name: Broken statue headdress; equipment slot: 3; value: 5000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:23PM]	Player dropping item: 2446, amount: 1	
+[2/23/18 05:23PM]	Player picking up item: [ItemDefinition(13855)] - Name: Brawling gloves (smithing); equipment slot: 9; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:25PM]	Player picking up item: [ItemDefinition(391)] - Name: Manta ray; equipment slot: 3; value: 998; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:25PM]	Player picking up item: [ItemDefinition(391)] - Name: Manta ray; equipment slot: 3; value: 998; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:25PM]	Player picking up item: [ItemDefinition(9244)] - Name: Dragon bolts (e); equipment slot: 13; value: 10000; stackable ? true; noted ? false; 2h ? false amount: 3247	
+[2/23/18 05:25PM]	Player picking up item: [ItemDefinition(4736)] - Name: Karil's top; equipment slot: 4; value: 1000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:25PM]	Player picking up item: [ItemDefinition(4738)] - Name: Karil's skirt; equipment slot: 7; value: 1000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:25PM]	Player picking up item: [ItemDefinition(13861)] - Name: Zuriel's robe bottom; equipment slot: 7; value: 1613500; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:25PM]	Player picking up item: [ItemDefinition(14886)] - Name: Saradomin carving; equipment slot: 3; value: 150000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:25PM]	Player picking up item: [ItemDefinition(14886)] - Name: Saradomin carving; equipment slot: 3; value: 150000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:25PM]	Player picking up item: [ItemDefinition(454)] - Name: Coal; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 217	
+[2/23/18 05:25PM]	Player picking up item: [ItemDefinition(14890)] - Name: Bronzed dragon claw; equipment slot: 3; value: 20000; stackable ? false; noted ? false; 2h ? true amount: 1	
+[2/23/18 05:25PM]	Player picking up item: [ItemDefinition(14890)] - Name: Bronzed dragon claw; equipment slot: 3; value: 20000; stackable ? false; noted ? false; 2h ? true amount: 1	
+[2/23/18 05:25PM]	Player picking up item: [ItemDefinition(14890)] - Name: Bronzed dragon claw; equipment slot: 3; value: 20000; stackable ? false; noted ? false; 2h ? true amount: 1	
+[2/23/18 05:25PM]	Player picking up item: [ItemDefinition(14891)] - Name: Third age carafe; equipment slot: 3; value: 10000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:25PM]	Player picking up item: [ItemDefinition(14892)] - Name: Broken statue headdress; equipment slot: 3; value: 5000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:25PM]	Player picking up item: [ItemDefinition(14892)] - Name: Broken statue headdress; equipment slot: 3; value: 5000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:25PM]	Player picking up item: [ItemDefinition(2572)] - Name: Ring of wealth; equipment slot: 12; value: 10000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:25PM]	Player picking up item: [ItemDefinition(7462)] - Name: Culinaromancer's gloves 10; equipment slot: 9; value: 100000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:25PM]	Player picking up item: [ItemDefinition(13734)] - Name: Spirit shield; equipment slot: 5; value: 97800; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:25PM]	Player picking up item: [ItemDefinition(10828)] - Name: Helm of neitiznot; equipment slot: 0; value: 60200; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:25PM]	Player picking up item: [ItemDefinition(10499)] - Name: Ava's accumulator; equipment slot: 1; value: 62000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:29PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:30PM]	Player picking up item: [ItemDefinition(14890)] - Name: Bronzed dragon claw; equipment slot: 3; value: 20000; stackable ? false; noted ? false; 2h ? true amount: 1	
+[2/23/18 05:30PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:30PM]	Player picking up item: [ItemDefinition(14892)] - Name: Broken statue headdress; equipment slot: 3; value: 5000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:34PM]	Player dropping item: 229, amount: 1	
+[2/23/18 05:34PM]	Player picking up item: [ItemDefinition(14892)] - Name: Broken statue headdress; equipment slot: 3; value: 5000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:34PM]	Player picking up item: [ItemDefinition(14892)] - Name: Broken statue headdress; equipment slot: 3; value: 5000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:34PM]	Player picking up item: [ItemDefinition(14892)] - Name: Broken statue headdress; equipment slot: 3; value: 5000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:34PM]	Grillem used command ::[FRI]Andy | Player rights = GOLD_MEMBER	
+[2/23/18 05:34PM]	Grillem used command ::[FRI]Tyco | Player rights = GOLD_MEMBER	
+[2/23/18 05:37PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:39PM]	Grillem used command ::Answer 99 | Player rights = GOLD_MEMBER	
+[2/23/18 05:40PM]	Player dropping item: 229, amount: 1	
+[2/23/18 05:40PM]	Player picking up item: [ItemDefinition(14892)] - Name: Broken statue headdress; equipment slot: 3; value: 5000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:41PM]	Player picking up item: [ItemDefinition(13851)] - Name: Brawling gloves (fm); equipment slot: 9; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:41PM]	Player picking up item: [ItemDefinition(14892)] - Name: Broken statue headdress; equipment slot: 3; value: 5000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:44PM]	Player picking up item: [ItemDefinition(13848)] - Name: Brawling gloves (prayer); equipment slot: 9; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:44PM]	Player dropping item: 229, amount: 1	
+[2/23/18 05:45PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:47PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:47PM]	Player dropping item: 4131, amount: 1	
+[2/23/18 05:47PM]	Player picking up item: [ItemDefinition(14888)] - Name: Saradomin amphora; equipment slot: 3; value: 65000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:50PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:50PM]	Player picking up item: [ItemDefinition(14890)] - Name: Bronzed dragon claw; equipment slot: 3; value: 20000; stackable ? false; noted ? false; 2h ? true amount: 1	
+[2/23/18 05:51PM]	Player picking up item: [ItemDefinition(14892)] - Name: Broken statue headdress; equipment slot: 3; value: 5000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:51PM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:51PM]	Player dropping item: 10589, amount: 1	
+[2/23/18 05:51PM]	Player picking up item: [ItemDefinition(10589)] - Name: Granite helm; equipment slot: 0; value: 121000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:52PM]	Player dropping item: 229, amount: 1	
+[2/23/18 05:52PM]	Player picking up item: [ItemDefinition(14889)] - Name: Ancient psaltery bridge; equipment slot: 3; value: 45000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:52PM]	Player dropping item: 229, amount: 1	
+[2/23/18 05:53PM]	Player picking up item: [ItemDefinition(14892)] - Name: Broken statue headdress; equipment slot: 3; value: 5000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:55PM]	Player picking up item: [ItemDefinition(14892)] - Name: Broken statue headdress; equipment slot: 3; value: 5000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:56PM]	Player picking up item: [ItemDefinition(14891)] - Name: Third age carafe; equipment slot: 3; value: 10000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:57PM]	Grillem received a Morrigan's leather chaps from Revenant Goblin	
+[2/23/18 05:57PM]	Player picking up item: [ItemDefinition(13873)] - Name: Morrigan's leather chaps; equipment slot: 7; value: 2388500; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 05:57PM]	Player picking up item: [ItemDefinition(14892)] - Name: Broken statue headdress; equipment slot: 3; value: 5000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/23/18 06:01PM]	Player bought 9751 x 1 from shop	
+[2/23/18 06:01PM]	Player bought 9748 x 1 from shop	
+[2/23/18 06:01PM]	Player bought 9949 x 1 from shop	
+[2/23/18 06:03PM]	Grillem used command ::skill | Player rights = GOLD_MEMBER	
+[2/23/18 06:03PM]	Grillem used command ::skilling | Player rights = GOLD_MEMBER	
+[2/23/18 06:04PM]	Grillem used command ::agility | Player rights = GOLD_MEMBER	
+[2/23/18 06:04PM]	Grillem used command ::gnome course | Player rights = GOLD_MEMBER	
+[2/23/18 06:06PM]	Player bought 1275 x 1 from shop	
+[2/23/18 06:06PM]	Player bought 1273 x 1 from shop	
+[2/23/18 06:06PM]	Player bought 1267 x 1 from shop	
+[2/23/18 06:07PM]	Player dropping item: 1267, amount: 1	
+[2/23/18 06:08PM]	Player dropping item: 1273, amount: 1	
+[2/23/18 06:10PM]	Grillem used command ::bank | Player rights = GOLD_MEMBER	
+[2/23/18 06:15PM]	Grillem used command ::Answer 7 | Player rights = GOLD_MEMBER	
+[2/23/18 06:15PM]	Grillem used command ::bank | Player rights = GOLD_MEMBER	
+[2/23/18 06:58PM]	Grillem used command ::bank | Player rights = GOLD_MEMBER	
+[2/23/18 07:09PM]	Grillem used command ::answer dark beast | Player rights = GOLD_MEMBER	

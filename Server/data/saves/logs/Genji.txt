@@ -1,0 +1,204 @@
+[3/6/18 08:32PM]	Login from host 103.225.137.254	
+[3/6/18 08:34PM]	Player bought 4587 x 1 from shop	
+[3/6/18 08:35PM]	Player bought 1704 x 1 from shop	
+[3/6/18 08:35PM]	Player bought 11118 x 1 from shop	
+[3/6/18 08:35PM]	Player bought 2550 x 1 from shop	
+[3/6/18 08:35PM]	Player bought 3842 x 1 from shop	
+[3/8/18 12:39AM]	Login from host 103.225.137.254	
+[3/8/18 12:41AM]	Login from host 103.225.137.254	
+[3/8/18 12:59AM]	Login from host 103.225.137.254	
+[3/8/18 01:07AM]	Login from host 103.225.137.254	
+[3/8/18 01:13AM]	Login from host 103.225.137.254	
+[3/8/18 01:15AM]	Player dropping item: 1153, amount: 1	
+[3/8/18 01:15AM]	Player dropping item: 1115, amount: 1	
+[3/8/18 01:15AM]	Player dropping item: 1067, amount: 1	
+[3/8/18 01:15AM]	Player dropping item: 1191, amount: 1	
+[3/8/18 01:17AM]	Receiving item from Zennon. ItemName: Coins, itemId: 995 amount: 100000000	
+[3/8/18 01:17AM]	Genji used command ::answer smithing | Player rights = PLAYER	
+[3/8/18 01:18AM]	Player bought 1163 x 1 from shop	
+[3/8/18 01:18AM]	Player bought 1127 x 1 from shop	
+[3/8/18 01:18AM]	Player bought 1079 x 1 from shop	
+[3/8/18 01:18AM]	Player bought 1163 x 1 from shop	
+[3/8/18 01:18AM]	Player bought 1127 x 1 from shop	
+[3/8/18 01:18AM]	Player bought 1079 x 1 from shop	
+[3/8/18 01:18AM]	Player bought 3751 x 1 from shop	
+[3/8/18 01:18AM]	Player bought 1704 x 1 from shop	
+[3/8/18 01:18AM]	Player bought 6524 x 1 from shop	
+[3/8/18 01:18AM]	Player bought 5680 x 1 from shop	
+[3/8/18 01:19AM]	Receiving item from Zennon. ItemName: Dragon bones, itemId: 537 amount: 62	
+[3/8/18 01:19AM]	Receiving item from Zennon. ItemName: Rune defender, itemId: 8850 amount: 1	
+[3/8/18 01:22AM]	Player bought 2436 x 1 from shop	
+[3/8/18 01:22AM]	Player bought 2440 x 1 from shop	
+[3/8/18 01:22AM]	Player bought 2442 x 1 from shop	
+[3/8/18 01:22AM]	Player bought 391 x 10 from shop	
+[3/8/18 01:22AM]	Player bought 391 x 1 from shop	
+[3/8/18 01:23AM]	Player dropping item: 2550, amount: 1	
+[3/8/18 01:23AM]	Player dropping item: 1704, amount: 1	
+[3/8/18 01:23AM]	Player bought 3105 x 1 from shop	
+[3/8/18 01:24AM]	Player bought 6568 x 1 from shop	
+[3/8/18 01:24AM]	Receiving item from Zennon. ItemName: Ring of wealth, itemId: 2572 amount: 1	
+[3/8/18 01:24AM]	Player bought 2434 x 10 from shop	
+[3/8/18 01:25AM]	Player picking up item: [ItemDefinition(1127)] - Name: Rune platebody; equipment slot: 4; value: 64000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 01:25AM]	Player picking up item: [ItemDefinition(1079)] - Name: Rune platelegs; equipment slot: 7; value: 44000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 01:25AM]	Player picking up item: [ItemDefinition(1163)] - Name: Rune full helm; equipment slot: 0; value: 40000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 01:25AM]	Player picking up item: [ItemDefinition(8851)] - Name: Warrior guild token; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 40	
+[3/8/18 01:26AM]	Player picking up item: [ItemDefinition(1127)] - Name: Rune platebody; equipment slot: 4; value: 64000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 01:26AM]	Player picking up item: [ItemDefinition(1079)] - Name: Rune platelegs; equipment slot: 7; value: 44000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 01:26AM]	Player picking up item: [ItemDefinition(1163)] - Name: Rune full helm; equipment slot: 0; value: 40000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 01:26AM]	Player picking up item: [ItemDefinition(8851)] - Name: Warrior guild token; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 40	
+[3/8/18 01:27AM]	Player picking up item: [ItemDefinition(1127)] - Name: Rune platebody; equipment slot: 4; value: 64000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 01:27AM]	Player picking up item: [ItemDefinition(1079)] - Name: Rune platelegs; equipment slot: 7; value: 44000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 01:27AM]	Player picking up item: [ItemDefinition(1163)] - Name: Rune full helm; equipment slot: 0; value: 40000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 01:27AM]	Player picking up item: [ItemDefinition(8851)] - Name: Warrior guild token; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 40	
+[3/8/18 01:27AM]	Player picking up item: [ItemDefinition(1127)] - Name: Rune platebody; equipment slot: 4; value: 64000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 01:27AM]	Player picking up item: [ItemDefinition(1079)] - Name: Rune platelegs; equipment slot: 7; value: 44000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 01:27AM]	Player picking up item: [ItemDefinition(1163)] - Name: Rune full helm; equipment slot: 0; value: 40000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 01:27AM]	Player picking up item: [ItemDefinition(8851)] - Name: Warrior guild token; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 40	
+[3/8/18 01:28AM]	Player picking up item: [ItemDefinition(1127)] - Name: Rune platebody; equipment slot: 4; value: 64000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 01:28AM]	Player picking up item: [ItemDefinition(1079)] - Name: Rune platelegs; equipment slot: 7; value: 44000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 01:28AM]	Player picking up item: [ItemDefinition(1163)] - Name: Rune full helm; equipment slot: 0; value: 40000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 01:28AM]	Player picking up item: [ItemDefinition(8851)] - Name: Warrior guild token; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 40	
+[3/8/18 01:29AM]	Player picking up item: [ItemDefinition(1127)] - Name: Rune platebody; equipment slot: 4; value: 64000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 01:29AM]	Player picking up item: [ItemDefinition(1079)] - Name: Rune platelegs; equipment slot: 7; value: 44000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 01:29AM]	Player picking up item: [ItemDefinition(1163)] - Name: Rune full helm; equipment slot: 0; value: 40000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 01:29AM]	Player picking up item: [ItemDefinition(8851)] - Name: Warrior guild token; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 40	
+[3/8/18 01:29AM]	Player picking up item: [ItemDefinition(1127)] - Name: Rune platebody; equipment slot: 4; value: 64000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 01:29AM]	Player picking up item: [ItemDefinition(1079)] - Name: Rune platelegs; equipment slot: 7; value: 44000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 01:29AM]	Player picking up item: [ItemDefinition(1163)] - Name: Rune full helm; equipment slot: 0; value: 40000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 01:29AM]	Player picking up item: [ItemDefinition(8851)] - Name: Warrior guild token; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 40	
+[3/8/18 01:30AM]	Player picking up item: [ItemDefinition(1127)] - Name: Rune platebody; equipment slot: 4; value: 64000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 01:30AM]	Player picking up item: [ItemDefinition(1079)] - Name: Rune platelegs; equipment slot: 7; value: 44000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 01:30AM]	Player picking up item: [ItemDefinition(1163)] - Name: Rune full helm; equipment slot: 0; value: 40000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 01:30AM]	Player picking up item: [ItemDefinition(8851)] - Name: Warrior guild token; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 40	
+[3/8/18 01:31AM]	Player picking up item: [ItemDefinition(1127)] - Name: Rune platebody; equipment slot: 4; value: 64000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 01:31AM]	Player picking up item: [ItemDefinition(1079)] - Name: Rune platelegs; equipment slot: 7; value: 44000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 01:31AM]	Player picking up item: [ItemDefinition(1163)] - Name: Rune full helm; equipment slot: 0; value: 40000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 01:31AM]	Player picking up item: [ItemDefinition(8851)] - Name: Warrior guild token; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 40	
+[3/8/18 01:31AM]	Player bought 6 x 1 from shop	
+[3/8/18 01:31AM]	Player bought 12 x 1 from shop	
+[3/8/18 01:31AM]	Player bought 10 x 1 from shop	
+[3/8/18 01:31AM]	Player bought 8 x 1 from shop	
+[3/8/18 01:31AM]	Player bought 2 x 1000 from shop	
+[3/8/18 01:33AM]	Player picking up item: [ItemDefinition(1249)] - Name: Dragon spear; equipment slot: 3; value: 38500; stackable ? false; noted ? false; 2h ? true amount: 1	
+[3/8/18 01:34AM]	Player picking up item: [ItemDefinition(987)] - Name: Loop half of a key; equipment slot: 3; value: 12900; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 01:34AM]	Player dropping item: 229, amount: 1	
+[3/8/18 01:36AM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 01:38AM]	Player picking up item: [ItemDefinition(20072)] - Name: Dragon defender; equipment slot: 5; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 01:39AM]	Player bought 2499 x 1 from shop	
+[3/8/18 01:39AM]	Player bought 2493 x 1 from shop	
+[3/8/18 01:39AM]	Player bought 2487 x 1 from shop	
+[3/8/18 01:39AM]	Player bought 867 x 1000 from shop	
+[3/8/18 01:40AM]	Player bought 3749 x 1 from shop	
+[3/8/18 01:44AM]	Login from host 103.225.137.254	
+[3/8/18 01:44AM]	Player bought 868 x 1000 from shop	
+[3/8/18 01:44AM]	Player bought 3842 x 1 from shop	
+[3/8/18 01:45AM]	Player bought 6328 x 1 from shop	
+[3/8/18 01:45AM]	Player bought 2503 x 1 from shop	
+[3/8/18 01:45AM]	Player bought 2497 x 1 from shop	
+[3/8/18 01:45AM]	Player bought 2491 x 1 from shop	
+[3/8/18 01:45AM]	Player bought 10499 x 1 from shop	
+[3/8/18 01:45AM]	Player bought 1704 x 1 from shop	
+[3/8/18 01:46AM]	Player dropping item: 867, amount: 999	
+[3/8/18 01:59AM]	Login from host 103.225.137.254	
+[3/8/18 02:08AM]	Player dropping item: 2499, amount: 1	
+[3/8/18 02:08AM]	Player dropping item: 2493, amount: 1	
+[3/8/18 02:08AM]	Player dropping item: 2487, amount: 1	
+[3/8/18 02:08AM]	Player dropping item: 1169, amount: 1	
+[3/8/18 02:08AM]	Player dropping item: 841, amount: 1	
+[3/8/18 02:08AM]	Player dropping item: 882, amount: 484	
+[3/8/18 02:08AM]	Player dropping item: 1095, amount: 1	
+[3/8/18 02:08AM]	Player dropping item: 1129, amount: 1	
+[3/8/18 02:15AM]	Player dropping item: 391, amount: 1	
+[3/8/18 02:15AM]	Player dropping item: 391, amount: 1	
+[3/8/18 02:15AM]	Player bought 1351 x 1 from shop	
+[3/8/18 02:15AM]	Player dropping item: 1511, amount: 1	
+[3/8/18 02:15AM]	Player dropping item: 1511, amount: 1	
+[3/8/18 02:15AM]	Player dropping item: 1511, amount: 1	
+[3/8/18 02:15AM]	Player dropping item: 1521, amount: 1	
+[3/8/18 02:15AM]	Player dropping item: 1521, amount: 1	
+[3/8/18 02:16AM]	Genji used command ::answer 30 | Player rights = PLAYER	
+[3/8/18 02:17AM]	Player picking up item: [ItemDefinition(12163)] - Name: Blue charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 02:17AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 02:20AM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 02:20AM]	Player picking up item: [ItemDefinition(12160)] - Name: Crimson charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 02:20AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 02:20AM]	Player picking up item: [ItemDefinition(12163)] - Name: Blue charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 02:20AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 2	
+[3/8/18 02:20AM]	Player picking up item: [ItemDefinition(12163)] - Name: Blue charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 02:20AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 02:20AM]	Player picking up item: [ItemDefinition(12159)] - Name: Green charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 02:20AM]	Player picking up item: [ItemDefinition(12158)] - Name: Gold charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/8/18 02:23AM]	Player dropping item: 1351, amount: 1	
+[3/8/18 02:23AM]	Player bought 2347 x 1 from shop	
+[3/8/18 02:31AM]	Player dropping item: 229, amount: 1	
+[3/8/18 02:34AM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 02:41AM]	Player bought 9185 x 1 from shop	
+[3/8/18 02:41AM]	Player bought 9242 x 1000 from shop	
+[3/8/18 02:41AM]	Player bought 2444 x 1 from shop	
+[3/8/18 02:41AM]	Player bought 2444 x 1 from shop	
+[3/8/18 02:41AM]	Player bought 2446 x 1 from shop	
+[3/8/18 02:41AM]	Player bought 2434 x 5 from shop	
+[3/8/18 02:41AM]	Player bought 385 x 10 from shop	
+[3/8/18 02:41AM]	Player bought 385 x 10 from shop	
+[3/8/18 02:49AM]	Player bought 2503 x 1 from shop	
+[3/8/18 02:49AM]	Player bought 2497 x 1 from shop	
+[3/8/18 02:49AM]	Player bought 2491 x 1 from shop	
+[3/8/18 02:49AM]	Player bought 6328 x 1 from shop	
+[3/8/18 02:49AM]	Player bought 9185 x 1 from shop	
+[3/8/18 02:49AM]	Player bought 9242 x 150 from shop	
+[3/8/18 02:49AM]	Player bought 1704 x 1 from shop	
+[3/8/18 02:49AM]	Player bought 2444 x 1 from shop	
+[3/8/18 02:49AM]	Player bought 2442 x 1 from shop	
+[3/8/18 02:49AM]	Player bought 3024 x 5 from shop	
+[3/8/18 02:49AM]	Player bought 2434 x 1 from shop	
+[3/8/18 02:49AM]	Player bought 391 x 10 from shop	
+[3/8/18 02:49AM]	Player bought 391 x 10 from shop	
+[3/8/18 02:50AM]	Gave item in trade to Zennon. ItemName: Ruby bolts (e), itemId: 9242 amount: 75	
+[3/8/18 02:50AM]	Receiving item from Zennon. ItemName: Shark, itemId: 385 amount: 1	
+[3/8/18 02:50AM]	Player picking up item: [ItemDefinition(386)] - Name: Shark; equipment slot: 3; value: 5000; stackable ? true; noted ? true; 2h ? false amount: 1	
+[3/8/18 02:54AM]	Player picking up item: [ItemDefinition(385)] - Name: Shark; equipment slot: 3; value: 5000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 02:55AM]	Player picking up item: [ItemDefinition(385)] - Name: Shark; equipment slot: 3; value: 5000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 02:55AM]	Player picking up item: [ItemDefinition(385)] - Name: Shark; equipment slot: 3; value: 5000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 02:57AM]	Player bought 2503 x 1 from shop	
+[3/8/18 02:57AM]	Player bought 2497 x 1 from shop	
+[3/8/18 02:57AM]	Player bought 2491 x 1 from shop	
+[3/8/18 02:58AM]	Player bought 3749 x 1 from shop	
+[3/8/18 02:58AM]	Player bought 9242 x 75 from shop	
+[3/8/18 02:58AM]	Player bought 1704 x 1 from shop	
+[3/8/18 02:58AM]	Player dropping item: 3749, amount: 1	
+[3/8/18 02:58AM]	Player bought 9185 x 1 from shop	
+[3/8/18 02:58AM]	Player bought 6328 x 1 from shop	
+[3/8/18 02:58AM]	Player bought 2442 x 1 from shop	
+[3/8/18 02:58AM]	Player bought 2444 x 1 from shop	
+[3/8/18 02:58AM]	Player bought 2434 x 1 from shop	
+[3/8/18 02:59AM]	Player bought 3024 x 1 from shop	
+[3/8/18 02:59AM]	Player bought 3024 x 1 from shop	
+[3/8/18 02:59AM]	Player bought 3024 x 1 from shop	
+[3/8/18 02:59AM]	Player bought 3024 x 1 from shop	
+[3/8/18 02:59AM]	Player bought 6685 x 5 from shop	
+[3/8/18 02:59AM]	Player bought 391 x 10 from shop	
+[3/8/18 02:59AM]	Player bought 391 x 10 from shop	
+[3/8/18 03:00AM]	Login from host 103.225.137.254	
+[3/8/18 03:02AM]	Player picking up item: [ItemDefinition(2362)] - Name: Adamant bar; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 293	
+[3/8/18 03:02AM]	Player picking up item: [ItemDefinition(2358)] - Name: Gold bar; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 323	
+[3/8/18 03:02AM]	Player picking up item: [ItemDefinition(1290)] - Name: Rune sword; equipment slot: 3; value: 8500; stackable ? true; noted ? true; 2h ? false amount: 434	
+[3/8/18 03:02AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 20688151	
+[3/8/18 03:11AM]	Player picking up item: [ItemDefinition(7956)] - Name: Casket; equipment slot: 3; value: 56841; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/8/18 03:59AM]	Login from host 103.225.137.254	
+[3/8/18 04:10AM]	Player bought 1540 x 1 from shop	
+[3/8/18 04:11AM]	Player dropping item: 229, amount: 1	
+[3/8/18 04:13AM]	Player bought 2503 x 1 from shop	
+[3/8/18 04:13AM]	Player bought 2497 x 1 from shop	
+[3/8/18 04:13AM]	Player bought 2491 x 1 from shop	
+[3/8/18 04:13AM]	Player bought 3749 x 1 from shop	
+[3/8/18 04:13AM]	Player bought 6328 x 1 from shop	
+[3/8/18 04:13AM]	Player bought 10499 x 1 from shop	
+[3/8/18 04:13AM]	Player bought 9242 x 75 from shop	
+[3/8/18 04:13AM]	Player bought 9185 x 1 from shop	
+[3/8/18 04:14AM]	Player bought 2444 x 1 from shop	
+[3/8/18 04:14AM]	Player bought 6685 x 5 from shop	
+[3/8/18 04:14AM]	Player bought 3024 x 1 from shop	
+[3/8/18 04:14AM]	Player bought 3024 x 1 from shop	
+[3/8/18 04:14AM]	Player bought 3024 x 1 from shop	
+[3/8/18 04:14AM]	Player bought 391 x 10 from shop	
+[3/8/18 04:14AM]	Player bought 391 x 10 from shop	

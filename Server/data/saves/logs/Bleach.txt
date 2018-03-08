@@ -1,0 +1,23 @@
+[2/19/18 09:16PM]	Login from host 173.22.221.39	
+[2/19/18 09:17PM]	Bleach used command ::[FRI]Skillful | Player rights = PLAYER	
+[2/19/18 09:17PM]	Bleach used command ::[DFR]Skillful | Player rights = PLAYER	
+[2/19/18 09:18PM]	Bleach used command ::[FRI]Skillful | Player rights = PLAYER	
+[2/19/18 09:18PM]	Login from host 173.22.221.39	
+[2/19/18 09:18PM]	Bleach used command ::[FRI]Lootz | Player rights = PLAYER	
+[2/19/18 09:20PM]	Bleach used command ::title Anarchy | Player rights = BRONZE_MEMBER	
+[2/19/18 09:22PM]	Player bought 1333 x 1 from shop	
+[2/19/18 09:22PM]	Player bought 4587 x 1 from shop	
+[2/19/18 09:22PM]	Player bought 5680 x 1 from shop	
+[2/19/18 09:22PM]	Player bought 1127 x 1 from shop	
+[2/19/18 09:22PM]	Player bought 1079 x 1 from shop	
+[2/19/18 09:22PM]	Player bought 10828 x 1 from shop	
+[2/19/18 09:22PM]	Player bought 1725 x 1 from shop	
+[2/19/18 09:22PM]	Player bought 4131 x 1 from shop	
+[2/19/18 09:22PM]	Player dropping item: 1478, amount: 1	
+[2/19/18 09:24PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 1000000	
+[2/19/18 09:27PM]	Bleach received a Pet Rock Crab from Rock Crab	
+[2/19/18 09:27PM]	Player picking up item: [ItemDefinition(11974)] - Name: Pet Rock Crab; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/19/18 09:28PM]	Bleach used command ::title | Player rights = BRONZE_MEMBER	
+[2/19/18 09:28PM]	Bleach used command ::title | Player rights = BRONZE_MEMBER	
+[2/19/18 09:28PM]	Bleach used command ::title | Player rights = BRONZE_MEMBER	
+[2/21/18 02:56PM]	Login from host 173.22.221.39	

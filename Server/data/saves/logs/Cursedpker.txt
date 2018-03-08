@@ -1,0 +1,16 @@
+[3/5/18 10:38PM]	Login from host 184.144.147.220	
+[3/5/18 10:48PM]	Cursedpker used command ::answer barrows | Player rights = PLAYER	
+[3/5/18 11:08PM]	Cursedpker used command ::home | Player rights = PLAYER	
+[3/5/18 11:09PM]	Player bought 1079 x 1 from shop	
+[3/5/18 11:09PM]	Player bought 1127 x 1 from shop	
+[3/5/18 11:09PM]	Player bought 6524 x 1 from shop	
+[3/5/18 11:09PM]	Player bought 4131 x 1 from shop	
+[3/5/18 11:09PM]	Player bought 10828 x 1 from shop	
+[3/5/18 11:09PM]	Player bought 1704 x 1 from shop	
+[3/5/18 11:09PM]	Cursedpker used command ::[FRI]Daking | Player rights = PLAYER	
+[3/5/18 11:09PM]	Player bought 4587 x 1 from shop	
+[3/5/18 11:09PM]	Player bought 5680 x 1 from shop	
+[3/5/18 11:09PM]	Cursedpker used command ::crabs | Player rights = PLAYER	
+[3/6/18 01:07AM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 1000234	
+[3/6/18 07:19PM]	Login from host 184.144.147.220	
+[3/6/18 07:22PM]	Player picking up item: [ItemDefinition(985)] - Name: Tooth half of a key; equipment slot: 3; value: 26200; stackable ? false; noted ? false; 2h ? false amount: 1	

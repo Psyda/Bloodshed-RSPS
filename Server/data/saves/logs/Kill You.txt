@@ -1,0 +1,28 @@
+[2/18/18 11:39PM]	Login from host 65.79.153.90	
+[2/18/18 11:41PM]	Login from host 65.79.153.90	
+[2/18/18 11:41PM]	Login from host 65.79.153.90	
+[2/18/18 11:42PM]	Login from host 65.79.153.90	
+[2/18/18 11:43PM]	Receiving item from Allen. ItemName: Magic logs, itemId: 1514 amount: 138	
+[2/18/18 11:43PM]	Receiving item from Allen. ItemName: Coins, itemId: 995 amount: 43000000	
+[2/18/18 11:43PM]	Kill You used command ::bank | Player rights = BRONZE_MEMBER	
+[2/18/18 11:43PM]	Kill You used command ::home | Player rights = BRONZE_MEMBER	
+[2/19/18 12:46AM]	Receiving item from Kill You1. ItemName: Magic logs, itemId: 1514 amount: 1418	
+[2/19/18 12:46AM]	Receiving item from Kill You2. ItemName: Magic logs, itemId: 1514 amount: 1420	
+[2/19/18 12:52AM]	Kill You used command ::[FRI]D | Player rights = BRONZE_MEMBER	
+[2/19/18 02:32AM]	Receiving item from Kill You2. ItemName: Magic logs, itemId: 1514 amount: 2912	
+[2/19/18 02:33AM]	Receiving item from Kill You1. ItemName: Magic logs, itemId: 1514 amount: 2940	
+[2/19/18 06:04AM]	Receiving item from Kill You1. ItemName: Magic logs, itemId: 1514 amount: 5802	
+[2/19/18 06:04AM]	Receiving item from Kill You2. ItemName: Magic logs, itemId: 1514 amount: 5805	
+[2/19/18 08:15AM]	Login from host 65.79.153.90	
+[2/19/18 04:28PM]	Login from host 65.79.153.90	
+[2/19/18 04:29PM]	Receiving item from Kill You2. ItemName: Magic logs, itemId: 1514 amount: 5810	
+[2/19/18 04:29PM]	Receiving item from Kill You1. ItemName: Magic logs, itemId: 1514 amount: 5870	
+[2/19/18 04:29PM]	Kill You used command ::home | Player rights = BRONZE_MEMBER	
+[2/20/18 04:45PM]	Login from host 65.79.153.90	
+[2/20/18 04:46PM]	Kill You used command ::di | Player rights = BRONZE_MEMBER	
+[2/20/18 05:26PM]	Login from host 65.79.153.90	
+[2/20/18 05:59PM]	Login from host 86.164.204.76	
+[2/20/18 06:00PM]	Kill You used command ::empty | Player rights = BRONZE_MEMBER	
+[2/20/18 06:00PM]	Kill You used command ::empty | Player rights = BRONZE_MEMBER	
+[3/1/18 12:47PM]	Login from host 49.197.247.227	
+[3/2/18 05:39AM]	Login from host 65.79.153.90	

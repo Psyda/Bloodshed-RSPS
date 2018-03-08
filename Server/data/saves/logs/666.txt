@@ -1,0 +1,190 @@
+[2/11/18 12:57PM]	Login from host 96.36.148.156	
+[2/11/18 01:01PM]	Player bought 14490 x 1 from shop	
+[2/11/18 01:01PM]	Player bought 14494 x 1 from shop	
+[2/11/18 01:01PM]	Player bought 14492 x 1 from shop	
+[2/11/18 01:04PM]	Player bought 4587 x 1 from shop	
+[2/11/18 01:04PM]	Player bought 1704 x 1 from shop	
+[2/11/18 01:04PM]	Player bought 3842 x 1 from shop	
+[2/11/18 01:04PM]	Player bought 544 x 1 from shop	
+[2/11/18 01:04PM]	Player bought 11118 x 1 from shop	
+[2/11/18 01:04PM]	Player bought 10499 x 1 from shop	
+[2/11/18 01:05PM]	Player bought 861 x 1 from shop	
+[2/11/18 01:05PM]	Player bought 892 x 300 from shop	
+[2/11/18 01:05PM]	Player bought 2497 x 1 from shop	
+[2/11/18 01:24PM]	Player bought 3105 x 1 from shop	
+[2/11/18 01:25PM]	666 used command ::Home | Player rights = PLAYER	
+[2/11/18 01:27PM]	666 used command ::gamble | Player rights = PLAYER	
+[2/11/18 01:31PM]	Player bought 10828 x 1 from shop	
+[2/11/18 01:31PM]	Player bought 6328 x 1 from shop	
+[2/11/18 01:31PM]	Player bought 11230 x 1000 from shop	
+[2/11/18 01:31PM]	Player bought 11230 x 1000 from shop	
+[2/11/18 01:35PM]	Player bought 7462 x 10 from shop	
+[2/11/18 01:35PM]	Player dropping item: 11118, amount: 1	
+[2/11/18 01:36PM]	Receiving item from trade. Id: 18831, amount: 8 from: Wiglets	
+[2/11/18 01:40PM]	Player bought 4587 x 1 from shop	
+[2/11/18 01:43PM]	Receiving item from trade. Id: 18831, amount: 20 from: Lootz	
+[2/11/18 01:45PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 1000000	
+[2/11/18 01:45PM]	Player picking up item: [ItemDefinition(990)] - Name: Crystal key; equipment slot: 3; value: 43000; stackable ? true; noted ? true; 2h ? false amount: 1	
+[2/11/18 01:48PM]	Player dropping item: 229, amount: 1	
+[2/11/18 01:51PM]	Gave item in trade to Wiglets. Id: 12927, amount: 1	
+[2/11/18 01:51PM]	Receiving item from trade. Id: 20998, amount: 1 from: Wiglets	
+[2/11/18 01:51PM]	Receiving item from trade. Id: 11212, amount: 9821 from: Wiglets	
+[2/11/18 01:53PM]	Player bought 3025 x 1000 from shop	
+[2/11/18 01:53PM]	Player bought 2445 x 1000 from shop	
+[2/11/18 01:53PM]	Player bought 2437 x 1000 from shop	
+[2/11/18 01:53PM]	Player bought 2441 x 1000 from shop	
+[2/11/18 01:54PM]	Player dropping item: 577, amount: 1	
+[2/11/18 01:54PM]	Player dropping item: 1011, amount: 1	
+[2/11/18 01:54PM]	Player dropping item: 544, amount: 1	
+[2/11/18 01:54PM]	Player dropping item: 1478, amount: 1	
+[2/11/18 01:54PM]	Player dropping item: 1095, amount: 1	
+[2/11/18 01:54PM]	Player dropping item: 4391, amount: 1	
+[2/11/18 01:54PM]	Player dropping item: 841, amount: 1	
+[2/11/18 01:54PM]	Player dropping item: 1067, amount: 1	
+[2/11/18 01:54PM]	Player dropping item: 1191, amount: 1	
+[2/11/18 01:54PM]	Player dropping item: 1323, amount: 1	
+[2/11/18 01:54PM]	Player dropping item: 1153, amount: 1	
+[2/11/18 01:54PM]	Player dropping item: 1115, amount: 1	
+[2/11/18 01:54PM]	Player dropping item: 1169, amount: 1	
+[2/11/18 01:54PM]	Player dropping item: 579, amount: 1	
+[2/11/18 01:54PM]	Player dropping item: 882, amount: 485	
+[2/11/18 01:54PM]	Player dropping item: 1129, amount: 1	
+[2/11/18 01:54PM]	Player bought 2503 x 1 from shop	
+[2/11/18 01:54PM]	Player bought 2497 x 1 from shop	
+[2/11/18 01:55PM]	Player dropping item: 391, amount: 1	
+[2/11/18 01:55PM]	Player bought 13961 x 1 from shop	
+[2/11/18 01:55PM]	Player bought 1127 x 1 from shop	
+[2/11/18 01:55PM]	Player bought 1079 x 1 from shop	
+[2/11/18 01:55PM]	Player bought 3749 x 1 from shop	
+[2/11/18 01:56PM]	Player bought 1163 x 1 from shop	
+[2/11/18 01:56PM]	Player dropping item: 3749, amount: 1	
+[2/11/18 01:56PM]	Player bought 1163 x 1 from shop	
+[2/11/18 01:57PM]	Player picking up item: [ItemDefinition(1127)] - Name: Rune platebody; equipment slot: 4; value: 64000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 01:57PM]	Player picking up item: [ItemDefinition(1079)] - Name: Rune platelegs; equipment slot: 7; value: 44000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 01:57PM]	Player picking up item: [ItemDefinition(1163)] - Name: Rune full helm; equipment slot: 0; value: 40000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 01:57PM]	Player picking up item: [ItemDefinition(8851)] - Name: Warrior guild token; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 40	
+[2/11/18 01:58PM]	Player picking up item: [ItemDefinition(1127)] - Name: Rune platebody; equipment slot: 4; value: 64000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 01:58PM]	Player picking up item: [ItemDefinition(1079)] - Name: Rune platelegs; equipment slot: 7; value: 44000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 01:58PM]	Player picking up item: [ItemDefinition(1163)] - Name: Rune full helm; equipment slot: 0; value: 40000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 01:59PM]	Player picking up item: [ItemDefinition(8851)] - Name: Warrior guild token; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 40	
+[2/11/18 01:59PM]	Player picking up item: [ItemDefinition(8851)] - Name: Warrior guild token; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 40	
+[2/11/18 01:59PM]	Player picking up item: [ItemDefinition(1127)] - Name: Rune platebody; equipment slot: 4; value: 64000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 01:59PM]	Player picking up item: [ItemDefinition(1079)] - Name: Rune platelegs; equipment slot: 7; value: 44000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 01:59PM]	Player picking up item: [ItemDefinition(1163)] - Name: Rune full helm; equipment slot: 0; value: 40000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:00PM]	Player picking up item: [ItemDefinition(1127)] - Name: Rune platebody; equipment slot: 4; value: 64000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:00PM]	Player picking up item: [ItemDefinition(1079)] - Name: Rune platelegs; equipment slot: 7; value: 44000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:00PM]	Player picking up item: [ItemDefinition(1163)] - Name: Rune full helm; equipment slot: 0; value: 40000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:00PM]	Player picking up item: [ItemDefinition(8851)] - Name: Warrior guild token; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 40	
+[2/11/18 02:00PM]	Player dropping item: 229, amount: 1	
+[2/11/18 02:01PM]	Gave item in trade to Wiglets. Id: 391, amount: 1	
+[2/11/18 02:01PM]	Gave item in trade to Wiglets. Id: 391, amount: 1	
+[2/11/18 02:01PM]	Gave item in trade to Wiglets. Id: 3024, amount: 1	
+[2/11/18 02:01PM]	Receiving item from trade. Id: 13663, amount: 1 from: Wiglets	
+[2/11/18 02:01PM]	Receiving item from trade. Id: 1150, amount: 8 from: Wiglets	
+[2/11/18 02:02PM]	Receiving item from trade. Id: 14484, amount: 1 from: Wiglets	
+[2/11/18 02:02PM]	Player picking up item: [ItemDefinition(1127)] - Name: Rune platebody; equipment slot: 4; value: 64000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:02PM]	Player picking up item: [ItemDefinition(1079)] - Name: Rune platelegs; equipment slot: 7; value: 44000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:02PM]	Player dropping item: 3024, amount: 1	
+[2/11/18 02:02PM]	Player dropping item: 3024, amount: 1	
+[2/11/18 02:02PM]	Player picking up item: [ItemDefinition(1163)] - Name: Rune full helm; equipment slot: 0; value: 40000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:02PM]	Player picking up item: [ItemDefinition(8851)] - Name: Warrior guild token; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 40	
+[2/11/18 02:02PM]	Player picking up item: [ItemDefinition(11212)] - Name: Dragon arrow; equipment slot: 13; value: 5000; stackable ? true; noted ? false; 2h ? false amount: 3	
+[2/11/18 02:02PM]	Player picking up item: [ItemDefinition(3024)] - Name: Super restore (4); equipment slot: 3; value: 11800; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:02PM]	Player picking up item: [ItemDefinition(3024)] - Name: Super restore (4); equipment slot: 3; value: 11800; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:02PM]	Player dropping item: 3026, amount: 1	
+[2/11/18 02:03PM]	Player picking up item: [ItemDefinition(1127)] - Name: Rune platebody; equipment slot: 4; value: 64000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:03PM]	Player picking up item: [ItemDefinition(1079)] - Name: Rune platelegs; equipment slot: 7; value: 44000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:03PM]	Player picking up item: [ItemDefinition(1163)] - Name: Rune full helm; equipment slot: 0; value: 40000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:03PM]	Player picking up item: [ItemDefinition(8851)] - Name: Warrior guild token; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 40	
+[2/11/18 02:04PM]	Player picking up item: [ItemDefinition(1127)] - Name: Rune platebody; equipment slot: 4; value: 64000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:04PM]	Player picking up item: [ItemDefinition(1079)] - Name: Rune platelegs; equipment slot: 7; value: 44000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:04PM]	Player picking up item: [ItemDefinition(1163)] - Name: Rune full helm; equipment slot: 0; value: 40000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:04PM]	Player picking up item: [ItemDefinition(8851)] - Name: Warrior guild token; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 40	
+[2/11/18 02:05PM]	Player picking up item: [ItemDefinition(1127)] - Name: Rune platebody; equipment slot: 4; value: 64000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:05PM]	Player picking up item: [ItemDefinition(1079)] - Name: Rune platelegs; equipment slot: 7; value: 44000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:05PM]	Player picking up item: [ItemDefinition(1163)] - Name: Rune full helm; equipment slot: 0; value: 40000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:05PM]	Player picking up item: [ItemDefinition(8851)] - Name: Warrior guild token; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 40	
+[2/11/18 02:05PM]	Player picking up item: [ItemDefinition(8851)] - Name: Warrior guild token; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 40	
+[2/11/18 02:05PM]	Player picking up item: [ItemDefinition(1127)] - Name: Rune platebody; equipment slot: 4; value: 64000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:05PM]	Player picking up item: [ItemDefinition(1079)] - Name: Rune platelegs; equipment slot: 7; value: 44000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:05PM]	Player picking up item: [ItemDefinition(1163)] - Name: Rune full helm; equipment slot: 0; value: 40000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:06PM]	Player picking up item: [ItemDefinition(1127)] - Name: Rune platebody; equipment slot: 4; value: 64000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:06PM]	Player picking up item: [ItemDefinition(1079)] - Name: Rune platelegs; equipment slot: 7; value: 44000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:06PM]	Player picking up item: [ItemDefinition(1163)] - Name: Rune full helm; equipment slot: 0; value: 40000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:06PM]	Player picking up item: [ItemDefinition(8851)] - Name: Warrior guild token; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 40	
+[2/11/18 02:06PM]	Player picking up item: [ItemDefinition(1127)] - Name: Rune platebody; equipment slot: 4; value: 64000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:06PM]	Player picking up item: [ItemDefinition(1079)] - Name: Rune platelegs; equipment slot: 7; value: 44000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:06PM]	Player picking up item: [ItemDefinition(1163)] - Name: Rune full helm; equipment slot: 0; value: 40000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:06PM]	Player picking up item: [ItemDefinition(8851)] - Name: Warrior guild token; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 40	
+[2/11/18 02:07PM]	Player dropping item: 229, amount: 1	
+[2/11/18 02:13PM]	Player dropping item: 229, amount: 1	
+[2/11/18 02:14PM]	Player picking up item: [ItemDefinition(8844)] - Name: Bronze defender; equipment slot: 5; value: 1000001; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:15PM]	Player picking up item: [ItemDefinition(8845)] - Name: Iron defender; equipment slot: 5; value: 1000001; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:15PM]	Player dropping item: 8844, amount: 1	
+[2/11/18 02:21PM]	Player picking up item: [ItemDefinition(8846)] - Name: Steel defender; equipment slot: 5; value: 1000001; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:21PM]	Player dropping item: 8845, amount: 1	
+[2/11/18 02:21PM]	Player dropping item: 229, amount: 1	
+[2/11/18 02:23PM]	Player picking up item: [ItemDefinition(8847)] - Name: Black defender; equipment slot: 5; value: 1000001; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:24PM]	Player picking up item: [ItemDefinition(8848)] - Name: Mithril defender; equipment slot: 5; value: 1000001; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:24PM]	Player dropping item: 8847, amount: 1	
+[2/11/18 02:24PM]	Player dropping item: 8846, amount: 1	
+[2/11/18 02:29PM]	Player dropping item: 229, amount: 1	
+[2/11/18 02:30PM]	Player picking up item: [ItemDefinition(8849)] - Name: Adamant defender; equipment slot: 5; value: 1000001; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:30PM]	Player dropping item: 8848, amount: 1	
+[2/11/18 02:33PM]	Player dropping item: 229, amount: 1	
+[2/11/18 02:34PM]	Player picking up item: [ItemDefinition(1127)] - Name: Rune platebody; equipment slot: 4; value: 64000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:34PM]	Player picking up item: [ItemDefinition(1079)] - Name: Rune platelegs; equipment slot: 7; value: 44000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:34PM]	Player picking up item: [ItemDefinition(1163)] - Name: Rune full helm; equipment slot: 0; value: 40000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:34PM]	Player picking up item: [ItemDefinition(11212)] - Name: Dragon arrow; equipment slot: 13; value: 5000; stackable ? true; noted ? false; 2h ? false amount: 3	
+[2/11/18 02:34PM]	Player picking up item: [ItemDefinition(1127)] - Name: Rune platebody; equipment slot: 4; value: 64000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:34PM]	Player picking up item: [ItemDefinition(1079)] - Name: Rune platelegs; equipment slot: 7; value: 44000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:34PM]	Player picking up item: [ItemDefinition(1163)] - Name: Rune full helm; equipment slot: 0; value: 40000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:34PM]	Player picking up item: [ItemDefinition(8851)] - Name: Warrior guild token; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 40	
+[2/11/18 02:34PM]	Player picking up item: [ItemDefinition(11212)] - Name: Dragon arrow; equipment slot: 13; value: 5000; stackable ? true; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:34PM]	Player picking up item: [ItemDefinition(8851)] - Name: Warrior guild token; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 40	
+[2/11/18 02:34PM]	Player picking up item: [ItemDefinition(11212)] - Name: Dragon arrow; equipment slot: 13; value: 5000; stackable ? true; noted ? false; 2h ? false amount: 2	
+[2/11/18 02:34PM]	Player picking up item: [ItemDefinition(1127)] - Name: Rune platebody; equipment slot: 4; value: 64000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:34PM]	Player picking up item: [ItemDefinition(1079)] - Name: Rune platelegs; equipment slot: 7; value: 44000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:34PM]	Player picking up item: [ItemDefinition(1163)] - Name: Rune full helm; equipment slot: 0; value: 40000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:35PM]	Player picking up item: [ItemDefinition(1127)] - Name: Rune platebody; equipment slot: 4; value: 64000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:35PM]	Player picking up item: [ItemDefinition(1163)] - Name: Rune full helm; equipment slot: 0; value: 40000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:35PM]	Player picking up item: [ItemDefinition(1079)] - Name: Rune platelegs; equipment slot: 7; value: 44000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:35PM]	Player picking up item: [ItemDefinition(11212)] - Name: Dragon arrow; equipment slot: 13; value: 5000; stackable ? true; noted ? false; 2h ? false amount: 4	
+[2/11/18 02:35PM]	Player picking up item: [ItemDefinition(8851)] - Name: Warrior guild token; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 40	
+[2/11/18 02:35PM]	Player picking up item: [ItemDefinition(8851)] - Name: Warrior guild token; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 40	
+[2/11/18 02:35PM]	Player picking up item: [ItemDefinition(1127)] - Name: Rune platebody; equipment slot: 4; value: 64000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:35PM]	Player picking up item: [ItemDefinition(1079)] - Name: Rune platelegs; equipment slot: 7; value: 44000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:35PM]	Player picking up item: [ItemDefinition(1163)] - Name: Rune full helm; equipment slot: 0; value: 40000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:35PM]	Player picking up item: [ItemDefinition(11212)] - Name: Dragon arrow; equipment slot: 13; value: 5000; stackable ? true; noted ? false; 2h ? false amount: 6	
+[2/11/18 02:36PM]	Player picking up item: [ItemDefinition(1163)] - Name: Rune full helm; equipment slot: 0; value: 40000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:36PM]	Player picking up item: [ItemDefinition(8851)] - Name: Warrior guild token; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 80	
+[2/11/18 02:36PM]	Player picking up item: [ItemDefinition(1127)] - Name: Rune platebody; equipment slot: 4; value: 64000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:36PM]	Player picking up item: [ItemDefinition(1079)] - Name: Rune platelegs; equipment slot: 7; value: 44000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:36PM]	Player picking up item: [ItemDefinition(1127)] - Name: Rune platebody; equipment slot: 4; value: 64000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:36PM]	Player picking up item: [ItemDefinition(1079)] - Name: Rune platelegs; equipment slot: 7; value: 44000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:36PM]	Player picking up item: [ItemDefinition(1163)] - Name: Rune full helm; equipment slot: 0; value: 40000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:36PM]	Player picking up item: [ItemDefinition(11212)] - Name: Dragon arrow; equipment slot: 13; value: 5000; stackable ? true; noted ? false; 2h ? false amount: 2	
+[2/11/18 02:36PM]	Player picking up item: [ItemDefinition(8851)] - Name: Warrior guild token; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 40	
+[2/11/18 02:36PM]	Player picking up item: [ItemDefinition(1127)] - Name: Rune platebody; equipment slot: 4; value: 64000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:36PM]	Player picking up item: [ItemDefinition(8851)] - Name: Warrior guild token; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 40	
+[2/11/18 02:36PM]	Player picking up item: [ItemDefinition(1079)] - Name: Rune platelegs; equipment slot: 7; value: 44000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:36PM]	Player picking up item: [ItemDefinition(1163)] - Name: Rune full helm; equipment slot: 0; value: 40000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:36PM]	Player picking up item: [ItemDefinition(11212)] - Name: Dragon arrow; equipment slot: 13; value: 5000; stackable ? true; noted ? false; 2h ? false amount: 4	
+[2/11/18 02:37PM]	Player picking up item: [ItemDefinition(8851)] - Name: Warrior guild token; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 40	
+[2/11/18 02:37PM]	Player picking up item: [ItemDefinition(1127)] - Name: Rune platebody; equipment slot: 4; value: 64000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:37PM]	Player picking up item: [ItemDefinition(1079)] - Name: Rune platelegs; equipment slot: 7; value: 44000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:37PM]	Player picking up item: [ItemDefinition(1163)] - Name: Rune full helm; equipment slot: 0; value: 40000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:37PM]	Player picking up item: [ItemDefinition(11212)] - Name: Dragon arrow; equipment slot: 13; value: 5000; stackable ? true; noted ? false; 2h ? false amount: 7	
+[2/11/18 02:37PM]	Player bought 13961 x 10 from shop	
+[2/11/18 02:37PM]	Player bought 13961 x 5 from shop	
+[2/11/18 02:39PM]	Player picking up item: [ItemDefinition(8850)] - Name: Rune defender; equipment slot: 5; value: 1000001; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:39PM]	Player dropping item: 8849, amount: 1	
+[2/11/18 02:41PM]	Player dropping item: 3030, amount: 1	
+[2/11/18 02:43PM]	Login from host 96.36.148.156	
+[2/11/18 02:43PM]	Player picking up item: [ItemDefinition(20072)] - Name: Dragon defender; equipment slot: 5; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:43PM]	Player dropping item: 8850, amount: 1	
+[2/11/18 02:43PM]	Player picking up item: [ItemDefinition(8850)] - Name: Rune defender; equipment slot: 5; value: 1000001; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/11/18 02:51PM]	Receiving item from trade. Id: 12927, amount: 1 from: Wiglets	
+[2/11/18 02:51PM]	Receiving item from trade. Id: 1149, amount: 1 from: Wiglets	
+[2/11/18 02:51PM]	Receiving item from trade. Id: 4087, amount: 1 from: Wiglets	
+[2/11/18 03:02PM]	666 used command ::/inferno bugged af | Player rights = PLAYER	

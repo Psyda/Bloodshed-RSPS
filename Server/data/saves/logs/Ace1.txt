@@ -1,0 +1,19 @@
+[2/9/18 06:53PM]	Login from host 172.58.139.18	
+[2/11/18 08:31PM]	Login from host 98.206.70.243	
+[2/11/18 08:35PM]	Ace1 used command ::teleto lootz | Player rights = SUPPORT	
+[2/11/18 08:38PM]	Ace1 used command ::teleto lootz | Player rights = SUPPORT	
+[2/11/18 08:43PM]	Ace1 used command ::movehome ace1 | Player rights = SUPPORT	
+[2/11/18 08:43PM]	Ace1 used command ::teleto ace | Player rights = SUPPORT	
+[2/11/18 08:44PM]	Ace1 used command ::coords | Player rights = SUPPORT	
+[2/11/18 08:44PM]	Ace1 used command ::movehome ace1 | Player rights = SUPPORT	
+[2/11/18 08:46PM]	Ace1 used command ::teleto ace | Player rights = SUPPORT	
+[2/11/18 09:14PM]	Ace1 used command ::teleto lootz | Player rights = SUPPORT	
+[2/16/18 10:19AM]	Login from host 172.56.11.63	
+[2/16/18 10:20AM]	Ace1 used command ::[FRI]Skillful | Player rights = PLAYER	
+[2/16/18 10:21AM]	Login from host 172.56.11.63	
+[2/27/18 06:13PM]	Login from host 208.54.40.246	
+[2/27/18 06:13PM]	Ace1 used command ::remindhelp | Player rights = PLAYER	
+[2/27/18 06:13PM]	Ace1 used command ::remindhelp | Player rights = PLAYER	
+[2/27/18 06:13PM]	Ace1 used command ::reminddon | Player rights = PLAYER	
+[2/27/18 06:13PM]	Ace1 used command ::remindvote | Player rights = PLAYER	
+[2/27/18 06:16PM]	Ace1 used command ::yell @gre@ pentis | Player rights = PLAYER	

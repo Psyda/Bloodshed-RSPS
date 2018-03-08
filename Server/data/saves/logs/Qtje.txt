@@ -1,0 +1,425 @@
+[3/6/18 09:11AM]	Login from host 217.122.134.183	
+[3/6/18 09:12AM]	Qtje used command ::check | Player rights = PLAYER	
+[3/6/18 09:17AM]	Player bought 1351 x 1 from shop	
+[3/6/18 09:17AM]	Player bought 1359 x 1 from shop	
+[3/6/18 09:18AM]	Player picking up item: [ItemDefinition(5073)] - Name: Bird's nest; equipment slot: 3; value: 497; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/6/18 09:19AM]	Qtje used command ::answer 55 | Player rights = PLAYER	
+[3/6/18 09:19AM]	Qtje used command ::answer 5 | Player rights = PLAYER	
+[3/6/18 09:19AM]	Qtje used command ::answer 50 | Player rights = PLAYER	
+[3/6/18 09:19AM]	Qtje used command ::answer 60 | Player rights = PLAYER	
+[3/6/18 09:20AM]	Qtje used command ::answer 0 | Player rights = PLAYER	
+[3/6/18 09:20AM]	Qtje used command ::answer 119 | Player rights = PLAYER	
+[3/6/18 09:20AM]	Qtje used command ::answer 110 | Player rights = PLAYER	
+[3/6/18 09:20AM]	Qtje used command ::answer  75 | Player rights = PLAYER	
+[3/6/18 09:21AM]	Qtje used command ::answer 75 | Player rights = PLAYER	
+[3/6/18 09:21AM]	Qtje used command ::answer 70 | Player rights = PLAYER	
+[3/6/18 09:23AM]	Qtje used command ::answer 80 | Player rights = PLAYER	
+[3/6/18 09:27AM]	Player picking up item: [ItemDefinition(5073)] - Name: Bird's nest; equipment slot: 3; value: 497; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/6/18 09:41AM]	Qtje used command ::answer 20 | Player rights = PLAYER	
+[3/6/18 09:44AM]	Player picking up item: [ItemDefinition(5073)] - Name: Bird's nest; equipment slot: 3; value: 497; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/6/18 09:47AM]	Player picking up item: [ItemDefinition(5073)] - Name: Bird's nest; equipment slot: 3; value: 497; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/6/18 09:50AM]	Player picking up item: [ItemDefinition(5073)] - Name: Bird's nest; equipment slot: 3; value: 497; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/6/18 09:51AM]	Player picking up item: [ItemDefinition(5074)] - Name: Bird's nest; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/6/18 09:52AM]	Player picking up item: [ItemDefinition(5073)] - Name: Bird's nest; equipment slot: 3; value: 497; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/6/18 09:54AM]	Player picking up item: [ItemDefinition(5074)] - Name: Bird's nest; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/6/18 09:55AM]	Player dropping item: 5073, amount: 1	
+[3/6/18 09:55AM]	Player picking up item: [ItemDefinition(5073)] - Name: Bird's nest; equipment slot: 3; value: 497; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/6/18 09:56AM]	Player picking up item: [ItemDefinition(5073)] - Name: Bird's nest; equipment slot: 3; value: 497; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/6/18 10:00AM]	Player picking up item: [ItemDefinition(5073)] - Name: Bird's nest; equipment slot: 3; value: 497; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/6/18 10:05AM]	Gave item in trade to Q. ItemName: Evil tree kindling, itemId: 14666 amount: 500	
+[3/6/18 10:05AM]	Gave item in trade to Q. ItemName: Vote scroll, itemId: 19670 amount: 3	
+[3/6/18 10:26AM]	Player bought 1265 x 1 from shop	
+[3/6/18 10:26AM]	Player bought 1275 x 1 from shop	
+[3/6/18 10:28AM]	Player dropping item: 1623, amount: 1	
+[3/6/18 10:28AM]	Player dropping item: 1631, amount: 1	
+[3/6/18 10:28AM]	Player dropping item: 1621, amount: 1	
+[3/6/18 10:29AM]	Player dropping item: 1265, amount: 1	
+[3/6/18 10:33AM]	Player dropping item: 1631, amount: 1	
+[3/6/18 10:41AM]	Player dropping item: 1623, amount: 1	
+[3/6/18 10:46AM]	Player dropping item: 1623, amount: 1	
+[3/6/18 10:46AM]	Player dropping item: 1621, amount: 1	
+[3/6/18 10:54AM]	Qtje used command ::answer 5 | Player rights = PLAYER	
+[3/6/18 10:54AM]	Qtje used command ::answer 3 | Player rights = PLAYER	
+[3/6/18 10:54AM]	Qtje used command ::answer 7 | Player rights = PLAYER	
+[3/6/18 10:54AM]	Qtje used command ::answer 9 | Player rights = PLAYER	
+[3/6/18 10:54AM]	Qtje used command ::answer 8 | Player rights = PLAYER	
+[3/6/18 11:10AM]	Login from host 217.122.134.183	
+[3/6/18 11:24AM]	Player picking up item: [ItemDefinition(5073)] - Name: Bird's nest; equipment slot: 3; value: 497; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/6/18 01:27PM]	Login from host 217.122.134.183	
+[3/6/18 01:30PM]	Player dropping item: 1778, amount: 7	
+[3/6/18 01:32PM]	Player dropping item: 1632, amount: 2	
+[3/6/18 01:32PM]	Player dropping item: 1748, amount: 4	
+[3/6/18 01:32PM]	Player dropping item: 25, amount: 7	
+[3/6/18 01:32PM]	Player dropping item: 314, amount: 20	
+[3/6/18 01:32PM]	Player dropping item: 1359, amount: 1	
+[3/6/18 01:32PM]	Player dropping item: 1620, amount: 3	
+[3/6/18 01:32PM]	Player dropping item: 995, amount: 20000	
+[3/6/18 01:32PM]	Player dropping item: 1359, amount: 1	
+[3/6/18 01:32PM]	Player dropping item: 1359, amount: 1	
+[3/6/18 01:32PM]	Player dropping item: 454, amount: 10	
+[3/6/18 01:32PM]	Player picking up item: [ItemDefinition(995)] - Name: Coins; equipment slot: 3; value: 1; stackable ? true; noted ? false; 2h ? false amount: 20000	
+[3/6/18 01:34PM]	Player dropping item: 11260, amount: 1	
+[3/6/18 01:34PM]	Player dropping item: 554, amount: 50	
+[3/6/18 01:34PM]	Player dropping item: 309, amount: 1	
+[3/6/18 01:34PM]	Player dropping item: 1620, amount: 3	
+[3/6/18 01:34PM]	Player dropping item: 454, amount: 25	
+[3/6/18 01:34PM]	Player dropping item: 454, amount: 15	
+[3/6/18 01:35PM]	Player dropping item: 454, amount: 1	
+[3/6/18 01:35PM]	Player dropping item: 1275, amount: 1	
+[3/6/18 01:35PM]	Player dropping item: 1632, amount: 1	
+[3/6/18 01:35PM]	Player dropping item: 11260, amount: 1	
+[3/6/18 01:35PM]	Player picking up item: [ItemDefinition(1632)] - Name: Uncut dragonstone; equipment slot: 3; value: 18000; stackable ? true; noted ? true; 2h ? false amount: 1	
+[3/6/18 01:35PM]	Player picking up item: [ItemDefinition(454)] - Name: Coal; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 40	
+[3/6/18 01:35PM]	Player picking up item: [ItemDefinition(1620)] - Name: Uncut ruby; equipment slot: 3; value: 950; stackable ? true; noted ? true; 2h ? false amount: 3	
+[3/6/18 01:36PM]	Player dropping item: 309, amount: 1	
+[3/6/18 01:36PM]	Player dropping item: 1620, amount: 3	
+[3/6/18 01:36PM]	Player dropping item: 454, amount: 40	
+[3/6/18 01:36PM]	Player dropping item: 1632, amount: 1	
+[3/6/18 01:36PM]	Player dropping item: 1275, amount: 1	
+[3/6/18 01:36PM]	Player dropping item: 224, amount: 5	
+[3/6/18 01:36PM]	Player dropping item: 1618, amount: 2	
+[3/6/18 01:36PM]	Player dropping item: 1359, amount: 1	
+[3/6/18 01:36PM]	Player dropping item: 11260, amount: 1	
+[3/6/18 01:37PM]	Player picking up item: [ItemDefinition(1632)] - Name: Uncut dragonstone; equipment slot: 3; value: 18000; stackable ? true; noted ? true; 2h ? false amount: 1	
+[3/6/18 01:37PM]	Player picking up item: [ItemDefinition(1618)] - Name: Uncut diamond; equipment slot: 3; value: 7200; stackable ? true; noted ? true; 2h ? false amount: 2	
+[3/6/18 01:37PM]	Player picking up item: [ItemDefinition(454)] - Name: Coal; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 40	
+[3/6/18 01:37PM]	Player picking up item: [ItemDefinition(1620)] - Name: Uncut ruby; equipment slot: 3; value: 950; stackable ? true; noted ? true; 2h ? false amount: 3	
+[3/6/18 01:37PM]	Player picking up item: [ItemDefinition(1275)] - Name: Rune pickaxe; equipment slot: 3; value: 49200; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/6/18 01:37PM]	Player dropping item: 1275, amount: 1	
+[3/6/18 01:37PM]	Player dropping item: 1618, amount: 2	
+[3/6/18 01:37PM]	Player dropping item: 454, amount: 40	
+[3/6/18 01:37PM]	Player dropping item: 1620, amount: 3	
+[3/6/18 01:37PM]	Player dropping item: 1632, amount: 1	
+[3/6/18 01:37PM]	Player dropping item: 11212, amount: 2	
+[3/6/18 01:37PM]	Player dropping item: 454, amount: 15	
+[3/6/18 01:37PM]	Player dropping item: 1748, amount: 2	
+[3/6/18 01:38PM]	Player dropping item: 224, amount: 5	
+[3/6/18 01:38PM]	Player dropping item: 454, amount: 5	
+[3/6/18 01:38PM]	Player picking up item: [ItemDefinition(1632)] - Name: Uncut dragonstone; equipment slot: 3; value: 18000; stackable ? true; noted ? true; 2h ? false amount: 1	
+[3/6/18 01:38PM]	Player dropping item: 52, amount: 100	
+[3/6/18 01:39PM]	Player dropping item: 1618, amount: 2	
+[3/6/18 01:39PM]	Player dropping item: 229, amount: 1	
+[3/6/18 01:39PM]	Player dropping item: 1620, amount: 3	
+[3/6/18 01:39PM]	Player dropping item: 1632, amount: 4	
+[3/6/18 01:39PM]	Player dropping item: 11260, amount: 1	
+[3/6/18 01:39PM]	Player dropping item: 554, amount: 50	
+[3/6/18 01:39PM]	Player dropping item: 454, amount: 5	
+[3/6/18 01:39PM]	Player dropping item: 1618, amount: 2	
+[3/6/18 01:40PM]	Player dropping item: 11260, amount: 1	
+[3/6/18 01:40PM]	Player dropping item: 9341, amount: 20	
+[3/6/18 01:40PM]	Player dropping item: 314, amount: 20	
+[3/6/18 01:40PM]	Player dropping item: 1620, amount: 3	
+[3/6/18 01:40PM]	Player dropping item: 454, amount: 20	
+[3/6/18 01:40PM]	Player dropping item: 309, amount: 1	
+[3/6/18 01:41PM]	Player dropping item: 25, amount: 7	
+[3/6/18 01:41PM]	Player dropping item: 1632, amount: 2	
+[3/6/18 01:41PM]	Player dropping item: 11260, amount: 1	
+[3/6/18 01:41PM]	Player dropping item: 229, amount: 1	
+[3/6/18 01:41PM]	Player dropping item: 1275, amount: 1	
+[3/6/18 01:41PM]	Player dropping item: 454, amount: 10	
+[3/6/18 01:41PM]	Player dropping item: 1618, amount: 2	
+[3/6/18 01:41PM]	Player dropping item: 11260, amount: 1	
+[3/6/18 01:41PM]	Player dropping item: 1250, amount: 1	
+[3/6/18 01:41PM]	Player dropping item: 1748, amount: 8	
+[3/6/18 01:41PM]	Player dropping item: 52, amount: 100	
+[3/6/18 01:41PM]	Player dropping item: 454, amount: 10	
+[3/6/18 01:42PM]	Player dropping item: 562, amount: 3	
+[3/6/18 01:42PM]	Player dropping item: 11260, amount: 1	
+[3/6/18 01:42PM]	Player dropping item: 309, amount: 1	
+[3/6/18 01:42PM]	Player dropping item: 1618, amount: 2	
+[3/6/18 01:42PM]	Player dropping item: 309, amount: 1	
+[3/6/18 01:42PM]	Player dropping item: 314, amount: 20	
+[3/6/18 01:42PM]	Player dropping item: 1618, amount: 2	
+[3/6/18 01:42PM]	Player dropping item: 52, amount: 100	
+[3/6/18 01:43PM]	Player dropping item: 1748, amount: 2	
+[3/6/18 01:43PM]	Player dropping item: 1748, amount: 2	
+[3/6/18 01:43PM]	Player dropping item: 1748, amount: 4	
+[3/6/18 01:43PM]	Player dropping item: 1632, amount: 1	
+[3/6/18 01:43PM]	Player dropping item: 454, amount: 15	
+[3/6/18 01:43PM]	Player dropping item: 25, amount: 7	
+[3/6/18 01:43PM]	Player dropping item: 1359, amount: 1	
+[3/6/18 01:43PM]	Player dropping item: 1275, amount: 1	
+[3/6/18 01:44PM]	Player dropping item: 11260, amount: 1	
+[3/6/18 01:44PM]	Player dropping item: 2366, amount: 1	
+[3/6/18 01:45PM]	Player dropping item: 1748, amount: 2	
+[3/6/18 01:45PM]	Player dropping item: 25, amount: 7	
+[3/6/18 01:45PM]	Player dropping item: 309, amount: 1	
+[3/6/18 01:45PM]	Player dropping item: 11260, amount: 1	
+[3/6/18 01:45PM]	Player dropping item: 1734, amount: 1	
+[3/6/18 01:45PM]	Player dropping item: 454, amount: 10	
+[3/6/18 01:45PM]	Player dropping item: 1632, amount: 1	
+[3/6/18 01:45PM]	Player picking up item: [ItemDefinition(454)] - Name: Coal; equipment slot: 3; value: 0; stackable ? true; noted ? true; 2h ? false amount: 25	
+[3/6/18 01:45PM]	Player picking up item: [ItemDefinition(1632)] - Name: Uncut dragonstone; equipment slot: 3; value: 18000; stackable ? true; noted ? true; 2h ? false amount: 1	
+[3/6/18 01:45PM]	Player dropping item: 454, amount: 25	
+[3/6/18 01:45PM]	Player dropping item: 1632, amount: 1	
+[3/6/18 01:45PM]	Player dropping item: 454, amount: 10	
+[3/6/18 01:45PM]	Player dropping item: 224, amount: 5	
+[3/6/18 01:45PM]	Player dropping item: 314, amount: 20	
+[3/6/18 01:46PM]	Player dropping item: 1632, amount: 1	
+[3/6/18 01:46PM]	Player dropping item: 229, amount: 1	
+[3/6/18 01:46PM]	Player dropping item: 1275, amount: 1	
+[3/6/18 01:46PM]	Player dropping item: 25, amount: 7	
+[3/6/18 01:46PM]	Player dropping item: 454, amount: 15	
+[3/6/18 01:46PM]	Player dropping item: 454, amount: 5	
+[3/6/18 01:46PM]	Player dropping item: 11260, amount: 1	
+[3/6/18 01:46PM]	Player dropping item: 224, amount: 5	
+[3/6/18 01:46PM]	Player dropping item: 454, amount: 5	
+[3/6/18 01:46PM]	Player dropping item: 454, amount: 15	
+[3/6/18 01:46PM]	Player dropping item: 1748, amount: 2	
+[3/6/18 01:47PM]	Player dropping item: 1618, amount: 2	
+[3/6/18 01:47PM]	Player dropping item: 224, amount: 5	
+[3/6/18 01:47PM]	Player dropping item: 454, amount: 5	
+[3/6/18 01:47PM]	Player dropping item: 454, amount: 5	
+[3/6/18 01:47PM]	Player dropping item: 229, amount: 1	
+[3/6/18 01:47PM]	Player dropping item: 229, amount: 1	
+[3/6/18 01:47PM]	Player dropping item: 314, amount: 20	
+[3/6/18 01:48PM]	Player dropping item: 314, amount: 20	
+[3/6/18 01:48PM]	Player dropping item: 1620, amount: 3	
+[3/6/18 01:48PM]	Player dropping item: 11260, amount: 1	
+[3/6/18 01:48PM]	Player dropping item: 565, amount: 3	
+[3/6/18 01:48PM]	Player dropping item: 11260, amount: 1	
+[3/6/18 01:48PM]	Player dropping item: 9341, amount: 20	
+[3/6/18 01:48PM]	Player dropping item: 1632, amount: 1	
+[3/6/18 01:49PM]	Player dropping item: 1359, amount: 1	
+[3/6/18 01:49PM]	Player dropping item: 11260, amount: 1	
+[3/6/18 01:49PM]	Player dropping item: 229, amount: 1	
+[3/6/18 01:49PM]	Player dropping item: 314, amount: 20	
+[3/6/18 01:49PM]	Player dropping item: 454, amount: 5	
+[3/6/18 01:49PM]	Player dropping item: 1632, amount: 1	
+[3/6/18 01:49PM]	Player dropping item: 314, amount: 20	
+[3/6/18 01:49PM]	Player dropping item: 52, amount: 100	
+[3/6/18 01:50PM]	Player dropping item: 11260, amount: 1	
+[3/6/18 01:50PM]	Player dropping item: 1705, amount: 1	
+[3/6/18 01:50PM]	Player dropping item: 11260, amount: 1	
+[3/6/18 01:50PM]	Player dropping item: 1632, amount: 1	
+[3/6/18 01:50PM]	Player dropping item: 1748, amount: 2	
+[3/6/18 01:50PM]	Player dropping item: 1620, amount: 3	
+[3/6/18 01:50PM]	Player dropping item: 11260, amount: 1	
+[3/6/18 01:51PM]	Player dropping item: 314, amount: 20	
+[3/6/18 01:51PM]	Player dropping item: 224, amount: 5	
+[3/6/18 01:51PM]	Player dropping item: 1620, amount: 3	
+[3/6/18 01:51PM]	Player dropping item: 1748, amount: 4	
+[3/6/18 01:51PM]	Player dropping item: 229, amount: 1	
+[3/6/18 01:51PM]	Player dropping item: 1359, amount: 1	
+[3/6/18 01:51PM]	Player dropping item: 309, amount: 1	
+[3/6/18 01:51PM]	Player dropping item: 11260, amount: 1	
+[3/6/18 01:51PM]	Player dropping item: 7219, amount: 6	
+[3/6/18 01:52PM]	Player dropping item: 454, amount: 15	
+[3/6/18 01:52PM]	Player dropping item: 1275, amount: 1	
+[3/6/18 01:52PM]	Player dropping item: 11260, amount: 1	
+[3/6/18 01:52PM]	Player dropping item: 1632, amount: 1	
+[3/6/18 01:52PM]	Player dropping item: 454, amount: 15	
+[3/6/18 01:52PM]	Player dropping item: 5300, amount: 1	
+[3/6/18 01:52PM]	Player dropping item: 11260, amount: 1	
+[3/6/18 01:52PM]	Player dropping item: 11260, amount: 1	
+[3/6/18 01:52PM]	Player dropping item: 11232, amount: 5	
+[3/6/18 01:53PM]	Player dropping item: 224, amount: 5	
+[3/6/18 01:53PM]	Player dropping item: 1359, amount: 1	
+[3/6/18 01:53PM]	Player dropping item: 52, amount: 100	
+[3/6/18 01:53PM]	Player picking up item: [ItemDefinition(1632)] - Name: Uncut dragonstone; equipment slot: 3; value: 18000; stackable ? true; noted ? true; 2h ? false amount: 1	
+[3/6/18 01:53PM]	Player picking up item: [ItemDefinition(5300)] - Name: Snapdragon seed; equipment slot: 3; value: 90240; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/6/18 01:53PM]	Player dropping item: 454, amount: 15	
+[3/6/18 01:53PM]	Player dropping item: 1632, amount: 1	
+[3/6/18 01:53PM]	Player dropping item: 5300, amount: 1	
+[3/6/18 01:53PM]	Player dropping item: 1620, amount: 3	
+[3/6/18 01:53PM]	Player dropping item: 1632, amount: 1	
+[3/6/18 01:53PM]	Player dropping item: 454, amount: 15	
+[3/6/18 01:53PM]	Player dropping item: 1748, amount: 4	
+[3/6/18 01:53PM]	Player picking up item: [ItemDefinition(1632)] - Name: Uncut dragonstone; equipment slot: 3; value: 18000; stackable ? true; noted ? true; 2h ? false amount: 2	
+[3/6/18 01:53PM]	Player picking up item: [ItemDefinition(5300)] - Name: Snapdragon seed; equipment slot: 3; value: 90240; stackable ? true; noted ? false; 2h ? false amount: 1	
+[3/6/18 01:53PM]	Player dropping item: 5300, amount: 1	
+[3/6/18 01:53PM]	Player dropping item: 1632, amount: 2	
+[3/6/18 01:54PM]	Player dropping item: 11260, amount: 1	
+[3/6/18 01:54PM]	Player dropping item: 559, amount: 18	
+[3/6/18 01:54PM]	Player dropping item: 11260, amount: 1	
+[3/6/18 01:54PM]	Player dropping item: 1359, amount: 1	
+[3/6/18 02:07PM]	Player dropping item: 1748, amount: 4	
+[3/6/18 02:07PM]	Player dropping item: 1275, amount: 1	
+[3/6/18 02:07PM]	Player dropping item: 314, amount: 20	
+[3/6/18 02:07PM]	Player dropping item: 25, amount: 7	
+[3/6/18 02:07PM]	Player dropping item: 1620, amount: 3	
+[3/6/18 02:07PM]	Player dropping item: 1620, amount: 3	
+[3/6/18 02:07PM]	Player dropping item: 1359, amount: 1	
+[3/6/18 02:07PM]	Player dropping item: 1748, amount: 4	
+[3/6/18 02:07PM]	Player dropping item: 11260, amount: 1	
+[3/6/18 02:07PM]	Player dropping item: 4694, amount: 4	
+[3/6/18 02:07PM]	Player dropping item: 224, amount: 5	
+[3/6/18 02:08PM]	Player dropping item: 1618, amount: 2	
+[3/6/18 02:08PM]	Player dropping item: 25, amount: 7	
+[3/6/18 02:08PM]	Player dropping item: 1359, amount: 1	
+[3/6/18 02:08PM]	Player dropping item: 1620, amount: 3	
+[3/6/18 02:08PM]	Player dropping item: 1748, amount: 2	
+[3/6/18 02:08PM]	Player dropping item: 11260, amount: 1	
+[3/6/18 02:08PM]	Player dropping item: 1437, amount: 5	
+[3/6/18 02:08PM]	Player dropping item: 309, amount: 1	
+[3/6/18 02:09PM]	Player dropping item: 1620, amount: 3	
+[3/6/18 02:09PM]	Player dropping item: 224, amount: 5	
+[3/6/18 02:09PM]	Player dropping item: 11260, amount: 1	
+[3/6/18 02:09PM]	Player dropping item: 4093, amount: 1	
+[3/6/18 02:09PM]	Player dropping item: 52, amount: 100	
+[3/6/18 02:09PM]	Player dropping item: 224, amount: 5	
+[3/6/18 02:09PM]	Player dropping item: 454, amount: 15	
+[3/6/18 02:09PM]	Player dropping item: 454, amount: 10	
+[3/6/18 02:09PM]	Player dropping item: 229, amount: 1	
+[3/6/18 02:09PM]	Player dropping item: 25, amount: 7	
+[3/6/18 02:09PM]	Player dropping item: 454, amount: 15	
+[3/6/18 02:09PM]	Player dropping item: 25, amount: 7	
+[3/6/18 02:09PM]	Player dropping item: 454, amount: 15	
+[3/6/18 02:10PM]	Player dropping item: 11260, amount: 1	
+[3/6/18 02:10PM]	Player dropping item: 9193, amount: 2	
+[3/6/18 02:10PM]	Player dropping item: 1748, amount: 4	
+[3/6/18 02:10PM]	Player dropping item: 25, amount: 7	
+[3/6/18 02:10PM]	Player dropping item: 309, amount: 1	
+[3/6/18 02:10PM]	Player dropping item: 1620, amount: 3	
+[3/6/18 02:11PM]	Player dropping item: 454, amount: 10	
+[3/6/18 02:11PM]	Player dropping item: 454, amount: 15	
+[3/6/18 02:11PM]	Player dropping item: 224, amount: 5	
+[3/6/18 02:11PM]	Player dropping item: 309, amount: 1	
+[3/6/18 02:11PM]	Qtje used command ::afk | Player rights = PLAYER	
+[3/6/18 02:12PM]	Player dropping item: 1632, amount: 1	
+[3/6/18 02:12PM]	Player dropping item: 52, amount: 100	
+[3/6/18 02:12PM]	Player dropping item: 52, amount: 100	
+[3/6/18 02:12PM]	Player dropping item: 1618, amount: 2	
+[3/6/18 02:12PM]	Player dropping item: 314, amount: 20	
+[3/6/18 02:12PM]	Player dropping item: 454, amount: 10	
+[3/6/18 02:12PM]	Player dropping item: 1748, amount: 8	
+[3/6/18 02:13PM]	Player dropping item: 454, amount: 10	
+[3/6/18 02:13PM]	Player dropping item: 11260, amount: 1	
+[3/6/18 02:13PM]	Player dropping item: 9341, amount: 2	
+[3/6/18 02:15PM]	Player dropping item: 25, amount: 7	
+[3/6/18 02:15PM]	Player dropping item: 52, amount: 100	
+[3/6/18 02:15PM]	Player dropping item: 1748, amount: 4	
+[3/6/18 02:15PM]	Player dropping item: 1275, amount: 1	
+[3/6/18 02:15PM]	Player dropping item: 1632, amount: 2	
+[3/6/18 02:15PM]	Player dropping item: 454, amount: 25	
+[3/6/18 02:15PM]	Player dropping item: 229, amount: 1	
+[3/6/18 02:15PM]	Player dropping item: 11260, amount: 1	
+[3/6/18 02:15PM]	Player dropping item: 1620, amount: 3	
+[3/6/18 02:16PM]	Player dropping item: 1632, amount: 1	
+[3/6/18 02:16PM]	Player dropping item: 314, amount: 20	
+[3/6/18 02:16PM]	Player dropping item: 309, amount: 1	
+[3/6/18 02:16PM]	Player dropping item: 314, amount: 60	
+[3/6/18 02:16PM]	Player dropping item: 11260, amount: 1	
+[3/6/18 02:16PM]	Player dropping item: 7219, amount: 6	
+[3/6/18 02:17PM]	Player dropping item: 454, amount: 10	
+[3/6/18 02:17PM]	Player dropping item: 52, amount: 100	
+[3/6/18 02:19PM]	Qtje used command ::answer vannaka | Player rights = PLAYER	
+[3/6/18 02:23PM]	Receiving item from Sam. ItemName: Dragon hatchet, itemId: 6739 amount: 1	
+[3/6/18 02:24PM]	Player bought 10010 x 1 from shop	
+[3/6/18 02:24PM]	Player bought 11260 x 5 from shop	
+[3/6/18 02:24PM]	Player bought 10008 x 5 from shop	
+[3/6/18 02:24PM]	Player bought 10006 x 1 from shop	
+[3/6/18 02:25PM]	Player bought 10006 x 1 from shop	
+[3/6/18 02:25PM]	Player dropping item: 1755, amount: 1	
+[3/6/18 02:26PM]	Player dropping item: 401, amount: 1	
+[3/6/18 02:27PM]	Player dropping item: 7936, amount: 1	
+[3/6/18 02:28PM]	Player dropping item: 526, amount: 1	
+[3/6/18 02:28PM]	Player dropping item: 526, amount: 1	
+[3/6/18 02:28PM]	Player dropping item: 10088, amount: 84	
+[3/6/18 02:28PM]	Player picking up item: [ItemDefinition(10088)] - Name: Red feather; equipment slot: 3; value: 1720; stackable ? true; noted ? false; 2h ? false amount: 84	
+[3/6/18 02:28PM]	Player dropping item: 526, amount: 1	
+[3/6/18 02:28PM]	Player dropping item: 526, amount: 1	
+[3/6/18 02:28PM]	Player dropping item: 9978, amount: 1	
+[3/6/18 02:28PM]	Player dropping item: 9978, amount: 1	
+[3/6/18 02:28PM]	Player dropping item: 9978, amount: 1	
+[3/6/18 02:28PM]	Player dropping item: 9978, amount: 1	
+[3/6/18 02:28PM]	Player dropping item: 526, amount: 1	
+[3/6/18 02:28PM]	Player dropping item: 9978, amount: 1	
+[3/6/18 02:28PM]	Player dropping item: 526, amount: 1	
+[3/6/18 02:28PM]	Player dropping item: 9978, amount: 1	
+[3/6/18 02:28PM]	Player dropping item: 526, amount: 1	
+[3/6/18 02:28PM]	Player dropping item: 9978, amount: 1	
+[3/6/18 02:29PM]	Player dropping item: 526, amount: 1	
+[3/6/18 02:29PM]	Player dropping item: 9978, amount: 1	
+[3/6/18 02:29PM]	Player dropping item: 526, amount: 1	
+[3/6/18 02:29PM]	Player dropping item: 9978, amount: 1	
+[3/6/18 02:29PM]	Player dropping item: 526, amount: 1	
+[3/6/18 02:29PM]	Player dropping item: 9978, amount: 1	
+[3/6/18 02:29PM]	Player dropping item: 526, amount: 1	
+[3/6/18 02:29PM]	Player dropping item: 9978, amount: 1	
+[3/6/18 02:29PM]	Player dropping item: 526, amount: 1	
+[3/6/18 02:29PM]	Player dropping item: 9978, amount: 1	
+[3/6/18 02:29PM]	Player dropping item: 526, amount: 1	
+[3/6/18 02:29PM]	Player dropping item: 9978, amount: 1	
+[3/6/18 02:29PM]	Player dropping item: 526, amount: 1	
+[3/6/18 02:29PM]	Player dropping item: 9978, amount: 1	
+[3/6/18 02:30PM]	Player dropping item: 526, amount: 1	
+[3/6/18 02:30PM]	Player dropping item: 9978, amount: 1	
+[3/6/18 02:30PM]	Player dropping item: 526, amount: 1	
+[3/6/18 02:30PM]	Player dropping item: 9978, amount: 1	
+[3/6/18 02:30PM]	Player dropping item: 526, amount: 1	
+[3/6/18 02:30PM]	Player dropping item: 526, amount: 1	
+[3/6/18 02:30PM]	Player dropping item: 9978, amount: 1	
+[3/6/18 02:30PM]	Player dropping item: 9978, amount: 1	
+[3/6/18 02:30PM]	Player dropping item: 526, amount: 1	
+[3/6/18 02:30PM]	Player picking up item: [ItemDefinition(526)] - Name: Bones; equipment slot: 3; value: 1157; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/6/18 02:30PM]	Player dropping item: 526, amount: 1	
+[3/6/18 02:30PM]	Player dropping item: 526, amount: 1	
+[3/6/18 02:30PM]	Player dropping item: 526, amount: 1	
+[3/6/18 02:30PM]	Player dropping item: 9978, amount: 1	
+[3/6/18 02:30PM]	Player dropping item: 9978, amount: 1	
+[3/6/18 02:31PM]	Player dropping item: 526, amount: 1	
+[3/6/18 02:31PM]	Player dropping item: 526, amount: 1	
+[3/6/18 02:31PM]	Player dropping item: 9978, amount: 1	
+[3/6/18 02:31PM]	Player dropping item: 9978, amount: 1	
+[3/6/18 02:31PM]	Player dropping item: 9978, amount: 1	
+[3/6/18 02:31PM]	Player dropping item: 526, amount: 1	
+[3/6/18 02:31PM]	Player dropping item: 526, amount: 1	
+[3/6/18 02:31PM]	Player dropping item: 9978, amount: 1	
+[3/6/18 02:31PM]	Player dropping item: 9978, amount: 1	
+[3/6/18 02:31PM]	Player dropping item: 526, amount: 1	
+[3/6/18 02:31PM]	Player dropping item: 9978, amount: 1	
+[3/6/18 02:31PM]	Player picking up item: [ItemDefinition(9978)] - Name: Raw bird meat; equipment slot: 3; value: 4247; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/6/18 02:31PM]	Player dropping item: 526, amount: 1	
+[3/6/18 02:31PM]	Player dropping item: 526, amount: 1	
+[3/6/18 02:31PM]	Player dropping item: 9978, amount: 1	
+[3/6/18 02:31PM]	Player dropping item: 526, amount: 1	
+[3/6/18 02:31PM]	Player dropping item: 9978, amount: 1	
+[3/6/18 02:31PM]	Player dropping item: 526, amount: 1	
+[3/6/18 02:31PM]	Player dropping item: 526, amount: 1	
+[3/6/18 02:31PM]	Player dropping item: 9978, amount: 1	
+[3/6/18 02:31PM]	Player dropping item: 9978, amount: 1	
+[3/6/18 02:32PM]	Player dropping item: 526, amount: 1	
+[3/6/18 02:32PM]	Player dropping item: 526, amount: 1	
+[3/6/18 02:32PM]	Player dropping item: 526, amount: 1	
+[3/6/18 02:32PM]	Player dropping item: 526, amount: 1	
+[3/6/18 02:32PM]	Player dropping item: 9978, amount: 1	
+[3/6/18 02:32PM]	Player dropping item: 9978, amount: 1	
+[3/6/18 02:32PM]	Player dropping item: 9978, amount: 1	
+[3/6/18 02:32PM]	Player dropping item: 9978, amount: 1	
+[3/6/18 02:32PM]	Player dropping item: 9978, amount: 1	
+[3/6/18 02:32PM]	Player dropping item: 9978, amount: 1	
+[3/6/18 02:32PM]	Player dropping item: 526, amount: 1	
+[3/6/18 02:32PM]	Player dropping item: 526, amount: 1	
+[3/6/18 02:32PM]	Player dropping item: 9978, amount: 1	
+[3/6/18 02:32PM]	Player dropping item: 9978, amount: 1	
+[3/6/18 02:32PM]	Player dropping item: 10089, amount: 570	
+[3/6/18 02:32PM]	Player picking up item: [ItemDefinition(10089)] - Name: Blue feather; equipment slot: 3; value: 4236; stackable ? true; noted ? false; 2h ? false amount: 570	
+[3/6/18 02:32PM]	Player dropping item: 526, amount: 1	
+[3/6/18 02:32PM]	Player dropping item: 526, amount: 1	
+[3/6/18 02:32PM]	Player dropping item: 526, amount: 1	
+[3/6/18 02:32PM]	Player dropping item: 9978, amount: 1	
+[3/6/18 02:32PM]	Player dropping item: 9978, amount: 1	
+[3/6/18 02:32PM]	Player dropping item: 9978, amount: 1	
+[3/6/18 02:32PM]	Player dropping item: 10006, amount: 1	
+[3/6/18 02:32PM]	Player dropping item: 10006, amount: 1	
+[3/6/18 02:33PM]	Player picking up item: [ItemDefinition(10006)] - Name: Bird snare; equipment slot: 3; value: 100; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/6/18 02:33PM]	Player picking up item: [ItemDefinition(10006)] - Name: Bird snare; equipment slot: 3; value: 100; stackable ? false; noted ? false; 2h ? false amount: 1	
+[3/6/18 02:33PM]	Player dropping item: 10006, amount: 1	
+[3/6/18 02:33PM]	Player dropping item: 10006, amount: 1	
+[3/6/18 02:43PM]	Qtje used command ::jail conor | Player rights = PLAYER	
+[3/6/18 02:43PM]	Qtje used command ::commands | Player rights = PLAYER	
+[3/6/18 03:18PM]	Qtje used command ::answer 2147m | Player rights = PLAYER	
+[3/6/18 03:49PM]	Login from host 217.122.134.183	
+[3/6/18 04:17PM]	Login from host 217.122.134.183	
+[3/6/18 05:03PM]	Login from host 217.122.134.183	
+[3/6/18 06:30PM]	Login from host 217.122.134.183	
+[3/6/18 10:13PM]	Login from host 217.122.134.183	
+[3/6/18 10:35PM]	Login from host 217.122.134.183	
+[3/6/18 10:37PM]	Login from host 217.122.134.183	
+[3/6/18 10:40PM]	Login from host 217.122.134.183	
+[3/7/18 10:12AM]	Login from host 217.122.134.183	
+[3/7/18 12:47PM]	Login from host 217.122.134.183	
+[3/7/18 12:47PM]	Qtje used command ::answer max cape | Player rights = PLAYER	
+[3/7/18 12:47PM]	Qtje used command ::answer veterane cape | Player rights = PLAYER	
+[3/7/18 12:47PM]	Qtje used command ::answer completionist cape | Player rights = PLAYER	

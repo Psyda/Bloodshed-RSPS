@@ -1,0 +1,51 @@
+[2/9/18 05:03PM]	Login from host 85.255.233.241	
+[2/9/18 05:05PM]	Login from host 85.255.233.241	
+[2/9/18 05:09PM]	Login from host 85.255.233.241	
+[2/9/18 05:09PM]	Login from host 85.255.233.241	
+[2/11/18 06:11AM]	Login from host 185.69.144.104	
+[2/11/18 06:14AM]	Dan used command ::item 14484 1 | Player rights = DEVELOPER	
+[2/11/18 06:23AM]	Dan used command ::reload help | Player rights = DEVELOPER	
+[2/11/18 06:23AM]	Dan used command ::reload | Player rights = DEVELOPER	
+[2/11/18 06:23AM]	Dan used command ::reload npcs | Player rights = DEVELOPER	
+[2/11/18 06:23AM]	Dan used command ::reload npc | Player rights = DEVELOPER	
+[2/11/18 06:24AM]	Login from host 185.69.144.104	
+[2/11/18 06:24AM]	Login from host 185.69.144.104	
+[2/11/18 06:29AM]	Dan used command ::coords | Player rights = DEVELOPER	
+[2/11/18 06:46AM]	Dan used command ::update 20 | Player rights = DEVELOPER	
+[2/11/18 06:47AM]	Login from host 185.69.144.104	
+[2/11/18 06:49AM]	Dan used command ::coords | Player rights = DEVELOPER	
+[2/11/18 06:51AM]	Dan used command ::gamble | Player rights = DEVELOPER	
+[2/11/18 06:52AM]	Dan used command ::home | Player rights = DEVELOPER	
+[2/11/18 07:09AM]	Dan used command ::gamble | Player rights = DEVELOPER	
+[2/11/18 07:09AM]	Dan used command ::teletome ace | Player rights = DEVELOPER	
+[2/11/18 07:12AM]	Dan used command ::update 5 | Player rights = DEVELOPER	
+[2/11/18 07:13AM]	Login from host 185.69.144.104	
+[2/11/18 07:13AM]	Dan used command ::home | Player rights = DEVELOPER	
+[2/11/18 07:20AM]	Dan used command ::home | Player rights = DEVELOPER	
+[2/11/18 07:40AM]	Dan used command ::home2 | Player rights = DEVELOPER	
+[2/11/18 07:52AM]	Dan used command ::update 10 | Player rights = DEVELOPER	
+[2/11/18 07:53AM]	Login from host 185.69.144.104	
+[2/11/18 07:53AM]	Dan used command ::home | Player rights = DEVELOPER	
+[2/11/18 07:53AM]	Dan used command ::item 12926 10 | Player rights = DEVELOPER	
+[2/11/18 07:54AM]	Dan used command ::hp | Player rights = DEVELOPER	
+[2/11/18 07:54AM]	Dan used command ::master | Player rights = DEVELOPER	
+[2/11/18 07:54AM]	Dan used command ::item 995 2b | Player rights = DEVELOPER	
+[2/11/18 07:54AM]	Player bought 11230 x 10 from shop	
+[2/11/18 07:54AM]	Player bought 11230 x 5000 from shop	
+[2/11/18 07:55AM]	Dan used command ::teleto ace | Player rights = DEVELOPER	
+[2/11/18 07:55AM]	Dan used command ::hp | Player rights = DEVELOPER	
+[2/11/18 07:56AM]	Dan used command ::home | Player rights = DEVELOPER	
+[2/11/18 07:56AM]	Dan used command ::Setlevel 4 15000 | Player rights = DEVELOPER	
+[2/11/18 08:03AM]	Dan used command ::item 6103 1 | Player rights = DEVELOPER	
+[2/11/18 08:21AM]	Dan used command ::update 10 | Player rights = DEVELOPER	
+[2/11/18 08:26AM]	Login from host 185.69.144.104	
+[2/11/18 08:26AM]	Dan used command ::update 10 | Player rights = DEVELOPER	
+[2/11/18 08:27AM]	Login from host 185.69.144.104	
+[2/11/18 08:27AM]	Dan used command ::vote | Player rights = DEVELOPER	
+[2/11/18 08:29AM]	Dan used command ::reward | Player rights = DEVELOPER	
+[2/11/18 08:33AM]	Dan used command ::claim | Player rights = DEVELOPER	
+[2/11/18 08:33AM]	Dan used command ::reward | Player rights = DEVELOPER	
+[2/11/18 08:43AM]	Login from host 185.69.144.104	
+[2/11/18 08:48AM]	Login from host 185.69.144.104	
+[2/11/18 08:48AM]	Dan used command ::rz | Player rights = DEVELOPER	
+[2/11/18 08:51AM]	Dan used command ::update 10 | Player rights = DEVELOPER	

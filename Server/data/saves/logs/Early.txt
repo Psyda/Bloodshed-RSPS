@@ -1,0 +1,2 @@
+[3/5/18 09:36AM]	Login from host 68.8.18.168	
+[3/5/18 09:42AM]	Player picking up item: [ItemDefinition(12160)] - Name: Crimson charm; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	

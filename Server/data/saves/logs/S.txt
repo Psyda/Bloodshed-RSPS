@@ -1,0 +1,108 @@
+[2/19/18 06:07PM]	Login from host 175.36.234.114	
+[2/19/18 06:09PM]	Receiving item from Daking. ItemName: Frost dragon bones, itemId: 18831 amount: 600	
+[2/19/18 06:11PM]	S used command ::answer 4 | Player rights = PLAYER	
+[2/19/18 06:11PM]	S used command ::answer 5 | Player rights = PLAYER	
+[2/19/18 06:11PM]	S used command ::answer 3 | Player rights = PLAYER	
+[2/19/18 06:11PM]	S used command ::answer 6 | Player rights = PLAYER	
+[2/19/18 06:11PM]	S used command ::answer 7 | Player rights = PLAYER	
+[2/19/18 06:11PM]	S used command ::answer 1 | Player rights = PLAYER	
+[2/19/18 06:11PM]	S used command ::answer 2 | Player rights = PLAYER	
+[2/19/18 06:11PM]	S used command ::answer 10 | Player rights = PLAYER	
+[2/19/18 06:12PM]	Login from host 175.36.234.114	
+[2/19/18 06:18PM]	S used command ::drops | Player rights = SILVER_MEMBER	
+[2/19/18 06:19PM]	Receiving item from Daking. ItemName: Legendary Mystery Box, itemId: 15501 amount: 200	
+[2/19/18 06:19PM]	Receiving item from Daking. ItemName: Vanguard Helmet, itemId: 20013 amount: 1	
+[2/19/18 06:19PM]	Receiving item from Daking. ItemName: Vanguard Platebody, itemId: 20014 amount: 1	
+[2/19/18 06:19PM]	Receiving item from Daking. ItemName: Vanguard Gloves, itemId: 13994 amount: 1	
+[2/19/18 06:19PM]	Receiving item from Daking. ItemName: Vangaurd Boots, itemId: 13995 amount: 1	
+[2/19/18 06:19PM]	Receiving item from Daking. ItemName: Vanguard Legs, itemId: 14062 amount: 1	
+[2/19/18 06:19PM]	Receiving item from Daking. ItemName: Twisted Bow, itemId: 20998 amount: 1	
+[2/19/18 06:20PM]	Receiving item from Daking. ItemName: Ring of the gods, itemId: 12601 amount: 1	
+[2/19/18 06:20PM]	Receiving item from Daking. ItemName: TokHaar-Kal, itemId: 19111 amount: 1	
+[2/19/18 06:23PM]	Player picking up item: [ItemDefinition(11697)] - Name: Bandos godsword; equipment slot: 3; value: 10000002; stackable ? true; noted ? true; 2h ? true amount: 1	
+[2/19/18 06:23PM]	Player picking up item: [ItemDefinition(11721)] - Name: Armadyl chestplate; equipment slot: 4; value: 1000002; stackable ? true; noted ? true; 2h ? false amount: 1	
+[2/19/18 06:23PM]	Player picking up item: [ItemDefinition(1306)] - Name: Dragon longsword; equipment slot: 3; value: 92300; stackable ? true; noted ? true; 2h ? false amount: 1	
+[2/19/18 06:24PM]	Receiving item from Daking. ItemName: Legendary Mystery Box, itemId: 15501 amount: 500	
+[2/19/18 06:27PM]	Player picking up item: [ItemDefinition(11)] - Name: Cannon barrels; equipment slot: 3; value: 1617000; stackable ? true; noted ? true; 2h ? false amount: 1	
+[2/19/18 06:28PM]	Receiving item from Daking. ItemName: Mystery box, itemId: 6199 amount: 1000	
+[2/19/18 06:32PM]	Receiving item from Daking. ItemName: Legendary Mystery Box, itemId: 15501 amount: 1000	
+[2/19/18 06:32PM]	Receiving item from Daking. ItemName: Mystery box, itemId: 6199 amount: 1000	
+[2/19/18 06:41PM]	Player picking up item: [ItemDefinition(6570)] - Name: Fire cape; equipment slot: 1; value: 100000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/19/18 06:43PM]	Player picking up item: [ItemDefinition(2580)] - Name: Wizard boots; equipment slot: 10; value: 180; stackable ? true; noted ? true; 2h ? false amount: 1	
+[2/19/18 06:46PM]	Player picking up item: [ItemDefinition(15127)] - Name: Amulet of ranging; equipment slot: 2; value: 10000000; stackable ? true; noted ? true; 2h ? false amount: 1	
+[2/19/18 06:47PM]	Receiving item from Daking. ItemName: Dragonkin lamp, itemId: 18782 amount: 1	
+[2/19/18 06:47PM]	Receiving item from Daking. ItemName: Dragonkin lamp, itemId: 18782 amount: 1	
+[2/19/18 06:47PM]	Receiving item from Daking. ItemName: Dragonkin lamp, itemId: 18782 amount: 1	
+[2/19/18 06:47PM]	Receiving item from Daking. ItemName: Dragonkin lamp, itemId: 18782 amount: 1	
+[2/19/18 06:47PM]	Receiving item from Daking. ItemName: Dragonkin lamp, itemId: 18782 amount: 1	
+[2/19/18 06:47PM]	Receiving item from Daking. ItemName: Dragonkin lamp, itemId: 18782 amount: 1	
+[2/19/18 06:47PM]	Receiving item from Daking. ItemName: Dragonkin lamp, itemId: 18782 amount: 1	
+[2/19/18 06:47PM]	Receiving item from Daking. ItemName: Dragonkin lamp, itemId: 18782 amount: 1	
+[2/19/18 06:47PM]	Receiving item from Daking. ItemName: Dragonkin lamp, itemId: 18782 amount: 1	
+[2/19/18 06:47PM]	Receiving item from Daking. ItemName: Dragonkin lamp, itemId: 18782 amount: 1	
+[2/19/18 06:47PM]	Receiving item from Daking. ItemName: Dragonkin lamp, itemId: 18782 amount: 1	
+[2/19/18 06:47PM]	Receiving item from Daking. ItemName: Dragonkin lamp, itemId: 18782 amount: 1	
+[2/19/18 06:47PM]	Receiving item from Daking. ItemName: Dragonkin lamp, itemId: 18782 amount: 1	
+[2/19/18 06:47PM]	Receiving item from Daking. ItemName: Dragonkin lamp, itemId: 18782 amount: 1	
+[2/19/18 06:47PM]	Receiving item from Daking. ItemName: Dragonkin lamp, itemId: 18782 amount: 1	
+[2/19/18 06:47PM]	Receiving item from Daking. ItemName: Dragonkin lamp, itemId: 18782 amount: 1	
+[2/19/18 06:47PM]	Receiving item from Daking. ItemName: Dragonkin lamp, itemId: 18782 amount: 1	
+[2/19/18 06:47PM]	Receiving item from Daking. ItemName: Dragonkin lamp, itemId: 18782 amount: 1	
+[2/19/18 06:47PM]	Receiving item from Daking. ItemName: Dragonkin lamp, itemId: 18782 amount: 1	
+[2/19/18 06:47PM]	Receiving item from Daking. ItemName: Dragonkin lamp, itemId: 18782 amount: 1	
+[2/19/18 06:47PM]	Receiving item from Daking. ItemName: Dragonkin lamp, itemId: 18782 amount: 1	
+[2/19/18 06:47PM]	Receiving item from Daking. ItemName: Dragonkin lamp, itemId: 18782 amount: 1	
+[2/19/18 06:47PM]	Receiving item from Daking. ItemName: Dragonkin lamp, itemId: 18782 amount: 1	
+[2/19/18 06:47PM]	Receiving item from Daking. ItemName: Dragonkin lamp, itemId: 18782 amount: 1	
+[2/19/18 06:47PM]	Receiving item from Daking. ItemName: Dragonkin lamp, itemId: 18782 amount: 1	
+[2/19/18 06:47PM]	Receiving item from Daking. ItemName: Dragonkin lamp, itemId: 18782 amount: 1	
+[2/19/18 06:47PM]	Receiving item from Daking. ItemName: Dragonkin lamp, itemId: 18782 amount: 1	
+[2/19/18 06:47PM]	Receiving item from Daking. ItemName: Dragonkin lamp, itemId: 18782 amount: 1	
+[2/19/18 06:51PM]	Player picking up item: [ItemDefinition(15019)] - Name: Archers' ring (i); equipment slot: 12; value: 75000000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/19/18 07:05PM]	S used command ::answer 26 | Player rights = SILVER_MEMBER	
+[2/19/18 07:05PM]	S used command ::answer 24 | Player rights = SILVER_MEMBER	
+[2/19/18 07:05PM]	S used command ::answer 18 | Player rights = SILVER_MEMBER	
+[2/19/18 07:05PM]	S used command ::answer 20 | Player rights = SILVER_MEMBER	
+[2/19/18 07:05PM]	S used command ::answer 16 | Player rights = SILVER_MEMBER	
+[2/19/18 07:05PM]	S used command ::answer 14 | Player rights = SILVER_MEMBER	
+[2/19/18 07:05PM]	S used command ::answer 13 | Player rights = SILVER_MEMBER	
+[2/19/18 07:05PM]	S used command ::answer 10 | Player rights = SILVER_MEMBER	
+[2/19/18 07:05PM]	S used command ::answer 11 | Player rights = SILVER_MEMBER	
+[2/19/18 07:05PM]	S used command ::answer 12 | Player rights = SILVER_MEMBER	
+[2/19/18 07:08PM]	S used command ::yell gimme server support or mod pls | Player rights = SILVER_MEMBER	
+[2/19/18 07:16PM]	Player picking up item: [ItemDefinition(1435)] - Name: Dragon mace; equipment slot: 3; value: 72700; stackable ? true; noted ? true; 2h ? false amount: 1	
+[2/19/18 07:18PM]	Player dropping item: 4714, amount: 1	
+[2/19/18 07:18PM]	Player picking up item: [ItemDefinition(15501)] - Name: Legendary Mystery Box; equipment slot: 3; value: 0; stackable ? true; noted ? false; 2h ? false amount: 1	
+[2/19/18 07:18PM]	Player dropping item: 6809, amount: 1	
+[2/19/18 07:19PM]	Player dropping item: 6685, amount: 1	
+[2/19/18 07:19PM]	Player dropping item: 4745, amount: 1	
+[2/19/18 07:19PM]	Player picking up item: [ItemDefinition(12601)] - Name: Ring of the gods; equipment slot: 12; value: 635111; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/19/18 07:19PM]	Player picking up item: [ItemDefinition(12601)] - Name: Ring of the gods; equipment slot: 12; value: 635111; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/19/18 07:19PM]	Player dropping item: 5576, amount: 1	
+[2/19/18 07:19PM]	Player picking up item: [ItemDefinition(2)] - Name: Cannonball; equipment slot: 3; value: 3500; stackable ? true; noted ? false; 2h ? false amount: 1	
+[2/19/18 07:20PM]	Player picking up item: [ItemDefinition(6890)] - Name: Mages' book; equipment slot: 5; value: 2846400; stackable ? true; noted ? true; 2h ? false amount: 1	
+[2/19/18 07:20PM]	Player picking up item: [ItemDefinition(4731)] - Name: Guthan's chainskirt; equipment slot: 7; value: 1000000; stackable ? true; noted ? true; 2h ? false amount: 1	
+[2/19/18 07:20PM]	Player picking up item: [ItemDefinition(15127)] - Name: Amulet of ranging; equipment slot: 2; value: 10000000; stackable ? true; noted ? true; 2h ? false amount: 1	
+[2/19/18 07:20PM]	Player picking up item: [ItemDefinition(13735)] - Name: Spirit shield; equipment slot: 5; value: 97800; stackable ? true; noted ? true; 2h ? false amount: 2	
+[2/19/18 07:20PM]	Player picking up item: [ItemDefinition(1150)] - Name: Dragon med helm; equipment slot: 0; value: 32320; stackable ? true; noted ? true; 2h ? false amount: 1	
+[2/19/18 07:20PM]	Player picking up item: [ItemDefinition(2504)] - Name: Black d'hide body; equipment slot: 4; value: 1; stackable ? true; noted ? true; 2h ? false amount: 1	
+[2/19/18 07:20PM]	Player picking up item: [ItemDefinition(7400)] - Name: Enchanted hat; equipment slot: 0; value: 58000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/19/18 07:20PM]	Player picking up item: [ItemDefinition(5576)] - Name: Initiate cuisse; equipment slot: 7; value: 4697; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/19/18 07:20PM]	Player picking up item: [ItemDefinition(5576)] - Name: Initiate cuisse; equipment slot: 7; value: 4697; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/19/18 07:20PM]	Player picking up item: [ItemDefinition(11484)] - Name: Sup. energy mix (1); equipment slot: 3; value: 549; stackable ? true; noted ? true; 2h ? false amount: 1	
+[2/19/18 07:20PM]	Player picking up item: [ItemDefinition(6890)] - Name: Mages' book; equipment slot: 5; value: 2846400; stackable ? true; noted ? true; 2h ? false amount: 2	
+[2/19/18 07:20PM]	Player picking up item: [ItemDefinition(6586)] - Name: Amulet of fury; equipment slot: 2; value: 12500000; stackable ? true; noted ? true; 2h ? false amount: 1	
+[2/19/18 07:20PM]	Player picking up item: [ItemDefinition(4752)] - Name: Torag's platelegs; equipment slot: 7; value: 1529000; stackable ? true; noted ? true; 2h ? false amount: 1	
+[2/19/18 07:20PM]	Player picking up item: [ItemDefinition(7400)] - Name: Enchanted hat; equipment slot: 0; value: 58000; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/19/18 07:20PM]	Player picking up item: [ItemDefinition(15273)] - Name: Rocktail; equipment slot: 3; value: 15000; stackable ? true; noted ? true; 2h ? false amount: 1	
+[2/19/18 07:20PM]	Player picking up item: [ItemDefinition(6327)] - Name: Snakeskin bandana; equipment slot: 3; value: 22144; stackable ? true; noted ? true; 2h ? false amount: 1	
+[2/19/18 07:20PM]	Player picking up item: [ItemDefinition(5574)] - Name: Initiate sallet; equipment slot: 0; value: 8644; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/19/18 07:20PM]	Player picking up item: [ItemDefinition(2573)] - Name: Ring of wealth; equipment slot: 12; value: 10000000; stackable ? true; noted ? true; 2h ? false amount: 1	
+[2/19/18 07:20PM]	Player picking up item: [ItemDefinition(11885)] - Name: Black gold-trimmed armour set (sk); equipment slot: 3; value: 110000; stackable ? true; noted ? true; 2h ? false amount: 1	
+[2/19/18 07:20PM]	Player picking up item: [ItemDefinition(1378)] - Name: Dragon battleaxe; equipment slot: 3; value: 113600; stackable ? true; noted ? true; 2h ? false amount: 1	
+[2/19/18 07:20PM]	Player picking up item: [ItemDefinition(11119)] - Name: Combat bracelet (4); equipment slot: 9; value: 49900; stackable ? true; noted ? true; 2h ? false amount: 1	
+[2/19/18 07:20PM]	Player picking up item: [ItemDefinition(10828)] - Name: Helm of neitiznot; equipment slot: 0; value: 60200; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/19/18 07:20PM]	Player picking up item: [ItemDefinition(1216)] - Name: Dragon dagger; equipment slot: 3; value: 18000; stackable ? true; noted ? true; 2h ? false amount: 1	
+[2/19/18 07:20PM]	Player picking up item: [ItemDefinition(18357)] - Name: Chaotic crossbow; equipment slot: 3; value: 0; stackable ? false; noted ? false; 2h ? false amount: 1	
+[2/19/18 07:23PM]	S used command ::rtain | Player rights = SILVER_MEMBER	
+[2/19/18 07:23PM]	S used command ::train | Player rights = SILVER_MEMBER	
