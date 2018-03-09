@@ -53,7 +53,6 @@ import javax.swing.colorchooser.AbstractColorChooserPanel;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 
-import com.client.ClientUpdater;
 import com.client.Configuration;
 import com.client.Jframe;
 import com.client.client.DrawLine.LineType;
@@ -5450,14 +5449,14 @@ public class Client extends RSApplet {
 			if (k1 == 1) {
 				playersToUpdate[playersToUpdateCount++] = k;
 			}
-			npc.boundDim = npc.desc.squaresNeeded;
+			npc.boundDim = npc.desc.tileSpacesOccupied;
 			npc.anInt1504 = npc.desc.degreesToTurn;
 			npc.anInt1554 = npc.desc.walkAnim;
 			npc.runAnimation = npc.desc.runAnim;
 			npc.anInt1555 = npc.desc.turn180AnimIndex;
 			npc.anInt1556 = npc.desc.turn90CWAnimIndex;
 			npc.anInt1557 = npc.desc.turn90CCWAnimIndex;
-			npc.anInt1511 = npc.desc.standAnim;
+			npc.anInt1511 = npc.desc.stanceAnimation;
 			npc.setPos(myPlayer.pathX[0] + i1, myPlayer.pathY[0] + l, j1 == 1);
 		}
 		stream.finishBitAccess();
@@ -9082,10 +9081,10 @@ public class Client extends RSApplet {
 			}
 			if (resourceType == 1) {
 				NPC npc = npcArray[resourceId];
-				if (npc.desc.squaresNeeded == 1 && (npc.x & 0x7f) == 64 && (npc.y & 0x7f) == 64) {
+				if (npc.desc.tileSpacesOccupied == 1 && (npc.x & 0x7f) == 64 && (npc.y & 0x7f) == 64) {
 					for (int j2 = 0; j2 < npcCount; j2++) {
 						NPC npc2 = npcArray[npcIndices[j2]];
-						if (npc2 != null && npc2 != npc && npc2.desc.squaresNeeded == 1 && npc2.x == npc.x
+						if (npc2 != null && npc2 != npc && npc2.desc.tileSpacesOccupied == 1 && npc2.x == npc.x
 								&& npc2.y == npc.y) {
 							buildAtNPCMenu(npc2.desc, npcIndices[j2], y, x);
 						}
@@ -9108,7 +9107,7 @@ public class Client extends RSApplet {
 						NPC class30_sub2_sub4_sub1_sub1_2 = npcArray[npcIndices[k2]];
 						try {
 							if (class30_sub2_sub4_sub1_sub1_2 != null
-									&& class30_sub2_sub4_sub1_sub1_2.desc.squaresNeeded == 1
+									&& class30_sub2_sub4_sub1_sub1_2.desc.tileSpacesOccupied == 1
 									&& class30_sub2_sub4_sub1_sub1_2.x == player.x
 									&& class30_sub2_sub4_sub1_sub1_2.y == player.y) {
 								buildAtNPCMenu(class30_sub2_sub4_sub1_sub1_2.desc, npcIndices[k2], y, x);
@@ -11927,14 +11926,14 @@ public class Client extends RSApplet {
 			}
 			if ((l & 2) != 0) {
 				npc.desc = MobDefinition.forID(stream.readWordBigEndian());
-				npc.boundDim = npc.desc.squaresNeeded;
+				npc.boundDim = npc.desc.tileSpacesOccupied;
 				npc.anInt1504 = npc.desc.degreesToTurn;
 				npc.anInt1554 = npc.desc.walkAnim;
 				npc.runAnimation = npc.desc.runAnim;
 				npc.anInt1555 = npc.desc.turn180AnimIndex;
 				npc.anInt1556 = npc.desc.turn90CWAnimIndex;
 				npc.anInt1557 = npc.desc.turn90CCWAnimIndex;
-				npc.anInt1511 = npc.desc.standAnim;
+				npc.anInt1511 = npc.desc.stanceAnimation;
 			}
 			if ((l & 4) != 0) {
 				npc.anInt1538 = stream.ig2();
@@ -11980,10 +11979,10 @@ public class Client extends RSApplet {
 				menuActionRow++;
 			}
 		} else {
-			if (entityDef.actions != null) {
+			if (entityDef.options != null) {
 				for (int l = 4; l >= 0; l--) {
-					if (entityDef.actions[l] != null && !entityDef.actions[l].equalsIgnoreCase("attack")) {
-						menuActionName[menuActionRow] = entityDef.actions[l] + " @yel@" + s;
+					if (entityDef.options[l] != null && !entityDef.options[l].equalsIgnoreCase("attack")) {
+						menuActionName[menuActionRow] = entityDef.options[l] + " @yel@" + s;
 						if (l == 0) {
 							menuActionID[menuActionRow] = 20;
 						}
@@ -12007,14 +12006,14 @@ public class Client extends RSApplet {
 				}
 
 			}
-			if (entityDef.actions != null) {
+			if (entityDef.options != null) {
 				for (int i1 = 4; i1 >= 0; i1--) {
-					if (entityDef.actions[i1] != null && entityDef.actions[i1].equalsIgnoreCase("attack")) {
+					if (entityDef.options[i1] != null && entityDef.options[i1].equalsIgnoreCase("attack")) {
 						char c = '\0';
 						if (entityDef.combatLevel > myPlayer.combatLevel) {
 							c = '\u07D0';
 						}
-						menuActionName[menuActionRow] = entityDef.actions[i1] + " @yel@" + s;
+						menuActionName[menuActionRow] = entityDef.options[i1] + " @yel@" + s;
 						if (i1 == 0) {
 							menuActionID[menuActionRow] = 20 + c;
 						}
@@ -17928,7 +17927,7 @@ public class Client extends RSApplet {
 					RSInterface.interfaceCache[i6].mediaID = k18;
 					RSInterface.interfaceCache[i6].modelRotation1 = itemDef.rotationY;
 					RSInterface.interfaceCache[i6].modelRotation2 = itemDef.rotationX;
-					RSInterface.interfaceCache[i6].modelZoom = (itemDef.modelZoom * 100) / i13;
+					RSInterface.interfaceCache[i6].modelZoom = (itemDef.zoom2d * 100) / i13;
 					opCode = -1;
 					return true;
 				}
@@ -18030,7 +18029,7 @@ public class Client extends RSApplet {
 					}
 					currentCape = colors[0];
 					ItemDefinition def = ItemDefinition.forID(currentCape);
-					RSInterface.interfaceCache[60003].mediaID = def.maleEquip1;
+					RSInterface.interfaceCache[60003].mediaID = def.maleModel0;
 					updateMaxCapeColors(Arrays.copyOfRange(colors, 1, colors.length));
 				}
 				if (text.startsWith("[SUMMO")) {
@@ -20991,10 +20990,10 @@ public class Client extends RSApplet {
 		case "ddef":
 			ItemDefinition definition = ItemDefinition.forID(20072);
 
-			sendConsoleMessage(definition.maleEquip1 + " male equip 1", false);
+			sendConsoleMessage(definition.maleModel0 + " male equip 1", false);
 			sendConsoleMessage(definition.maleEquip2 + " male equip 2", false);
 			sendConsoleMessage(definition.maleEquip3 + " male equip 3", false);
-			sendConsoleMessage(definition.femaleEquip1 + " fmale equip 1", false);
+			sendConsoleMessage(definition.femaleModel0 + " fmale equip 1", false);
 			sendConsoleMessage(definition.femaleEquip2 + " fmale equip 2", false);
 			sendConsoleMessage(definition.femaleEquip3 + " fmale equip 3", false);
 			sendConsoleMessage("Item name: " + definition.name, false);

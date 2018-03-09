@@ -69,7 +69,7 @@ public final class NPC extends Entity
 				model = new Model(aModel);
 			}
 		}
-		if(desc.squaresNeeded == 1)
+		if(desc.tileSpacesOccupied == 1)
 			model.rendersWithinOneTile = true;
 		return model;
 	}

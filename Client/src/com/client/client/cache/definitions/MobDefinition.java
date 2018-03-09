@@ -22,47 +22,120 @@ public final class MobDefinition {
 		npc.type = i;
 		npc.readValues(stream);
 		if (npc.name != null && npc.name.toLowerCase().contains("bank")) {
-			if (npc.actions != null) {
-				for (int l = 0; l < npc.actions.length; l++) {
-					if (npc.actions[l] != null && npc.actions[l].equalsIgnoreCase("Collect"))
-						npc.actions[l] = null;
+			if (npc.options != null) {
+				for (int l = 0; l < npc.options.length; l++) {
+					if (npc.options[l] != null && npc.options[l].equalsIgnoreCase("Collect"))
+						npc.options[l] = null;
 				}
 			}
 		}
 		npc.id = i;
 		switch (i) {
 		case 611:
-			npc.actions = new String[] { "Exchange", null, null, null, null };
+			npc.options = new String[] { "Exchange", null, null, null, null };
 			break;
+			case 2962:
+				npc.models = new int[] {83542};
+				npc.name = "Ganodermic beast";
+				npc.tileSpacesOccupied = 3;
+				npc.stanceAnimation = 15464;
+				npc.walkAnim = 15465;
+				npc.options = new String[] {null, "Attack", null, null, null};
+				npc.combatLevel = 280;
+				break;
 
+			case 2963:
+				npc.models = new int[] {83888};
+				npc.name = "Ganodermic beast";
+				npc.tileSpacesOccupied = 3;
+				npc.stanceAnimation = 15464;
+				npc.walkAnim = 15465;
+				npc.options = new String[] {null, "Attack", null, null, null};
+				npc.combatLevel = 280;
+				break;
+
+			case 2964:
+				npc.models = new int[] {10523, 10490, 10486, 6700,62575, ItemDefinition.forID(13740).maleModel0, ItemDefinition.forID(9921).maleModel0, ItemDefinition.forID(9922).maleModel0};
+				npc.name = "Ganodermic Minion";
+				npc.stanceAnimation = MobDefinition.forID(2).stanceAnimation;
+				npc.walkAnim = MobDefinition.forID(2).walkAnim;
+				npc.options = new String[] {null, "Attack", null, null, null};
+				npc.sizeY = 120;
+				npc.sizeXZ = 120;
+				npc.combatLevel = 140;
+				break;
+
+			case 2965:
+				npc.models = new int[] {10523, 10490, 10486, 1052,62575, ItemDefinition.forID(13740).maleModel0, ItemDefinition.forID(9921).maleModel0, ItemDefinition.forID(9922).maleModel0};
+				npc.name = "Ganodermic Minion";
+				npc.stanceAnimation = MobDefinition.forID(2).stanceAnimation;
+				npc.walkAnim = MobDefinition.forID(2).walkAnim;
+				npc.options = new String[] {null, "Attack", null, null, null};
+				npc.sizeY = 110;
+				npc.sizeXZ = 110;
+				npc.combatLevel = 140;
+				break;
+			case 2966:
+				npc.models = new int[] {83542};
+				npc.name = "Ganodermic beast";
+				npc.tileSpacesOccupied = 3;
+				npc.stanceAnimation = 15464;
+				npc.walkAnim = 15465;
+				npc.sizeXZ *= 1.2;
+				npc.sizeY *= 1;
+				npc.options = new String[] {null, "Attack", null, null, null};
+				npc.combatLevel = 280;
+				break;
+			case 2967:
+				npc.models = new int[] {83542};
+				npc.name = "Ganodermic beast";
+				npc.tileSpacesOccupied = 3;
+				npc.stanceAnimation = 15464;
+				npc.walkAnim = 15465;
+				npc.sizeY *= 1.4;
+				npc.sizeXZ *= 1.4;
+				npc.options = new String[] {null, "Attack", null, null, null};
+				npc.combatLevel = 280;
+				break;
+			case 2968:
+				npc.models = new int[] {83542};
+				npc.name = "Ganodermic beast";
+				npc.tileSpacesOccupied = 3;
+				npc.stanceAnimation = 15464;
+				npc.walkAnim = 15465;
+				npc.sizeY *= 1.6;
+				npc.sizeXZ *= 1.4;
+				npc.options = new String[] {null, "Attack", null, null, null};
+				npc.combatLevel = 280;
+				break;
 		// INFERNO
 		case 7700:
 			npc.models = new int[] { 33012 };
 			npc.name = "JalTok-Jad";
-			npc.standAnim = 7589;
+			npc.stanceAnimation = 7589;
 			npc.walkAnim = 7588;
-			npc.actions = new String[] { null, "Attack", null, null, null };
+			npc.options = new String[] { null, "Attack", null, null, null };
 			npc.destColours = null;
 			npc.originalColours = null;
 			npc.combatLevel = 900;
-			npc.squaresNeeded = 5;
+			npc.tileSpacesOccupied = 5;
 			npc.sizeXZ = 128;
 			npc.sizeY = 128;
 			break;
 		case 5581:
-			npc.actions = new String[] { null, "Attack", null, null, null };
+			npc.options = new String[] { null, "Attack", null, null, null };
 			break;
 
 		case 7702:
 			npc.models = new int[] { 33014 };
 			npc.name = "Jal-Xil";
-			npc.standAnim = 7602;
+			npc.stanceAnimation = 7602;
 			npc.walkAnim = 7603;
-			npc.actions = new String[] { null, "Attack", null, null, null };
+			npc.options = new String[] { null, "Attack", null, null, null };
 			npc.destColours = null;
 			npc.originalColours = null;
 			npc.combatLevel = 370;
-			npc.squaresNeeded = 3;
+			npc.tileSpacesOccupied = 3;
 			npc.sizeXZ = 128;
 			npc.sizeY = 128;
 			break;
@@ -70,13 +143,13 @@ public final class MobDefinition {
 		case 7703:
 			npc.models = new int[] { 33000 };
 			npc.name = "Jal-Zek";
-			npc.standAnim = 7609;
+			npc.stanceAnimation = 7609;
 			npc.walkAnim = 7608;
-			npc.actions = new String[] { null, "Attack", null, null, null };
+			npc.options = new String[] { null, "Attack", null, null, null };
 			npc.destColours = null;
 			npc.originalColours = null;
 			npc.combatLevel = 490;
-			npc.squaresNeeded = 4;
+			npc.tileSpacesOccupied = 4;
 			npc.sizeXZ = 128;
 			npc.sizeY = 128;
 			break;
@@ -84,13 +157,13 @@ public final class MobDefinition {
 		case 7750:
 			npc.models = new int[] { 33099 };
 			npc.name = "Jal-MejJak";
-			npc.standAnim = 2867;
+			npc.stanceAnimation = 2867;
 			npc.walkAnim = 2863;
-			npc.actions = new String[] { null, "Attack", null, null, null };
+			npc.options = new String[] { null, "Attack", null, null, null };
 			npc.destColours = null;
 			npc.originalColours = null;
 			npc.combatLevel = 250;
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			npc.sizeXZ = 128;
 			npc.sizeY = 128;
 			break;
@@ -98,26 +171,26 @@ public final class MobDefinition {
 		case 7706:
 			npc.models = new int[] { 33011 };
 			npc.name = "TzKal-Zuk";
-			npc.standAnim = 7564;
+			npc.stanceAnimation = 7564;
 			npc.walkAnim = 7564;
-			npc.actions = new String[] { null, "Attack", null, null, null };
+			npc.options = new String[] { null, "Attack", null, null, null };
 			npc.destColours = null;
 			npc.originalColours = null;
 			npc.combatLevel = 1400;
-			npc.squaresNeeded = 7;
+			npc.tileSpacesOccupied = 7;
 			npc.sizeXZ = 128;
 			npc.sizeY = 128;
 			break;
 		case 7893:
 			npc.models = new int[] { 33036 };
 			npc.name = "@cya@Ancestral Glyph";
-			npc.standAnim = 7567;
+			npc.stanceAnimation = 7567;
 			npc.walkAnim = 7567;
-			npc.actions = new String[] { null, null, null, null, null };
+			npc.options = new String[] { null, null, null, null, null };
 			npc.destColours = null;
 			npc.originalColours = null;
 			npc.combatLevel = 0;
-			npc.squaresNeeded = 3;
+			npc.tileSpacesOccupied = 3;
 			npc.sizeXZ = 128;
 			npc.sizeY = 128;
 			npc.drawMinimapDot = false;
@@ -129,8 +202,8 @@ public final class MobDefinition {
 			npc.name = "Blitz";
 			npc.description = "A master attacker of Bloodshed.";
 			npc.combatLevel = 913;
-			npc.actions = new String[5];
-			npc.actions[1] = "Attack";
+			npc.options = new String[5];
+			npc.options[1] = "Attack";
 			npc.models = new int[9];
 			npc.models[0] = 14395; // Hat
 			npc.models[1] = 62746; // Platebody
@@ -141,19 +214,19 @@ public final class MobDefinition {
 			npc.models[6] = 9642; // Amulet
 			npc.models[7] = 2295; // Weapon
 			npc.models[8] = 26423; // Shield
-			npc.standAnim = 808;
+			npc.stanceAnimation = 808;
 			npc.walkAnim = 819;
 			npc.npcHeadModels = MobDefinition.forID(517).npcHeadModels;
 			npc.sizeXZ = 200;
 			npc.sizeY = 200;
-			npc.squaresNeeded = 2;
+			npc.tileSpacesOccupied = 2;
 			break;
 		case 133:
 			npc.name = "Cobra";
 			npc.description = "A master mager of Bloodshed.";
 			npc.combatLevel = 903;
-			npc.actions = new String[5];
-			npc.actions[1] = "Attack";
+			npc.options = new String[5];
+			npc.options[1] = "Attack";
 			npc.models = new int[10];
 			npc.models[0] = 3188; // Hat
 			npc.models[1] = 58366; // Platebody
@@ -165,12 +238,12 @@ public final class MobDefinition {
 			npc.models[7] = 56022; // Weapon
 			npc.models[8] = 40942; // Shield
 			npc.models[9] = 58316;
-			npc.standAnim = 808;
+			npc.stanceAnimation = 808;
 			npc.walkAnim = 819;
 			npc.npcHeadModels = MobDefinition.forID(517).npcHeadModels;
 			npc.sizeXZ = 200;
 			npc.sizeY = 200;
-			npc.squaresNeeded = 2;
+			npc.tileSpacesOccupied = 2;
 			npc.destColours = new int[] { 226770, 34503, 34503, 34503, 34503 };
 			npc.originalColours = new int[] { 926, 65214, 65200, 65186, 62995 };
 			break;
@@ -178,8 +251,8 @@ public final class MobDefinition {
 			npc.name = "Fear";
 			npc.description = "A master ranger of Bloodshed.";
 			npc.combatLevel = 844;
-			npc.actions = new String[5];
-			npc.actions[1] = "Attack";
+			npc.options = new String[5];
+			npc.options[1] = "Attack";
 			npc.models = new int[9];
 			npc.models[0] = 26632; // Hat
 			npc.models[1] = 20157; // Platebody
@@ -190,21 +263,21 @@ public final class MobDefinition {
 			npc.models[6] = 9642; // Amulet
 			npc.models[7] = 58380; // Weapon
 			npc.models[8] = 20121;
-			npc.standAnim = 808;
+			npc.stanceAnimation = 808;
 			npc.walkAnim = 819;
 			npc.npcHeadModels = MobDefinition.forID(517).npcHeadModels;
 			npc.sizeXZ = 200;
 			npc.sizeY = 200;
 			npc.destColours = ItemDefinition.forID(10372).newModelColor;
 			npc.originalColours = ItemDefinition.forID(10372).editedModelColor;
-			npc.squaresNeeded = 2;
+			npc.tileSpacesOccupied = 2;
 			break;
 		case 1472:
 			npc.name = "Death";
 			npc.description = "A master Attacker of Bloodshed.";
 			npc.combatLevel = 941;
-			npc.actions = new String[5];
-			npc.actions[1] = "Attack";
+			npc.options = new String[5];
+			npc.options[1] = "Attack";
 			npc.models = new int[9];
 			npc.models[0] = 55770; // Hat
 			npc.models[1] = 55851; // Platebody
@@ -215,12 +288,12 @@ public final class MobDefinition {
 			npc.models[6] = 9642; // Amulet
 			npc.models[7] = 56046; // Weapon
 			npc.models[8] = 38941; // Shield
-			npc.standAnim = 808;
+			npc.stanceAnimation = 808;
 			npc.walkAnim = 819;
 			npc.npcHeadModels = MobDefinition.forID(517).npcHeadModels;
 			npc.sizeXZ = 200;
 			npc.sizeY = 200;
-			npc.squaresNeeded = 2;
+			npc.tileSpacesOccupied = 2;
 			npc.destColours = new int[] { 127, 127, 127, 127 };
 			npc.originalColours = new int[] { 65214, 65200, 65186, 62995 };
 			break;
@@ -229,11 +302,11 @@ public final class MobDefinition {
 			npc.name = "WildyWyrm";
 			npc.models = new int[] { 63604 };
 			// npc.boundDim = 1;
-			npc.standAnim = 12790;
+			npc.stanceAnimation = 12790;
 			npc.walkAnim = 12790;
 			npc.combatLevel = 382;
-			npc.actions = new String[5];
-			npc.actions = new String[] { null, "Attack", null, null, null };
+			npc.options = new String[5];
+			npc.options = new String[] { null, "Attack", null, null, null };
 			npc.sizeXZ = 225;
 			npc.sizeY = 200;
 			// npc.sizeXZ = 35;
@@ -241,14 +314,14 @@ public final class MobDefinition {
 			break;
 		case 1:
 			npc.name = "Poison";
-			npc.actions = new String[] { null, null, null, null, null };
+			npc.options = new String[] { null, null, null, null, null };
 			npc.sizeXZ = 1;
 			npc.sizeY = 1;
 			npc.drawMinimapDot = false;
 			break;
 		case 0:
 			npc.name = " ";
-			npc.actions = new String[] { null, null, null, null, null };
+			npc.options = new String[] { null, null, null, null, null };
 			npc.sizeXZ = 1;
 			npc.sizeY = 1;
 			npc.drawMinimapDot = false;
@@ -258,12 +331,12 @@ public final class MobDefinition {
 			npc.combatLevel = 0;
 			npc.models = new int[1];
 			npc.models[0] = 29755;
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
 			npc.walkAnim = 7181;
-			npc.standAnim = 7180;
+			npc.stanceAnimation = 7180;
 			npc.description = "Its a Rock Golem.";
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			npc.sizeXZ = npc.sizeY = 110;
 			break;
 		case 6724:
@@ -271,17 +344,17 @@ public final class MobDefinition {
 			npc.combatLevel = 0;
 			npc.models = new int[1];
 			npc.models[0] = 29756;
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
 			npc.walkAnim = 6774;
-			npc.standAnim = 6772;
+			npc.stanceAnimation = 6772;
 			npc.description = "Its a Heron.";
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			break;
 
 		case 568:
 			npc.name = "Note Trader";
-			npc.actions = new String[] { "Trade", null, null, null, null };
+			npc.options = new String[] { "Trade", null, null, null, null };
 			break;
 
 		case 6726:
@@ -289,54 +362,54 @@ public final class MobDefinition {
 			npc.combatLevel = 0;
 			npc.models = new int[1];
 			npc.models[0] = 29754;
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
 			npc.walkAnim = 7178;
-			npc.standAnim = 7177;
+			npc.stanceAnimation = 7177;
 			npc.description = "Its a Beaver.";
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			break;
 
 		case 6640:
 			npc.name = "Kraken";
 			npc.models = new int[] { 28231 };
 			// npc.boundDim = 1;
-			npc.standAnim = 3989;
+			npc.stanceAnimation = 3989;
 			npc.walkAnim = 3989;
 			npc.sizeXZ = 25;
 			npc.sizeY = 25;
-			npc.actions = new String[5];
+			npc.options = new String[5];
 			npc.drawMinimapDot = false;
-			npc.actions[0] = "Pick-up";
+			npc.options[0] = "Pick-up";
 			npc.combatLevel = 0;
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			break;
 
 		case 963:
 			npc.name = "Hellpupy";
 			npc.models = new int[] { 29240 };
 			// npc.boundDim = 1;
-			npc.standAnim = 6561;
+			npc.stanceAnimation = 6561;
 			npc.walkAnim = 6560;
 			npc.originalColours = new int[] { 29270 };
-			npc.actions = new String[5];
+			npc.options = new String[5];
 			npc.drawMinimapDot = false;
-			npc.actions[0] = "Pick-up";
+			npc.options[0] = "Pick-up";
 			npc.combatLevel = 0;
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			break;
 
 		case 5781:
 			npc.name = "Baby mole";
 			npc.models = new int[] { 12073 };
 			// npc.boundDim = 1;
-			npc.standAnim = 3309;
+			npc.stanceAnimation = 3309;
 			npc.walkAnim = 3313;
-			npc.actions = new String[5];
+			npc.options = new String[5];
 			npc.drawMinimapDot = false;
-			npc.actions[0] = "Pick-up";
+			npc.options[0] = "Pick-up";
 			npc.combatLevel = 0;
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			npc.sizeXZ = 80;
 			npc.sizeY = 80;
 			break;
@@ -346,58 +419,58 @@ public final class MobDefinition {
 			npc.combatLevel = 0;
 			npc.models = new int[1];
 			npc.models[0] = 32202;
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
 			npc.walkAnim = 7313;
-			npc.standAnim = 7312;
+			npc.stanceAnimation = 7312;
 			npc.description = "Its a Tangleroot.";
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			break;
 		case 6728:
 			npc.name = "Rocky";
 			npc.combatLevel = 0;
 			npc.models = new int[1];
 			npc.models[0] = 32203;
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
 			npc.walkAnim = 7316;
-			npc.standAnim = 7315;
+			npc.stanceAnimation = 7315;
 			npc.description = "Its a Rocky.";
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			break;
 		case 6729:
 			npc.name = "Giant squirrel";
 			npc.combatLevel = 0;
 			npc.models = new int[1];
 			npc.models[0] = 32206;
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
 			npc.walkAnim = 7310;
-			npc.standAnim = 7309;
+			npc.stanceAnimation = 7309;
 			npc.description = "Its a Giant squirrel.";
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			break;
 		case 6730:
 			npc.name = "Rift guardian";
 			npc.combatLevel = 0;
 			npc.models = new int[1];
 			npc.models[0] = 32204;
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
 			npc.walkAnim = 7306;
-			npc.standAnim = 7307;
+			npc.stanceAnimation = 7307;
 			npc.description = "Its a Rift guardian.";
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			break;
 		case 6731:
 			npc.models = new int[1];
 			npc.models[0] = 32697;
 			npc.name = "Olmlet";
 			npc.description = "Its a Olmlet.";
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
-			npc.squaresNeeded = 1;
-			npc.standAnim = 7396;
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
+			npc.tileSpacesOccupied = 1;
+			npc.stanceAnimation = 7396;
 			npc.walkAnim = 7395;
 			npc.sizeXZ = npc.sizeY = 65;
 			break;
@@ -407,21 +480,21 @@ public final class MobDefinition {
 			npc.models[0] = 28294;
 			npc.models[1] = 28295;
 			npc.name = "Venenatis";
-			npc.actions = new String[] { null, "Attack", null, null, null };
+			npc.options = new String[] { null, "Attack", null, null, null };
 			npc.sizeXZ = 200;
 			npc.sizeY = 200;
 			MobDefinition ven = forID(60);
-			npc.standAnim = ven.standAnim;
+			npc.stanceAnimation = ven.stanceAnimation;
 			npc.walkAnim = ven.walkAnim;
 			npc.combatLevel = 464;
-			npc.squaresNeeded = 3;
+			npc.tileSpacesOccupied = 3;
 			break;
 		case 2045:
 			npc.name = "Snakeling";
-			npc.actions = new String[] { null, "Attack", null, null, null };
+			npc.options = new String[] { null, "Attack", null, null, null };
 			npc.models = new int[1];
 			npc.models[0] = 14408;
-			npc.standAnim = 5070;
+			npc.stanceAnimation = 5070;
 			npc.walkAnim = 5070;
 			npc.combatLevel = 1;
 			npc.sizeXZ = 30;
@@ -429,10 +502,10 @@ public final class MobDefinition {
 			break;
 		case 2042:// turgoise
 			npc.name = "Zulrah";
-			npc.actions = new String[] { null, "Attack", null, null, null };
+			npc.options = new String[] { null, "Attack", null, null, null };
 			npc.models = new int[1];
 			npc.models[0] = 14407;
-			npc.standAnim = 5070;
+			npc.stanceAnimation = 5070;
 			npc.walkAnim = 5070;
 			npc.combatLevel = 725;
 			npc.sizeXZ = 100;
@@ -440,10 +513,10 @@ public final class MobDefinition {
 			break;
 		case 2043:// regular
 			npc.name = "Zulrah";
-			npc.actions = new String[] { null, "Attack", null, null, null };
+			npc.options = new String[] { null, "Attack", null, null, null };
 			npc.models = new int[1];
 			npc.models[0] = 14408;
-			npc.standAnim = 5070;
+			npc.stanceAnimation = 5070;
 			npc.walkAnim = 5070;
 			npc.combatLevel = 725;
 			npc.sizeXZ = 100;
@@ -451,10 +524,10 @@ public final class MobDefinition {
 			break;
 		case 2044:// melee
 			npc.name = "Zulrah";
-			npc.actions = new String[] { null, "Attack", null, null, null };
+			npc.options = new String[] { null, "Attack", null, null, null };
 			npc.models = new int[1];
 			npc.models[0] = 14409;
-			npc.standAnim = 5070;
+			npc.stanceAnimation = 5070;
 			npc.walkAnim = 5070;
 			npc.combatLevel = 725;
 			npc.sizeXZ = 100;
@@ -464,102 +537,102 @@ public final class MobDefinition {
 			npc.models = new int[1];
 			npc.models[0] = 28293;
 			npc.name = "Scorpia";
-			npc.actions = new String[] { null, "Attack", null, null, null };
+			npc.options = new String[] { null, "Attack", null, null, null };
 			MobDefinition scor = forID(107);
-			npc.standAnim = scor.standAnim;
+			npc.stanceAnimation = scor.stanceAnimation;
 			npc.walkAnim = scor.walkAnim;
 			npc.combatLevel = 464;
-			npc.squaresNeeded = 3;
+			npc.tileSpacesOccupied = 3;
 			break;
 		case 7286:
 			npc.name = "Skotizo";
 			npc.description = "Badass from the depths of hell";
 			npc.combatLevel = 321;
 			MobDefinition skotizo = forID(4698);
-			npc.standAnim = skotizo.standAnim;
+			npc.stanceAnimation = skotizo.stanceAnimation;
 			npc.walkAnim = skotizo.walkAnim;
-			npc.actions = new String[5];
-			npc.actions[1] = "Attack";
+			npc.options = new String[5];
+			npc.options[1] = "Attack";
 			npc.models = new int[1];
 			npc.models[0] = 31653;
 			npc.sizeXZ = 80; // resize if you wish hes a bit small cause personal preference
 			npc.sizeY = 80; // resize
-			npc.squaresNeeded = 3;
+			npc.tileSpacesOccupied = 3;
 			break;
 		case 6766:
 			npc.name = "Lizardman shaman";
 			npc.description = "It's a lizardman.";
 			npc.combatLevel = 150;
 			npc.walkAnim = 7195;
-			npc.standAnim = 7191;
-			npc.actions = new String[5];
-			npc.actions[1] = "Attack";
+			npc.stanceAnimation = 7191;
+			npc.options = new String[5];
+			npc.options[1] = "Attack";
 			npc.models = new int[1];
 			npc.models[0] = 4039;
 			npc.sizeXZ = 108;
 			npc.sizeY = 108;
-			npc.squaresNeeded = 3;
+			npc.tileSpacesOccupied = 3;
 			break;
 		case 5886:
 			npc.name = "Abyssal Sire";
 			npc.description = "It's an abyssal sire.";
 			npc.combatLevel = 350;
 			npc.walkAnim = 4534;
-			npc.standAnim = 4533;
-			npc.actions = new String[5];
-			npc.actions[1] = "Attack";
+			npc.stanceAnimation = 4533;
+			npc.options = new String[5];
+			npc.options[1] = "Attack";
 			npc.models = new int[1];
 			npc.models[0] = 29477;
 			npc.sizeXZ = 108;
 			npc.sizeY = 108;
-			npc.squaresNeeded = 6;
+			npc.tileSpacesOccupied = 6;
 			break;
 		case 499:
 			npc.name = "Thermonuclear smoke devil";
 			npc.description = "It looks like its glowing";
 			npc.combatLevel = 301;
 			npc.walkAnim = 1828;
-			npc.standAnim = 1829;
-			npc.actions = new String[5];
-			npc.actions[1] = "Attack";
+			npc.stanceAnimation = 1829;
+			npc.options = new String[5];
+			npc.options[1] = "Attack";
 			npc.models = new int[1];
 			npc.models[0] = 28442;
 			npc.sizeXZ = 240;
 			npc.sizeY = 240;
-			npc.squaresNeeded = 4;
+			npc.tileSpacesOccupied = 4;
 			break;
 		case 1999:
 			npc.models = new int[2];
 			npc.name = "Cerberus";
 			npc.models[1] = 29270;
 			npc.combatLevel = 318;
-			npc.standAnim = 4484;
+			npc.stanceAnimation = 4484;
 			npc.walkAnim = 4488;
-			npc.actions = new String[5];
+			npc.options = new String[5];
 			npc.originalColours = new int[] { 29270 };
-			npc.actions = new String[] { null, "Attack", null, null, null };
+			npc.options = new String[] { null, "Attack", null, null, null };
 			npc.sizeXZ = 120;
 			npc.sizeY = 120;
 			break;
 		case 2009:
 			npc.name = "Callisto";
 			npc.models = new int[] { 28298 };
-			npc.actions = new String[] { null, "Attack", null, null, null };
+			npc.options = new String[] { null, "Attack", null, null, null };
 			npc.combatLevel = 470;
 			MobDefinition callisto = forID(105);
-			npc.standAnim = callisto.standAnim;
+			npc.stanceAnimation = callisto.stanceAnimation;
 			npc.walkAnim = callisto.walkAnim;
-			npc.actions = callisto.actions;
+			npc.options = callisto.options;
 			npc.sizeXZ = npc.sizeY = 110;
-			npc.squaresNeeded = 4;
+			npc.tileSpacesOccupied = 4;
 			break;
 		case 2006:
 			npc.models = new int[1];
 			npc.models[0] = 28300;
 			npc.name = "Vet'ion";
-			npc.actions = new String[] { null, "Attack", null, null, null };
+			npc.options = new String[] { null, "Attack", null, null, null };
 			MobDefinition vet = forID(90);
-			npc.standAnim = vet.standAnim;
+			npc.stanceAnimation = vet.stanceAnimation;
 			npc.walkAnim = vet.walkAnim;
 			npc.combatLevel = 464;
 			break;
@@ -568,7 +641,7 @@ public final class MobDefinition {
 			npc.name = "Kraken";
 			npc.combatLevel = 291;
 			npc.models = new int[] { 28231 };
-			npc.standAnim = 3989;
+			npc.stanceAnimation = 3989;
 			npc.walkAnim = forID(3847).walkAnim;
 			npc.sizeXZ = npc.sizeY = 130;
 			npc.lightning = 30;
@@ -579,21 +652,21 @@ public final class MobDefinition {
 			npc.models = new int[1];
 			npc.models[0] = 28231;
 			npc.name = "Cave kraken";
-			npc.actions = new String[] { null, "Attack", null, null, null };
+			npc.options = new String[] { null, "Attack", null, null, null };
 			MobDefinition cave = forID(3847);
 			npc.models = new int[1];
 			npc.models[0] = 28233;
 			npc.combatLevel = 127;
-			npc.standAnim = 3989;
+			npc.stanceAnimation = 3989;
 			npc.walkAnim = cave.walkAnim;
 			npc.sizeXZ = npc.sizeY = 42;
 			break;
 		case 457:
 			npc.name = "Ghost";
-			npc.actions = new String[] { "Talk-to", null, "Teleport", null, null };
+			npc.options = new String[] { "Talk-to", null, "Teleport", null, null };
 			break;
 		case 922:
-			npc.actions = new String[] { "Talk-to", null, null, null, null };
+			npc.options = new String[] { "Talk-to", null, null, null, null };
 			break;
 		case 241:
 			npc.name = "Boss Point Shop";
@@ -603,7 +676,7 @@ public final class MobDefinition {
 			break;
 		case 4902:
 			npc.name = "Expert Miner";
-			npc.actions = new String[] { "Talk-To", null, "Trade", null, null };
+			npc.options = new String[] { "Talk-To", null, "Trade", null, null };
 			break;
 		case 5417:
 			npc.combatLevel = 210;
@@ -624,7 +697,7 @@ public final class MobDefinition {
 			npc.combatLevel = 224;
 			break;
 		case 6691:
-			npc.squaresNeeded = 2;
+			npc.tileSpacesOccupied = 2;
 			npc.combatLevel = 301;
 			break;
 		case 1552:
@@ -649,48 +722,48 @@ public final class MobDefinition {
 		case 8706:
 		case 8705:
 			npc.name = "Musician";
-			npc.actions = new String[] { "Listen-to", null, null, null, null };
+			npc.options = new String[] { "Listen-to", null, null, null, null };
 			break;
 		case 7005:
 			MobDefinition wiseMan1 = MobDefinition.forID(2253);
-			npc.actions = new String[5];
+			npc.options = new String[5];
 			npc.combatLevel = 250;
 			npc.name = "Wise Old Man";
-			npc.actions = new String[5];
-			npc.actions = new String[] { null, "Attack", null, null, null };
-			npc.standAnim = wiseMan1.standAnim;
+			npc.options = new String[5];
+			npc.options = new String[] { null, "Attack", null, null, null };
+			npc.stanceAnimation = wiseMan1.stanceAnimation;
 			npc.walkAnim = wiseMan1.walkAnim;
 			npc.models = wiseMan1.models;
 			npc.headIcon = MobDefinition.forID(8349).headIcon;
 			npc.sizeXZ = wiseMan1.sizeXZ;
 			npc.sizeY = wiseMan1.sizeY;
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			npc.drawMinimapDot = true;
 			break;
 		case 7010:
 			MobDefinition wiseMan2 = MobDefinition.forID(2253);
-			npc.actions = new String[5];
+			npc.options = new String[5];
 			npc.combatLevel = 1150;
 			npc.name = "Grumpy Old Man";
-			npc.actions = new String[5];
-			npc.actions = new String[] { null, "Attack", null, null, null };
-			npc.standAnim = wiseMan2.standAnim;
+			npc.options = new String[5];
+			npc.options = new String[] { null, "Attack", null, null, null };
+			npc.stanceAnimation = wiseMan2.stanceAnimation;
 			npc.walkAnim = wiseMan2.walkAnim;
 			npc.models = wiseMan2.models;
 			npc.headIcon = MobDefinition.forID(1158).headIcon;
 			npc.sizeXZ = 300;
 			npc.sizeY = 300;
-			npc.squaresNeeded = 2;
+			npc.tileSpacesOccupied = 2;
 			npc.drawMinimapDot = true;
 			break;
 
 		case 947:
 			npc.name = "Player Owned Shop Manager";
-			npc.actions = new String[] { "Talk-to", null, "View Shops", "My Shop", "Claim Earnings" };
+			npc.options = new String[] { "Talk-to", null, "View Shops", "My Shop", "Claim Earnings" };
 			break;
 		case 550:
 			npc.name = "Dan's Bitch";
-			npc.actions = new String[] { "@red@Melee Shop", null, "@red@Mage shop", "@red@Range shop", "@red@Pure shop" };
+			npc.options = new String[] { "@red@Melee Shop", null, "@red@Mage shop", "@red@Range shop", "@red@Pure shop" };
 			break;
 		case 9939:
 			npc.combatLevel = 607;
@@ -698,10 +771,10 @@ public final class MobDefinition {
 		case 149:
 			npc.name = "Whirlpool";
 			npc.models = new int[] { 26699 };
-			npc.actions = new String[] { null, "Disturb", null, null, null };
-			npc.standAnim = 6737;
+			npc.options = new String[] { null, "Disturb", null, null, null };
+			npc.stanceAnimation = 6737;
 			npc.walkAnim = 6737;
-			npc.squaresNeeded = 4;
+			npc.tileSpacesOccupied = 4;
 			npc.combatLevel = 0;
 			npc.sizeY = 130;
 			npc.sizeXZ = 130;
@@ -711,8 +784,8 @@ public final class MobDefinition {
 		case 148:
 			npc.name = "Enormous Tentacle";
 			npc.models = new int[] { 13201, };
-			npc.actions = new String[] { null, "Attack", null, null, null };
-			npc.standAnim = 3617;
+			npc.options = new String[] { null, "Attack", null, null, null };
+			npc.stanceAnimation = 3617;
 			npc.walkAnim = 3617;
 			npc.combatLevel = 0;
 			npc.sizeY = 200;
@@ -721,8 +794,8 @@ public final class MobDefinition {
 		case 150:// small
 			npc.name = "Whirlpool";
 			npc.models = new int[] { 26699 };
-			npc.actions = new String[] { null, "Disturb", null, null, null };
-			npc.standAnim = 6737;
+			npc.options = new String[] { null, "Disturb", null, null, null };
+			npc.stanceAnimation = 6737;
 			npc.walkAnim = 6737;
 			npc.combatLevel = 0;
 			npc.sizeY = 55;
@@ -738,43 +811,43 @@ public final class MobDefinition {
 			break;
 		case 3101:
 			npc.sizeY = npc.sizeXZ = 80;
-			npc.squaresNeeded = 1;
-			npc.actions = new String[] { "Talk-to", null, "Start", "Rewards", null };
+			npc.tileSpacesOccupied = 1;
+			npc.options = new String[] { "Talk-to", null, "Start", "Rewards", null };
 			break;
 		case 6222:
 			npc.name = "Kree'arra";
-			npc.squaresNeeded = 5;
-			npc.standAnim = 6972;
+			npc.tileSpacesOccupied = 5;
+			npc.stanceAnimation = 6972;
 			npc.walkAnim = 6973;
-			npc.actions = new String[] { null, "Attack", null, null, null };
+			npc.options = new String[] { null, "Attack", null, null, null };
 			npc.sizeY = npc.sizeXZ = 110;
 			break;
 		case 6203:
 			npc.models = new int[] { 27768, 27773, 27764, 27765, 27770 };
 			npc.name = "K'ril Tsutsaroth";
-			npc.squaresNeeded = 5;
-			npc.standAnim = 6943;
+			npc.tileSpacesOccupied = 5;
+			npc.stanceAnimation = 6943;
 			npc.walkAnim = 6942;
-			npc.actions = new String[] { null, "Attack", null, null, null };
+			npc.options = new String[] { null, "Attack", null, null, null };
 			npc.sizeY = npc.sizeXZ = 110;
 			break;
 		case 1610:
 		case 491:
 		case 10216:
-			npc.actions = new String[] { null, "Attack", null, null, null };
+			npc.options = new String[] { null, "Attack", null, null, null };
 			break;
 		case 7969:
-			npc.actions = new String[] { "Talk-to", null, "Trade", null, null };
+			npc.options = new String[] { "Talk-to", null, "Trade", null, null };
 			break;
 		case 1382:
 			npc.name = "Glacor";
 			npc.models = new int[] { 58940 };
-			npc.squaresNeeded = 3;
+			npc.tileSpacesOccupied = 3;
 			// npc.anInt86 = 475;
 			npc.sizeXZ = npc.sizeY = 180;
-			npc.standAnim = 10869;
+			npc.stanceAnimation = 10869;
 			npc.walkAnim = 10867;
-			npc.actions = new String[] { null, "Attack", null, null, null };
+			npc.options = new String[] { null, "Attack", null, null, null };
 			npc.combatLevel = 123;
 			npc.drawMinimapDot = true;
 			npc.combatLevel = 188;
@@ -799,16 +872,16 @@ public final class MobDefinition {
 			npc.name = "Donator Shop 3";
 			break;
 		case 6970:
-			npc.actions = new String[] { "Trade", null, "Exchange Shards", null, null };
+			npc.options = new String[] { "Trade", null, "Exchange Shards", null, null };
 			break;
 		case 4657:
-			npc.actions = new String[] { "Talk-to", null, "Claim Items", "Check Total", "Teleport" };
+			npc.options = new String[] { "Talk-to", null, "Claim Items", "Check Total", "Teleport" };
 			break;
 		case 605:
-			npc.actions = new String[] { "Talk-to", null, "Vote Rewards", "Loyalty Titles", null };
+			npc.options = new String[] { "Talk-to", null, "Vote Rewards", "Loyalty Titles", null };
 			break;
 		case 8591:
-			npc.actions = new String[] { "Talk-to", null, "Trade", null, null };
+			npc.options = new String[] { "Talk-to", null, "Trade", null, null };
 			break;
 		case 316:
 		case 315:
@@ -821,10 +894,10 @@ public final class MobDefinition {
 			break;
 		case 318:
 			npc.sizeXZ = 30;
-			npc.actions = new String[] { "Net", null, "Lure", null, null };
+			npc.options = new String[] { "Net", null, "Lure", null, null };
 			break;
 		case 805:
-			npc.actions = new String[] { "Trade", null, "Tan hide", null, null };
+			npc.options = new String[] { "Trade", null, "Tan hide", null, null };
 			break;
 		case 461:
 		case 844:
@@ -835,26 +908,26 @@ public final class MobDefinition {
 		case 520:
 		case 521:
 		case 11226:
-			npc.actions = new String[] { "Trade", null, null, null, null };
+			npc.options = new String[] { "Trade", null, null, null, null };
 			break;
 		case 8022:
 		case 8028:
 			String color = i == 8022 ? "Yellow" : "Green";
 			npc.name = "" + color + " energy source";
-			npc.actions = new String[] { "Siphon", null, null, null, null };
+			npc.options = new String[] { "Siphon", null, null, null, null };
 			break;
 		case 8444:
-			npc.actions = new String[5];
-			npc.actions[0] = "Trade";
+			npc.options = new String[5];
+			npc.options[0] = "Trade";
 			break;
 		case 2579:
 			npc.name = "Max";
 			npc.description = "He's mastered the many skills of Bloodshed.";
 			npc.combatLevel = 138;
-			npc.actions = new String[5];
-			npc.actions[0] = "Talk-to";
-			npc.actions[2] = "Trade";
-			npc.standAnim = 808;
+			npc.options = new String[5];
+			npc.options[0] = "Talk-to";
+			npc.options[2] = "Trade";
+			npc.stanceAnimation = 808;
 			npc.walkAnim = 819;
 			npc.models = new int[] { 65291, 65322, 506, 529, 252, 9642, 62746, 13307, 62743, 53327 };
 			npc.npcHeadModels = new int[] { 39332, 39235 };
@@ -932,7 +1005,7 @@ public final class MobDefinition {
 		case 5079:
 		case 5080:
 		case 6824:
-			npc.actions = new String[] { null, null, null, null, null };
+			npc.options = new String[] { null, null, null, null, null };
 			break;
 		case 6806: // thorny snail
 		case 6807:
@@ -949,15 +1022,15 @@ public final class MobDefinition {
 		case 3594: // yak
 		case 3590: // war tortoise
 		case 3596: // terrorbird
-			npc.actions = new String[] { "Store", null, null, null, null };
+			npc.options = new String[] { "Store", null, null, null, null };
 			break;
 		case 548:
-			npc.actions = new String[] { "Trade", null, null, null, null };
+			npc.options = new String[] { "Trade", null, null, null, null };
 			break;
 		case 3299:
 		case 437:
 		case 2313:
-			npc.actions = new String[] { "Trade", null, null, null, null };
+			npc.options = new String[] { "Trade", null, null, null, null };
 			break;
 
 		case 1267:
@@ -965,59 +1038,59 @@ public final class MobDefinition {
 			npc.drawMinimapDot = true;
 			break;
 		case 961:
-			npc.actions = new String[] { null, null, "Buy Consumables", "Restore Stats", null };
+			npc.options = new String[] { null, null, "Buy Consumables", "Restore Stats", null };
 			npc.name = "Healer";
 			break;
 		case 705:
-			npc.actions = new String[] { null, null, "Buy Armour", "Buy Weapons", "Buy Jewelries" };
+			npc.options = new String[] { null, null, "Buy Armour", "Buy Weapons", "Buy Jewelries" };
 			npc.name = "Warrior";
 			break;
 		case 1861:
-			npc.actions = new String[] { null, null, "Buy Equipment", "Buy Ammunition", null };
+			npc.options = new String[] { null, null, "Buy Equipment", "Buy Ammunition", null };
 			npc.name = "Archer";
 			break;
 		case 946:
-			npc.actions = new String[] { null, null, "Buy Equipment", "Buy Runes", null };
+			npc.options = new String[] { null, null, "Buy Equipment", "Buy Runes", null };
 			npc.name = "Mage";
 			break;
 		case 2253:
-			npc.actions = new String[] { null, null, "Buy Skillcapes", "Buy Skillcapes (t)", "Buy Hoods" };
+			npc.options = new String[] { null, null, "Buy Skillcapes", "Buy Skillcapes (t)", "Buy Hoods" };
 			break;
 		case 2292:
-			npc.actions = new String[] { "Trade", null, null, null, null };
+			npc.options = new String[] { "Trade", null, null, null, null };
 			npc.name = "Merchant";
 			break;
 		case 2676:
-			npc.actions = new String[] { "Makeover", null, null, null, null };
+			npc.options = new String[] { "Makeover", null, null, null, null };
 			break;
 		case 494:
 		case 1360:
-			npc.actions = new String[] { "Talk-to", null, null, null, null };
+			npc.options = new String[] { "Talk-to", null, null, null, null };
 			break;
 		case 1685:
 			npc.name = "Pure";
-			npc.actions = new String[] { "Trade", null, null, null, null };
+			npc.options = new String[] { "Trade", null, null, null, null };
 			break;
 		case 3030:
 			npc.name = "King black dragon";
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
 			npc.models = new int[] { 17414, 17415, 17429, 17422 };
 			npc.combatLevel = 276;
-			npc.standAnim = 90;
+			npc.stanceAnimation = 90;
 			npc.walkAnim = 4635;
 			npc.sizeY = 40;
 			npc.sizeXZ = 40;
-			npc.squaresNeeded = 3;
+			npc.tileSpacesOccupied = 3;
 			break;
 
 		case 3031:
 			npc.name = "General graardor";
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
 			npc.models = new int[] { 27785, 27789 };
 			npc.combatLevel = 624;
-			npc.standAnim = 7059;
+			npc.stanceAnimation = 7059;
 			npc.walkAnim = 7058;
 			npc.sizeY = 29;
 			npc.sizeXZ = 33;
@@ -1025,24 +1098,24 @@ public final class MobDefinition {
 
 		case 3032:
 			npc.name = "TzTok-Jad";
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
 			npc.models = new int[] { 34131 };
 			npc.combatLevel = 702;
-			npc.standAnim = 9274;
+			npc.stanceAnimation = 9274;
 			npc.walkAnim = 9273;
 			npc.sizeY = 25;
 			npc.sizeXZ = 27;
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			break;
 
 		case 3033:
 			npc.name = "Chaos elemental";
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
 			npc.models = new int[] { 11216 };
 			npc.combatLevel = 305;
-			npc.standAnim = 3144;
+			npc.stanceAnimation = 3144;
 			npc.walkAnim = 3145;
 			npc.sizeY = 49;
 			npc.sizeXZ = 45;
@@ -1050,100 +1123,100 @@ public final class MobDefinition {
 
 		case 3034:
 			npc.name = "Corporeal beast";
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
 			npc.models = new int[] { 40955 };
 			npc.combatLevel = 785;
-			npc.standAnim = 10056;
+			npc.stanceAnimation = 10056;
 			npc.walkAnim = 10055;
 			npc.sizeY = 24;
 			npc.sizeXZ = 25;
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			break;
 
 		case 3035:
 			npc.name = "Kree'arra";
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
 			npc.models = new int[] { 28003, 28004 };
 			npc.combatLevel = 580;
-			npc.standAnim = 6972;
+			npc.stanceAnimation = 6972;
 			npc.walkAnim = 6973;
 			npc.sizeY = 23;
 			npc.sizeXZ = 23;
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			break;
 
 		case 3036:
 			npc.name = "K'ril tsutsaroth";
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
 			npc.models = new int[] { 27768, 27773, 27764, 27765, 27770 };
 			npc.combatLevel = 650;
-			npc.standAnim = 6943;
+			npc.stanceAnimation = 6943;
 			npc.walkAnim = 6942;
 			npc.sizeY = 24;
 			npc.sizeXZ = 24;
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			break;
 		case 3037:
 			npc.name = "Commander zilyana";
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
 			npc.models = new int[] { 28057, 28071, 28078, 28056 };
 			npc.combatLevel = 596;
-			npc.standAnim = 6963;
+			npc.stanceAnimation = 6963;
 			npc.walkAnim = 6962;
 			npc.sizeY = 60;
 			npc.sizeXZ = 60;
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			break;
 		case 3038:
 			npc.name = "Dagannoth supreme";
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
 			npc.models = new int[] { 9941, 9943 };
 			npc.combatLevel = 303;
-			npc.standAnim = 2850;
+			npc.stanceAnimation = 2850;
 			npc.walkAnim = 2849;
 			npc.sizeY = 60;
 			npc.sizeXZ = 60;
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			break;
 
 		case 3039:
 			npc.name = "Dagannoth prime"; // 9940, 9943, 9942
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
 			npc.models = new int[] { 9940, 9943, 9942 };
 			npc.originalColours = new int[] { 11930, 27144, 16536, 16540 };
 			npc.destColours = new int[] { 5931, 1688, 21530, 21534 };
 			npc.combatLevel = 303;
-			npc.standAnim = 2850;
+			npc.stanceAnimation = 2850;
 			npc.walkAnim = 2849;
 			npc.sizeY = 60;
 			npc.sizeXZ = 60;
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			break;
 
 		case 3040:
 			npc.name = "Dagannoth rex";
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
 			npc.models = new int[] { 9941 };
 			npc.originalColours = new int[] { 16536, 16540, 27144, 2477 };
 			npc.destColours = new int[] { 7322, 7326, 10403, 2595 };
 			npc.combatLevel = 303;
-			npc.standAnim = 2850;
+			npc.stanceAnimation = 2850;
 			npc.walkAnim = 2849;
 			npc.sizeY = 60;
 			npc.sizeXZ = 60;
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			break;
 		case 3047:
 			npc.name = "Frost dragon";
 			npc.combatLevel = 166;
-			npc.standAnim = 13156;
+			npc.stanceAnimation = 13156;
 			npc.walkAnim = 13157;
 			npc.turn180AnimIndex = -1;
 			npc.turn90CCWAnimIndex = -1;
@@ -1151,216 +1224,216 @@ public final class MobDefinition {
 			// npc.type = 51;
 			npc.degreesToTurn = 32;
 			npc.models = new int[] { 56767, 55294 };
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
 			npc.sizeY = 45;
 			npc.sizeXZ = 45;
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			break;
 
 		case 3048:
 			npc.models = new int[] { 44733 };
 			npc.name = "Tormented demon";
 			npc.combatLevel = 450;
-			npc.standAnim = 10921;
+			npc.stanceAnimation = 10921;
 			npc.walkAnim = 10920;
 			npc.turn180AnimIndex = -1;
 			npc.turn90CCWAnimIndex = -1;
 			npc.turn90CWAnimIndex = -1;
 			// npc.type = 8349;
 			npc.degreesToTurn = 32;
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
 			npc.sizeY = 40;
 			npc.sizeXZ = 40;
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			break;
 		case 3050:
 			npc.models = new int[] { 24602, 24605, 24606 };
 			npc.name = "Kalphite queen";
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
 			npc.combatLevel = 333;
-			npc.standAnim = 6236;
+			npc.stanceAnimation = 6236;
 			npc.walkAnim = 6236;
 			npc.sizeY = 40;
 			npc.sizeXZ = 40;
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			break;
 		case 3051:
 			npc.models = new int[] { 46141 };
 			npc.name = "Slash bash";
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
 			npc.combatLevel = 111;
-			npc.standAnim = 11460;
+			npc.stanceAnimation = 11460;
 			npc.walkAnim = 11461;
 			npc.sizeY = 45;
 			npc.sizeXZ = 45;
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			break;
 		case 3052:
 			npc.models = new int[] { 45412 };
 			npc.name = "Phoenix";
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
 			npc.combatLevel = 235;
-			npc.standAnim = 11074;
+			npc.stanceAnimation = 11074;
 			npc.walkAnim = 11075;
 			npc.sizeY = 45;
 			npc.sizeXZ = 45;
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			break;
 		case 3053:
 			npc.models = new int[] { 46058, 46057 };
 			npc.name = "Bandos avatar";
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
 			npc.combatLevel = 299;
-			npc.standAnim = 11242;
+			npc.stanceAnimation = 11242;
 			npc.walkAnim = 11255;
 			npc.sizeY = 45;
 			npc.sizeXZ = 45;
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			break;
 		case 3054:
 			npc.models = new int[] { 62717 };
 			npc.name = "Nex";
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
 			npc.combatLevel = 565;
-			npc.standAnim = 6320;
+			npc.stanceAnimation = 6320;
 			npc.walkAnim = 6319;
 			npc.sizeY = 55;
 			npc.sizeXZ = 55;
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			break;
 		case 3055:
 			npc.models = new int[] { 51852, 51853 };
 			npc.name = "Jungle strykewyrm";
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
 			npc.combatLevel = 110;
-			npc.standAnim = 12790;
+			npc.stanceAnimation = 12790;
 			npc.walkAnim = 12790;
 			npc.sizeY = 39;
 			npc.sizeXZ = 35;
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			break;
 		case 3056:
 			npc.models = new int[] { 51848, 51850 };
 			npc.name = "Desert strykewyrm";
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
 			npc.combatLevel = 130;
-			npc.standAnim = 12790;
+			npc.stanceAnimation = 12790;
 			npc.walkAnim = 12790;
 			npc.sizeY = 39;
 			npc.sizeXZ = 35;
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			break;
 		case 3057:
 			npc.models = new int[] { 51847, 51849 };
 			npc.name = "Ice strykewyrm";
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
 			npc.combatLevel = 210;
-			npc.standAnim = 12790;
+			npc.stanceAnimation = 12790;
 			npc.walkAnim = 12790;
 			npc.sizeY = 39;
 			npc.sizeXZ = 35;
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			break;
 		case 3058:
 			npc.models = new int[] { 49142, 49144 };
 			npc.name = "Green dragon";
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
 			npc.combatLevel = 79;
-			npc.standAnim = 12248;
+			npc.stanceAnimation = 12248;
 			npc.walkAnim = 12246;
 			npc.sizeY = 40;
 			npc.sizeXZ = 40;
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			break;
 		case 3059:
 			npc.models = new int[] { 57937 };
 			npc.name = "Baby blue dragon";
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
 			npc.combatLevel = 48;
-			npc.standAnim = 14267;
+			npc.stanceAnimation = 14267;
 			npc.walkAnim = 14268;
 			npc.sizeY = 70;
 			npc.sizeXZ = 70;
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			break;
 		case 3060:
 			npc.models = new int[] { 49137, 49144 };
 			npc.name = "Blue dragon";
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
 			npc.combatLevel = 111;
-			npc.standAnim = 12248;
+			npc.stanceAnimation = 12248;
 			npc.walkAnim = 12246;
 			npc.sizeY = 45;
 			npc.sizeXZ = 45;
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			break;
 		case 3061:
 			npc.models = new int[] { 14294, 49144 };
 			npc.name = "Black dragon";
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
 			npc.combatLevel = 227;
-			npc.standAnim = 12248;
+			npc.stanceAnimation = 12248;
 			npc.walkAnim = 12246;
 			npc.sizeY = 45;
 			npc.sizeXZ = 45;
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			break;
 		case 3062:
 			npc.models = new int[2];
 			npc.models[0] = 28294;
 			npc.models[1] = 28295;
 			npc.name = "Venenatis";
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
 			npc.sizeXZ = 45;
 			npc.sizeY = 45;
 			MobDefinition ven2 = forID(60);
-			npc.standAnim = ven2.standAnim;
+			npc.stanceAnimation = ven2.stanceAnimation;
 			npc.walkAnim = ven2.walkAnim;
 			npc.combatLevel = 464;
-			npc.squaresNeeded = 2;
+			npc.tileSpacesOccupied = 2;
 			break;
 		case 3063:
 			npc.models = new int[1];
 			npc.models[0] = 28293;
 			npc.name = "Scorpia";
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
 			MobDefinition scor2 = forID(107);
-			npc.standAnim = scor2.standAnim;
+			npc.stanceAnimation = scor2.stanceAnimation;
 			npc.walkAnim = scor2.walkAnim;
 			npc.sizeXZ = 55;
 			npc.sizeY = 55;
 			npc.combatLevel = 464;
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			break;
 		case 3064:
 			npc.name = "Skotizo";
 			npc.combatLevel = 321;
 			MobDefinition skotizo2 = forID(4698);
-			npc.standAnim = skotizo2.standAnim;
+			npc.stanceAnimation = skotizo2.stanceAnimation;
 			npc.walkAnim = skotizo2.walkAnim;
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
 			npc.models = new int[1];
 			npc.models[0] = 31653;
 			npc.sizeXZ = 22;
 			npc.sizeY = 22;
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			break;
 		case 3065:
 
@@ -1368,28 +1441,28 @@ public final class MobDefinition {
 			npc.description = "It's a lizardman.";
 			npc.combatLevel = 150;
 			npc.walkAnim = 7195;
-			npc.standAnim = 7191;
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
+			npc.stanceAnimation = 7191;
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
 			npc.models = new int[1];
 			npc.models[0] = 4039;
 			npc.sizeXZ = 38;
 			npc.sizeY = 38;
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			break;
 
 		case 3066:
 			npc.name = "WildyWyrm";
 			npc.models = new int[] { 63604 };
 			// npc.boundDim = 1;
-			npc.standAnim = 12790;
+			npc.stanceAnimation = 12790;
 			npc.walkAnim = 12790;
 			npc.combatLevel = 382;
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
 			npc.sizeXZ = 30;
 			npc.sizeY = 40;
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			// npc.sizeXZ = 35;
 			// npc.sizeY = 75;
 			break;
@@ -1397,14 +1470,14 @@ public final class MobDefinition {
 			npc.name = "Bork";
 			npc.models = new int[] { 40590 };
 			// npc.boundDim = 1;
-			npc.standAnim = 8753;
+			npc.stanceAnimation = 8753;
 			npc.walkAnim = 8752;
 			npc.combatLevel = 267;
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
 			npc.sizeXZ = 40;
 			npc.sizeY = 40;
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			// npc.sizeXZ = 35;
 			// npc.sizeY = 75;
 			break;
@@ -1413,14 +1486,14 @@ public final class MobDefinition {
 			npc.name = "Barrelchest";
 			npc.models = new int[] { 22790 };
 			// npc.boundDim = 1;
-			npc.standAnim = 5893;
+			npc.stanceAnimation = 5893;
 			npc.walkAnim = 5892;
 			npc.combatLevel = 267;
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
 			npc.sizeXZ = 40;
 			npc.sizeY = 40;
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			break;
 		case 3069:
 			npc.name = "Rock Crab";
@@ -1428,28 +1501,28 @@ public final class MobDefinition {
 			npc.models[0] = 4399;
 			npc.models[1] = 4400;
 			// npc.boundDim = 1;
-			npc.standAnim = 1310;
+			npc.stanceAnimation = 1310;
 			npc.walkAnim = 1311;
 			npc.combatLevel = 13;
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
 			npc.sizeXZ = 80;
 			npc.sizeY = 80;
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			break;
 		case 3070:
 			npc.name = "Abyssal Sire";
 			npc.description = "It's an abyssal sire.";
 			npc.combatLevel = 350;
 			npc.walkAnim = 4534;
-			npc.standAnim = 4533;
-			npc.actions = new String[5];
-			npc.actions[0] = "Pick-up";
+			npc.stanceAnimation = 4533;
+			npc.options = new String[5];
+			npc.options[0] = "Pick-up";
 			npc.models = new int[1];
 			npc.models[0] = 29477;
 			npc.sizeXZ = 28;
 			npc.sizeY = 28;
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			break;
 
 		case 3071:
@@ -1460,7 +1533,7 @@ public final class MobDefinition {
 			npc.models[0] = 29478;
 			npc.sizeXZ = 28;
 			npc.sizeY = 28;
-			npc.squaresNeeded = 1;
+			npc.tileSpacesOccupied = 1;
 			break;
 		/*
 		 * case 1265: System.out.println("Models: " + npc.models[1]);
@@ -1595,7 +1668,7 @@ public final class MobDefinition {
 		animatedModel.calculateDiagonals();
 		animatedModel.triangleSkin = null;
 		animatedModel.vertexSkin = null;
-		if (squaresNeeded == 1)
+		if (tileSpacesOccupied == 1)
 			animatedModel.rendersWithinOneTile = true;
 		return animatedModel;
 	}
@@ -1646,7 +1719,7 @@ public final class MobDefinition {
 		animatedModel.calculateDiagonals();
 		animatedModel.triangleSkin = null;
 		animatedModel.vertexSkin = null;
-		if (squaresNeeded == 1)
+		if (tileSpacesOccupied == 1)
 			animatedModel.rendersWithinOneTile = true;
 		return animatedModel;
 	}
@@ -1666,9 +1739,9 @@ public final class MobDefinition {
 			else if (i == 3) {
 				description = stream.readNewString();
 			} else if (i == 12)
-				squaresNeeded = stream.readSignedByte();
+				tileSpacesOccupied = stream.readSignedByte();
 			else if (i == 13)
-				standAnim = stream.readUnsignedWord();
+				stanceAnimation = stream.readUnsignedWord();
 			else if (i == 14) {
 				walkAnim = stream.readUnsignedWord();
 				runAnim = walkAnim;
@@ -1686,11 +1759,11 @@ public final class MobDefinition {
 				if (turn90CCWAnimIndex == 65535)
 					turn90CCWAnimIndex = -1;
 			} else if (i >= 30 && i < 40) {
-				if (actions == null)
-					actions = new String[5];
-				actions[i - 30] = stream.readNewString();
-				if (actions[i - 30].equalsIgnoreCase("hidden"))
-					actions[i - 30] = null;
+				if (options == null)
+					options = new String[5];
+				options[i - 30] = stream.readNewString();
+				if (options[i - 30].equalsIgnoreCase("hidden"))
+					options[i - 30] = null;
 			} else if (i == 40) {
 				int k = stream.readUnsignedByte();
 				destColours = new int[k];
@@ -1754,9 +1827,9 @@ public final class MobDefinition {
 		varSettingsId = -1;
 		combatLevel = -1;
 		walkAnim = -1;
-		squaresNeeded = 1;
+		tileSpacesOccupied = 1;
 		headIcon = -1;
-		standAnim = -1;
+		stanceAnimation = -1;
 		type = -1L;
 		degreesToTurn = 32;
 		turn90CWAnimIndex = -1;
@@ -1775,16 +1848,16 @@ public final class MobDefinition {
 	public static Stream stream;
 	public int combatLevel;
 	public String name;
-	public String actions[];
+	public String options[];
 	public int walkAnim;
 	public int runAnim;
-	public byte squaresNeeded;
+	public byte tileSpacesOccupied;
 	public int[] destColours;
 	public static int[] streamIndices;
 	public int[] npcHeadModels;
 	public int headIcon;
 	public int[] originalColours;
-	public int standAnim;
+	public int stanceAnimation;
 	public long type;
 	public int degreesToTurn;
 	public static MobDefinition[] cache;
