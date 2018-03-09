@@ -44,6 +44,7 @@ import com.ruseps.world.content.transportation.TeleportType;
 import com.ruseps.world.entity.impl.Character;
 import com.ruseps.world.entity.impl.npc.NPC;
 import com.ruseps.world.entity.impl.npc.NPCMovementCoordinator.CoordinateState;
+import com.ruseps.world.entity.impl.npc.bosses.ganodermic.GanodermicBeastCombat;
 import com.ruseps.world.entity.impl.npc.bosses.zulrah.Zulrah;
 import com.ruseps.world.entity.impl.npc.bosses.zulrah.ZulrahState;
 import com.ruseps.world.entity.impl.player.Player;
@@ -1098,6 +1099,12 @@ public final class CombatFactory {
 				if (!((Player) entity).getMinigameAttributes().getGodwarsDungeonAttributes().hasEnteredRoom()) {
 					((Player) entity).getPacketSender()
 							.sendMessage("You must enter the room before being able to attack.");
+					entity.getCombatBuilder().reset(true);
+					return false;
+				}
+			}
+			if(GanodermicBeastCombat.isGandomericNpc(npc.getId())){
+				if(GanodermicBeastCombat.checkAttack(entity.asPlayer(), npc.getId())){
 					entity.getCombatBuilder().reset(true);
 					return false;
 				}
