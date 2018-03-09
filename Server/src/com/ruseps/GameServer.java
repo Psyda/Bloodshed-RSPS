@@ -22,7 +22,7 @@ public class GameServer {
 		Runtime.getRuntime().addShutdownHook(new ShutdownHook());
 		try {
 
-			logger.info("Initializing the loader...");
+			logger.info("Initializing the loader...l");
 			loader.init();
 			loader.finish();
 			logger.info("The loader has finished loading utility tasks.");
