@@ -180,10 +180,10 @@ public final class Player extends Entity {
 
 		if (desc != null) {
 			combatLevel = desc.combatLevel;
-			super.anInt1511 = desc.standAnim;
-			super.anInt1512 = desc.standAnim;
+			super.anInt1511 = desc.stanceAnimation;
+			super.anInt1512 = desc.stanceAnimation;
 			super.anInt1554 = desc.walkAnim;
-			super.anInt1555 = desc.standAnim;
+			super.anInt1555 = desc.stanceAnimation;
 			super.anInt1556 = desc.walkAnim;
 			super.anInt1557 = desc.walkAnim;
 			super.runAnimation = desc.walkAnim;
