@@ -25,6 +25,8 @@ import com.ruseps.world.content.combat.strategy.impl.Nex;
 import com.ruseps.world.entity.impl.Character;
 import com.ruseps.world.entity.impl.npc.NPC;
 import com.ruseps.world.entity.impl.npc.NPCMovementCoordinator.CoordinateState;
+import com.ruseps.world.entity.impl.npc.bosses.ganodermic.GanodermicBeastCombat;
+import com.ruseps.world.entity.impl.npc.bosses.ganodermic.GanodermicConstants;
 import com.ruseps.world.entity.impl.player.Player;
 
 /**
@@ -410,8 +412,15 @@ public class CombatHitTask extends Task {
             /**
              * CUSTOM ON DAMAGE STUFF *
              */
-            if (victim.isNpc() && ((NPC) victim).getId() == 13447) {
-                Nex.takeDamage(player, damage);
+            if (victim.isNpc()) {
+                switch(victim.asNpc().getId()){
+                    case 13447:
+                        Nex.takeDamage(player, damage);
+                        break;
+                    case GanodermicConstants.GANDOMERIC_BEAST_MOB_ID:
+                        GanodermicBeastCombat.takeDamage(player, damage);
+                        break;
+                }
             } else if (victim.isPlayer()) {
                 Sounds.sendSound((Player) victim, Sounds.getPlayerBlockSounds(((Player) victim).getEquipment().get(Equipment.WEAPON_SLOT).getId()));
             }
