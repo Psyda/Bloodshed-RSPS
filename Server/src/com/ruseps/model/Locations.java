@@ -42,6 +42,7 @@ import com.ruseps.world.content.transportation.TeleportType;
 import com.ruseps.world.entity.Entity;
 import com.ruseps.world.entity.impl.Character;
 import com.ruseps.world.entity.impl.npc.NPC;
+import com.ruseps.world.entity.impl.npc.bosses.ganodermic.GanodermicBeastCombat;
 import com.ruseps.world.entity.impl.player.Player;
 
 public class Locations {
@@ -1417,6 +1418,10 @@ public class Locations {
 		}
 
 		public static boolean inMulti(Character gc) {
+
+			if (GanodermicBeastCombat.getSpawnPosition().isWithinDistance(gc.getPosition(), 20))
+				return true;
+
 			if (gc.getLocation() == WILDERNESS) {
 				int x = gc.getPosition().getX(), y = gc.getPosition().getY();
 				if (x >= 3270 && x <= 3300 && y >= 3920 && y <= 3947) {
