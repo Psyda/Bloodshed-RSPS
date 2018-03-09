@@ -6,6 +6,7 @@ import com.ruseps.world.content.Wildywyrm.WildywyrmLocation;
 import com.ruseps.world.content.minigames.impl.Nomad;
 import com.ruseps.world.content.minigames.impl.RecipeForDisaster;
 import com.ruseps.world.content.skill.impl.slayer.SlayerTasks;
+import com.ruseps.world.entity.impl.npc.bosses.ganodermic.GanodermicBeastCombat;
 import com.ruseps.world.entity.impl.player.Player;
 import com.ruseps.GameLoader;
 
@@ -43,7 +44,9 @@ public class PlayerPanel {
 			player.getPacketSender().sendString(26707, "@or2@WildyWyrm: @gre@"+location.getLocation()+"");
 
 		}
-		player.getPacketSender().sendString(26708, "");
+		if(GanodermicBeastCombat.isSpawned())
+			player.getPacketSender().sendString(26708, "@or2@Ganodermic Beast: @gre@"+ GanodermicBeastCombat.getSpawnLocation());
+		else player.getPacketSender().sendString(26708, "@or2@Ganodermic Beast: @red@N/A");
 
 		if(WellOfGoodwill.isActive()) {
 			player.getPacketSender().sendString(26705, "@or2@Well of Goodwill: @gre@Active");
