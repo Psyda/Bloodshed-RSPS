@@ -39,6 +39,7 @@ import com.ruseps.world.content.skill.impl.summoning.CharmingImp;
 import com.ruseps.world.content.skill.impl.summoning.LootCoin;
 import com.ruseps.world.entity.impl.GroundItemManager;
 import com.ruseps.world.entity.impl.npc.NPC;
+import com.ruseps.world.entity.impl.npc.bosses.ganodermic.GanodermicBeastCombat;
 import com.ruseps.world.entity.impl.player.Player;
 
 /**
@@ -556,7 +557,10 @@ public class NPCDrops {
 			} else {
 				GroundItemManager.spawnGroundItem(toGive, new GroundItem(item, pos,
 						toGive.getUsername(), false, 150, goGlobal, 200));
-			}
+				if(GanodermicBeastCombat.isGandomericNpc(npc.getId()))
+					World.sendMessage("@red@"+toGive.getUsername()+" received "+item.getAmount()+"x "+item.getDefinition().getName()+" from the Ganodermic Beast!");
+
+				}
 				
 			}
 		
