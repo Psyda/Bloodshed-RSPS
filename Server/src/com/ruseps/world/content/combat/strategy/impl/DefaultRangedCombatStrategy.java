@@ -302,7 +302,8 @@ private boolean checkAmmo(Player player) {//can try this someone fucked ur blowp
 					return;
 				}
 			} else {
-				
+				player.getPacketSender().sendMessage("You have run out of ammunition!");
+				return;
 			}
 		}
 		if (player.getEquipment().get(Equipment.WEAPON_SLOT).getId() == 12927) {
@@ -312,7 +313,8 @@ private boolean checkAmmo(Player player) {//can try this someone fucked ur blowp
 					return;
 				}
 			} else {
-				
+				player.getPacketSender().sendMessage("You have run out of ammunition!");
+				return;
 			}
 		}
 		// Determine which slot we are decrementing ammo from.
