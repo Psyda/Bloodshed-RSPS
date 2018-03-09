@@ -1,0 +1,40 @@
+group = "Client"
+version = "0.1"
+
+apply plugin: 'idea'
+apply plugin: 'java'
+apply plugin: 'application'
+mainClassName = 'com.client.Client'
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+
+    compile 'commons-lang:commons-lang:2.6'
+    compile 'com.eclipsesource.minimal-json:minimal-json:0.9.4'
+    compile 'net.java.dev.jna:jna-platform:4.2.2'
+    compile 'net.java.dev.jna:jna:4.2.2'
+    compile 'com.github.oshi:oshi-core:3.4.0'
+    compile 'com.github.oshi:oshi-parent:3.4.0'
+}
+task fatJar(type: Jar) {
+
+    manifest {
+        attributes 'Implementation-Title': 'Bloodshed',
+                'Implementation-Version': version,
+                'Main-Class': mainClassName
+    }
+
+    baseName = project.name + '-all'
+    from {
+        configurations.compile.collect { it.isDirectory() ? it : zipTree(it) }
+    }
+    from {
+        project.processResources
+    }
+
+    with jar
+}

@@ -12317,11 +12317,6 @@ public class Client extends RSApplet {
 		}
 
 		loadSettings();
-
-		/**
-		 * DOWNLOADING CACHE *
-		 */
-		new CacheDownloader().run();
 		
 		if (signlink.cache_dat != null) {
 			for (int i = 0; i < 7; i++) {
@@ -12334,9 +12329,9 @@ public class Client extends RSApplet {
 			mainFrame.setClientIcon();
 
 		}
-		// repackCacheIndex(2);
+		 repackCacheIndex(2);
 		//repackCacheIndex(1);
-		//repackCacheIndex(4);
+		repackCacheIndex(4);
 		load();
 		// refreshClientScreen();
 	}

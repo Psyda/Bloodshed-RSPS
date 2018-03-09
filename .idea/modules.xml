@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Bloodshed.iml" filepath="$PROJECT_DIR$/.idea/Bloodshed.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Client/Bloodshed Client.iml" filepath="$PROJECT_DIR$/Client/Bloodshed Client.iml" />
       <module fileurl="file://$PROJECT_DIR$/Server/Bloodshed Server.iml" filepath="$PROJECT_DIR$/Server/Bloodshed Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Client.iml" filepath="$PROJECT_DIR$/.idea/modules/Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Client_main.iml" group="Client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Client_test.iml" group="Client" />
     </modules>
   </component>
 </project>
