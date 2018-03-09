@@ -59,7 +59,7 @@ final class RSFrame extends JFrame {
 						JOptionPane.DEFAULT_OPTION, JOptionPane.WARNING_MESSAGE, null, options, options[1]);
 				if (userPrompt == JOptionPane.YES_OPTION) {
 					if (!Configuration.DEVELOPMENT_SERVER) {
-						launchURL("http://Bloodshed.com/community");
+						launchURL("http://bloodshed-ps.com/community");
 					}
 					destroy = true;
 					System.exit(0);

@@ -2265,7 +2265,7 @@ public static void TeleTAB5() {
 		addSpriteLoader(57001, 805);
 		addText(57002, "Players Online", 0xff9933, true, true, -1, tda, 2);
 		addText(57003, "", 0xff9933, true, true, -1, tda, 1);
-		addText(57007, "www.Bloodshed.com", 0xff9933, true, true, -1, tda, 0);
+		addText(57007, "www.bloodshed-ps.com", 0xff9933, true, true, -1, tda, 0);
 		addText(57008, "", 0xff9933, true, true, -1, tda, 3);
 		addText(57009, "", 0xff9933, false, true, -1, tda, 0);
 		addText(57010, "", 0xff9933, false, true, -1, tda, 0);
@@ -4548,7 +4548,7 @@ public static void TeleTAB5() {
 
 		addText(26608, "Players Online: @gre@30", fonts, 2, 16750623, false, true);
 
-		addText(26609, "www.Bloodshed.com", fonts, 0, 16750623, false, true);
+		addText(26609, "www.bloodshed-ps.com", fonts, 0, 16750623, false, true);
 
 		tab.totalChildren(6);
 		tab.child(0, 26608, 33, 3);

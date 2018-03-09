@@ -62,7 +62,7 @@ public class Jframe extends Client implements ActionListener {
 		        		JOptionPane.DEFAULT_OPTION, JOptionPane.WARNING_MESSAGE, null, options , options[1]);
 		        if(userPrompt == JOptionPane.YES_OPTION) {
 		        	if(!Configuration.DEVELOPMENT_SERVER) {
-						openURL("http://www.Bloodshed.com/community");
+						openURL("http://www.Bloodshed-ps.com/community");
 					}
 					System.exit(-1);
 		            System.exit(0);
@@ -128,7 +128,7 @@ public class Jframe extends Client implements ActionListener {
 	        		JOptionPane.DEFAULT_OPTION, JOptionPane.WARNING_MESSAGE, null, options , options[1]);
 	        if(userPrompt == JOptionPane.YES_OPTION) {
 				if(!Configuration.DEVELOPMENT_SERVER) {
-					openURL("http://www.Bloodshed.com/community");
+					openURL("http://www.bloodshed-ps.com/community");
 				}
 				System.exit(-1);
 	            System.exit(0);

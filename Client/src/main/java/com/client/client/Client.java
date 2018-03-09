@@ -1448,8 +1448,8 @@ public class Client extends RSApplet {
 				}
 			} else if (super.saveClickX >= 404 && super.saveClickX <= 515 && super.saveClickY >= clientHeight - 23
 					&& super.saveClickY <= clientHeight) {
-				launchURL("http://www.Bloodshed.com/");
-				pushMessage("We've attempted to open www.www.Bloodshed.com/community for you.", 0, "");
+				launchURL("http://www.bloodshed-ps.com/");
+				pushMessage("We've attempted to open www.www.bloodshed-ps.com/community for you.", 0, "");
 			}
 			if (!showChat) {
 				cButtonCPos = -1;
@@ -8603,8 +8603,8 @@ public class Client extends RSApplet {
 			}
 		}
 		if (l == 606) {
-			launchURL("http://www.Bloodshed.com");
-			pushMessage("We've attempted to open www.www.Bloodshed.com", 0, "");
+			launchURL("http://www.bloodshed-ps.com");
+			pushMessage("We've attempted to open www.www.bloodshed-ps.com", 0, "");
 		}
 		if (l == 491) {
 			Player class30_sub2_sub4_sub1_sub2_6 = playerArray[nodeId];
@@ -12335,7 +12335,32 @@ public class Client extends RSApplet {
 		load();
 		// refreshClientScreen();
 	}
+	public void preloadModels() {
+		File file = new File(signlink.findcachedir() + "models/");
+		File[] fileArray = file.listFiles();
+		for (int y = 0; y < fileArray.length; y++) {
+			String s = fileArray[y].getName();
 
+//			if(s.endsWith(".gz")){
+//				try {
+//					GZIPInputStream input = new GZIPInputStream(new FileInputStream(fileArray[y]));
+//					buffer = input.
+//				} catch (IOException e) {
+//					e.printStackTrace();
+//				}
+//			} else
+			if (s.startsWith(".") || !s.endsWith(".dat"))
+				continue;
+
+			byte[] buffer = ReadFile(signlink.findcachedir() + "models/" + s);
+			// System.out.println(s);
+			final String filename = getFileNameWithoutExtension(s);
+			if(filename != null && !filename.isEmpty()){
+				Model.readFirstModelData(buffer, Integer.parseInt(filename));
+				System.out.println("[RAW][MODELS] Parsed -> "+s);
+			}
+		}
+	}
 	public void load() {
 		try {
 			titleStreamLoader = streamLoaderForName(1, "title screen", "title", expectedCRCs[1], 25);
@@ -12384,6 +12409,7 @@ public class Client extends RSApplet {
 			setLoadingText(50, "Loading graphics..");
 
 			Model.initialise(onDemandFetcher.getModelCount(), onDemandFetcher);
+			preloadModels();
 			SpriteCache.initialise(onDemandFetcher.getImageCount(), onDemandFetcher);
 			loadSettings();
 			SpriteLoader.loadSprites(configArchives);
@@ -12728,7 +12754,7 @@ public class Client extends RSApplet {
 			g.setColor(Color.white);
 			g.drawString("Error - unable to load game!", 50, 50);
 			g.drawString("To play Bloodshed make sure you play from", 50, 100);
-			g.drawString("http://www.Bloodshed.com", 50, 150);
+			g.drawString("http://www.bloodshed-ps.com", 50, 150);
 		}
 	}
 

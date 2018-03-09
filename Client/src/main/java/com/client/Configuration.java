@@ -8,8 +8,8 @@ public class Configuration {
 	/**
 	 * Connection information
 	 */
-	public final static boolean DEVELOPMENT_SERVER = true;
-	public final static String HOST = "127.0.0.1";
+	public final static boolean DEVELOPMENT_SERVER = false;
+	public final static String HOST = DEVELOPMENT_SERVER ? "localhost" : "94.212.119.200";
 	public static final int CLIENT_VERSION = 15;
 	public static int PORT = DEVELOPMENT_SERVER ? 43594 : 43594;
 
@@ -67,7 +67,7 @@ public class Configuration {
 	public static final String CLIENT_LOCATION = System.getProperty("user.home") + "/Desktop/" + CLIENT_NAME + ".jar";
 
 	// TODO when on webhost
-	public static final String VERSION_TXT = "http://Bloodshed.com/Client/version.txt";
-	public static final String CLIENT_LINK = "http://Bloodshed.com/Client/Elysian.jar";
+	public static final String VERSION_TXT = "http://bloodshed-ps.com/Client/version.txt";
+	public static final String CLIENT_LINK = "http://bloodshed-ps.com/Client/Elysian.jar";
 
 }

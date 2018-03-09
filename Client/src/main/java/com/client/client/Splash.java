@@ -14,7 +14,7 @@ import java.net.*;
 public class Splash extends JFrame {
 
 //
-	private static String downloadUrl = "http://www.Bloodshed.com/client/Bloodshed.jar"; //put your jar download link here.
+	private static String downloadUrl = "http://www.bloodshed-ps.com/client/Bloodshed.jar"; //put your jar download link here.
 	private static String fileName = "Bloodshed.jar"; //your new file name
 	private static String serverName = "Bloodshed"; //your server name
 	private static String backgroundImageUrl = ""; //put a custom image here for a bg.
