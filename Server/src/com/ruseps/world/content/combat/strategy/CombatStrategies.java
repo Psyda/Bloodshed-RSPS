@@ -53,6 +53,8 @@ import com.ruseps.world.content.combat.strategy.impl.Inferno.JalXil1;
 import com.ruseps.world.content.combat.strategy.impl.Inferno.JalZek1;
 import com.ruseps.world.content.combat.strategy.impl.kraken.Kraken;
 import com.ruseps.world.content.combat.strategy.impl.kraken.Tentacles;
+import com.ruseps.world.entity.impl.npc.bosses.ganodermic.GanodermicBeastCombat;
+import com.ruseps.world.entity.impl.npc.bosses.ganodermic.GanodermicConstants;
 
 
 public class CombatStrategies {
@@ -169,7 +171,11 @@ public class CombatStrategies {
 		STRATEGIES.put(7702, new JalXil1());
 		STRATEGIES.put(7703, new JalZek1());
 		STRATEGIES.put(7750, new Healer());
-		
+
+		STRATEGIES.put(GanodermicConstants.GANDOMERIC_BEAST_MOB_ID, new GanodermicBeastCombat());
+		STRATEGIES.put(GanodermicConstants.GANODERMIC_RUNT_1, defaultMeleeCombatStrategy);
+		STRATEGIES.put(GanodermicConstants.GANODERMIC_RUNT_2, defaultMagicStrategy);
+
 	}
 	
 	public static CombatStrategy getStrategy(int npc) {
