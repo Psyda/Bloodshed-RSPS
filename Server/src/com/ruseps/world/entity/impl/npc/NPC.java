@@ -24,6 +24,7 @@ import com.ruseps.world.content.skill.impl.hunter.PuroPuro;
 import com.ruseps.world.content.skill.impl.runecrafting.DesoSpan;
 import com.ruseps.world.entity.impl.Character;
 import com.ruseps.world.entity.impl.npc.NPCMovementCoordinator.Coordinator;
+import com.ruseps.world.entity.impl.npc.bosses.ganodermic.GanodermicBeastCombat;
 import com.ruseps.world.entity.impl.player.Player;
 import com.ruseps.world.content.Cows;
 
@@ -205,7 +206,7 @@ public class NPC extends Character {
 		PuroPuro.spawn();
 		DesoSpan.spawn();
 		Cows.spawnMainNPCs();
-
+		GanodermicBeastCombat.spawn();
 		KalphiteQueen.spawn(1158, new Position(3485, 9509));
 	}
 
