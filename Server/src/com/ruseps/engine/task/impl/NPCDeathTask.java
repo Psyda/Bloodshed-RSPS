@@ -27,6 +27,7 @@ import com.ruseps.world.content.combat.strategy.impl.Nex;
 import com.ruseps.world.content.combat.strategy.impl.WiseOldMan;
 import com.ruseps.world.content.transportation.TeleportHandler;
 import com.ruseps.world.entity.impl.npc.NPC;
+import com.ruseps.world.entity.impl.npc.bosses.ganodermic.GanodermicBeastCombat;
 import com.ruseps.world.entity.impl.npc.bosses.zulrah.Zulrah;
 import com.ruseps.world.entity.impl.npc.bosses.zulrah.ZulrahInstance;
 import com.ruseps.world.entity.impl.player.Player;
@@ -91,7 +92,7 @@ public class NPCDeathTask extends Task {
 			//END OF ZUL
 			case 2:
 				npc.getMovementQueue().setLockMovement(true).reset();
-				killer = npc.getCombatBuilder().getKiller(npc.getId() != 3334);
+				killer = npc.getCombatBuilder().getKiller(npc.getId() != 3334 && !GanodermicBeastCombat.isGandomericNpc(npc.getId()));
 				if(!(npc.getId() >= 6142 && npc.getId() <= 6145) && !(npc.getId() > 5070 && npc.getId() < 5081))
 					npc.performAnimation(new Animation(npc.getDefinition().getDeathAnimation()));
 
@@ -219,7 +220,9 @@ public class NPCDeathTask extends Task {
 					/** PARSE DROPS **/
 					if(npc.getId() == 3334) {
 						Wildywyrm.handleDrop(npc);
-					} 
+					}
+
+					if(GanodermicBeastCombat.isGandomericNpc(npc.getId())) GanodermicBeastCombat.kill(npc);
 					
 					if(npc.getId() == 4383) {
 						Ankou.giveLoot(killer, npc, npc.getPosition());
