@@ -14,6 +14,7 @@ import com.ruseps.world.content.Sounds.Sound;
 import com.ruseps.world.content.combat.CombatType;
 import com.ruseps.world.content.minigames.impl.Dueling;
 import com.ruseps.world.content.minigames.impl.Dueling.DuelRule;
+import com.ruseps.world.content.skill.SkillManager;
 import com.ruseps.world.entity.impl.player.Player;
 
 
@@ -24,6 +25,13 @@ import com.ruseps.world.entity.impl.player.Player;
  * @author Gabriel
  */
 public class PrayerHandler {
+
+	public static void drain(Player player, int amount) {
+		final SkillManager skillManager = player.getSkillManager();
+		skillManager.setCurrentLevel(Skill.PRAYER, skillManager.getCurrentLevel(Skill.PRAYER) - amount);
+		if(skillManager.getCurrentLevel(Skill.PRAYER) < 0)
+			skillManager.setCurrentLevel(Skill.PRAYER, 0);
+	}
 
 	/**
 	 * Represents a prayer's configurations, such as their

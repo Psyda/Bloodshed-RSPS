@@ -15,12 +15,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.text.NumberFormat;
 import java.time.ZonedDateTime;
-import java.util.ArrayList;
-import java.util.Calendar;
-import java.util.Enumeration;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Random;
+import java.util.*;
 import java.util.concurrent.TimeUnit;
 import java.util.zip.GZIPInputStream;
 
@@ -83,6 +78,12 @@ public class Misc {
 
 	/** Random instance, used to generate pseudo-random primitive types. */
 	public static final Random RANDOM = new Random(System.currentTimeMillis());
+
+	public static <T> T random(Collection<T> coll) {
+		int num = (int) (Math.random() * coll.size());
+		for(T t: coll) if (--num < 0) return t;
+		throw new AssertionError();
+	}
 
 	private static ZonedDateTime zonedDateTime;
 	public static final int HALF_A_DAY_IN_MILLIS = 43200000;

@@ -199,7 +199,30 @@ public final class WeaponAnimations {
 		}
 		return new CharacterAnimations(playerStandIndex, playerWalkIndex, playerRunIndex);
 	}
-
+	public static int getAttackAnimation(String weaponName) {
+		if (weaponName.contains("javelin") || weaponName.contains("knife")|| weaponName.contains("thrownaxe")) return 10501;
+		if (weaponName.contains("halberd")) return 440;
+		if (weaponName.startsWith("dragon dagger")) return 376;
+		if (weaponName.endsWith("dagger")) return 13049;
+		if (weaponName.startsWith("staff") || weaponName.endsWith("staff")) return 401;
+		if (weaponName.endsWith("warhammer") || weaponName.endsWith("battleaxe")) return 401;
+		if (weaponName.contains("2h sword") || weaponName.contains("godsword") || weaponName.contains("saradomin sword")) return 11979;
+		if (weaponName.contains("brackish")) return 12028;
+		if (weaponName.contains("scimitar") || weaponName.contains("longsword") || weaponName.contains("korasi's") || weaponName.contains("katana")) return 15071;
+		if (weaponName.contains("spear")) return 13044;
+		if (weaponName.contains("rapier")) return 386;
+		if (weaponName.contains("claws")) return 393;
+		if (weaponName.contains("maul") && !weaponName.contains("granite")) return 13055;
+		if (weaponName.contains("dharok")) return 2066;
+		if (weaponName.contains("sword")) return 12310;
+		if (weaponName.contains("karil")) return 2075;
+		else if (weaponName.contains("'bow") || weaponName.contains("crossbow")) return 4230;
+		if (weaponName.contains("bow") && !weaponName.contains("'bow")) return 426;
+		if (weaponName.contains("pickaxe")) return 400;
+		if (weaponName.contains("whip")) return 11969;
+		if (weaponName.contains("mace")) return 13035;
+		return 2661;
+	}
 	public static int getAttackAnimation(Player c) {
 		int weaponId = c.getEquipment().getItems()[Equipment.WEAPON_SLOT].getId();
 		String weaponName = ItemDefinition.forId(weaponId).getName().toLowerCase();
