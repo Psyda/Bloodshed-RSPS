@@ -32,7 +32,7 @@ public class FloorOverlay {
     public static void unpackConfig(CacheArchive streamLoader) {
         ByteBuffer buffer = ByteBuffer.wrap(streamLoader.getDataForName("flo2.dat"));
         int count = buffer.getShort();
-        overlayFloor = new FloorOverlay[count];
+        overlayFloor = new FloorOverlay[count+1];
         for (int i = 0; i < count ; i++) {
             if (overlayFloor[i] == null) {
                 overlayFloor[i] = new FloorOverlay();
@@ -41,6 +41,7 @@ public class FloorOverlay {
             if(i == 113)
             	overlayFloor[i].textureId = 25;
         }
+		overlayFloor[185] = overlayFloor[184];
         System.out.println("Overlay Floors Loaded: "+count);
     }
 
